@@ -1,0 +1,47 @@
+{
+  "id": "enem-2011-148",
+  "gabarito": "C",
+  "assuntos": [
+    "grandezas-unidades-escalas"
+  ],
+  "habilidade": "H10",
+  "nivel_curador": 1,
+  "resumo": "Converter 6 000 m em pés (1 m ≈ 3,3 pés) e subtrair de 31 mil pés.",
+  "resolucao": "**1. Mesma unidade.** A Europa liberou acima de 6 000 m; a Finlândia, acima de 31 000 pés. Converta os metros:\n$$6\\,000 \\times 3{,}3 = 19\\,800\\ \\text{pés}$$\n\n**2. Diferença.**\n$$31\\,000 - 19\\,800 = 11\\,200\\ \\text{pés}$$\n\nAlternativa **C**.",
+  "dicas": {
+    "dica1": "Antes de subtrair, as duas altitudes precisam estar na mesma unidade (pés, como pede a pergunta).",
+    "dica2": "Multiplique 6 000 m por 3,3 para obter pés; subtraia de 31 000.",
+    "dica3": "31 000 − 6 000 × 3,3."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Respondeu só a conversão (6 000 m = 19 800 pés), sem fazer a diferença."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Converteu os 31 000 pés para metros (≈ 9 394 m) e deu a diferença em metros: 9 394 − 6 000 ≈ 3 390."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Converteu 31 000 pés para metros (31 000 ÷ 3,3 ≈ 9 394) e respondeu essa altitude, sem subtrair nem voltar para pés."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Somou em vez de subtrair: 31 000 + 19 800 = 50 800."
+    }
+  ],
+  "conceitos": [
+    "conversão de unidades (metro ↔ pé)",
+    "subtração de medidas",
+    "leitura de texto com dados"
+  ],
+  "verificacao": {
+    "codigo_sympy": "resultado = 31000 - 6000 * Rational(33, 10)",
+    "resultado_esperado": "11200",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

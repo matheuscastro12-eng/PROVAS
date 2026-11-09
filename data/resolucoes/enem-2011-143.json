@@ -1,0 +1,47 @@
+{
+  "id": "enem-2011-143",
+  "gabarito": "C",
+  "assuntos": [
+    "grandezas-unidades-escalas"
+  ],
+  "habilidade": "H11",
+  "nivel_curador": 1,
+  "resumo": "Reduzir medidas reais (m) para uma maquete na escala 1:250, em cm.",
+  "resolucao": "**1. Converta as medidas reais para centímetros.**\n- Comprimento: $28 \\text{ m} = 2\\,800 \\text{ cm}$\n- Largura: $12 \\text{ m} = 1\\,200 \\text{ cm}$\n\n**2. Aplique a escala 1:250** (cada 250 cm reais viram 1 cm na maquete):\n$$\\frac{2\\,800}{250} = 11{,}2 \\text{ cm} \\qquad \\frac{1\\,200}{250} = 4{,}8 \\text{ cm}$$\n\nComprimento 11,2 cm e largura 4,8 cm: alternativa **C**.\n\nA alternativa A tem os mesmos números **trocados** (comprimento deve ser o maior).",
+  "dicas": {
+    "dica1": "Escala 1:250 quer dizer que 1 cm no desenho representa 250 cm na realidade. Para ir da realidade ao desenho, divida por 250.",
+    "dica2": "Passe 28 m e 12 m para centímetros e divida cada um por 250. Cuide da ordem: comprimento e depois largura.",
+    "dica3": "2 800 ÷ 250 e 1 200 ÷ 250."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Trocou a ordem: 4,8 é a largura e 11,2 o comprimento; a pergunta pede comprimento e largura, nessa ordem."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Multiplicou por 250 e errou a conversão de unidades (ou inverteu a escala)."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Apenas repetiu os números 28 e 12, sem aplicar a escala."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Dividiu por 4 (confundindo 1:250 com 1:400) ou arredondou grosseiramente."
+    }
+  ],
+  "conceitos": [
+    "escala",
+    "conversão metro–centímetro",
+    "proporcionalidade"
+  ],
+  "verificacao": {
+    "codigo_sympy": "resultado = (Rational(2800, 250), Rational(1200, 250))",
+    "resultado_esperado": "(11.2, 4.8)",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

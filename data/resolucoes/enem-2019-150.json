@@ -1,0 +1,48 @@
+{
+  "id": "enem-2019-150",
+  "gabarito": "B",
+  "assuntos": [
+    "matematica-financeira",
+    "porcentagem"
+  ],
+  "habilidade": "H23",
+  "nivel_curador": 2,
+  "resumo": "Valor à vista = soma dos valores presentes de duas parcelas a 1% ao mês (R$ 202,00 e R$ 204,02).",
+  "resolucao": "**1. Ideia.** O valor à vista é o que, aplicado a 1% ao mês, gera exatamente as duas parcelas. Então traga cada parcela para a data da compra, dividindo por $1{,}01$ a cada mês.\n\n**2. Primeira parcela** (1 mês depois):\n$$\\frac{202}{1{,}01} = 200$$\n\n**3. Segunda parcela** (2 meses depois):\n$$\\frac{204{,}02}{1{,}01^2} = \\frac{204{,}02}{1{,}0201} = 200$$\n\n**4. Valor à vista.**\n$$200 + 200 = 400$$\n\nAlternativa **B**: **R$ 400,00**. Repare que as parcelas foram construídas para isso: $200 \\times 1{,}01 = 202$ e $200 \\times 1{,}01^2 = 204{,}02$.",
+  "dicas": {
+    "dica1": "Em juros compostos, cada parcela futura vale menos hoje: divida por (1 + i) para cada mês de distância.",
+    "dica2": "Divida R$ 202,00 por 1,01 e R$ 204,02 por 1,01²; some os dois resultados.",
+    "dica3": "202 ÷ 1,01 = 200 e 204,02 ÷ 1,0201 = 200 → à vista = 200 + 200."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "E",
+      "por_que": "Somou as duas parcelas (202 + 204,02 = 406,02), como se não houvesse juros."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Dobrou a primeira parcela (2 × 202 = 404) ou aplicou 1% sobre 400, confundindo valor à vista com valor corrigido."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Subtraiu 1% do total (406,02 × 0,99 ≈ 401,96), aplicando o desconto de um mês ao conjunto."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Subtraiu 2% do total ou de parcelas erradas (406,02 − 8 ≈ 398), sem usar o valor presente de cada uma."
+    }
+  ],
+  "conceitos": [
+    "juros compostos",
+    "valor presente de parcelas",
+    "porcentagem (fator 1,01)"
+  ],
+  "verificacao": {
+    "codigo_sympy": "i = Rational(1, 100)\nresultado = 202 / (1 + i) + Rational(20402, 100) / (1 + i)**2",
+    "resultado_esperado": "400",
+    "alternativa_esperada": "B"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

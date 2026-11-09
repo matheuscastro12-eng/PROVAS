@@ -1,0 +1,272 @@
+{
+  "area": "Matemática e suas Tecnologias",
+  "fonte": {
+    "orgao": "INEP",
+    "documento": "Matriz de Referência ENEM (Matriz de Competências e Habilidades de Matemática e suas Tecnologias)",
+    "url_oficial": "https://download.inep.gov.br/enem/outros_documentos/enem_matriz_de_referencia_v1.pdf",
+    "observacao": "Texto transcrito do PDF oficial da Matriz de Referência do ENEM (INEP). A matriz de Matemática não mudou desde 2009."
+  },
+  "competencias": [
+    {
+      "id": "C1",
+      "numero": 1,
+      "descricao": "Construir significados para os números naturais, inteiros, racionais e reais.",
+      "habilidades": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "H5"
+      ]
+    },
+    {
+      "id": "C2",
+      "numero": 2,
+      "descricao": "Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela.",
+      "habilidades": [
+        "H6",
+        "H7",
+        "H8",
+        "H9"
+      ]
+    },
+    {
+      "id": "C3",
+      "numero": 3,
+      "descricao": "Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "habilidades": [
+        "H10",
+        "H11",
+        "H12",
+        "H13",
+        "H14"
+      ]
+    },
+    {
+      "id": "C4",
+      "numero": 4,
+      "descricao": "Construir noções de variação de grandezas para a compreensão da realidade e a solução de problemas do cotidiano.",
+      "habilidades": [
+        "H15",
+        "H16",
+        "H17",
+        "H18"
+      ]
+    },
+    {
+      "id": "C5",
+      "numero": 5,
+      "descricao": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas.",
+      "habilidades": [
+        "H19",
+        "H20",
+        "H21",
+        "H22",
+        "H23"
+      ]
+    },
+    {
+      "id": "C6",
+      "numero": 6,
+      "descricao": "Interpretar informações de natureza científica e social obtidas da leitura de gráficos e tabelas, realizando previsão de tendência, extrapolação, interpolação e interpretação.",
+      "habilidades": [
+        "H24",
+        "H25",
+        "H26"
+      ]
+    },
+    {
+      "id": "C7",
+      "numero": 7,
+      "descricao": "Compreender o caráter aleatório e não-determinístico dos fenômenos naturais e sociais e utilizar instrumentos adequados para medidas, determinação de amostras e cálculos de probabilidade para interpretar informações de variáveis apresentadas em uma distribuição estatística.",
+      "habilidades": [
+        "H27",
+        "H28",
+        "H29",
+        "H30"
+      ]
+    }
+  ],
+  "habilidades": [
+    {
+      "id": "H1",
+      "numero": 1,
+      "competencia": "C1",
+      "descricao": "Reconhecer, no contexto social, diferentes significados e representações dos números e operações - naturais, inteiros, racionais ou reais."
+    },
+    {
+      "id": "H2",
+      "numero": 2,
+      "competencia": "C1",
+      "descricao": "Identificar padrões numéricos ou princípios de contagem."
+    },
+    {
+      "id": "H3",
+      "numero": 3,
+      "competencia": "C1",
+      "descricao": "Resolver situação-problema envolvendo conhecimentos numéricos."
+    },
+    {
+      "id": "H4",
+      "numero": 4,
+      "competencia": "C1",
+      "descricao": "Avaliar a razoabilidade de um resultado numérico na construção de argumentos sobre afirmações quantitativas."
+    },
+    {
+      "id": "H5",
+      "numero": 5,
+      "competencia": "C1",
+      "descricao": "Avaliar propostas de intervenção na realidade utilizando conhecimentos numéricos."
+    },
+    {
+      "id": "H6",
+      "numero": 6,
+      "competencia": "C2",
+      "descricao": "Interpretar a localização e a movimentação de pessoas/objetos no espaço tridimensional e sua representação no espaço bidimensional."
+    },
+    {
+      "id": "H7",
+      "numero": 7,
+      "competencia": "C2",
+      "descricao": "Identificar características de figuras planas ou espaciais."
+    },
+    {
+      "id": "H8",
+      "numero": 8,
+      "competencia": "C2",
+      "descricao": "Resolver situação-problema que envolva conhecimentos geométricos de espaço e forma."
+    },
+    {
+      "id": "H9",
+      "numero": 9,
+      "competencia": "C2",
+      "descricao": "Utilizar conhecimentos geométricos de espaço e forma na seleção de argumentos propostos como solução de problemas do cotidiano."
+    },
+    {
+      "id": "H10",
+      "numero": 10,
+      "competencia": "C3",
+      "descricao": "Identificar relações entre grandezas e unidades de medida."
+    },
+    {
+      "id": "H11",
+      "numero": 11,
+      "competencia": "C3",
+      "descricao": "Utilizar a noção de escalas na leitura de representação de situação do cotidiano."
+    },
+    {
+      "id": "H12",
+      "numero": 12,
+      "competencia": "C3",
+      "descricao": "Resolver situação-problema que envolva medidas de grandezas."
+    },
+    {
+      "id": "H13",
+      "numero": 13,
+      "competencia": "C3",
+      "descricao": "Avaliar o resultado de uma medição na construção de um argumento consistente."
+    },
+    {
+      "id": "H14",
+      "numero": 14,
+      "competencia": "C3",
+      "descricao": "Avaliar proposta de intervenção na realidade utilizando conhecimentos geométricos relacionados a grandezas e medidas."
+    },
+    {
+      "id": "H15",
+      "numero": 15,
+      "competencia": "C4",
+      "descricao": "Identificar a relação de dependência entre grandezas."
+    },
+    {
+      "id": "H16",
+      "numero": 16,
+      "competencia": "C4",
+      "descricao": "Resolver situação-problema envolvendo a variação de grandezas, direta ou inversamente proporcionais."
+    },
+    {
+      "id": "H17",
+      "numero": 17,
+      "competencia": "C4",
+      "descricao": "Analisar informações envolvendo a variação de grandezas como recurso para a construção de argumentação."
+    },
+    {
+      "id": "H18",
+      "numero": 18,
+      "competencia": "C4",
+      "descricao": "Avaliar propostas de intervenção na realidade envolvendo variação de grandezas."
+    },
+    {
+      "id": "H19",
+      "numero": 19,
+      "competencia": "C5",
+      "descricao": "Identificar representações algébricas que expressem a relação entre grandezas."
+    },
+    {
+      "id": "H20",
+      "numero": 20,
+      "competencia": "C5",
+      "descricao": "Interpretar gráfico cartesiano que represente relações entre grandezas."
+    },
+    {
+      "id": "H21",
+      "numero": 21,
+      "competencia": "C5",
+      "descricao": "Resolver situação-problema cuja modelagem envolva conhecimentos algébricos."
+    },
+    {
+      "id": "H22",
+      "numero": 22,
+      "competencia": "C5",
+      "descricao": "Utilizar conhecimentos algébricos/geométricos como recurso para a construção de argumentação."
+    },
+    {
+      "id": "H23",
+      "numero": 23,
+      "competencia": "C5",
+      "descricao": "Avaliar propostas de intervenção na realidade utilizando conhecimentos algébricos."
+    },
+    {
+      "id": "H24",
+      "numero": 24,
+      "competencia": "C6",
+      "descricao": "Utilizar informações expressas em gráficos ou tabelas para fazer inferências."
+    },
+    {
+      "id": "H25",
+      "numero": 25,
+      "competencia": "C6",
+      "descricao": "Resolver problema com dados apresentados em tabelas ou gráficos."
+    },
+    {
+      "id": "H26",
+      "numero": 26,
+      "competencia": "C6",
+      "descricao": "Analisar informações expressas em gráficos ou tabelas como recurso para a construção de argumentos."
+    },
+    {
+      "id": "H27",
+      "numero": 27,
+      "competencia": "C7",
+      "descricao": "Calcular medidas de tendência central ou de dispersão de um conjunto de dados expressos em uma tabela de frequências de dados agrupados (não em classes) ou em gráficos."
+    },
+    {
+      "id": "H28",
+      "numero": 28,
+      "competencia": "C7",
+      "descricao": "Resolver situação-problema que envolva conhecimentos de estatística e probabilidade."
+    },
+    {
+      "id": "H29",
+      "numero": 29,
+      "competencia": "C7",
+      "descricao": "Utilizar conhecimentos de estatística e probabilidade como recurso para a construção de argumentação."
+    },
+    {
+      "id": "H30",
+      "numero": 30,
+      "competencia": "C7",
+      "descricao": "Avaliar propostas de intervenção na realidade utilizando conhecimentos de estatística e probabilidade."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "enem-2022-154",
+  "gabarito": "C",
+  "assuntos": [
+    "porcentagem"
+  ],
+  "habilidade": "H3",
+  "nivel_curador": 2,
+  "resumo": "Recuperar o valor original a partir de uma queda de 75%.",
+  "resolucao": "**1. Entenda a frase.** As 28 900 vagas de janeiro de 2013 representam uma **queda de 75%** em relação a janeiro de 2012. Logo, 28 900 corresponde a $100\\% - 75\\% = 25\\%$ do valor de 2012.\n\n**2. Monte a relação.** Seja $V$ o número de vagas em 2012:\n$$0{,}25 \\cdot V = 28\\,900 \\;\\Rightarrow\\; V = \\frac{28\\,900}{0{,}25} = 28\\,900 \\times 4 = 115\\,600$$\n\nEm janeiro de 2012 foram criadas **115 600** vagas (alternativa **C**).\n\nOs números de admissões e desligamentos no texto só servem para explicar de onde veio o 28 900; não entram na conta.",
+  "dicas": {
+    "dica1": "Se algo caiu 75%, o que sobrou é 25% do original. O valor atual é a parte, não o todo.",
+    "dica2": "Chame o valor de 2012 de V. Então 25% de V = 28 900. Resolva para V.",
+    "dica3": "V = 28 900 ÷ 0,25 (dividir por 0,25 é o mesmo que multiplicar por 4)."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "B",
+      "por_que": "Multiplicou 28 900 por 3 (pensou 'caiu 75%, então era 3 vezes mais'), confundindo 75/25 com 100/25."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Calculou 28 900 − 75% de 28 900 ou 28 900 × 0,75 e arredondou, aplicando a queda no sentido errado."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Usou os desligamentos (1 765 372) × 0,25, confundindo qual número sofreu a queda."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Usou as admissões (1 794 272) × 0,25, misturando os dados do texto."
+    }
+  ],
+  "conceitos": [
+    "queda percentual",
+    "valor inicial a partir do valor final",
+    "porcentagem como fração"
+  ],
+  "verificacao": {
+    "codigo_sympy": "V = symbols('V')\nresultado = solve(Eq(Rational(25,100)*V, 28900), V)[0]",
+    "resultado_esperado": "115600",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "enem-2011-159",
+  "gabarito": "A",
+  "assuntos": [
+    "funcao-afim",
+    "equacao-1-grau"
+  ],
+  "habilidade": "H19",
+  "nivel_curador": 1,
+  "resumo": "Igualar os custos de duas propostas (fixo + por km) para achar a extensão de indiferença.",
+  "resolucao": "**1. Custo de cada empresa** em função de $n$ km (em milhares de reais):\n- Empresa 1: $100n + 350$\n- Empresa 2: $120n + 150$\n\n**2. Indiferença = custos iguais:**\n$$100n + 350 = 120n + 150$$\n\nAlternativa **A**.\n\n(Se quiser resolver: $200 = 20n \\Rightarrow n = 10$ km. Abaixo de 10 km a segunda é mais barata; acima, a primeira.)",
+  "dicas": {
+    "dica1": "Cada proposta é uma função afim: valor fixo + valor por km × n. 'Indiferente' significa custos iguais.",
+    "dica2": "Escreva o custo de cada empresa em milhares de reais (100n + 350 e 120n + 150) e iguale.",
+    "dica3": "A equação é exatamente a igualdade das duas expressões, sem multiplicar nada."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "B",
+      "por_que": "Trocou os valores fixos entre as empresas (350 com 120 e 150 com 100)."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Multiplicou o preço por km pela soma (n + fixo), como se o fixo também fosse por km."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Mesmo erro de C, com os valores em reais em vez de milhares."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Inverteu os papéis do fixo e do preço por km."
+    }
+  ],
+  "conceitos": [
+    "função afim",
+    "ponto de equilíbrio entre duas funções",
+    "equação do 1º grau"
+  ],
+  "verificacao": {
+    "codigo_sympy": "n = symbols('n')\nresultado = solve(Eq(100*n + 350, 120*n + 150), n)[0]  # km de indiferença",
+    "resultado_esperado": "10",
+    "alternativa_esperada": "A"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

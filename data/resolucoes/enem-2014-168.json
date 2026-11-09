@@ -1,0 +1,49 @@
+{
+  "id": "enem-2014-168",
+  "gabarito": "D",
+  "assuntos": [
+    "porcentagem",
+    "razao-proporcao"
+  ],
+  "habilidade": "H3",
+  "nivel_curador": 1,
+  "resumo": "Percentual da área de agricultura (80 milhões de ha) em relação ao território (853 milhões de ha).",
+  "resolucao": "**1. Identifique os dados certos.** Território: 853 milhões de hectares. Agricultura (lavouras anuais e perenes): **80 milhões**. Os 280 milhões são da agropecuária como um todo e os 200 milhões, de pastagens.\n\n**2. Monte a razão e converta em porcentagem.**\n$$\\frac{80}{853} \\approx 0{,}0938 \\approx 9{,}4\\%$$\n\nEstimativa rápida: $10\\%$ de 853 seria 85,3; como 80 é um pouco menos, o percentual é um pouco menor que 10%. Alternativa **D**.",
+  "dicas": {
+    "dica1": "Porcentagem 'em relação ao território' é a parte (agricultura) dividida pelo todo (853 milhões).",
+    "dica2": "Separe agricultura (80) de agropecuária (280) e pastagens (200). Divida 80 por 853.",
+    "dica3": "80 ÷ 853 ≈ 0,094. Use 10% de 853 ≈ 85 como referência."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Usou a agropecuária inteira (280/853 ≈ 32,8%) em vez da agricultura."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Dividiu a agricultura pela área agropecuária (80/280 ≈ 28,6%), e não pelo território."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Dividiu pela soma das áreas citadas (470 + 280 = 750 milhões) em vez do território: 80/750 ≈ 10,7%."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Arredondou 853 para 1 000 (80/1 000 = 8%), perdendo precisão demais para distinguir de 9,4%."
+    }
+  ],
+  "conceitos": [
+    "porcentagem como razão parte/todo",
+    "leitura seletiva de dados em texto",
+    "estimativa"
+  ],
+  "verificacao": {
+    "codigo_sympy": "resultado = 100 * Rational(80, 853)",
+    "resultado_esperado": "9.378",
+    "alternativa_esperada": "D",
+    "tolerancia": 0.01
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

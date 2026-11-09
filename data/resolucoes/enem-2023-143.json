@@ -1,0 +1,48 @@
+{
+  "id": "enem-2023-143",
+  "gabarito": "B",
+  "assuntos": [
+    "porcentagem",
+    "equacao-1-grau"
+  ],
+  "habilidade": "H5",
+  "nivel_curador": 2,
+  "resumo": "Lista de espera cresce 10% (400 → 440); reduzir 25% exige atender 110 crianças a mais: 11 salas de 10.",
+  "resolucao": "**1. Lista de espera deste ano.** Cresceu 10% sobre 400:\n$$400 \\times 1{,}10 = 440\\ \\text{nomes}$$\n\n**2. Meta para o próximo ano.** Sem salas novas, a lista teria os mesmos 440 nomes. Ela deve ficar 25% menor:\n$$440 \\times 0{,}75 = 330\\ \\text{nomes}$$\n\n**3. Crianças a mais que precisam ser atendidas.**\n$$440 - 330 = 110$$\n\n**4. Salas** (10 crianças cada):\n$$\\frac{110}{10} = 11$$\n\nAlternativa **B**.",
+  "dicas": {
+    "dica1": "Duas porcentagens em sequência: +10% sobre 400 dá a lista atual; −25% sobre ela dá a meta. A diferença é quem sai da lista.",
+    "dica2": "Calcule 440, depois 25% de 440 (quantos nomes a menos). Cada sala tira 10 nomes da lista.",
+    "dica3": "25% de 440 = 110 crianças → 110 ÷ 10 salas."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Aplicou os 25% sobre os 400 do ano passado (100 crianças → 10 salas), esquecendo o crescimento de 10%."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Dividiu a lista inteira (330 nomes restantes) por 10 (33 salas), confundindo quem fica na lista com quem sai dela."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Calculou salas para 'eliminar' 75% da lista de 400 (300 ÷ 10 = 30), invertendo quem sai e quem fica."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Aplicou mais um crescimento de 10% para o próximo ano (484 nomes) antes dos 25%: 121 crianças → 12 salas; o enunciado diz que a lista ficaria igual à deste ano."
+    }
+  ],
+  "conceitos": [
+    "aumento e redução percentuais sucessivos",
+    "porcentagem de uma quantidade",
+    "divisão para contar salas"
+  ],
+  "verificacao": {
+    "codigo_sympy": "lista = 400 * Rational(110, 100)\nmeta = lista * Rational(75, 100)\nresultado = (lista - meta) / 10",
+    "resultado_esperado": "11",
+    "alternativa_esperada": "B"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

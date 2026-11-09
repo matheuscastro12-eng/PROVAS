@@ -1,0 +1,662 @@
+{
+  "versao": 1,
+  "descricao": "Taxonomia de assuntos de Matemática do ENEM usada pelo Gabarita. 'foco_inicial' marca os assuntos da trilha inicial (historicamente mais fáceis pela TRI). 'habilidades' lista as habilidades da Matriz de Referência (taxonomia/matriz-mt.json) mais associadas; 'palavras_chave' alimenta a heurística de build.py.",
+  "assuntos": [
+    {
+      "id": "porcentagem",
+      "nome": "Porcentagem",
+      "foco_inicial": true,
+      "habilidades": [
+        "H3",
+        "H4",
+        "H5",
+        "H16"
+      ],
+      "descricao": "Cálculo de porcentagem, aumentos e descontos sucessivos, variação percentual, juros simples.",
+      "palavras_chave": [
+        "%",
+        "por cento",
+        "porcento",
+        "percentual",
+        "desconto",
+        "acréscimo",
+        "aumento de",
+        "reajuste",
+        "inflação",
+        "juros",
+        "lucro",
+        "imposto",
+        "taxa de"
+      ]
+    },
+    {
+      "id": "razao-proporcao",
+      "nome": "Razão e proporção",
+      "foco_inicial": true,
+      "habilidades": [
+        "H3",
+        "H15",
+        "H16",
+        "H17"
+      ],
+      "descricao": "Razões entre grandezas, proporções, divisão proporcional, densidade e velocidade média como razões.",
+      "palavras_chave": [
+        "razão",
+        "proporção",
+        "proporcional",
+        "proporcionalmente",
+        "dividido em partes",
+        "na mesma proporção",
+        "para cada",
+        "a cada"
+      ]
+    },
+    {
+      "id": "regra-de-tres",
+      "nome": "Regra de três (simples e composta)",
+      "foco_inicial": true,
+      "habilidades": [
+        "H16",
+        "H17",
+        "H18"
+      ],
+      "descricao": "Grandezas direta ou inversamente proporcionais; regra de três simples e composta.",
+      "palavras_chave": [
+        "regra de três",
+        "inversamente proporcional",
+        "diretamente proporcional",
+        "mesmo ritmo",
+        "mesma velocidade",
+        "operários",
+        "trabalhando",
+        "dias de trabalho",
+        "máquinas iguais",
+        "torneiras",
+        "mesmo ritmo",
+        "ritmo constante",
+        "mesma proporção",
+        "inversamente",
+        "quantos dias",
+        "quantas horas",
+        "em quantos dias",
+        "serão necessários",
+        "seriam necessários",
+        "operário",
+        "trabalhadores",
+        "trabalhando"
+      ]
+    },
+    {
+      "id": "grandezas-unidades-escalas",
+      "nome": "Grandezas, unidades e escalas",
+      "foco_inicial": true,
+      "habilidades": [
+        "H10",
+        "H11",
+        "H12",
+        "H13"
+      ],
+      "descricao": "Conversão de unidades (comprimento, área, volume, massa, tempo), escalas de mapas e plantas, leitura de instrumentos.",
+      "palavras_chave": [
+        "escala",
+        "1:",
+        "unidade de medida",
+        "converter",
+        "quilômetro",
+        "km",
+        "metro",
+        "centímetro",
+        "milímetro",
+        "litro",
+        "mililitro",
+        "grama",
+        "quilograma",
+        "tonelada",
+        "hectare",
+        "segundo",
+        "minuto",
+        "hora",
+        "planta baixa",
+        "mapa"
+      ]
+    },
+    {
+      "id": "probabilidade",
+      "nome": "Probabilidade",
+      "foco_inicial": true,
+      "habilidades": [
+        "H28",
+        "H29",
+        "H30"
+      ],
+      "descricao": "Probabilidade clássica (casos favoráveis/possíveis), eventos complementares, união e interseção, probabilidade condicional simples.",
+      "palavras_chave": [
+        "probabilidade",
+        "chance",
+        "aleatoriamente",
+        "ao acaso",
+        "sorteio",
+        "sorteado",
+        "sorteada",
+        "dado",
+        "moeda",
+        "urna",
+        "bola",
+        "carta",
+        "escolhido ao acaso",
+        "escolhida ao acaso"
+      ]
+    },
+    {
+      "id": "analise-combinatoria",
+      "nome": "Análise combinatória básica",
+      "foco_inicial": true,
+      "habilidades": [
+        "H2",
+        "H3"
+      ],
+      "descricao": "Princípio fundamental da contagem, permutações simples, arranjos e combinações em contextos simples.",
+      "palavras_chave": [
+        "de quantas maneiras",
+        "quantas maneiras",
+        "número de maneiras",
+        "quantidade de maneiras",
+        "quantas formas",
+        "número de formas",
+        "combinações",
+        "combinação",
+        "permutação",
+        "arranjo",
+        "anagrama",
+        "senha",
+        "senhas",
+        "placas",
+        "códigos",
+        "código de",
+        "distintos",
+        "diferentes possíveis",
+        "total de possibilidades",
+        "possibilidades"
+      ]
+    },
+    {
+      "id": "estatistica-basica",
+      "nome": "Estatística básica (média, mediana, moda)",
+      "foco_inicial": true,
+      "habilidades": [
+        "H27",
+        "H28",
+        "H29"
+      ],
+      "descricao": "Média aritmética simples e ponderada, mediana, moda, amplitude; noções de desvio e variância em contextos simples.",
+      "palavras_chave": [
+        "média",
+        "mediana",
+        "moda",
+        "desvio padrão",
+        "desvio-padrão",
+        "variância",
+        "amplitude",
+        "média aritmética",
+        "média ponderada",
+        "frequência",
+        "medida de tendência central",
+        "dispersão",
+        "coeficiente de variação"
+      ]
+    },
+    {
+      "id": "graficos-tabelas",
+      "nome": "Leitura e interpretação de gráficos e tabelas",
+      "foco_inicial": true,
+      "habilidades": [
+        "H24",
+        "H25",
+        "H26"
+      ],
+      "descricao": "Extrair, comparar e inferir informações de tabelas, gráficos de barras, linhas, setores e pictogramas.",
+      "palavras_chave": [
+        "gráfico",
+        "tabela",
+        "quadro",
+        "infográfico",
+        "setores",
+        "pizza",
+        "barras",
+        "colunas",
+        "histograma",
+        "eixo",
+        "legenda",
+        "apresenta os dados",
+        "dados a seguir",
+        "mostra a evolução"
+      ]
+    },
+    {
+      "id": "funcao-afim",
+      "nome": "Função afim (1º grau)",
+      "foco_inicial": true,
+      "habilidades": [
+        "H15",
+        "H19",
+        "H20",
+        "H21"
+      ],
+      "descricao": "Função afim: lei de formação, taxa de variação, gráfico (reta), zero da função, custo/receita/lucro lineares.",
+      "palavras_chave": [
+        "função afim",
+        "função do 1º grau",
+        "função do primeiro grau",
+        "taxa fixa",
+        "valor fixo",
+        "mais um valor",
+        "por quilômetro rodado",
+        "por unidade",
+        "linear",
+        "reta",
+        "coeficiente angular",
+        "f(x) =",
+        "f(x)=",
+        "y = a",
+        "expressão algébrica",
+        "lei da função",
+        "em função de"
+      ]
+    },
+    {
+      "id": "funcao-quadratica",
+      "nome": "Função quadrática (2º grau)",
+      "foco_inicial": true,
+      "habilidades": [
+        "H19",
+        "H20",
+        "H21",
+        "H22"
+      ],
+      "descricao": "Função quadrática: parábola, vértice (máximo/mínimo), raízes, concavidade, forma canônica e fatorada.",
+      "palavras_chave": [
+        "função quadrática",
+        "função do 2º grau",
+        "função do segundo grau",
+        "parábola",
+        "parabólico",
+        "vértice",
+        "valor máximo",
+        "valor mínimo",
+        "altura máxima",
+        "lucro máximo",
+        "x²",
+        "x^2",
+        "t²",
+        "ponto de máximo",
+        "ponto de mínimo",
+        "trajetória",
+        "atinge a altura"
+      ]
+    },
+    {
+      "id": "leitura-grafico-funcao",
+      "nome": "Leitura de gráfico de função",
+      "foco_inicial": true,
+      "habilidades": [
+        "H20",
+        "H24",
+        "H25"
+      ],
+      "descricao": "Interpretar gráficos cartesianos de funções: crescimento, decrescimento, intervalos, interseções e valores.",
+      "palavras_chave": [
+        "gráfico da função",
+        "gráfico que representa",
+        "gráfico que melhor representa",
+        "esboço do gráfico",
+        "representação gráfica",
+        "crescente",
+        "decrescente",
+        "intervalo"
+      ]
+    },
+    {
+      "id": "equacao-1-grau",
+      "nome": "Equação e sistema do 1º grau",
+      "foco_inicial": true,
+      "habilidades": [
+        "H3",
+        "H19",
+        "H21"
+      ],
+      "descricao": "Montar e resolver equações do 1º grau e sistemas lineares 2x2 a partir de situações-problema.",
+      "palavras_chave": [
+        "equação",
+        "sistema de equações",
+        "incógnita",
+        "valor de x",
+        "quantos",
+        "quantas",
+        "determine o valor",
+        "o dobro",
+        "o triplo",
+        "a soma",
+        "a diferença",
+        "total de"
+      ]
+    },
+    {
+      "id": "equacao-2-grau",
+      "nome": "Equação do 2º grau",
+      "foco_inicial": true,
+      "habilidades": [
+        "H3",
+        "H21",
+        "H22"
+      ],
+      "descricao": "Resolver equações do 2º grau (fatoração, Bhaskara, soma e produto) em contextos.",
+      "palavras_chave": [
+        "equação do 2º grau",
+        "equação do segundo grau",
+        "bhaskara",
+        "delta",
+        "discriminante",
+        "raízes",
+        "raiz da equação",
+        "x² ",
+        "x^2"
+      ]
+    },
+    {
+      "id": "geometria-plana",
+      "nome": "Geometria plana básica (áreas e perímetros)",
+      "foco_inicial": true,
+      "habilidades": [
+        "H7",
+        "H8",
+        "H9",
+        "H12",
+        "H14"
+      ],
+      "descricao": "Perímetro e área de polígonos e círculo, ângulos, triângulos, quadriláteros, composição e decomposição de figuras.",
+      "palavras_chave": [
+        "área",
+        "perímetro",
+        "retângulo",
+        "retangular",
+        "quadrado",
+        "quadrada",
+        "triângulo",
+        "triangular",
+        "círculo",
+        "circular",
+        "circunferência",
+        "raio",
+        "diâmetro",
+        "polígono",
+        "hexágono",
+        "hexagonal",
+        "trapézio",
+        "losango",
+        "paralelogramo",
+        "ângulo",
+        "lado",
+        "diagonal",
+        "π",
+        "pi"
+      ]
+    },
+    {
+      "id": "sequencias-pa",
+      "nome": "Sequências e progressão aritmética",
+      "foco_inicial": true,
+      "habilidades": [
+        "H2",
+        "H3",
+        "H19"
+      ],
+      "descricao": "Reconhecer padrões, termo geral e soma de progressões aritméticas; sequências recursivas simples.",
+      "palavras_chave": [
+        "sequência",
+        "sequencia",
+        "progressão aritmética",
+        "p.a.",
+        "pa ",
+        "termo",
+        "razão da progressão",
+        "padrão",
+        "regularidade",
+        "n-ésimo",
+        "enésimo",
+        "a cada ano aumenta",
+        "aumenta de",
+        "sucessivamente"
+      ]
+    },
+    {
+      "id": "progressao-geometrica",
+      "nome": "Progressão geométrica e crescimento exponencial",
+      "foco_inicial": false,
+      "habilidades": [
+        "H2",
+        "H3",
+        "H21"
+      ],
+      "descricao": "PG, termo geral, soma; crescimento/decaimento exponencial, função exponencial e logaritmo.",
+      "palavras_chave": [
+        "progressão geométrica",
+        "p.g.",
+        "exponencial",
+        "logaritmo",
+        "log",
+        "dobra a cada",
+        "triplica",
+        "meia-vida",
+        "potência de"
+      ]
+    },
+    {
+      "id": "geometria-espacial",
+      "nome": "Geometria espacial (volumes e áreas de sólidos)",
+      "foco_inicial": false,
+      "habilidades": [
+        "H6",
+        "H7",
+        "H8",
+        "H9",
+        "H12",
+        "H14"
+      ],
+      "descricao": "Volume e área de prismas, cilindros, cones, pirâmides, esferas; planificações e vistas.",
+      "palavras_chave": [
+        "volume",
+        "cilindro",
+        "cilíndrico",
+        "cilíndrica",
+        "cone",
+        "cônico",
+        "esfera",
+        "esférico",
+        "esférica",
+        "prisma",
+        "pirâmide",
+        "paralelepípedo",
+        "cubo",
+        "cúbico",
+        "planificação",
+        "sólido",
+        "tronco",
+        "capacidade",
+        "m³",
+        "cm³",
+        "litros",
+        "aresta",
+        "face",
+        "vértices",
+        "poliedro"
+      ]
+    },
+    {
+      "id": "trigonometria",
+      "nome": "Trigonometria",
+      "foco_inicial": false,
+      "habilidades": [
+        "H7",
+        "H8",
+        "H12"
+      ],
+      "descricao": "Razões trigonométricas no triângulo retângulo, lei dos senos/cossenos, funções trigonométricas periódicas.",
+      "palavras_chave": [
+        "seno",
+        "cosseno",
+        "tangente",
+        "sen",
+        "cos",
+        "tg",
+        "trigonom",
+        "ângulo de 30",
+        "ângulo de 45",
+        "ângulo de 60",
+        "hipotenusa",
+        "cateto",
+        "periódic"
+      ]
+    },
+    {
+      "id": "geometria-analitica",
+      "nome": "Geometria analítica",
+      "foco_inicial": false,
+      "habilidades": [
+        "H6",
+        "H8",
+        "H19",
+        "H20"
+      ],
+      "descricao": "Plano cartesiano, distância entre pontos, equação da reta e da circunferência.",
+      "palavras_chave": [
+        "plano cartesiano",
+        "coordenadas",
+        "ponto (",
+        "equação da reta",
+        "equação da circunferência",
+        "distância entre os pontos",
+        "abscissa",
+        "ordenada"
+      ]
+    },
+    {
+      "id": "semelhanca-pitagoras",
+      "nome": "Semelhança e Teorema de Pitágoras",
+      "foco_inicial": false,
+      "habilidades": [
+        "H7",
+        "H8",
+        "H12"
+      ],
+      "descricao": "Semelhança de triângulos, Teorema de Tales, Teorema de Pitágoras.",
+      "palavras_chave": [
+        "semelhan",
+        "pitágoras",
+        "tales",
+        "proporcionais aos lados",
+        "triângulos semelhantes",
+        "hipotenusa",
+        "catetos",
+        "distância em linha reta"
+      ]
+    },
+    {
+      "id": "matematica-financeira",
+      "nome": "Matemática financeira",
+      "foco_inicial": false,
+      "habilidades": [
+        "H3",
+        "H5",
+        "H21"
+      ],
+      "descricao": "Juros simples e compostos, montante, parcelamento, comparação de opções de pagamento.",
+      "palavras_chave": [
+        "juros",
+        "juro",
+        "montante",
+        "financiamento",
+        "parcelas",
+        "à vista",
+        "a prazo",
+        "empréstimo",
+        "aplicação financeira",
+        "rendimento",
+        "taxa de juros",
+        "capital"
+      ]
+    },
+    {
+      "id": "numeros-operacoes",
+      "nome": "Números e operações",
+      "foco_inicial": false,
+      "habilidades": [
+        "H1",
+        "H3",
+        "H4",
+        "H5"
+      ],
+      "descricao": "Operações com naturais, inteiros, racionais; divisibilidade, MMC/MDC, notação científica, aproximações e ordem de grandeza.",
+      "palavras_chave": [
+        "mmc",
+        "mdc",
+        "múltiplo",
+        "divisor",
+        "divisível",
+        "notação científica",
+        "algarismo",
+        "arredond",
+        "aproximad",
+        "ordem de grandeza",
+        "fração",
+        "frações",
+        "decimal",
+        "número inteiro",
+        "resto da divisão",
+        "potência de 10",
+        "10^"
+      ]
+    },
+    {
+      "id": "matrizes-sistemas",
+      "nome": "Matrizes e sistemas lineares",
+      "foco_inicial": false,
+      "habilidades": [
+        "H19",
+        "H21",
+        "H22"
+      ],
+      "descricao": "Operações com matrizes, determinantes e sistemas lineares.",
+      "palavras_chave": [
+        "matriz",
+        "matrizes",
+        "determinante",
+        "sistema linear",
+        "linha e coluna",
+        "elemento aij",
+        "a_ij"
+      ]
+    },
+    {
+      "id": "polinomios-funcoes-outras",
+      "nome": "Polinômios e outras funções",
+      "foco_inicial": false,
+      "habilidades": [
+        "H19",
+        "H20",
+        "H21"
+      ],
+      "descricao": "Polinômios, função modular, exponencial e logarítmica, inequações.",
+      "palavras_chave": [
+        "polinômio",
+        "polinomial",
+        "módulo",
+        "|x",
+        "inequação",
+        "função exponencial",
+        "função logarítmica",
+        "grau 3",
+        "cúbica"
+      ]
+    }
+  ]
+}

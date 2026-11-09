@@ -1,0 +1,46 @@
+{
+  "id": "enem-2023-162",
+  "gabarito": "D",
+  "assuntos": [
+    "funcao-afim"
+  ],
+  "habilidade": "H19",
+  "nivel_curador": 1,
+  "resumo": "Preço = taxa fixa + preço por m³ × volume: identificar a lei da função afim.",
+  "resolucao": "**1. Parte fixa:** taxa de bombeamento de R$ 500,00, cobrada independentemente do volume.\n\n**2. Parte variável:** R$ 250,00 por metro cúbico; com $x$ m³, custa $250x$.\n\n**3. Lei da função:**\n$$y = 250x + 500$$\n\nAlternativa **D**.\n\nVerifique: com 0 m³ paga-se só a taxa ($y = 500$); cada m³ a mais aumenta o preço em 250.",
+  "dicas": {
+    "dica1": "Função afim y = ax + b: 'a' é o que varia com x (preço por m³) e 'b' é a parte fixa (taxa).",
+    "dica2": "O que é cobrado uma vez só? Isso é o termo independente. O que é cobrado por m³? Isso multiplica x.",
+    "dica3": "y = (250 por m³) · x + (taxa de 500)."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "E",
+      "por_que": "Trocou os papéis: colocou a taxa fixa multiplicando x e o preço por m³ como parte fixa."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Somou 500 + 250 = 750 e multiplicou por x, tratando a taxa fixa como se fosse por m³."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Esqueceu a taxa de bombeamento."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Usou a taxa como preço por m³ e esqueceu o custo do concreto."
+    }
+  ],
+  "conceitos": [
+    "função afim",
+    "coeficiente angular e linear em contexto"
+  ],
+  "verificacao": {
+    "codigo_sympy": "x = symbols('x')\ny = 250*x + 500\nresultado = (y.subs(x, 0), y.subs(x, 1) - y.subs(x, 0))  # (parte fixa, custo por m3)",
+    "resultado_esperado": "(500, 250)",
+    "alternativa_esperada": "D"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "enem-2016-170",
+  "gabarito": "D",
+  "assuntos": [
+    "estatistica-basica",
+    "graficos-tabelas"
+  ],
+  "habilidade": "H27",
+  "nivel_curador": 2,
+  "resumo": "Moda do número de pessoas no elevador em cada trecho da subida (quadro de entradas e saídas).",
+  "dados_da_imagem": "Quadro por andar (térreo, 1º, 2º, 3º, 4º, 5º): entram no elevador 4, 4, 1, 2, 2, 2; saem do elevador 0, 3, 1, 2, 0, 6.",
+  "resolucao": "**1. Calcule quantas pessoas há no elevador em cada trecho da subida** (após as entradas/saídas de cada andar):\n\n| Trecho | Conta | Pessoas |\n|---|---|---|\n| Térreo → 1º | $0 + 4 - 0$ | 4 |\n| 1º → 2º | $4 + 4 - 3$ | 5 |\n| 2º → 3º | $5 + 1 - 1$ | 5 |\n| 3º → 4º | $5 + 2 - 2$ | 5 |\n| 4º → 5º | $5 + 2 - 0$ | 7 |\n\n(No 5º andar entram 2 e saem 6: ficam 3, mas isso já é o fim da subida.)\n\n**2. Moda** = valor mais frequente do conjunto $\\{4, 5, 5, 5, 7\\}$ = **5**.\n\nAlternativa **D**.",
+  "dicas": {
+    "dica1": "Moda é o valor que mais se repete. Primeiro você precisa montar o conjunto: quantas pessoas estão no elevador em cada trecho entre andares.",
+    "dica2": "Comece no térreo com 0, some quem entra e subtraia quem sai em cada andar; anote o número de pessoas em cada subida (térreo→1º, 1º→2º, …).",
+    "dica3": "Trechos: 4, 5, 5, 5, 7. Qual aparece mais vezes?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Tomou a moda da linha 'entram' (2 aparece três vezes) em vez do número de pessoas no elevador."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Tomou a moda da linha 'entram' considerando o 4 ou parou no primeiro trecho (4 pessoas)."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Respondeu quantas pessoas restam ao final (3) ou a moda de alguma linha com erro."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Respondeu o maior valor da tabela (6 pessoas que saem no 5º andar), confundindo moda com máximo."
+    }
+  ],
+  "conceitos": [
+    "moda",
+    "saldo acumulado (entradas − saídas)",
+    "leitura de quadro"
+  ],
+  "verificacao": {
+    "codigo_sympy": "entram = [4,4,1,2,2,2]; saem = [0,3,1,2,0,6]\ntrechos = []\nn = 0\nfor i in range(5):\n    n += entram[i] - saem[i]\n    trechos.append(n)\nresultado = max(set(trechos), key=trechos.count)",
+    "resultado_esperado": "5",
+    "alternativa_esperada": "D"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

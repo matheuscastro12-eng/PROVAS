@@ -1,0 +1,3297 @@
+[
+  {
+    "id": "enem-2022-136",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 136,
+    "area": "matematica",
+    "enunciado": "Uma máquina em operação tem sua temperatura T monitorada por meio de um registro gráfico, ao longo do tempo t. Essa máquina possui um pistão cuja velocidade V varia com a temperatura T da máquina, de acordo com a expressão V=T²−4. Após a máquina funcionar durante o intervalo de tempo de 10 horas, o seu operador analisa o registro gráfico, apresentado na figura, para avaliar a necessidade de eventuais ajustes, sabendo que a máquina apresenta falhas de funcionamento quando a velocidade do pistão se anula.\n\n![](https://enem.dev/2022/questions/136/44fff3b7-9ad8-4f02-8262-5b4c015a8228.png)\n\nQuantas vezes a velocidade do pistão se anulou durante as 10 horas de funcionamento?",
+    "imagens": [
+      "https://enem.dev/2022/questions/136/44fff3b7-9ad8-4f02-8262-5b4c015a8228.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H25",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "leitura-grafico-funcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.33252,
+      "b": 2.40899,
+      "c": 0.14217,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 136",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/136",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-137",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 137,
+    "area": "matematica",
+    "enunciado": "A World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam  \na essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão.\n\nConsidere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre ![](https://enem.dev/2022/questions/137/091aafba-f2dd-4f19-9655-73e6bd1599b6.png)\n\nQual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da World Series?",
+    "imagens": [
+      "https://enem.dev/2022/questions/137/091aafba-f2dd-4f19-9655-73e6bd1599b6.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/137/a62b92ab-65a1-4608-a3ac-3a1e08008845.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/137/bcc4e92c-3d8c-40e8-8651-b1829f138eb3.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/137/b783250d-3cdc-48c4-b60a-44d5b2ccc932.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/137/ccd84f4e-31eb-4dfe-85be-202683fe5af7.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/137/1cb4062d-0ed1-45ac-a1f7-ce783f591515.png"
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 0.24441,
+      "b": 4.65334,
+      "c": 0.03228,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 137",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/137",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-138",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 138,
+    "area": "matematica",
+    "enunciado": "O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em milhão de reais, no  \ndecorrer dos meses de um determinado ano. A empresa obtém lucro quando a diferença entre receita e despesa é positiva e tem prejuízo quando essa diferença é negativa.\n\n![](https://enem.dev/2022/questions/138/d738a15a-a083-4720-af91-80d2b3259c9f.png)\n\nQual é a mediana, em milhão de reais, dos valores dos lucros apurados pela empresa nesse ano?",
+    "imagens": [
+      "https://enem.dev/2022/questions/138/d738a15a-a083-4720-af91-80d2b3259c9f.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,5",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2,0",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,9",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "3,0",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5,5",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "equacao-1-grau",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 0.80375,
+      "b": 2.27556,
+      "c": 0.12859,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 138",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/138",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-139",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 139,
+    "area": "matematica",
+    "enunciado": "Um casal está reformando a cozinha de casa e decidiu comprar um refrigerador novo. Observando a planta da nova cozinha, desenhada na escala de 1: 50, notaram que o espaço destinado ao refrigerador tinha 3,8 cm de altura e 1,6 cm de largura. Eles sabem que os fabricantes de refrigeradores indicam que, para um bom funcionamento e fácil manejo na limpeza, esses eletrodomésticos devem ser colocados em espaços que permitam uma distância de, pelo menos, 10 cm de outros móveis ou paredes, tanto na parte superior quanto nas laterais. O casal comprou um refrigerador que caberia no local a ele destinado na nova cozinha, seguindo as instruções do fabricante.\n\nEsse refrigerador tem altura e largura máximas, em metro, respectivamente, iguais a",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,80 e 0,60.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,80 e 0,70.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,90 e 0,80.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2,00 e 0,90.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2,00 e 1,00.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H11",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.87291,
+      "b": 2.86025,
+      "c": 0.18347,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 139",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/139",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-140",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 140,
+    "area": "matematica",
+    "enunciado": "Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo. A primeira e a segunda colocadas de cada grupo seguem para realizar as 8 partidas da próxima fase do torneio, chamada oitavas de final. Os vencedores das partidas das oitavas de final seguem para jogar as 4 partidas das quartas de final. Os vencedores das quartas de final disputam as 2 partidas das semifinais, e os vencedores avançam para a grande final, que define a campeã do torneio.\n\nPelas regras do torneio, cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se um time disputar uma partida, por exemplo, num domingo, só poderá disputar a partida seguinte a partir da quinta-feira da mesma semana.\n\nO número mínimo de dias necessários para a realização desse torneio é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "22.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "25.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "28.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "48.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "64.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.57712,
+      "b": 3.30111,
+      "c": 0.16855,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 140",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/140",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-141",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 141,
+    "area": "matematica",
+    "enunciado": "Em um jogo de bingo, as cartelas contêm 16 quadrículas dispostas em linhas e colunas. Cada quadrícula tem impresso um número, dentre os inteiros de 1 a 50, sem repetição de número. Na primeira rodada, um número é sorteado, aleatoriamente, dentre os 50 possíveis. Em todas as rodadas, o número sorteado é descartado e não participa dos sorteios das rodadas seguintes. Caso o jogador tenha em sua cartela o número sorteado, ele o assinala na cartela. Ganha o jogador que primeiro conseguir preencher quatro quadrículas que formam uma linha, uma coluna ou uma diagonal, conforme os tipos de situações ilustradas na Figura 1.\n\n![](https://enem.dev/2022/questions/141/e8e788ea-4e28-4ceb-b928-494d2ca68033.png)\n\nO jogo inicia e, nas quatro primeiras rodadas, foram sorteados os seguintes números: 03, 27, 07 e 48. Ao final da quarta rodada, somente Pedro possuía uma cartela que continha esses quatro números sorteados, sendo que todos os demais jogadores conseguiram assinalar, no máximo, um desses números em suas cartelas. Observe na Figura 2 o cartão de Pedro após as quatro primeiras rodadas.\n\n![](https://enem.dev/2022/questions/141/1e77b1bf-38e6-4145-b78b-91be4088bc11.png)\n\nA probabilidade de Pedro ganhar o jogo em uma das duas próximas rodadas é",
+    "imagens": [
+      "https://enem.dev/2022/questions/141/e8e788ea-4e28-4ceb-b928-494d2ca68033.png",
+      "https://enem.dev/2022/questions/141/1e77b1bf-38e6-4145-b78b-91be4088bc11.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/141/cd5a2722-63ec-4baf-bb68-20df7b0342b6.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/141/3098c816-0b2d-4a41-bd93-48a7103007d3.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/141/f1b1ddb0-011b-422f-ad9c-be16c2322ab9.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/141/182be64f-689b-4ab6-b35b-f0dfae3b5a54.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/141/3d293613-50b5-494a-b8f3-52e16ae9f866.png"
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "transcricao",
+    "anulada": true,
+    "habilidade": "H28",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 141",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/141",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": [
+        "item anulado pelo INEP (IN_ITEM_ABAN=1); gabarito mantido da transcrição"
+      ]
+    }
+  },
+  {
+    "id": "enem-2022-142",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 142,
+    "area": "matematica",
+    "enunciado": "Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 7 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis.\n\nPara ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "9.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "11.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "18.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "24.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H5",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.93676,
+      "b": 3.33565,
+      "c": 0.21207,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 142",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/142",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-143",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 143,
+    "area": "matematica",
+    "enunciado": "Dentre as diversas planificações possíveis para o cubo, uma delas é a que se encontra apresentada na Figura 1.\n\n![](https://enem.dev/2022/questions/143/4da64c40-da53-4205-b673-aa5b6274e3e2.jpg)\n\nEm um cubo, foram pintados, em três de suas faces, quadrados de cor cinza escura, que ocupam um quarto dessas faces, tendo esses três quadrados um vértice em comum, conforme ilustrado na Figura 2.\n\n![](https://enem.dev/2022/questions/143/a05cd294-5321-4c85-a081-a86ed7aa3e39.jpg)\n\nA planificação do cubo da Figura 2, conforme o tipo de planificação apresentada na Figura 1, é",
+    "imagens": [
+      "https://enem.dev/2022/questions/143/4da64c40-da53-4205-b673-aa5b6274e3e2.jpg",
+      "https://enem.dev/2022/questions/143/a05cd294-5321-4c85-a081-a86ed7aa3e39.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/143/37b0d8a0-5992-4fac-8f58-93924c6877e2.jpg"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/143/c2a2bae5-e20a-4bdb-af9e-b6d37b0cdc81.jpg"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/143/bfd0a9ed-5ff2-444f-b297-e2f37eba789b.jpg"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/143/b76f04c7-e485-4c93-8e57-60d5ce9f5623.jpg"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/143/2e478466-a3b6-4a44-8c04-a6187dc164df.jpg"
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 0.9032,
+      "b": 2.45135,
+      "c": 0.1617,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 143",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/143",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": [
+        "gabarito da transcrição enem.dev (A) difere do TX_GABARITO oficial do INEP (D); prevalece o INEP"
+      ]
+    }
+  },
+  {
+    "id": "enem-2022-145",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 145,
+    "area": "matematica",
+    "enunciado": "O pacote básico de um jogo para smartphone, que é vendido a R$ 50,00, contém 2 000 gemas e 100 000 moedas de ouro, que são itens utilizáveis nesse jogo.  \nA empresa que comercializa esse jogo decidiu criar um pacote especial que será vendido a R$ 100,00 e que se diferenciará do pacote básico por apresentar maiores quantidades de gemas e moedas de ouro. Para estimular as vendas desse novo pacote, a empresa decidiu inserir nele 6 000 gemas a mais, em relação ao que o cliente teria caso optasse por comprar, com a mesma quantia, dois pacotes básicos.\n\nA quantidade de moedas de ouro que a empresa deverá inserir ao pacote especial, para que seja mantida a mesma proporção existente entre as quantidades de gemas e de moedas de ouro contidas no pacote básico, é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "50 000.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "100 000.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "200 000.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "300 000.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "400 000.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H18",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
+    "assuntos": [
+      "regra-de-tres",
+      "razao-proporcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 0.51115,
+      "b": 2.58401,
+      "c": 0.0088,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 145",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/145",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-146",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 146,
+    "area": "matematica",
+    "enunciado": "Um parque tem dois circuitos de tamanhos diferentes para corridas. Um corredor treina nesse parque e, no primeiro dia, inicia seu treino percorrendo  \n3 voltas em torno do circuito maior e 2 voltas em torno do menor, perfazendo um total de 1 800 m. Em seguida, dando continuidade a seu treino, corre mais 2 voltas em torno do circuito maior e 1 volta em torno do menor,  \npercorrendo mais 1 100 m.\n\nNo segundo dia, ele pretende percorrer 5 000 m nos circuitos do parque, fazendo um número inteiro de voltas em torno deles e de modo que o número de voltas seja o maior possível.\n\nA soma do número de voltas em torno dos dois circuitos, no segundo dia, será",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "13.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "14.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "15.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "16",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H21",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
+    "assuntos": [
+      "equacao-1-grau",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.27997,
+      "b": 2.41531,
+      "c": 0.11329,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 146",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/146",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-147",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 147,
+    "area": "matematica",
+    "enunciado": "Uma equipe de marketing digital foi contratada para aumentar as vendas de um produto ofertado em um site de comércio eletrônico. Para isso, elaborou um anúncio que, quando o cliente clica sobre ele, é direcionado  \npara a página de vendas do produto. Esse anúncio foi divulgado em duas redes sociais, A e B, e foram obtidos os seguintes resultados:\n\n• rede social A: o anúncio foi visualizado por 3 000 pessoas; 10% delas clicaram sobre o anúncio e foram redirecionadas para o site; 3% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 100,00;\n\n• rede social B: o anúncio foi visualizado por 1 000 pessoas; 30% delas clicaram sobre o anúncio e foram redirecionadas para o site; 2% das que  \nclicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 200,00.\n\nPor experiência, o pessoal da equipe de marketing considera que a quantidade de novas pessoas que verão o anúncio é diretamente proporcional ao investimento realizado, e que a quantidade de pessoas que comprarão o produto também se manterá proporcional à quantidade de pessoas que clicarão sobre o anúncio.  \nO responsável pelo produto decidiu, então, investir mais R$ 300,00 em cada uma das duas redes sociais para a divulgação desse anúncio e obteve, de fato, o aumento proporcional esperado na quantidade de clientes que compraram esse produto. Para classificar o aumento obtido na quantidade (Q) de compradores desse produto, em consequência dessa segunda divulgação, em relação aos resultados observados na primeira divulgação, o  \nresponsável pelo produto adotou o seguinte critério:\n\n• Q ≤ 60%: não satisfatório;  \n• 60% < Q ≤ 100%: regular;  \n• 100% < Q ≤ 150%: bom;  \n• 150% < Q ≤ 190%: muito bom;  \n• 190% < Q ≤ 200%: excelente\n\nO aumento na quantidade de compradores, em consequência dessa segunda divulgação, em relação\nao que foi registrado com a primeira divulgação, foi classificado como",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não satisfatório.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Regular.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Bom.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Muito bom.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Excelente.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H17",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
+    "assuntos": [
+      "razao-proporcao",
+      "porcentagem",
+      "regra-de-tres"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 0.48694,
+      "b": 4.48651,
+      "c": 0.14739,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 147",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/147",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-148",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 148,
+    "area": "matematica",
+    "enunciado": "A luminosidade _L_ de uma estrela está relacionada com o raio _R_ e com a temperatura _T_ dessa estrela segundo a Lei de Stefan-Boltzmann: ![](https://enem.dev/2022/questions/148/00e98ef8-6901-4d38-91f1-1fa1afda8b14.png) em que c é uma constante igual para todas as estrelas.\n\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado)\n\nConsidere duas estrelas _E_ e _F_, sendo que a estrela _E_ tem metade do raio da estrela _F_ e o dobro da temperatura de _F_.\n\nIndique por LE  e LF suas respectivas luminosidades.\nA relação entre as luminosidades dessas duas estrelas é dada por",
+    "imagens": [
+      "https://enem.dev/2022/questions/148/00e98ef8-6901-4d38-91f1-1fa1afda8b14.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/148/623219f3-b839-4f65-b990-99e2416e78ac.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/148/ac0ff64f-89bb-4e7c-a004-f3a22719d728.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/148/282300db-f32c-4e24-b4ec-da66e734e9c4.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/148/2e2fa9f3-4c51-4920-8048-790d9f42ed80.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/148/c37d4dda-0f9a-4756-a282-99e7ddd27c64.png"
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H15",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
+    "assuntos": [
+      "geometria-plana",
+      "equacao-1-grau",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.61757,
+      "b": 2.2515,
+      "c": 0.1851,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 148",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/148",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-149",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 149,
+    "area": "matematica",
+    "enunciado": "Uma das informações que pode auxiliar no dimensionamento do número de pediatras que devem atender em uma Unidade Básica de Saúde (UBS) é o número que representa a mediana da quantidade de crianças por família existente na região sob sua responsabilidade. O quadro mostra a distribuição das frequências do número de crianças por família na região de responsabilidade de uma UBS.\n\n![](https://enem.dev/2022/questions/149/d92eba46-c91d-43d9-accf-ec06c4506ac1.png)\n\nO número que representa a mediana da quantidade de crianças por família nessa região é",
+    "imagens": [
+      "https://enem.dev/2022/questions/149/d92eba46-c91d-43d9-accf-ec06c4506ac1.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,0.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,5.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,9.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2,1.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2,5.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.64614,
+      "b": 2.2135,
+      "c": 0.24887,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 149",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/149",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-150",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 150,
+    "area": "matematica",
+    "enunciado": "Em jogos de voleibol, um saque é invalidado se a bola atingir o teto do ginásio onde ocorre o jogo. Um jogador de uma equipe tem um saque que atinge uma grande altura. Seu recorde foi quando a batida do saque se iniciou a uma altura de 1,5 m do piso da quadra, e a trajetória da bola foi descrita pela parábola ![](https://enem.dev/2022/questions/150/764fcc6a-f737-404f-867b-7caacf69134e.png) , em que y representa a altura da bola em relação ao eixo x (das abscissas) que está localizado a 1,5 m do piso da quadra, como representado na figura. Suponha que em todas as partidas algum saque desse jogador atinja a mesma altura do seu recorde.\n\n![](https://enem.dev/2022/questions/150/0964fd1c-cef0-4132-981d-c148bd70f0aa.png)\n\nA equipe desse jogador participou de um torneio de voleibol no qual jogou cinco partidas, cada uma delas  \nem um ginásio diferente. As alturas dos tetos desses ginásios, em relação aos pisos das quadras, são:  \n• ginásio I: 17 m;  \n• ginásio II: 18 m;  \n• ginásio III: 19 m;  \n• ginásio IV: 21 m;  \n• ginásio V: 40 m.\n\nO saque desse atleta foi invalidado",
+    "imagens": [
+      "https://enem.dev/2022/questions/150/764fcc6a-f737-404f-867b-7caacf69134e.png",
+      "https://enem.dev/2022/questions/150/0964fd1c-cef0-4132-981d-c148bd70f0aa.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas no ginásio I.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas nos ginásios I e II.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas nos ginásios I, II e III.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas nos ginásios I, II, III e IV.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Em todos os ginásios.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H22",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
+    "assuntos": [
+      "funcao-quadratica",
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.13479,
+      "b": 3.22198,
+      "c": 0.12748,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 150",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/150",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-151",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 151,
+    "area": "matematica",
+    "enunciado": "Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente. Ele observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo que a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da atividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física, para evitar desidratação.\n\nSeguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total de 1,7 L de água após  \nterminar seus exercícios físicos.\n\nPara que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30 minutos ou menos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Mais de 35 e menos de 45 minutos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mais de 45 e menos de 55 minutos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Mais de 60 e menos de 70 minutos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "70 minutos ou mais.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H17",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
+    "assuntos": [
+      "razao-proporcao",
+      "equacao-1-grau",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.73381,
+      "b": 2.02109,
+      "c": 0.14967,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 151",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/151",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-152",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 152,
+    "area": "matematica",
+    "enunciado": "Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição das poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as seguintes indicações:  \n• Distância mínima (Dmín) entre a tela de projeção e o encosto da poltrona da primeira fileira deve ser de, pelo menos, 60% da largura (L) da tela.  \n• Distância máxima (Dmáx) entre a tela de projeção e o encosto da poltrona da última fileira deve ser o dobro da largura (L) da tela, sendo aceitável uma distância de até 2,9 vezes a largura (L) da tela.  \nPara o espaçamento entre as fileiras de poltronas, é considerada a distância de 1 metro entre os encostos de poltronas em duas fileiras consecutivas.\n\nDisponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.\n\nDisponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.\n\n![](https://enem.dev/2022/questions/152/f182fb95-a05f-4d8d-bd7d-bbf7adf3d95b.png)\n\nPretende-se ampliar essa sala, mantendo-se na mesma posição a tela e todas as poltronas já instaladas,  \nampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite aceitável da norma da ABNT. A intenção é aumentar, ao máximo, a quantidade de poltronas da sala, instalando-se novas unidades, iguais às já instaladas.\n\nQuantas fileiras de poltronas a sala comportará após essa ampliação?",
+    "imagens": [
+      "https://enem.dev/2022/questions/152/f182fb95-a05f-4d8d-bd7d-bbf7adf3d95b.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "26",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "27",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "28",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "29",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "35",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H18",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
+    "assuntos": [
+      "equacao-1-grau",
+      "grandezas-unidades-escalas",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.1343,
+      "b": 3.73781,
+      "c": 0.24053,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 152",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/152",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-153",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 153,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2022/questions/153/f85bbaf3-e20e-48e7-8a5f-143804fa1743.png)\n\nUma empresa produz e vende um tipo de chocolate, maciço, em formato de cone circular reto com as medidas do diâmetro da base e da altura iguais a 8 cm e 10 cm, respectivamente, como apresenta a figura.\n\nDevido a um aumento de preço dos ingredientes utilizados na produção desse chocolate, a empresa  \ndecide produzir esse mesmo tipo de chocolate com um volume 19% menor, no mesmo formato de cone circular reto com altura de 10 cm.\n\nPara isso, a empresa produzirá esses novos chocolates com medida do raio da base, em centímetro, igual a",
+    "imagens": [
+      "https://enem.dev/2022/questions/153/f85bbaf3-e20e-48e7-8a5f-143804fa1743.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,52.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,24.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3,60.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "6,48.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "7,20.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H14",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.96283,
+      "b": 2.44795,
+      "c": 0.21497,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 153",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/153",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-154",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 154,
+    "area": "matematica",
+    "enunciado": "Em janeiro de 2013, foram declaradas 1 794 272 admissões e 1 765 372 desligamentos no Brasil, ou seja,  \nforam criadas 28 900 vagas de emprego, segundo dados do Cadastro Geral de Empregados e Desempregados (Caged), divulgados pelo Ministério do Trabalho e Emprego (MTE). Segundo o Caged, o número de vagas criadas em janeiro de 2013 sofreu uma queda de 75%, quando comparado com o mesmo período de 2012.\n\nDisponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).\n\nDe acordo com as informações dadas, o número de vagas criadas em janeiro de 2012 foi",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "16 514.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "86 700.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "115 600.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "441 343.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "448 568.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "revisada",
+    "tri": {
+      "a": 2.19381,
+      "b": 1.56693,
+      "c": 0.1302,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 154",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/154",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2022-154",
+      "gabarito": "C",
+      "assuntos": [
+        "porcentagem"
+      ],
+      "habilidade": "H3",
+      "nivel_curador": 2,
+      "resumo": "Recuperar o valor original a partir de uma queda de 75%.",
+      "resolucao": "**1. Entenda a frase.** As 28 900 vagas de janeiro de 2013 representam uma **queda de 75%** em relação a janeiro de 2012. Logo, 28 900 corresponde a $100\\% - 75\\% = 25\\%$ do valor de 2012.\n\n**2. Monte a relação.** Seja $V$ o número de vagas em 2012:\n$$0{,}25 \\cdot V = 28\\,900 \\;\\Rightarrow\\; V = \\frac{28\\,900}{0{,}25} = 28\\,900 \\times 4 = 115\\,600$$\n\nEm janeiro de 2012 foram criadas **115 600** vagas (alternativa **C**).\n\nOs números de admissões e desligamentos no texto só servem para explicar de onde veio o 28 900; não entram na conta.",
+      "dicas": {
+        "dica1": "Se algo caiu 75%, o que sobrou é 25% do original. O valor atual é a parte, não o todo.",
+        "dica2": "Chame o valor de 2012 de V. Então 25% de V = 28 900. Resolva para V.",
+        "dica3": "V = 28 900 ÷ 0,25 (dividir por 0,25 é o mesmo que multiplicar por 4)."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "B",
+          "por_que": "Multiplicou 28 900 por 3 (pensou 'caiu 75%, então era 3 vezes mais'), confundindo 75/25 com 100/25."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Calculou 28 900 − 75% de 28 900 ou 28 900 × 0,75 e arredondou, aplicando a queda no sentido errado."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Usou os desligamentos (1 765 372) × 0,25, confundindo qual número sofreu a queda."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Usou as admissões (1 794 272) × 0,25, misturando os dados do texto."
+        }
+      ],
+      "conceitos": [
+        "queda percentual",
+        "valor inicial a partir do valor final",
+        "porcentagem como fração"
+      ],
+      "verificacao": {
+        "codigo_sympy": "V = symbols('V')\nresultado = solve(Eq(Rational(25,100)*V, 28900), V)[0]",
+        "resultado_esperado": "115600",
+        "alternativa_esperada": "C"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
+    }
+  },
+  {
+    "id": "enem-2022-155",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 155,
+    "area": "matematica",
+    "enunciado": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar. Quanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:  \n• naqueles que finalizam em 1 ou 2, ambos os quartos recebem sol apenas na parte da manhã;  \n• naqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos recebe sol na parte da manhã;  \n• naqueles que finalizam em 7 ou 8, ambos os quartos recebem sol apenas na parte da tarde.\n\nUma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã.\n\nDe quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/155/4e4d5692-b3ea-4434-aaef-74309d2d3b2a.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/155/2b0fcee8-c3b1-4c03-ac2a-342792f7ab28.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/155/e2dfe176-9a1a-49e7-aee5-62794ac8242b.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/155/0681d716-28d4-4521-801f-5a20871829e5.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/155/027b58bd-d5b6-4ab1-afb6-a17dd85e31c8.png"
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 0.92146,
+      "b": 2.16924,
+      "c": 0.15718,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 155",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/155",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-156",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 156,
+    "area": "matematica",
+    "enunciado": "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades:  \n• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas, conforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3.\n\n![](https://enem.dev/2022/questions/156/2b1f4d30-ed72-40af-824d-6d394c9d948d.png)\n\n• Em seguida, no papel dobrado da Figura 3, considerar o ponto _R_, sobre o segmento _OM_, sendo  o ponto médio do lado do quadrado original, de modo que ![](https://enem.dev/2022/questions/156/2a89a0e4-1a8b-4b3f-a678-97fa60066bcc.png), traçar um arco de circunferência de raio medindo ![](https://enem.dev/2022/questions/156/1665e780-8437-449e-b389-8d9729b2980c.png) com centro no ponto _R_, obtendo a Figura 4. Por último, recortar o papel ao longo do arco de circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5.\n\n![](https://enem.dev/2022/questions/156/bf9a172b-bd1e-4e83-9d95-6bc3fd29eadc.png)\n\nApós desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será",
+    "imagens": [
+      "https://enem.dev/2022/questions/156/2b1f4d30-ed72-40af-824d-6d394c9d948d.png",
+      "https://enem.dev/2022/questions/156/2a89a0e4-1a8b-4b3f-a678-97fa60066bcc.png",
+      "https://enem.dev/2022/questions/156/1665e780-8437-449e-b389-8d9729b2980c.png",
+      "https://enem.dev/2022/questions/156/bf9a172b-bd1e-4e83-9d95-6bc3fd29eadc.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/156/538392d5-583a-4aa5-a47c-61ee0bc6b98d.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/156/78436952-5965-4c7f-80c3-ca2eee79bb4e.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/156/ddf97279-7187-4bc2-be7b-25bd70510a73.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/156/b09ad37a-893e-4709-8b48-bded413fc77f.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/156/c3221442-88b6-455d-bf9f-5097c75188a2.png"
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 0.79395,
+      "b": 2.40685,
+      "c": 0.1129,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 156",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/156",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-157",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 157,
+    "area": "matematica",
+    "enunciado": "O funcionário de uma loja tem seu salário mensal formado por uma parcela fixa de 675 reais mais uma comissão que depende da quantidade de peças vendidas por ele no mês. O cálculo do valor dessa comissão é feito de acordo com estes critérios:  \n• até a quinquagésima peça vendida, paga-se 5 reais por peça;  \n• a partir da quinquagésima primeira peça vendida, o valor pago é de 7 reais por peça.  \nRepresente por q a quantidade de peças vendidas no mês por esse funcionário, e por S(q) o seu salário mensal, em real, nesse mês.\n\nA expressão algébrica que descreve S(q) em função de q é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/157/fc471085-2399-4726-8cde-a72bae7ac9c5.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/157/e90bf791-5ee8-4ecf-8c11-34988750ed2b.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/157/693a22d0-61e8-4f3b-ad77-5b73fc16bc0f.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/157/62e359c4-eecb-4120-861f-eb5af04c9fec.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/157/af3c085b-7eb0-4462-a0b1-f79fd1291f67.png"
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "transcricao",
+    "anulada": true,
+    "habilidade": "H19",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
+    "assuntos": [
+      "funcao-afim"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 157",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/157",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": [
+        "item anulado pelo INEP (IN_ITEM_ABAN=1); gabarito mantido da transcrição"
+      ]
+    }
+  },
+  {
+    "id": "enem-2022-158",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 158,
+    "area": "matematica",
+    "enunciado": "Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de pessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por ![](https://enem.dev/2022/questions/158/94d1c253-bab8-44b6-aa7a-7bd9552dc398.png), sendo t um número natural, variando de 1 a 12, que representa os meses do ano, e p(t) a quantidade de pessoas infectadas no mês t do ano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar a propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V), com diferentes períodos de intensificação das propagandas:\n\n![](https://enem.dev/2022/questions/158/e0b502d3-500e-42da-8e2b-431e83be58ff.png)\n\nA sugestäo dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o mês em que, sequndo o modelo, há a maior quantidade de infectados. A sugestão foi aceita.\n\nA proposta escolhida foi a",
+    "imagens": [
+      "https://enem.dev/2022/questions/158/94d1c253-bab8-44b6-aa7a-7bd9552dc398.png",
+      "https://enem.dev/2022/questions/158/e0b502d3-500e-42da-8e2b-431e83be58ff.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H23",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
+    "assuntos": [
+      "razao-proporcao",
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.67778,
+      "b": 2.3731,
+      "c": 0.20523,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 158",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/158",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-159",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 159,
+    "area": "matematica",
+    "enunciado": "Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos diferentes de treinos: treino ![](https://enem.dev/2022/questions/159/1de0b45e-d38b-4536-8661-c1c388ecd03d.png),  treino ![](https://enem.dev/2022/questions/159/0ab1a35f-7889-478e-a862-0edb86d335e6.png), treino  ![](https://enem.dev/2022/questions/159/8b00bc00-9af3-465a-89f2-3345b604b54b.png), treino ![](https://enem.dev/2022/questions/159/14be4d1d-8e19-41a5-bb02-cec32e90d007.png) e treino ![](https://enem.dev/2022/questions/159/136e1c72-59e2-41e7-95d7-b55e4ae92da3.png). A sequência dos treinamentos deve seguir esta ordem:\n\n![](https://enem.dev/2022/questions/159/1c8945f7-b377-4bf6-9eb8-2a44c3c69e2a.png)\n\nA letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a partir do treino ![](https://enem.dev/2022/questions/159/660fa349-2c52-41aa-adae-bcd4adaad92e.png), e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o inicio das competições.\n\nPlease select text to grab.\n\nCopyfish\n\nestöes20112Fonteestões2011\n\nOCR successful\n\n##### OCR Result(Auto-Detect)\n\nN/A\n\n##### Translated(English)\n\nRedo OCR Recapture Re-Translate Copy to clipboard\n\nA sequência de treinamentos que o atleta realizará na 24ª semana de treinos é",
+    "imagens": [
+      "https://enem.dev/2022/questions/159/1de0b45e-d38b-4536-8661-c1c388ecd03d.png",
+      "https://enem.dev/2022/questions/159/0ab1a35f-7889-478e-a862-0edb86d335e6.png",
+      "https://enem.dev/2022/questions/159/8b00bc00-9af3-465a-89f2-3345b604b54b.png",
+      "https://enem.dev/2022/questions/159/14be4d1d-8e19-41a5-bb02-cec32e90d007.png",
+      "https://enem.dev/2022/questions/159/136e1c72-59e2-41e7-95d7-b55e4ae92da3.png",
+      "https://enem.dev/2022/questions/159/1c8945f7-b377-4bf6-9eb8-2a44c3c69e2a.png",
+      "https://enem.dev/2022/questions/159/660fa349-2c52-41aa-adae-bcd4adaad92e.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/159/63615e39-7138-4ae8-9e1b-5096335cc20f.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/159/cd6feba8-05d7-401f-87d8-c35ddbc366ef.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/159/f321765a-d92c-4247-b7eb-941db32d9552.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/159/0a5dac06-c82a-415a-9ab0-311e0d2138cf.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/159/a9fa3b63-1dae-4542-9b0f-4338e80df580.png"
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.17147,
+      "b": 2.5423,
+      "c": 0.1841,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 159",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/159",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-160",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 160,
+    "area": "matematica",
+    "enunciado": "Um robô, que tem um ímã em sua base, se desloca sobre a superfície externa de um cubo metálico, ao longo de segmentos de reta cujas extremidades são pontos médios de arestas e centros de faces. Ele inicia seu deslocamento no ponto **P**, centro da face superior do cubo, segue para o centro da próxima face, converte à esquerda e segue para o centro da face seguinte, converte à direita e continua sua movimentação, sempre alternando entre conversões à esquerda e à direita quando alcança o centro de uma face. O robô só termina sua movimentação quando retorna ao ponto **P**. A figura apresenta os deslocamentos iniciais desse robô.\n\n![](https://enem.dev/2022/questions/160/c9e8168c-5f91-45a5-82a3-c5a2948bf0a9.png)\n\nA projeção ortogonal do trajeto descrito por esse robô sobre o plano da base, após terminada sua movimentação, visualizada da posição em que se está enxergando esse cubo, é",
+    "imagens": [
+      "https://enem.dev/2022/questions/160/c9e8168c-5f91-45a5-82a3-c5a2948bf0a9.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/160/5d7821fa-37c8-4d86-b71d-4b70a0e1d096.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/160/6a4daa1c-7f24-439f-b2a3-43eddb2b2400.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/160/41ab922d-57a6-428b-a207-4dc213ec6481.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/160/79a7fd8e-7800-4a2f-86d6-33dcbe3aef84.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/160/2dacf59f-b682-45fb-bd03-29f25ba41487.png"
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 0.89111,
+      "b": 2.43206,
+      "c": 0.25086,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 160",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/160",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-161",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 161,
+    "area": "matematica",
+    "enunciado": "Uma empresa de engenharia projetou uma casa com a forma de um retângulo para um de seus clientes. Esse cliente solicitou a inclusão de uma varanda em forma de L. A figura apresenta a planta baixa desenhada pela empresa, já com a varanda incluída, cujas medidas, indicadas em centímetro, representam os valores das dimensões da varanda na escala de 1 : 50.\n\n![](https://enem.dev/2022/questions/161/e1e86e81-76dc-4763-a118-273941076831.png)\n\nA medida real da área da varanda, em metro quadrado, é",
+    "imagens": [
+      "https://enem.dev/2022/questions/161/e1e86e81-76dc-4763-a118-273941076831.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "33,40",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "66,80",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "89,24",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "133,60",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "534,40",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H11",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 3.13149,
+      "b": 2.33341,
+      "c": 0.21903,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 161",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/161",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-162",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 162,
+    "area": "matematica",
+    "enunciado": "Uma loja de roupas fixou uma meta de vendas de 77 000 reais para um determinado mês de 30 dias. O gráfico mostra o volume de vendas dessa loja, em real, nos dez primeiros dias do mês e entre o dia dez e o dia vinte desse mês, nos seus dois únicos setores (infantil e adulto). Suponha que a variação no volume de vendas, para o período registrado, tenha se dado de forma linear, como mostrado no gráfico, e que essa tendência se mantenha a mesma para os próximos dez dias.\n\n![](https://enem.dev/2022/questions/162/0942383a-b8ee-4c44-a9ad-ae50d4204c0c.png)\n\nAo final do trigésimo dia, quanto faltará no volume de vendas, em real, para que a meta fixada para o mês seja alcançada?",
+    "imagens": [
+      "https://enem.dev/2022/questions/162/0942383a-b8ee-4c44-a9ad-ae50d4204c0c.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5 000",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "7 000",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "11 000",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "18 000",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "29 000",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.82335,
+      "b": 1.38103,
+      "c": 0.13879,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 162",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/162",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-163",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 163,
+    "area": "matematica",
+    "enunciado": "Em uma universidade, atuam professores que estão enquadrados funcionalmente pela sua maior titulação: mestre ou doutor. Nela há, atualmente, 60 mestres e 40 doutores. Os salários mensais dos professores mestres e dos doutores são, respectivamente, R$ 8 000,00 e  \nR$ 12 000,00.  \nA diretoria da instituição pretende proporcionar um aumento salarial diferenciado para o ano seguinte, de tal forma que o salário médio mensal dos professores dessa instituição não ultrapasse R$ 12 240,00. A universidade já estabeleceu que o aumento salarial será de 25% para os mestres e precisa ainda definir o percentual de reajuste para os doutores.\n\nMantido o número atual de professores com suas atuais titulações, o aumento salarial, em porcentagem, a ser concedido aos doutores deverá ser de, no máximo,",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "14,4.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "20,7.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "22,0.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "30,0.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "37,5",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H30",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 3.12341,
+      "b": 2.40384,
+      "c": 0.16659,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 163",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/163",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-164",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 164,
+    "area": "matematica",
+    "enunciado": "Um borrifador de atuação automática libera, a cada acionamento, uma mesma quantidade de inseticida. O recipiente desse produto, quando cheio, contém 360 mL de inseticida, que duram 60 dias se o borrifador permanecer ligado ininterruptamente e for acionado a cada 48 minutos.\n\nA quantidade de inseticida que é liberada a cada acionamento do borrifador, em mililitro, é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,125.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,200.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "4,800.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "6,000.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "12,000.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H12",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
+    "assuntos": [
+      "razao-proporcao",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.65709,
+      "b": 1.6446,
+      "c": 0.20086,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 164",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/164",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-165",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 165,
+    "area": "matematica",
+    "enunciado": "Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol.  \nSuponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda a 73 dias terrestres e que 2 de seus anos correspondam a 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias.\n\nNo planeta Z, seu ano corresponderia a quantos de seus dias?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2,5",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "10,0",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "730,0",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "13 322,5",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "53 290,0",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
+    "assuntos": [
+      "graficos-tabelas",
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.90672,
+      "b": 2.301,
+      "c": 0.10655,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 165",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/165",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-166",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 166,
+    "area": "matematica",
+    "enunciado": "Em uma competição de velocidade, diz-se que há uma ultrapassagem quando um veículo que está atrás de outro passa à sua frente, com ambos se deslocando no mesmo sentido. Considere uma competição automobilística entre cinco carros em uma pista com 100 m de comprimento, onde todos largam no mesmo instante e da mesma linha.  \nO gráfico mostra a variação da distância percorrida por cada  \nveículo, em função do tempo, durante toda a competição.\n\n![](https://enem.dev/2022/questions/166/efa5ccf4-a844-4c87-b110-7a675585a779.png)\n\nQual o número de ultrapassagens, após o início da competição, efetuadas pelo veículo que chegou em\núltimo lugar?",
+    "imagens": [
+      "https://enem.dev/2022/questions/166/efa5ccf4-a844-4c87-b110-7a675585a779.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H20",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.50662,
+      "b": 1.77699,
+      "c": 0.15235,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 166",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/166",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": true,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-167",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 167,
+    "area": "matematica",
+    "enunciado": "Em uma loja, o preço promocional de uma geladeira é de R$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior. Para pagamento feito com o cartão de crédito da loja, é dado um desconto de 2% sobre o preço normal.  \nUma cliente decidiu comprar essa geladeira, optando pelo pagamento com o cartão de crédito da loja. Ela calculou que o valor a ser pago seria o preço promocional acrescido de 8%. Ao ser informada pela loja do valor a  \npagar, segundo sua opção, percebeu uma diferença entre seu cálculo e o valor que lhe foi apresentado\n\nO valor apresentado pela loja, comparado ao valor calculado pela cliente, foi",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 2,00 menor.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 100,00 menor.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 200,00 menor.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 42,00 maior.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 80,00 maior.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H4",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "revisada",
+    "tri": {
+      "a": 2.57245,
+      "b": 1.58603,
+      "c": 0.10176,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 167",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/167",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2022-167",
+      "gabarito": "A",
+      "assuntos": [
+        "porcentagem"
+      ],
+      "habilidade": "H4",
+      "nivel_curador": 2,
+      "resumo": "Comparar aumento de 10% seguido de desconto de 2% com um aumento único de 8%.",
+      "resolucao": "**1. Preço normal (10% acima do promocional).**\n$$1\\,000 \\times 1{,}10 = 1\\,100$$\n\n**2. Valor cobrado pela loja (desconto de 2% sobre o preço normal).**\n$$1\\,100 \\times 0{,}98 = 1\\,078$$\n\n**3. Valor calculado pela cliente (preço promocional + 8%).**\n$$1\\,000 \\times 1{,}08 = 1\\,080$$\n\n**4. Compare.** $1\\,078 - 1\\,080 = -2$. O valor da loja foi **R$ 2,00 menor** (alternativa **A**).\n\nA diferença existe porque $+10\\%$ seguido de $-2\\%$ equivale a $1{,}10 \\times 0{,}98 = 1{,}078$, ou seja, $+7{,}8\\%$, e não $+8\\%$.",
+      "dicas": {
+        "dica1": "Aumentos e descontos sucessivos não se somam: +10% e depois −2% não é +8%. Use fatores multiplicativos.",
+        "dica2": "Calcule o preço normal (1 000 × 1,10), aplique 2% de desconto sobre ele e compare com 1 000 × 1,08.",
+        "dica3": "Loja: 1 100 × 0,98. Cliente: 1 080. Faça a diferença."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "D",
+          "por_que": "Comparou o valor da loja com o preço promocional de 1 000, ou errou o sinal da diferença e usou outro fator."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Comparou o cálculo da cliente (1 080) com o preço promocional (1 000), achando 80 'a mais'."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Tomou a diferença entre preço normal (1 100) e promocional (1 000)."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Somou erros de base: 10% + 2% aplicados sobre valores diferentes, chegando a 200."
+        }
+      ],
+      "conceitos": [
+        "fatores de aumento e desconto",
+        "composição de porcentagens",
+        "comparação de valores"
+      ],
+      "verificacao": {
+        "codigo_sympy": "loja = 1000 * Rational(110, 100) * Rational(98, 100)\ncliente = 1000 * Rational(108, 100)\nresultado = cliente - loja  # quanto a loja ficou abaixo",
+        "resultado_esperado": "2",
+        "alternativa_esperada": "A"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
+    }
+  },
+  {
+    "id": "enem-2022-168",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 168,
+    "area": "matematica",
+    "enunciado": "Uma pessoa precisa se deslocar de automóvel do ponto P para o ponto Q, indicados na figura, na qual as linhas verticais e horizontais simbolizam ruas\n\n![](https://enem.dev/2022/questions/168/5c7c6e9a-c900-4910-a9d0-af84f8f5b8c4.png)\n\nPor causa do sentido de tráfego nessas ruas, o caminho poligonal destacado é a possibilidade mais curta de efetuar esse deslocamento. Para descrevê-lo, deve-se especificar qual o sentido a ser tomado em cada cruzamento de ruas, em relação à direção de deslocamento do automóvel, que se movimentará continuamente. Para isso, empregam-se as letras E, F e D para indicar  \n“vire à esquerda”, “siga em frente” e “vire à direita”, respectivamente.\n\nA sequência de letras que descreve o caminho poligonal destacado é",
+    "imagens": [
+      "https://enem.dev/2022/questions/168/5c7c6e9a-c900-4910-a9d0-af84f8f5b8c4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "DDEFDDEEFFD.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "DFEFDDDEFFD.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "DFEFDDEEFFD.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "EFDFEEDDFFE.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "EFDFEEEDFFE.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.53551,
+      "b": 0.94716,
+      "c": 0.1917,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 168",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/168",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-169",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 169,
+    "area": "matematica",
+    "enunciado": "Uma loja comercializa cinco modelos de caixas-d’água (I, II, III, IV e V), todos em formato de cilindro reto de base circular. Os modelos II, III, IV e V têm as especificações de suas dimensões dadas em relação às dimensões do modelo I, cuja profundidade é P e área da base é Ab, como segue:\n\n• modelo II: o dobro da profundidade e a metade da  \nárea da base do modelo I;  \n• modelo III: o dobro da profundidade e a metade do  \nraio da base do modelo I;  \n• modelo IV: a metade da profundidade e o dobro da  \nárea da base do modelo I;  \n• modelo V: a metade da profundidade e o dobro do  \nraio da base do modelo I.\n\nUma pessoa pretende comprar nessa loja o modelo  \nde caixa-d’água que ofereça a maior capacidade  \nvolumétrica\n\nO modelo escolhido deve ser o",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H9",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "equacao-1-grau",
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 3.78296,
+      "b": 1.88956,
+      "c": 0.14444,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 169",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/169",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-170",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 170,
+    "area": "matematica",
+    "enunciado": "No período de 2005 a 2013, o valor de venda dos imóveis em uma cidade apresentou alta, o que resultou no aumento dos aluguéis. Os gráficos apresentam a evolução desses valores, para um mesmo imóvel, no  \nmercado imobiliário dessa cidade.\n\n![](https://enem.dev/2022/questions/170/be397d74-899b-444a-b587-931e9c3505ca.png)\n\nA rentabilidade do aluguel de um imóvel é calculada pela razão entre o valor mensal de aluguel e o valor de mercado desse imóvel.\n\nCom base nos dados fornecidos, em que ano a rentabilidade do aluguel foi maior?",
+    "imagens": [
+      "https://enem.dev/2022/questions/170/be397d74-899b-444a-b587-931e9c3505ca.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2005",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2007",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2009",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2011",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2013",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H26",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
+    "assuntos": [
+      "razao-proporcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.18973,
+      "b": 1.32978,
+      "c": 0.04601,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 170",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/170",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-171",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 171,
+    "area": "matematica",
+    "enunciado": "Nos cinco jogos finais da última temporada, com uma média de 18 pontos por jogo, um jogador foi eleito o melhor do campeonato de basquete. Na atual temporada, cinco jogadores têm a chance de igualar ou melhorar essa média. No quadro estão registradas as pontuações desses cinco jogadores nos quatro primeiros jogos das finais deste ano.\n\n![](https://enem.dev/2022/questions/171/45b098d3-26d2-49c5-a129-40e85febb05b.png)\n\nO quinto e último jogo será realizado para decidir a equipe campeã e qual o melhor jogador da temporada.\n\nO jogador que precisa fazer a menor quantidade de pontos no quinto jogo, para igualar a média de pontos do melhor jogador da temporada passada, é o",
+    "imagens": [
+      "https://enem.dev/2022/questions/171/45b098d3-26d2-49c5-a129-40e85febb05b.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H29",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.69166,
+      "b": 0.87454,
+      "c": 0.20606,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 171",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/171",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-172",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 172,
+    "area": "matematica",
+    "enunciado": "Um casal planeja construir em sua chácara uma piscina com o formato de um paralelepípedo reto retângulo com capacidade para 90 000 L de água. O casal contratou uma empresa de construções que apresentou cinco projetos com diferentes combinações nas dimensões internas de profundidade, largura e comprimento. A piscina a ser construída terá revestimento interno em suas paredes e fundo com uma mesma cerâmica, e o casal irá escolher o projeto que exija a menor área de revestimento.\n\nAs dimensões internas de profundidade, largura e comprimento, respectivamente, para cada um dos projetos, são:\n\n• projeto I: 1,8 m, 2,0 m e 25,0 m;  \n• projeto II: 2,0 m, 5,0 m e 9,0 m;  \n• projeto III: 1,0 m, 6,0 m e 15,0 m;  \n• projeto IV: 1,5 m, 15,0 m e 4,0 m;  \n• projeto V: 2,5 m, 3,0 m e 12,0 m.\n\nO projeto que o casal deverá escolher será o",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H13",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial",
+      "razao-proporcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 0.65574,
+      "b": 2.58862,
+      "c": 0.1651,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 172",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/172",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-173",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 173,
+    "area": "matematica",
+    "enunciado": "Uma instituição de ensino superior ofereceu vagas em um processo seletivo de acesso a seus cursos. Finalizadas as inscrições, foi divulgada a relação do número de candidatos por vaga em cada um dos cursos oferecidos. Esses dados são apresentados no quadro.\n\n![](https://enem.dev/2022/questions/173/0e6a9a19-bb58-4f93-bcb9-b7f26f5df5e7.png)\n\nQual foi o número total de candidatos inscritos nesse processo seletivo?",
+    "imagens": [
+      "https://enem.dev/2022/questions/173/0e6a9a19-bb58-4f93-bcb9-b7f26f5df5e7.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "200",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "400",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1200",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1235",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "7200",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H25",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.81078,
+      "b": 0.63977,
+      "c": 0.16335,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 173",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/173",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-174",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 174,
+    "area": "matematica",
+    "enunciado": "Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento.\n\nQuantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "800",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1200",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2400",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4800",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "6400",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H8",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.93886,
+      "b": 2.57768,
+      "c": 0.12028,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 174",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/174",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-175",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 175,
+    "area": "matematica",
+    "enunciado": "Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus  \nalgarismos.\n\nO número escrito pelo estudante foi",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "135 000,00.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 350 000,00.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "13 500 000,00.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "135 000 000,00.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "1 350 000 000,00",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H1",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "classificacao": "revisada",
+    "tri": {
+      "a": 1.42701,
+      "b": -0.02398,
+      "c": 0.11013,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 175",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/175",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2022-175",
+      "gabarito": "E",
+      "assuntos": [
+        "numeros-operacoes"
+      ],
+      "habilidade": "H1",
+      "nivel_curador": 1,
+      "resumo": "Escrever R$ 1,35 bilhão com todos os algarismos.",
+      "resolucao": "**1. O que vale 1 bilhão.** Um bilhão é $10^9 = 1\\,000\\,000\\,000$ (o 1 seguido de nove zeros).\n\n**2. Multiplique por 1,35.**\n$$1{,}35 \\times 1\\,000\\,000\\,000 = 1\\,350\\,000\\,000$$\n\nDeslocar a vírgula nove casas para a direita transforma $1{,}35$ em $1\\,350\\,000\\,000$ (dez algarismos antes da vírgula).\n\n**3. Confira a ordem de grandeza.** O número tem de começar com a classe dos bilhões: \"1 bilhão, 350 milhões\". Só a alternativa **E** escreve isso: R$ 1 350 000 000,00.",
+      "dicas": {
+        "dica1": "Bilhão é 1 seguido de nove zeros. 'Um bilhão e pouco' tem que ter dez algarismos antes da vírgula.",
+        "dica2": "Escreva 1 000 000 000 e multiplique por 1,35: a vírgula anda nove casas para a direita.",
+        "dica3": "1,35 × 10⁹ = 1 350 000 000. Procure a alternativa com dez algarismos."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "D",
+          "por_que": "Trocou bilhão por 'cem milhões' (10⁸): 135 000 000 tem só nove algarismos, é 135 milhões."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Usou 10⁷ (dez milhões) como se fosse bilhão: 13 500 000 é 13,5 milhões."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Confundiu bilhão com milhão (10⁶): 1 350 000 é 1,35 milhão."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Multiplicou 1,35 por 100 000 (10⁵), perdendo quatro casas; 135 mil está muito longe de um bilhão."
+        }
+      ],
+      "conceitos": [
+        "classes e ordens do sistema decimal",
+        "potências de 10",
+        "multiplicação de decimal por potência de 10"
+      ],
+      "verificacao": {
+        "codigo_sympy": "resultado = Rational(135, 100) * 10**9",
+        "resultado_esperado": "1350000000",
+        "alternativa_esperada": "E"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
+    }
+  },
+  {
+    "id": "enem-2022-176",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 176,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2022/questions/176/eebeabf5-0dec-4070-abd5-f803bb370dd9.png)\n\nPretende-se que a distância percorrida entre as duas cidades, pelas Rodovias 001 e 002, passando pelo ponto de conexão, seja a menor possível.\nDadas as exigências do projeto, qual das localizações sugeridas deve ser a escolhida para o ponto de conexão?",
+    "imagens": [
+      "https://enem.dev/2022/questions/176/eebeabf5-0dec-4070-abd5-f803bb370dd9.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H9",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 176",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/176",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": [
+        "parâmetros TRI descartados: b=6.27505 fora da faixa [-6.0, 6.0] e sem correção inequívoca"
+      ]
+    }
+  },
+  {
+    "id": "enem-2022-177",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 177,
+    "area": "matematica",
+    "enunciado": "Uma pessoa precisa contratar um operário para fazer um serviço em sua casa. Para isso, ela postou um anúncio em uma rede social.  \nCinco pessoas responderam informando preços por hora trabalhada, gasto diário com transporte e tempo necessário para conclusão do serviço, conforme valores apresentados no quadro.\n\n![](https://enem.dev/2022/questions/177/fb1d11e4-76d3-4657-b78f-84e7bcd81f6c.png)\n\nSe a pessoa pretende gastar o mínimo possível com essa contratação, irá contratar o operário",
+    "imagens": [
+      "https://enem.dev/2022/questions/177/fb1d11e4-76d3-4657-b78f-84e7bcd81f6c.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H26",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "regra-de-tres",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.32325,
+      "b": 0.64802,
+      "c": 0.18728,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 177",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/177",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-178",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 178,
+    "area": "matematica",
+    "enunciado": "Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro.  \nA cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda\n\nQuantas porções da receita-base de massa ela deve preparar para atender esse cliente?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "6",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "12",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "24",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H12",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 4.1583,
+      "b": 2.56697,
+      "c": 0.06542,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 178",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/178",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-179",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 179,
+    "area": "matematica",
+    "enunciado": "A esperança de vida ao nascer é o número médio de anos que um indivíduo tende a viver a partir de seu nascimento, considerando dados da população. No Brasil, esse número vem aumentando consideravelmente, como mostra o gráfico.\n\n![](https://enem.dev/2022/questions/179/08b6ac03-1a1c-4a0d-b246-dc37098794ad.png)\n\nDisponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).\n\nPode-se observar que a esperança de vida ao nascer em 2012 foi exatamente a média das registradas nos anos de 2011 e 2013. Suponha que esse fato também ocorreu com a esperança de vida ao nascer em 2013, em relação às esperanças de vida de 2012 e de 2014.\n\nCaso a suposição feita tenha sido confirmada, a esperança de vida ao nascer no Brasil no ano de 2014 terá sido, em ano, igual a",
+    "imagens": [
+      "https://enem.dev/2022/questions/179/08b6ac03-1a1c-4a0d-b246-dc37098794ad.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "74,23.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "74,51.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "75,07.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "75,23.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "78,49.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.30031,
+      "b": 0.46698,
+      "c": 0.25799,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 179",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/179",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2022-180",
+    "ano": 2022,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 180,
+    "area": "matematica",
+    "enunciado": "Na figura estão destacadas duas trajetórias sobre a superfície do globo terrestre, descritas ao se percorrer parte dos meridianos 1, 2 e da Linha do Equador, sendo que os meridianos 1 e 2 estão contidos em planos perpendiculares entre si. O plano α é paralelo ao que contém a Linha do Equador.\n\n![](https://enem.dev/2022/questions/180/f3e0feaa-a265-4d9f-894f-63135acff616.png)\n\nA vista superior da projeção ortogonal sobre o plano α dessas duas trajetórias é",
+    "imagens": [
+      "https://enem.dev/2022/questions/180/f3e0feaa-a265-4d9f-894f-63135acff616.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/180/05cb2bb8-e0d9-4b65-b5cf-8b286af2b395.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/180/23fc7b65-ca58-4a35-967f-ac9c73b89e03.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/180/5be81d3b-c2c8-4856-a7b6-9f265a813436.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/180/c29e4144-4fce-43b2-a402-0ff7de72f3d0.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2022/questions/180/5e135009-dbc9-4b08-bdf9-ad95f8f3d14f.png"
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
+    "assuntos": [
+      "matematica-financeira"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.66982,
+      "b": 2.03629,
+      "c": 0.24595,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2022, 2º dia, caderno azul (aplicação regular), questão 180",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2022/questions/180",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2022.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "enem-2011-141",
+  "gabarito": "B",
+  "assuntos": [
+    "regra-de-tres",
+    "grandezas-unidades-escalas"
+  ],
+  "habilidade": "H12",
+  "nivel_curador": 2,
+  "resumo": "Ajustar o tempo de cada atividade para gastar 200 calorias e somar o tempo extra.",
+  "resolucao": "**1. Para cada atividade, ache o tempo que gasta 200 calorias** (regra de três: calorias proporcionais ao tempo).\n\n| Atividade | Dado | Tempo para 200 cal | Tempo a mais |\n|---|---|---|---|\n| Agachamentos | 100 cal / 20 min | 40 min | **+20** |\n| Supermercado | 100 cal / 30 min | 60 min | **+30** |\n| Jardim | 200 cal / 30 min | 30 min | 0 |\n| Cachorro | 200 cal / 30 min | 30 min | 0 |\n| Tirar o pó | 150 cal / 30 min | $30 \\times \\frac{200}{150} = 40$ min | **+10** |\n| Lavar roupas | 200 cal / 30 min | 30 min | 0 |\n\n**2. Some só o tempo adicional.**\n$$20 + 30 + 10 = 60\\ \\text{minutos}$$\n\nAlternativa **B**.",
+  "dicas": {
+    "dica1": "Em cada atividade as calorias são proporcionais ao tempo. Só precisa ajustar as que gastam menos de 200 calorias.",
+    "dica2": "Para cada atividade abaixo de 200 cal, descubra o tempo que dá 200 cal (regra de três) e subtraia o tempo original.",
+    "dica3": "Agachamentos: 20 → 40 min; supermercado: 30 → 60 min; pó: 30 → 40 min. Some as diferenças."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Esqueceu o ajuste de 'tirar o pó' (150 → 200 cal, +10 min) e somou só 20 + 30 = 50."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Dobrou o tempo de 'tirar o pó' (+30) como se gastasse 100 cal: 20 + 30 + 30 = 80."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Somou 40 + 60 + 20 = 120, misturando tempos totais ajustados com tempos a mais."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Somou todos os tempos originais (20 + 30 × 5 = 170 min), respondendo o tempo total e não o tempo a mais."
+    }
+  ],
+  "conceitos": [
+    "grandezas diretamente proporcionais",
+    "regra de três simples",
+    "organização de dados em tabela"
+  ],
+  "verificacao": {
+    "codigo_sympy": "dados = [(100, 20), (100, 30), (200, 30), (200, 30), (150, 30), (200, 30)]\nresultado = sum(Rational(200, cal) * t - t for cal, t in dados)",
+    "resultado_esperado": "60",
+    "alternativa_esperada": "B"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

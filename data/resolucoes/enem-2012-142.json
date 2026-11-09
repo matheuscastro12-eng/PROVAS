@@ -1,0 +1,48 @@
+{
+  "id": "enem-2012-142",
+  "gabarito": "D",
+  "assuntos": [
+    "grandezas-unidades-escalas",
+    "equacao-1-grau"
+  ],
+  "habilidade": "H12",
+  "nivel_curador": 1,
+  "resumo": "Capacidade de ar-condicionado: 600 BTU/h por m² mais acréscimos por pessoa extra e por aparelho.",
+  "resolucao": "**1. Área da sala.** $4 \\times 5 = 20$ m².\n\n**2. Parcela básica** (até duas pessoas):\n$$20 \\times 600 = 12\\,000\\ \\text{BTU/h}$$\n\n**3. Acréscimos.**\n- Pessoas: são 4; as duas primeiras já estão contadas, então 2 adicionais: $2 \\times 600 = 1\\,200$.\n- Televisão: $1 \\times 600 = 600$.\n\n**4. Total.**\n$$12\\,000 + 1\\,200 + 600 = 13\\,800$$\n\nAlternativa **D**.",
+  "dicas": {
+    "dica1": "Siga a regra em três parcelas: área × 600, pessoas além das duas primeiras × 600, aparelhos × 600.",
+    "dica2": "Área 4 × 5; quantas pessoas são 'adicionais' em relação a duas? Some tudo.",
+    "dica3": "20 × 600 + 2 × 600 + 1 × 600."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Calculou só a parcela da área (20 × 600 = 12 000) e ignorou pessoas e TV."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Acrescentou só a TV (12 000 + 600), esquecendo as duas pessoas adicionais."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Contou só 1 pessoa adicional e a TV (12 000 + 600 + 600 = 13 200)."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Contou as 4 pessoas como adicionais (4 × 600) e a TV: 12 000 + 2 400 + 600 = 15 000."
+    }
+  ],
+  "conceitos": [
+    "área do retângulo",
+    "aplicação de regra em etapas",
+    "leitura de texto técnico"
+  ],
+  "verificacao": {
+    "codigo_sympy": "area = 4 * 5\nresultado = area * 600 + (4 - 2) * 600 + 1 * 600",
+    "resultado_esperado": "13800",
+    "alternativa_esperada": "D"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

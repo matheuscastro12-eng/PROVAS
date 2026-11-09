@@ -1,0 +1,952 @@
+{
+  "descricao": "Trilha inicial do Gabarita: questões reais do ENEM com resolução revisada, ordenadas da mais fácil para a mais difícil (parâmetro b da TRI quando disponível; senão, nível atribuído na curadoria).",
+  "ordenacao": "tri.b crescente (questões com TRI primeiro); sem TRI, nivel_curador crescente",
+  "limiares_dificuldade": {
+    "facil_max": 1.56,
+    "media_max": 2.33,
+    "metodo": "tercis de tri.b das 614 questões de MT com TRI no banco",
+    "n": 614
+  },
+  "questoes": [
+    {
+      "ordem": 1,
+      "id": "enem-2012-150",
+      "ano": 2012,
+      "numero": 150,
+      "assuntos": [
+        "sequencias-pa"
+      ],
+      "habilidade": "H3",
+      "b": -0.047,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Soma dos termos de uma PA (1 + 2 + … + 7) e subtração do total de cartas.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 2,
+      "id": "enem-2022-175",
+      "ano": 2022,
+      "numero": 175,
+      "assuntos": [
+        "numeros-operacoes"
+      ],
+      "habilidade": "H1",
+      "b": -0.02398,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Escrever R$ 1,35 bilhão com todos os algarismos.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 3,
+      "id": "enem-2023-156",
+      "ano": 2023,
+      "numero": 156,
+      "assuntos": [
+        "leitura-grafico-funcao",
+        "graficos-tabelas"
+      ],
+      "habilidade": "H20",
+      "b": 0.3783,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Ler em um gráfico de linha os intervalos em que a intensidade do sinal é zero.",
+      "depende_de_imagem": true
+    },
+    {
+      "ordem": 4,
+      "id": "enem-2019-140",
+      "ano": 2019,
+      "numero": 140,
+      "assuntos": [
+        "numeros-operacoes"
+      ],
+      "habilidade": "H1",
+      "b": 0.4293,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Escrever 0,00011 mm em notação científica.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 5,
+      "id": "enem-2019-148",
+      "ano": 2019,
+      "numero": 148,
+      "assuntos": [
+        "grandezas-unidades-escalas",
+        "porcentagem"
+      ],
+      "habilidade": "H12",
+      "b": 0.47926,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Converter 0,3 m³ em litros, tomar 80% e dividir por 2,7 L por embalagem (arredondando para cima).",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 6,
+      "id": "enem-2011-162",
+      "ano": 2011,
+      "numero": 162,
+      "assuntos": [
+        "sequencias-pa"
+      ],
+      "habilidade": "H2",
+      "b": 0.4856,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Progressão aritmética: termo de julho a partir de janeiro, fevereiro e março.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 7,
+      "id": "enem-2010-176",
+      "ano": 2010,
+      "numero": 176,
+      "assuntos": [
+        "razao-proporcao",
+        "numeros-operacoes"
+      ],
+      "habilidade": "H16",
+      "b": 0.58872,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Encadear razões de volume: 1 Júpiter = 23 Netunos e 1 Netuno = 58 Terras.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 8,
+      "id": "enem-2012-161",
+      "ano": 2012,
+      "numero": 161,
+      "assuntos": [
+        "numeros-operacoes"
+      ],
+      "habilidade": "H1",
+      "b": 0.603,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Identificar a ordem (posição) de um algarismo em um número de oito algarismos.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 9,
+      "id": "enem-2023-180",
+      "ano": 2023,
+      "numero": 180,
+      "assuntos": [
+        "estatistica-basica",
+        "graficos-tabelas"
+      ],
+      "habilidade": "H30",
+      "b": 0.74313,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Escolher o par de meses consecutivos com maior média de precipitação.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 10,
+      "id": "enem-2009-141",
+      "ano": 2009,
+      "numero": 141,
+      "assuntos": [
+        "regra-de-tres",
+        "porcentagem"
+      ],
+      "habilidade": "H23",
+      "b": 0.79745,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Mesmo volume de mistura: se 4% equivalem a 925 milhões de litros, quanto são 3%?",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 11,
+      "id": "enem-2011-141",
+      "ano": 2011,
+      "numero": 141,
+      "assuntos": [
+        "regra-de-tres",
+        "grandezas-unidades-escalas"
+      ],
+      "habilidade": "H12",
+      "b": 0.80144,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Ajustar o tempo de cada atividade para gastar 200 calorias e somar o tempo extra.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 12,
+      "id": "enem-2016-154",
+      "ano": 2016,
+      "numero": 154,
+      "assuntos": [
+        "razao-proporcao"
+      ],
+      "habilidade": "H13",
+      "b": 0.80312,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Comparar concentrações (razão fibras/pão) de cinco marcas.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 13,
+      "id": "enem-2023-162",
+      "ano": 2023,
+      "numero": 162,
+      "assuntos": [
+        "funcao-afim"
+      ],
+      "habilidade": "H19",
+      "b": 0.86032,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Preço = taxa fixa + preço por m³ × volume: identificar a lei da função afim.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 14,
+      "id": "enem-2012-173",
+      "ano": 2012,
+      "numero": 173,
+      "assuntos": [
+        "razao-proporcao",
+        "regra-de-tres"
+      ],
+      "habilidade": "H16",
+      "b": 0.875,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Número de descargas por dia (60 L ÷ 15 L) e economia ao trocar por 6 L por descarga.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 15,
+      "id": "enem-2012-167",
+      "ano": 2012,
+      "numero": 167,
+      "assuntos": [
+        "razao-proporcao",
+        "equacao-1-grau"
+      ],
+      "habilidade": "H4",
+      "b": 0.956,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Períodos necessários para juntar 9 200 tíquetes (20 por período) e custo a R$ 3,00 cada.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 16,
+      "id": "enem-2013-158",
+      "ano": 2013,
+      "numero": 158,
+      "assuntos": [
+        "porcentagem"
+      ],
+      "habilidade": "H3",
+      "b": 1.01952,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Imposto de 15% sobre o lucro da venda de ações.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 17,
+      "id": "enem-2021-160",
+      "ano": 2021,
+      "numero": 160,
+      "assuntos": [
+        "razao-proporcao",
+        "numeros-operacoes"
+      ],
+      "habilidade": "H17",
+      "b": 1.0422,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Para cada suplemento, o menor número de sachês que cobre os três minerais e o custo total; escolher o mais barato.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 18,
+      "id": "enem-2012-144",
+      "ano": 2012,
+      "numero": 144,
+      "assuntos": [
+        "analise-combinatoria"
+      ],
+      "habilidade": "H4",
+      "b": 1.071,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Princípio multiplicativo: objetos × personagens × cômodos, comparado ao número de alunos.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 19,
+      "id": "enem-2023-137",
+      "ano": 2023,
+      "numero": 137,
+      "assuntos": [
+        "estatistica-basica",
+        "graficos-tabelas"
+      ],
+      "habilidade": "H27",
+      "b": 1.08025,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Média salarial de 100 funcionários a partir de um quadro com dois setores.",
+      "depende_de_imagem": true
+    },
+    {
+      "ordem": 20,
+      "id": "enem-2011-166",
+      "ano": 2011,
+      "numero": 166,
+      "assuntos": [
+        "razao-proporcao",
+        "porcentagem"
+      ],
+      "habilidade": "H16",
+      "b": 1.0908,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Aplicar a mesma proporção de acréscimo (mulheres) ao grupo dos homens.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 21,
+      "id": "enem-2020-178",
+      "ano": 2020,
+      "numero": 178,
+      "assuntos": [
+        "probabilidade",
+        "estatistica-basica"
+      ],
+      "habilidade": "H29",
+      "b": 1.1092,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Calcular o valor esperado (CRC) de cada pneu com 70% de chance de chuva e escolher o maior.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 22,
+      "id": "enem-2013-159",
+      "ano": 2013,
+      "numero": 159,
+      "assuntos": [
+        "razao-proporcao"
+      ],
+      "habilidade": "H16",
+      "b": 1.15101,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Divisão em partes proporcionais 1 : 4 : 2 de 14 m³ de concreto; parte do cimento.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 23,
+      "id": "enem-2020-167",
+      "ano": 2020,
+      "numero": 167,
+      "assuntos": [
+        "porcentagem",
+        "graficos-tabelas"
+      ],
+      "habilidade": "H5",
+      "b": 1.15438,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Manter a despesa total depois de aumentos em dois itens, reduzindo o terceiro (dados em quadro).",
+      "depende_de_imagem": true
+    },
+    {
+      "ordem": 24,
+      "id": "enem-2016-177",
+      "ano": 2016,
+      "numero": 177,
+      "assuntos": [
+        "razao-proporcao",
+        "porcentagem"
+      ],
+      "habilidade": "H4",
+      "b": 1.16274,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Calcular o índice (porcentagem) de cinco bairros e identificar o maior.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 25,
+      "id": "enem-2021-176",
+      "ano": 2021,
+      "numero": 176,
+      "assuntos": [
+        "numeros-operacoes"
+      ],
+      "habilidade": "H1",
+      "b": 1.21252,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Ler MCDLXIX em algarismos romanos (1469) e calcular 2050 − 1469.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 26,
+      "id": "enem-2021-178",
+      "ano": 2021,
+      "numero": 178,
+      "assuntos": [
+        "grandezas-unidades-escalas",
+        "equacao-1-grau"
+      ],
+      "habilidade": "H3",
+      "b": 1.21452,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Converter hectares em m², descontar ruas, dividir em lotes de 300 m² e somar as vendas com dois preços.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 27,
+      "id": "enem-2014-168",
+      "ano": 2014,
+      "numero": 168,
+      "assuntos": [
+        "porcentagem",
+        "razao-proporcao"
+      ],
+      "habilidade": "H3",
+      "b": 1.224,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Percentual da área de agricultura (80 milhões de ha) em relação ao território (853 milhões de ha).",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 28,
+      "id": "enem-2019-152",
+      "ano": 2019,
+      "numero": 152,
+      "assuntos": [
+        "regra-de-tres",
+        "razao-proporcao"
+      ],
+      "habilidade": "H16",
+      "b": 1.24447,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Dividir R$ 31 000 em partes inversamente proporcionais a 2, 3 e 5 anos.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 29,
+      "id": "enem-2023-159",
+      "ano": 2023,
+      "numero": 159,
+      "assuntos": [
+        "progressao-geometrica",
+        "razao-proporcao"
+      ],
+      "habilidade": "H23",
+      "b": 1.27709,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "População de larvas multiplica por 10 a cada 3 dias: quantos dias até 1 000 000 larvas (5 L × 200 000).",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 30,
+      "id": "enem-2010-137",
+      "ano": 2010,
+      "numero": 137,
+      "assuntos": [
+        "razao-proporcao",
+        "grandezas-unidades-escalas"
+      ],
+      "habilidade": "H11",
+      "b": 1.29609,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Razão entre 2,1 cm (olho) e 42 m (espelho) na mesma unidade.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 31,
+      "id": "enem-2011-164",
+      "ano": 2011,
+      "numero": 164,
+      "assuntos": [
+        "grandezas-unidades-escalas",
+        "razao-proporcao"
+      ],
+      "habilidade": "H16",
+      "b": 1.29983,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Consumo de um chuveiro de 4,8 kW em 2 banhos de 10 min por dia durante 7 dias (energia = potência × tempo).",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 32,
+      "id": "enem-2013-148",
+      "ano": 2013,
+      "numero": 148,
+      "assuntos": [
+        "equacao-1-grau",
+        "razao-proporcao"
+      ],
+      "habilidade": "H16",
+      "b": 1.3,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Fração da capacidade ocupada por telhas e quantos tijolos cabem no restante.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 33,
+      "id": "enem-2012-142",
+      "ano": 2012,
+      "numero": 142,
+      "assuntos": [
+        "grandezas-unidades-escalas",
+        "equacao-1-grau"
+      ],
+      "habilidade": "H12",
+      "b": 1.306,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Capacidade de ar-condicionado: 600 BTU/h por m² mais acréscimos por pessoa extra e por aparelho.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 34,
+      "id": "enem-2011-148",
+      "ano": 2011,
+      "numero": 148,
+      "assuntos": [
+        "grandezas-unidades-escalas"
+      ],
+      "habilidade": "H10",
+      "b": 1.31369,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Converter 6 000 m em pés (1 m ≈ 3,3 pés) e subtrair de 31 mil pés.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 35,
+      "id": "enem-2019-158",
+      "ano": 2019,
+      "numero": 158,
+      "assuntos": [
+        "grandezas-unidades-escalas",
+        "razao-proporcao"
+      ],
+      "habilidade": "H11",
+      "b": 1.31578,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Escala 1:200 aplicada a volume (fator 200³), conversão cm³ → litro e divisão pelo consumo diário.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 36,
+      "id": "enem-2010-150",
+      "ano": 2010,
+      "numero": 150,
+      "assuntos": [
+        "funcao-afim",
+        "geometria-plana"
+      ],
+      "habilidade": "H17",
+      "b": 1.33212,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Custo = 20 × área + 15 × perímetro + 10; ao dobrar os lados, a área quadruplica e o perímetro dobra.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 37,
+      "id": "enem-2021-173",
+      "ano": 2021,
+      "numero": 173,
+      "assuntos": [
+        "equacao-1-grau",
+        "numeros-operacoes"
+      ],
+      "habilidade": "H4",
+      "b": 1.37865,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Menor número de lavagens para faturar pelo menos R$ 300 com dois preços (R$ 20 e R$ 35).",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 38,
+      "id": "enem-2019-159",
+      "ano": 2019,
+      "numero": 159,
+      "assuntos": [
+        "probabilidade"
+      ],
+      "habilidade": "H30",
+      "b": 1.41653,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Probabilidade de perceber pelo menos uma placa (complementar) acima de 99%: quantas placas novas além da existente.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 39,
+      "id": "enem-2017-139",
+      "ano": 2017,
+      "numero": 139,
+      "assuntos": [
+        "leitura-grafico-funcao",
+        "graficos-tabelas"
+      ],
+      "habilidade": "H20",
+      "b": 1.44146,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Identificar, no gráfico velocidade × tempo, o intervalo em que a velocidade é zero.",
+      "depende_de_imagem": true
+    },
+    {
+      "ordem": 40,
+      "id": "enem-2009-154",
+      "ano": 2009,
+      "numero": 154,
+      "assuntos": [
+        "razao-proporcao",
+        "semelhanca-pitagoras"
+      ],
+      "habilidade": "H15",
+      "b": 1.44841,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Em uma rampa reta, altura e distância percorrida são proporcionais: 3,2 m ↔ 0,8 m; quanto falta para 2,2 m.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 41,
+      "id": "enem-2023-150",
+      "ano": 2023,
+      "numero": 150,
+      "assuntos": [
+        "funcao-afim",
+        "porcentagem"
+      ],
+      "habilidade": "H19",
+      "b": 1.45121,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Traduzir '90% da quantidade q' em expressão algébrica.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 42,
+      "id": "enem-2021-144",
+      "ano": 2021,
+      "numero": 144,
+      "assuntos": [
+        "estatistica-basica",
+        "graficos-tabelas"
+      ],
+      "habilidade": "H27",
+      "b": 1.47451,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Média de idades a partir de um gráfico de frequências (média ponderada).",
+      "depende_de_imagem": true
+    },
+    {
+      "ordem": 43,
+      "id": "enem-2011-161",
+      "ano": 2011,
+      "numero": 161,
+      "assuntos": [
+        "razao-proporcao",
+        "grandezas-unidades-escalas"
+      ],
+      "habilidade": "H3",
+      "b": 1.47857,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Densidade demográfica: 20 milhões de habitantes divididos por 800 mil km².",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 44,
+      "id": "enem-2019-168",
+      "ano": 2019,
+      "numero": 168,
+      "assuntos": [
+        "funcao-afim",
+        "equacao-1-grau"
+      ],
+      "habilidade": "H19",
+      "b": 1.51757,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Montar a expressão do gasto semanal com salários em função do total de funcionários.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 45,
+      "id": "enem-2011-145",
+      "ano": 2011,
+      "numero": 145,
+      "assuntos": [
+        "grandezas-unidades-escalas",
+        "porcentagem"
+      ],
+      "habilidade": "H17",
+      "b": 1.52176,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "331 bilhões de xícaras de 120 mL em litros, com aumento de 1/5.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 46,
+      "id": "enem-2023-143",
+      "ano": 2023,
+      "numero": 143,
+      "assuntos": [
+        "porcentagem",
+        "equacao-1-grau"
+      ],
+      "habilidade": "H5",
+      "b": 1.52611,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Lista de espera cresce 10% (400 → 440); reduzir 25% exige atender 110 crianças a mais: 11 salas de 10.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 47,
+      "id": "enem-2019-150",
+      "ano": 2019,
+      "numero": 150,
+      "assuntos": [
+        "matematica-financeira",
+        "porcentagem"
+      ],
+      "habilidade": "H23",
+      "b": 1.53793,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Valor à vista = soma dos valores presentes de duas parcelas a 1% ao mês (R$ 202,00 e R$ 204,02).",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 48,
+      "id": "enem-2023-171",
+      "ano": 2023,
+      "numero": 171,
+      "assuntos": [
+        "razao-proporcao",
+        "regra-de-tres"
+      ],
+      "habilidade": "H3",
+      "b": 1.53865,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Converter 20 ciclos de 52 anos Haab (365 dias) em anos Tzolkim (260 dias).",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 49,
+      "id": "enem-2010-154",
+      "ano": 2010,
+      "numero": 154,
+      "assuntos": [
+        "porcentagem"
+      ],
+      "habilidade": "H4",
+      "b": 1.55529,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Crescimento percentual do lucro de R$ 132 000 para R$ 145 000 e classificação por faixas.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 50,
+      "id": "enem-2022-154",
+      "ano": 2022,
+      "numero": 154,
+      "assuntos": [
+        "porcentagem"
+      ],
+      "habilidade": "H3",
+      "b": 1.56693,
+      "dificuldade_estimada": "media",
+      "nivel_curador": 2,
+      "resumo": "Recuperar o valor original a partir de uma queda de 75%.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 51,
+      "id": "enem-2018-164",
+      "ano": 2018,
+      "numero": 164,
+      "assuntos": [
+        "sequencias-pa",
+        "numeros-operacoes"
+      ],
+      "habilidade": "H3",
+      "b": 1.57022,
+      "dificuldade_estimada": "media",
+      "nivel_curador": 2,
+      "resumo": "Reconstruir a sequência de andares a partir do final e achar o maior andar visitado.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 52,
+      "id": "enem-2022-167",
+      "ano": 2022,
+      "numero": 167,
+      "assuntos": [
+        "porcentagem"
+      ],
+      "habilidade": "H4",
+      "b": 1.58603,
+      "dificuldade_estimada": "media",
+      "nivel_curador": 2,
+      "resumo": "Comparar aumento de 10% seguido de desconto de 2% com um aumento único de 8%.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 53,
+      "id": "enem-2011-143",
+      "ano": 2011,
+      "numero": 143,
+      "assuntos": [
+        "grandezas-unidades-escalas"
+      ],
+      "habilidade": "H11",
+      "b": 1.58634,
+      "dificuldade_estimada": "media",
+      "nivel_curador": 1,
+      "resumo": "Reduzir medidas reais (m) para uma maquete na escala 1:250, em cm.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 54,
+      "id": "enem-2013-163",
+      "ano": 2013,
+      "numero": 163,
+      "assuntos": [
+        "porcentagem"
+      ],
+      "habilidade": "H17",
+      "b": 1.61513,
+      "dificuldade_estimada": "media",
+      "nivel_curador": 2,
+      "resumo": "Desconto adicional de 10% aplicado sobre um preço já remarcado em 20%.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 55,
+      "id": "enem-2011-159",
+      "ano": 2011,
+      "numero": 159,
+      "assuntos": [
+        "funcao-afim",
+        "equacao-1-grau"
+      ],
+      "habilidade": "H23",
+      "b": 1.68092,
+      "dificuldade_estimada": "media",
+      "nivel_curador": 1,
+      "resumo": "Igualar os custos de duas propostas (fixo + por km) para achar a extensão de indiferença.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 56,
+      "id": "enem-2021-136",
+      "ano": 2021,
+      "numero": 136,
+      "assuntos": [
+        "equacao-2-grau",
+        "sequencias-pa"
+      ],
+      "habilidade": "H2",
+      "b": 1.73939,
+      "dificuldade_estimada": "media",
+      "nivel_curador": 3,
+      "resumo": "Usar ρ² = ρ + 1 para reduzir potências de ρ à forma aρ + b e obter ρ⁷ (padrão do quadro).",
+      "depende_de_imagem": true
+    },
+    {
+      "ordem": 57,
+      "id": "enem-2016-170",
+      "ano": 2016,
+      "numero": 170,
+      "assuntos": [
+        "estatistica-basica",
+        "graficos-tabelas"
+      ],
+      "habilidade": "H27",
+      "b": 1.79574,
+      "dificuldade_estimada": "media",
+      "nivel_curador": 2,
+      "resumo": "Moda do número de pessoas no elevador em cada trecho da subida (quadro de entradas e saídas).",
+      "depende_de_imagem": true
+    },
+    {
+      "ordem": 58,
+      "id": "enem-2023-175",
+      "ano": 2023,
+      "numero": 175,
+      "assuntos": [
+        "equacao-1-grau"
+      ],
+      "habilidade": "H21",
+      "b": 1.82985,
+      "dificuldade_estimada": "media",
+      "nivel_curador": 2,
+      "resumo": "Sistema de duas equações do 1º grau com preços de tíquetes azul e vermelho.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 59,
+      "id": "enem-2021-171",
+      "ano": 2021,
+      "numero": 171,
+      "assuntos": [
+        "geometria-plana"
+      ],
+      "habilidade": "H13",
+      "b": 1.88581,
+      "dificuldade_estimada": "media",
+      "nivel_curador": 2,
+      "resumo": "Calcular áreas de cinco figuras e escolher a maior dentro de um limite de custo (área ≤ 80 cm²).",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 60,
+      "id": "enem-2009-155",
+      "ano": 2009,
+      "numero": 155,
+      "assuntos": [
+        "funcao-quadratica",
+        "equacao-1-grau"
+      ],
+      "habilidade": "H19",
+      "b": 2.16387,
+      "dificuldade_estimada": "media",
+      "nivel_curador": 3,
+      "resumo": "Modelar a arrecadação V (R$) em função do desconto x (centavos): produto de duas expressões afins.",
+      "depende_de_imagem": false
+    }
+  ]
+}

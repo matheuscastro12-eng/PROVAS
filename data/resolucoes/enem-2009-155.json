@@ -1,0 +1,48 @@
+{
+  "id": "enem-2009-155",
+  "gabarito": "D",
+  "assuntos": [
+    "funcao-quadratica",
+    "equacao-1-grau"
+  ],
+  "habilidade": "H19",
+  "nivel_curador": 3,
+  "resumo": "Modelar a arrecadação V (R$) em função do desconto x (centavos): produto de duas expressões afins.",
+  "resolucao": "**1. Preço por litro com desconto de $x$ centavos:** $1{,}50 - 0{,}01x$ reais, ou seja, $(150 - x)$ centavos.\n\n**2. Litros vendidos:** 100 a mais por centavo de desconto: $10\\,000 + 100x$.\n\n**3. Arrecadação** = preço × quantidade. Em reais:\n$$V = \\frac{150 - x}{100} \\cdot (10\\,000 + 100x) = (150 - x)(100 + x)$$\n\n**4. Expanda:**\n$$V = 15\\,000 + 150x - 100x - x^2 = 15\\,000 + 50x - x^2$$\n\nAlternativa **D**.\n\nTeste com $x = 2$: preço R$ 1,48 × 10 200 L = R$ 15 096; e $15\\,000 + 100 - 4 = 15\\,096$ ✓.",
+  "dicas": {
+    "dica1": "Arrecadação é preço × quantidade. Escreva cada um em função de x antes de multiplicar.",
+    "dica2": "Preço: 1,50 − 0,01x reais. Quantidade: 10 000 + 100x litros. Multiplique e simplifique.",
+    "dica3": "(150 − x)(100 + x) = ? Use o exemplo do enunciado (x = 2 → 15 096) para conferir."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "C",
+      "por_que": "Errou o sinal do termo em x (−50x): trocou o sinal ao multiplicar (150 − x)(100 + x)."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Errou os sinais de x e de x²: tratou como (150 − x)(100 − x)."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Usou 10 000 como arrecadação inicial (confundiu litros com reais): a arrecadação sem desconto é 15 000."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Mesmo erro de A e ainda com x² positivo."
+    }
+  ],
+  "conceitos": [
+    "receita = preço × quantidade",
+    "produto de binômios",
+    "função quadrática"
+  ],
+  "verificacao": {
+    "codigo_sympy": "x = symbols('x')\nV = (Rational(150, 100) - Rational(1, 100)*x) * (10000 + 100*x)\nresultado = expand(V)",
+    "resultado_esperado": "-x**2 + 50*x + 15000",
+    "alternativa_esperada": "D"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "enem-2016-154",
+  "gabarito": "B",
+  "assuntos": [
+    "razao-proporcao"
+  ],
+  "habilidade": "H16",
+  "nivel_curador": 1,
+  "resumo": "Comparar concentrações (razão fibras/pão) de cinco marcas.",
+  "resolucao": "A concentração de fibras é a razão $\\dfrac{\\text{gramas de fibra}}{\\text{gramas de pão}}$. Calcule para cada marca:\n\n| Marca | Razão | Valor |\n|---|---|---|\n| A | $2/50$ | $0{,}04$ |\n| B | $5/40$ | $0{,}125$ |\n| C | $5/100$ | $0{,}05$ |\n| D | $6/90$ | $\\approx 0{,}067$ |\n| E | $7/70$ | $0{,}10$ |\n\nA maior concentração é a da marca **B** ($0{,}125$, ou 12,5 g de fibra a cada 100 g de pão). Alternativa **B**.",
+  "dicas": {
+    "dica1": "Concentração é uma razão: quantidade de fibra dividida pela quantidade de pão. Não compare só os gramas de fibra.",
+    "dica2": "Divida fibra por pão em cada marca (ou leve todas para 'fibra a cada 100 g de pão') e escolha a maior.",
+    "dica3": "A = 0,04; B = 5/40; C = 0,05; D = 6/90; E = 0,10. Qual é a maior?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "E",
+      "por_que": "Escolheu a marca com mais gramas de fibra (7 g), sem dividir pela quantidade de pão."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Escolheu a marca com maior quantidade de pão ou errou a divisão 6/90."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Comparou 5 g de fibra sem notar que são para 100 g de pão (metade da concentração da B)."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Escolheu a menor quantidade de pão achando que isso significa 'mais concentrado', sem fazer a razão."
+    }
+  ],
+  "conceitos": [
+    "razão entre grandezas",
+    "concentração",
+    "comparação de frações"
+  ],
+  "verificacao": {
+    "codigo_sympy": "marcas = {'A': Rational(2,50), 'B': Rational(5,40), 'C': Rational(5,100), 'D': Rational(6,90), 'E': Rational(7,70)}\nresultado = max(marcas, key=marcas.get)",
+    "resultado_esperado": "B",
+    "alternativa_esperada": "B"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

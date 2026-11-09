@@ -1,0 +1,48 @@
+{
+  "id": "enem-2019-168",
+  "gabarito": "D",
+  "assuntos": [
+    "funcao-afim",
+    "equacao-1-grau"
+  ],
+  "habilidade": "H19",
+  "nivel_curador": 2,
+  "resumo": "Montar a expressão do gasto semanal com salários em função do total de funcionários.",
+  "resolucao": "**1. Quem são os funcionários.** São $X$ no total: 1 gerente e $X - 1$ diaristas.\n\n**2. Quanto ganha cada diarista por semana.** 2 dias × R$ 80 = **R$ 160**.\n\n**3. Gasto semanal total.**\n$$Y = 1\\,000 + 160(X - 1) = 1\\,000 + 160X - 160 = 160X + 840$$\n\nAlternativa **D**.\n\nTeste: com $X = 1$ (só o gerente), $Y = 160 + 840 = 1\\,000$ ✓.",
+  "dicas": {
+    "dica1": "X conta TODOS os funcionários, inclusive o gerente. Então o número de diaristas é X − 1.",
+    "dica2": "Cada diarista custa 2 × 80 por semana. Some o gerente: Y = 1 000 + 160(X − 1) e simplifique.",
+    "dica3": "1 000 + 160X − 160 = ?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "E",
+      "por_que": "Usou X diaristas (esqueceu de descontar o gerente): Y = 160X + 1 000."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Usou R$ 80 por semana por diarista (esqueceu os 2 dias) e X diaristas."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Usou R$ 80 por semana e descontou o gerente: 1 000 + 80(X − 1) = 80X + 920."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Somou 80 em vez de subtrair ao ajustar o gerente: 80X + 1 080."
+    }
+  ],
+  "conceitos": [
+    "função afim (parte fixa + parte variável)",
+    "modelagem algébrica",
+    "teste de valores"
+  ],
+  "verificacao": {
+    "codigo_sympy": "X = symbols('X')\nY = 1000 + 2*80*(X - 1)\nresultado = expand(Y)",
+    "resultado_esperado": "160*X + 840",
+    "alternativa_esperada": "D"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

@@ -1,0 +1,15 @@
+# ambiente
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# cache de downloads (zips/CSVs brutos do INEP e respostas da API) — fora do repo
+cache/
+/workspace/gabarita/cache/
+*.zip
+ITENS_PROVA_*.csv
+
+# arquivos de trabalho
+progress.md
+checks.md

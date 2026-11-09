@@ -1,0 +1,47 @@
+{
+  "id": "enem-2013-163",
+  "gabarito": "E",
+  "assuntos": [
+    "porcentagem"
+  ],
+  "habilidade": "H3",
+  "nivel_curador": 2,
+  "resumo": "Desconto adicional de 10% aplicado sobre um preço já remarcado em 20%.",
+  "resolucao": "**1. Preço após a remarcação de 20%.**\n$$50 \\times (1 - 0{,}20) = 50 \\times 0{,}80 = 40$$\nEsse é o preço que o cliente **sem** cartão paga.\n\n**2. Desconto adicional de 10% para quem tem o cartão.** Ele incide sobre o valor **já remarcado** (R$ 40), não sobre os R$ 50 originais:\n$$10\\% \\text{ de } 40 = 0{,}10 \\times 40 = 4$$\n\n**3. Economia adicional** = o que ele deixaria de pagar = **R$ 4,00** (alternativa **E**).",
+  "dicas": {
+    "dica1": "Quando há dois descontos em sequência, o segundo incide sobre o preço já reduzido pelo primeiro.",
+    "dica2": "Ache o preço remarcado (50 menos 20%). A economia extra do cartão é 10% desse novo preço.",
+    "dica3": "50 × 0,8 = 40. Calcule 10% de 40."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Calculou 10% sobre o preço original de R$ 50,00, em vez de sobre o preço remarcado."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Calculou o desconto de 20% (R$ 10,00), que não é a economia adicional do cartão."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Somou os dois descontos (20% + 10% = 30%) e aplicou sobre 50."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Calculou o desconto total com o cartão (50 − 36 = 14), e não só a parte adicional."
+    }
+  ],
+  "conceitos": [
+    "descontos sucessivos",
+    "base de cálculo da porcentagem",
+    "porcentagem de um valor"
+  ],
+  "verificacao": {
+    "codigo_sympy": "remarcado = 50 * Rational(80, 100)\nresultado = Rational(10, 100) * remarcado",
+    "resultado_esperado": "4",
+    "alternativa_esperada": "E"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

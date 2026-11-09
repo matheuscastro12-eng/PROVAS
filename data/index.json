@@ -1,0 +1,8484 @@
+[
+  {
+    "id": "enem-2009-136",
+    "ano": 2009,
+    "numero": 136,
+    "assuntos": [
+      "graficos-tabelas",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H24",
+    "b": 2.10238,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-137",
+    "ano": 2009,
+    "numero": 137,
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H12",
+    "b": 1.28868,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-138",
+    "ano": 2009,
+    "numero": 138,
+    "assuntos": [
+      "graficos-tabelas",
+      "porcentagem",
+      "sequencias-pa"
+    ],
+    "habilidade": "H24",
+    "b": 2.26159,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-139",
+    "ano": 2009,
+    "numero": 139,
+    "assuntos": [
+      "probabilidade",
+      "porcentagem"
+    ],
+    "habilidade": "H28",
+    "b": 2.25808,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-141",
+    "ano": 2009,
+    "numero": 141,
+    "assuntos": [
+      "regra-de-tres",
+      "porcentagem"
+    ],
+    "habilidade": "H23",
+    "b": 0.79745,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-142",
+    "ano": 2009,
+    "numero": 142,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H26",
+    "b": 1.27326,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-143",
+    "ano": 2009,
+    "numero": 143,
+    "assuntos": [
+      "graficos-tabelas",
+      "porcentagem"
+    ],
+    "habilidade": "H24",
+    "b": 2.59979,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-144",
+    "ano": 2009,
+    "numero": 144,
+    "assuntos": [
+      "numeros-operacoes",
+      "equacao-1-grau",
+      "analise-combinatoria"
+    ],
+    "habilidade": "H1",
+    "b": 2.41723,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-145",
+    "ano": 2009,
+    "numero": 145,
+    "assuntos": [
+      "probabilidade",
+      "porcentagem"
+    ],
+    "habilidade": "H29",
+    "b": 2.47568,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-146",
+    "ano": 2009,
+    "numero": 146,
+    "assuntos": [
+      "graficos-tabelas",
+      "razao-proporcao",
+      "estatistica-basica"
+    ],
+    "habilidade": "H26",
+    "b": 1.02663,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-147",
+    "ano": 2009,
+    "numero": 147,
+    "assuntos": [],
+    "habilidade": "H6",
+    "b": 0.13076,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-148",
+    "ano": 2009,
+    "numero": 148,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H24",
+    "b": 3.54917,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-149",
+    "ano": 2009,
+    "numero": 149,
+    "assuntos": [],
+    "habilidade": "H7",
+    "b": -0.96661,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-150",
+    "ano": 2009,
+    "numero": 150,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H27",
+    "b": 1.88587,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-151",
+    "ano": 2009,
+    "numero": 151,
+    "assuntos": [
+      "razao-proporcao"
+    ],
+    "habilidade": "H22",
+    "b": 1.67973,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-152",
+    "ano": 2009,
+    "numero": 152,
+    "assuntos": [
+      "geometria-espacial",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H13",
+    "b": 2.32056,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-153",
+    "ano": 2009,
+    "numero": 153,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H8",
+    "b": 2.24084,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-154",
+    "ano": 2009,
+    "numero": 154,
+    "assuntos": [
+      "razao-proporcao",
+      "semelhanca-pitagoras"
+    ],
+    "habilidade": "H15",
+    "b": 1.44841,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-155",
+    "ano": 2009,
+    "numero": 155,
+    "assuntos": [
+      "funcao-quadratica",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H19",
+    "b": 2.16387,
+    "dificuldade_estimada": "media",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-156",
+    "ano": 2009,
+    "numero": 156,
+    "assuntos": [
+      "sequencias-pa",
+      "numeros-operacoes"
+    ],
+    "habilidade": "H3",
+    "b": 2.27137,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-158",
+    "ano": 2009,
+    "numero": 158,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H11",
+    "b": 3.53111,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-159",
+    "ano": 2009,
+    "numero": 159,
+    "assuntos": [
+      "funcao-afim",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H19",
+    "b": 1.56133,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-160",
+    "ano": 2009,
+    "numero": 160,
+    "assuntos": [
+      "regra-de-tres"
+    ],
+    "habilidade": "H17",
+    "b": 2.00509,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-161",
+    "ano": 2009,
+    "numero": 161,
+    "assuntos": [
+      "estatistica-basica",
+      "equacao-2-grau"
+    ],
+    "habilidade": "H28",
+    "b": 2.70571,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-162",
+    "ano": 2009,
+    "numero": 162,
+    "assuntos": [],
+    "habilidade": "H16",
+    "b": 2.23435,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-163",
+    "ano": 2009,
+    "numero": 163,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-espacial"
+    ],
+    "habilidade": "H12",
+    "b": 1.81383,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-164",
+    "ano": 2009,
+    "numero": 164,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H8",
+    "b": 1.72672,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-165",
+    "ano": 2009,
+    "numero": 165,
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "habilidade": "H2",
+    "b": 2.6823,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-167",
+    "ano": 2009,
+    "numero": 167,
+    "assuntos": [
+      "geometria-plana",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H25",
+    "b": 2.25593,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-168",
+    "ano": 2009,
+    "numero": 168,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H27",
+    "b": 2.61663,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-169",
+    "ano": 2009,
+    "numero": 169,
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana"
+    ],
+    "habilidade": "H18",
+    "b": 1.94141,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-170",
+    "ano": 2009,
+    "numero": 170,
+    "assuntos": [
+      "porcentagem",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H4",
+    "b": 2.75397,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-171",
+    "ano": 2009,
+    "numero": 171,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H30",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-172",
+    "ano": 2009,
+    "numero": 172,
+    "assuntos": [
+      "geometria-espacial",
+      "graficos-tabelas",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H25",
+    "b": 4.28177,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-173",
+    "ano": 2009,
+    "numero": 173,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H14",
+    "b": 2.86692,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-174",
+    "ano": 2009,
+    "numero": 174,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-analitica",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H19",
+    "b": 3.16783,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2009-175",
+    "ano": 2009,
+    "numero": 175,
+    "assuntos": [
+      "porcentagem",
+      "estatistica-basica"
+    ],
+    "habilidade": "H21",
+    "b": 3.26771,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-176",
+    "ano": 2009,
+    "numero": 176,
+    "assuntos": [],
+    "habilidade": "H4",
+    "b": 2.82176,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-177",
+    "ano": 2009,
+    "numero": 177,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H9",
+    "b": 2.71524,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-178",
+    "ano": 2009,
+    "numero": 178,
+    "assuntos": [
+      "matematica-financeira",
+      "porcentagem"
+    ],
+    "habilidade": "H5",
+    "b": 4.00415,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-179",
+    "ano": 2009,
+    "numero": 179,
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana"
+    ],
+    "habilidade": "H13",
+    "b": 2.8116,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2009-180",
+    "ano": 2009,
+    "numero": 180,
+    "assuntos": [
+      "probabilidade",
+      "porcentagem",
+      "razao-proporcao"
+    ],
+    "habilidade": "H30",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2010-136",
+    "ano": 2010,
+    "numero": 136,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H1",
+    "b": -0.7156,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-137",
+    "ano": 2010,
+    "numero": 137,
+    "assuntos": [
+      "razao-proporcao",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H11",
+    "b": 1.29609,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2010-138",
+    "ano": 2010,
+    "numero": 138,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H7",
+    "b": 0.44683,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-139",
+    "ano": 2010,
+    "numero": 139,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H12",
+    "b": 1.20902,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2010-140",
+    "ano": 2010,
+    "numero": 140,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H26",
+    "b": 0.69535,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-141",
+    "ano": 2010,
+    "numero": 141,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H25",
+    "b": 0.26521,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-142",
+    "ano": 2010,
+    "numero": 142,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H15",
+    "b": 0.07302,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-143",
+    "ano": 2010,
+    "numero": 143,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H25",
+    "b": 2.16024,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-144",
+    "ano": 2010,
+    "numero": 144,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H15",
+    "b": 1.35998,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-145",
+    "ano": 2010,
+    "numero": 145,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H24",
+    "b": 0.39544,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-146",
+    "ano": 2010,
+    "numero": 146,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H10",
+    "b": 0.63493,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-147",
+    "ano": 2010,
+    "numero": 147,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H30",
+    "b": 2.53865,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-148",
+    "ano": 2010,
+    "numero": 148,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H20",
+    "b": 0.82689,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-149",
+    "ano": 2010,
+    "numero": 149,
+    "assuntos": [],
+    "habilidade": "H19",
+    "b": 1.55603,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-150",
+    "ano": 2010,
+    "numero": 150,
+    "assuntos": [
+      "funcao-afim",
+      "geometria-plana"
+    ],
+    "habilidade": "H17",
+    "b": 1.33212,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2010-151",
+    "ano": 2010,
+    "numero": 151,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H9",
+    "b": 2.1407,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-152",
+    "ano": 2010,
+    "numero": 152,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H22",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-153",
+    "ano": 2010,
+    "numero": 153,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H14",
+    "b": 2.38859,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-154",
+    "ano": 2010,
+    "numero": 154,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H4",
+    "b": 1.55529,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2010-155",
+    "ano": 2010,
+    "numero": 155,
+    "assuntos": [
+      "equacao-1-grau",
+      "grandezas-unidades-escalas",
+      "regra-de-tres"
+    ],
+    "habilidade": "H3",
+    "b": 2.00592,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2010-156",
+    "ano": 2010,
+    "numero": 156,
+    "assuntos": [],
+    "habilidade": "H6",
+    "b": 2.24774,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-157",
+    "ano": 2010,
+    "numero": 157,
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H12",
+    "b": 2.86431,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2010-158",
+    "ano": 2010,
+    "numero": 158,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H14",
+    "b": 2.17498,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-159",
+    "ano": 2010,
+    "numero": 159,
+    "assuntos": [],
+    "habilidade": "H23",
+    "b": 2.14452,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-160",
+    "ano": 2010,
+    "numero": 160,
+    "assuntos": [
+      "trigonometria",
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H8",
+    "b": 1.89611,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-161",
+    "ano": 2010,
+    "numero": 161,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H7",
+    "b": 1.62614,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-162",
+    "ano": 2010,
+    "numero": 162,
+    "assuntos": [
+      "geometria-plana",
+      "porcentagem"
+    ],
+    "habilidade": "H16",
+    "b": 1.58573,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-163",
+    "ano": 2010,
+    "numero": 163,
+    "assuntos": [
+      "funcao-afim"
+    ],
+    "habilidade": "H19",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-164",
+    "ano": 2010,
+    "numero": 164,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H9",
+    "b": 2.52572,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-165",
+    "ano": 2010,
+    "numero": 165,
+    "assuntos": [],
+    "habilidade": "H21",
+    "b": 3.61504,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-166",
+    "ano": 2010,
+    "numero": 166,
+    "assuntos": [
+      "graficos-tabelas",
+      "funcao-afim",
+      "sequencias-pa"
+    ],
+    "habilidade": "H26",
+    "b": 1.78724,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-167",
+    "ano": 2010,
+    "numero": 167,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H27",
+    "b": 3.42048,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-168",
+    "ano": 2010,
+    "numero": 168,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H8",
+    "b": 3.29443,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-169",
+    "ano": 2010,
+    "numero": 169,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H13",
+    "b": 2.88132,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2010-170",
+    "ano": 2010,
+    "numero": 170,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H29",
+    "b": 1.23246,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-171",
+    "ano": 2010,
+    "numero": 171,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H5",
+    "b": 2.55485,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2010-172",
+    "ano": 2010,
+    "numero": 172,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H5",
+    "b": 2.84072,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2010-173",
+    "ano": 2010,
+    "numero": 173,
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "habilidade": "H4",
+    "b": 3.22047,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-174",
+    "ano": 2010,
+    "numero": 174,
+    "assuntos": [
+      "probabilidade",
+      "estatistica-basica"
+    ],
+    "habilidade": "H28",
+    "b": 1.40573,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-175",
+    "ano": 2010,
+    "numero": 175,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H27",
+    "b": 2.97375,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-176",
+    "ano": 2010,
+    "numero": 176,
+    "assuntos": [
+      "razao-proporcao",
+      "numeros-operacoes"
+    ],
+    "habilidade": "H16",
+    "b": 0.58872,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2010-177",
+    "ano": 2010,
+    "numero": 177,
+    "assuntos": [
+      "geometria-espacial",
+      "numeros-operacoes"
+    ],
+    "habilidade": "H18",
+    "b": 0.94525,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2010-178",
+    "ano": 2010,
+    "numero": 178,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H8",
+    "b": 1.45961,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-179",
+    "ano": 2010,
+    "numero": 179,
+    "assuntos": [
+      "sequencias-pa",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H2",
+    "b": 1.28871,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2010-180",
+    "ano": 2010,
+    "numero": 180,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H24",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-136",
+    "ano": 2011,
+    "numero": 136,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H5",
+    "b": 0.28863,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-137",
+    "ano": 2011,
+    "numero": 137,
+    "assuntos": [],
+    "habilidade": "H21",
+    "b": 2.02812,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-138",
+    "ano": 2011,
+    "numero": 138,
+    "assuntos": [],
+    "habilidade": "H10",
+    "b": 0.55451,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-139",
+    "ano": 2011,
+    "numero": 139,
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "habilidade": "H1",
+    "b": 0.73515,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-140",
+    "ano": 2011,
+    "numero": 140,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H13",
+    "b": 1.4011,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-141",
+    "ano": 2011,
+    "numero": 141,
+    "assuntos": [
+      "regra-de-tres",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H12",
+    "b": 0.80144,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-142",
+    "ano": 2011,
+    "numero": 142,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H27",
+    "b": 1.82815,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-143",
+    "ano": 2011,
+    "numero": 143,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H11",
+    "b": 1.58634,
+    "dificuldade_estimada": "media",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-144",
+    "ano": 2011,
+    "numero": 144,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H7",
+    "b": 2.32577,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-145",
+    "ano": 2011,
+    "numero": 145,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "porcentagem"
+    ],
+    "habilidade": "H17",
+    "b": 1.52176,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-146",
+    "ano": 2011,
+    "numero": 146,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H11",
+    "b": 2.08631,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-148",
+    "ano": 2011,
+    "numero": 148,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H10",
+    "b": 1.31369,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-150",
+    "ano": 2011,
+    "numero": 150,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "funcao-afim"
+    ],
+    "habilidade": "H22",
+    "b": 2.08849,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-154",
+    "ano": 2011,
+    "numero": 154,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H27",
+    "b": 0.9001,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-155",
+    "ano": 2011,
+    "numero": 155,
+    "assuntos": [
+      "geometria-plana",
+      "funcao-quadratica"
+    ],
+    "habilidade": "H8",
+    "b": 2.90487,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-156",
+    "ano": 2011,
+    "numero": 156,
+    "assuntos": [
+      "funcao-afim",
+      "regra-de-tres",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H19",
+    "b": 3.137,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-158",
+    "ano": 2011,
+    "numero": 158,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H25",
+    "b": 2.51656,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-159",
+    "ano": 2011,
+    "numero": 159,
+    "assuntos": [
+      "funcao-afim",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H23",
+    "b": 1.68092,
+    "dificuldade_estimada": "media",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-160",
+    "ano": 2011,
+    "numero": 160,
+    "assuntos": [
+      "porcentagem",
+      "matematica-financeira"
+    ],
+    "habilidade": "H3",
+    "b": 2.37639,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-161",
+    "ano": 2011,
+    "numero": 161,
+    "assuntos": [
+      "razao-proporcao",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H3",
+    "b": 1.47857,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-162",
+    "ano": 2011,
+    "numero": 162,
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "habilidade": "H2",
+    "b": 0.4856,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-163",
+    "ano": 2011,
+    "numero": 163,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H30",
+    "b": 2.36775,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-164",
+    "ano": 2011,
+    "numero": 164,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "razao-proporcao"
+    ],
+    "habilidade": "H16",
+    "b": 1.29983,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-165",
+    "ano": 2011,
+    "numero": 165,
+    "assuntos": [],
+    "habilidade": "H9",
+    "b": 1.2153,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-166",
+    "ano": 2011,
+    "numero": 166,
+    "assuntos": [
+      "razao-proporcao",
+      "porcentagem"
+    ],
+    "habilidade": "H16",
+    "b": 1.0908,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-167",
+    "ano": 2011,
+    "numero": 167,
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas",
+      "geometria-espacial"
+    ],
+    "habilidade": "H12",
+    "b": 2.57501,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-168",
+    "ano": 2011,
+    "numero": 168,
+    "assuntos": [
+      "probabilidade",
+      "equacao-1-grau",
+      "analise-combinatoria"
+    ],
+    "habilidade": "H29",
+    "b": 1.89008,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-169",
+    "ano": 2011,
+    "numero": 169,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H26",
+    "b": 1.86905,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-170",
+    "ano": 2011,
+    "numero": 170,
+    "assuntos": [
+      "probabilidade",
+      "porcentagem"
+    ],
+    "habilidade": "H28",
+    "b": 1.45097,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-172",
+    "ano": 2011,
+    "numero": 172,
+    "assuntos": [],
+    "habilidade": "H6",
+    "b": 0.26671,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-173",
+    "ano": 2011,
+    "numero": 173,
+    "assuntos": [
+      "graficos-tabelas",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H20",
+    "b": 0.04783,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-174",
+    "ano": 2011,
+    "numero": 174,
+    "assuntos": [
+      "analise-combinatoria",
+      "razao-proporcao",
+      "probabilidade"
+    ],
+    "habilidade": "H2",
+    "b": 2.68569,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2011-175",
+    "ano": 2011,
+    "numero": 175,
+    "assuntos": [
+      "graficos-tabelas",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H25",
+    "b": 0.45335,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-176",
+    "ano": 2011,
+    "numero": 176,
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "habilidade": "H24",
+    "b": 1.96767,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-177",
+    "ano": 2011,
+    "numero": 177,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H17",
+    "b": 2.35596,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-178",
+    "ano": 2011,
+    "numero": 178,
+    "assuntos": [],
+    "habilidade": "H19",
+    "b": 1.698,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-179",
+    "ano": 2011,
+    "numero": 179,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "leitura-grafico-funcao",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H15",
+    "b": 1.20709,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2011-180",
+    "ano": 2011,
+    "numero": 180,
+    "assuntos": [
+      "probabilidade",
+      "porcentagem"
+    ],
+    "habilidade": "H21",
+    "b": 1.66527,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-136",
+    "ano": 2012,
+    "numero": 136,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "funcao-afim"
+    ],
+    "habilidade": "H11",
+    "b": 2.214,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-137",
+    "ano": 2012,
+    "numero": 137,
+    "assuntos": [
+      "geometria-plana",
+      "porcentagem"
+    ],
+    "habilidade": "H7",
+    "b": 2.227,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-138",
+    "ano": 2012,
+    "numero": 138,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H3",
+    "b": 2.467,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-139",
+    "ano": 2012,
+    "numero": 139,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": 2.677,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-141",
+    "ano": 2012,
+    "numero": 141,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H19",
+    "b": 1.406,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-142",
+    "ano": 2012,
+    "numero": 142,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H12",
+    "b": 1.306,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-143",
+    "ano": 2012,
+    "numero": 143,
+    "assuntos": [],
+    "habilidade": "H19",
+    "b": 1.267,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-144",
+    "ano": 2012,
+    "numero": 144,
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "habilidade": "H4",
+    "b": 1.071,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-145",
+    "ano": 2012,
+    "numero": 145,
+    "assuntos": [],
+    "habilidade": "H11",
+    "b": 1.286,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-146",
+    "ano": 2012,
+    "numero": 146,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H30",
+    "b": 1.837,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-147",
+    "ano": 2012,
+    "numero": 147,
+    "assuntos": [
+      "geometria-espacial",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H12",
+    "b": 1.515,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-148",
+    "ano": 2012,
+    "numero": 148,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H20",
+    "b": -1.259,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-149",
+    "ano": 2012,
+    "numero": 149,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H7",
+    "b": -0.252,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-150",
+    "ano": 2012,
+    "numero": 150,
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "habilidade": "H3",
+    "b": -0.047,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-151",
+    "ano": 2012,
+    "numero": 151,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H26",
+    "b": 0.46,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-152",
+    "ano": 2012,
+    "numero": 152,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H9",
+    "b": 2.408,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-153",
+    "ano": 2012,
+    "numero": 153,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H6",
+    "b": 2.218,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-154",
+    "ano": 2012,
+    "numero": 154,
+    "assuntos": [],
+    "habilidade": "H13",
+    "b": -0.048,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-155",
+    "ano": 2012,
+    "numero": 155,
+    "assuntos": [
+      "regra-de-tres",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H25",
+    "b": 0.55,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-156",
+    "ano": 2012,
+    "numero": 156,
+    "assuntos": [
+      "leitura-grafico-funcao",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H15",
+    "b": 0.633,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-157",
+    "ano": 2012,
+    "numero": 157,
+    "assuntos": [
+      "razao-proporcao",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H5",
+    "b": 1.628,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-158",
+    "ano": 2012,
+    "numero": 158,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H13",
+    "b": 1.76,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-159",
+    "ano": 2012,
+    "numero": 159,
+    "assuntos": [
+      "regra-de-tres"
+    ],
+    "habilidade": "H14",
+    "b": 1.911,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-160",
+    "ano": 2012,
+    "numero": 160,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H8",
+    "b": 2.062,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-161",
+    "ano": 2012,
+    "numero": 161,
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "habilidade": "H1",
+    "b": 0.603,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-163",
+    "ano": 2012,
+    "numero": 163,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H26",
+    "b": 0.452,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-165",
+    "ano": 2012,
+    "numero": 165,
+    "assuntos": [
+      "geometria-espacial",
+      "funcao-afim"
+    ],
+    "habilidade": "H6",
+    "b": 0.754,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-166",
+    "ano": 2012,
+    "numero": 166,
+    "assuntos": [],
+    "habilidade": "H21",
+    "b": 0.826,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-167",
+    "ano": 2012,
+    "numero": 167,
+    "assuntos": [
+      "razao-proporcao",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H4",
+    "b": 0.956,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-168",
+    "ano": 2012,
+    "numero": 168,
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H21",
+    "b": 2.084,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-169",
+    "ano": 2012,
+    "numero": 169,
+    "assuntos": [
+      "matrizes-sistemas",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H21",
+    "b": 1.953,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-170",
+    "ano": 2012,
+    "numero": 170,
+    "assuntos": [
+      "razao-proporcao",
+      "regra-de-tres",
+      "geometria-plana"
+    ],
+    "habilidade": "H15",
+    "b": 1.851,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-171",
+    "ano": 2012,
+    "numero": 171,
+    "assuntos": [
+      "probabilidade",
+      "numeros-operacoes"
+    ],
+    "habilidade": "H10",
+    "b": 1.659,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-172",
+    "ano": 2012,
+    "numero": 172,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H1",
+    "b": 1.019,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-173",
+    "ano": 2012,
+    "numero": 173,
+    "assuntos": [
+      "razao-proporcao",
+      "regra-de-tres"
+    ],
+    "habilidade": "H16",
+    "b": 0.875,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-174",
+    "ano": 2012,
+    "numero": 174,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H29",
+    "b": 0.795,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-175",
+    "ano": 2012,
+    "numero": 175,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H25",
+    "b": 0.699,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-176",
+    "ano": 2012,
+    "numero": 176,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H27",
+    "b": 3.236,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-177",
+    "ano": 2012,
+    "numero": 177,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H3",
+    "b": 3.255,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-178",
+    "ano": 2012,
+    "numero": 178,
+    "assuntos": [
+      "analise-combinatoria",
+      "probabilidade",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H29",
+    "b": 3.242,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2012-179",
+    "ano": 2012,
+    "numero": 179,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H27",
+    "b": 2.719,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2012-180",
+    "ano": 2012,
+    "numero": 180,
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana",
+      "porcentagem"
+    ],
+    "habilidade": "H17",
+    "b": 2.521,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2013-136",
+    "ano": 2013,
+    "numero": 136,
+    "assuntos": [
+      "geometria-plana",
+      "trigonometria"
+    ],
+    "habilidade": "H9",
+    "b": 2.195,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-137",
+    "ano": 2013,
+    "numero": 137,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H27",
+    "b": 1.86319,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-138",
+    "ano": 2013,
+    "numero": 138,
+    "assuntos": [],
+    "habilidade": "H2",
+    "b": 2.05864,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-139",
+    "ano": 2013,
+    "numero": 139,
+    "assuntos": [
+      "geometria-espacial",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H12",
+    "b": 0.876,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2013-140",
+    "ano": 2013,
+    "numero": 140,
+    "assuntos": [],
+    "habilidade": "H5",
+    "b": 1.39085,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-141",
+    "ano": 2013,
+    "numero": 141,
+    "assuntos": [],
+    "habilidade": "H8",
+    "b": 1.67777,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-142",
+    "ano": 2013,
+    "numero": 142,
+    "assuntos": [],
+    "habilidade": "H26",
+    "b": 2.70479,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-143",
+    "ano": 2013,
+    "numero": 143,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H11",
+    "b": 1.604,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-144",
+    "ano": 2013,
+    "numero": 144,
+    "assuntos": [
+      "graficos-tabelas",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H25",
+    "b": -0.18327,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-145",
+    "ano": 2013,
+    "numero": 145,
+    "assuntos": [
+      "equacao-1-grau",
+      "razao-proporcao"
+    ],
+    "habilidade": "H1",
+    "b": 0.30828,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-146",
+    "ano": 2013,
+    "numero": 146,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": 2.0082,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-147",
+    "ano": 2013,
+    "numero": 147,
+    "assuntos": [],
+    "habilidade": "H4",
+    "b": 0.98993,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-148",
+    "ano": 2013,
+    "numero": 148,
+    "assuntos": [
+      "equacao-1-grau",
+      "razao-proporcao"
+    ],
+    "habilidade": "H16",
+    "b": 1.3,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2013-149",
+    "ano": 2013,
+    "numero": 149,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H24",
+    "b": 0.69759,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-150",
+    "ano": 2013,
+    "numero": 150,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": 2.693,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2013-151",
+    "ano": 2013,
+    "numero": 151,
+    "assuntos": [
+      "geometria-analitica",
+      "geometria-plana",
+      "funcao-quadratica"
+    ],
+    "habilidade": "H20",
+    "b": 1.8758,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-153",
+    "ano": 2013,
+    "numero": 153,
+    "assuntos": [
+      "geometria-plana",
+      "funcao-afim",
+      "geometria-espacial"
+    ],
+    "habilidade": "H19",
+    "b": 1.6,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-154",
+    "ano": 2013,
+    "numero": 154,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H15",
+    "b": 1.44395,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-156",
+    "ano": 2013,
+    "numero": 156,
+    "assuntos": [
+      "analise-combinatoria",
+      "geometria-plana"
+    ],
+    "habilidade": "H15",
+    "b": 1.7685,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2013-157",
+    "ano": 2013,
+    "numero": 157,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H14",
+    "b": 1.94868,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-158",
+    "ano": 2013,
+    "numero": 158,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H3",
+    "b": 1.01952,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2013-159",
+    "ano": 2013,
+    "numero": 159,
+    "assuntos": [
+      "razao-proporcao"
+    ],
+    "habilidade": "H16",
+    "b": 1.15101,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2013-160",
+    "ano": 2013,
+    "numero": 160,
+    "assuntos": [],
+    "habilidade": "H25",
+    "b": 0.77378,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-161",
+    "ano": 2013,
+    "numero": 161,
+    "assuntos": [],
+    "habilidade": "H25",
+    "b": 0.53915,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-162",
+    "ano": 2013,
+    "numero": 162,
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "habilidade": "H27",
+    "b": 4.27919,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-163",
+    "ano": 2013,
+    "numero": 163,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H17",
+    "b": 1.61513,
+    "dificuldade_estimada": "media",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2013-164",
+    "ano": 2013,
+    "numero": 164,
+    "assuntos": [],
+    "habilidade": "H7",
+    "b": 2.5857,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-165",
+    "ano": 2013,
+    "numero": 165,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H2",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-166",
+    "ano": 2013,
+    "numero": 166,
+    "assuntos": [
+      "progressao-geometrica",
+      "porcentagem"
+    ],
+    "habilidade": "H21",
+    "b": 2.19007,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2013-167",
+    "ano": 2013,
+    "numero": 167,
+    "assuntos": [
+      "geometria-plana",
+      "porcentagem"
+    ],
+    "habilidade": "H13",
+    "b": 2.52253,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2013-168",
+    "ano": 2013,
+    "numero": 168,
+    "assuntos": [],
+    "habilidade": "H29",
+    "b": 3.68435,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-169",
+    "ano": 2013,
+    "numero": 169,
+    "assuntos": [],
+    "habilidade": "H30",
+    "b": 2.14272,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-170",
+    "ano": 2013,
+    "numero": 170,
+    "assuntos": [
+      "geometria-espacial",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H12",
+    "b": 1.92982,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2013-171",
+    "ano": 2013,
+    "numero": 171,
+    "assuntos": [],
+    "habilidade": "H19",
+    "b": 2.325,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2013-172",
+    "ano": 2013,
+    "numero": 172,
+    "assuntos": [],
+    "habilidade": "H23",
+    "b": 1.93996,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-173",
+    "ano": 2013,
+    "numero": 173,
+    "assuntos": [],
+    "habilidade": "H3",
+    "b": 2.74384,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2013-174",
+    "ano": 2013,
+    "numero": 174,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-plana"
+    ],
+    "habilidade": "H11",
+    "b": 1.32509,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-175",
+    "ano": 2013,
+    "numero": 175,
+    "assuntos": [
+      "geometria-analitica"
+    ],
+    "habilidade": "H22",
+    "b": 0.94476,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-176",
+    "ano": 2013,
+    "numero": 176,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H7",
+    "b": -0.03256,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-177",
+    "ano": 2013,
+    "numero": 177,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H10",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-178",
+    "ano": 2013,
+    "numero": 178,
+    "assuntos": [
+      "geometria-espacial",
+      "razao-proporcao"
+    ],
+    "habilidade": "H9",
+    "b": 2.406,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2013-179",
+    "ano": 2013,
+    "numero": 179,
+    "assuntos": [],
+    "habilidade": "H8",
+    "b": 2.87014,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-136",
+    "ano": 2014,
+    "numero": 136,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H25",
+    "b": 1.15845,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-137",
+    "ano": 2014,
+    "numero": 137,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H24",
+    "b": 2.45188,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-138",
+    "ano": 2014,
+    "numero": 138,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H26",
+    "b": 0.66623,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-139",
+    "ano": 2014,
+    "numero": 139,
+    "assuntos": [
+      "razao-proporcao"
+    ],
+    "habilidade": "H16",
+    "b": 2.376,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-140",
+    "ano": 2014,
+    "numero": 140,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas",
+      "geometria-espacial"
+    ],
+    "habilidade": "H18",
+    "b": 2.1276,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-141",
+    "ano": 2014,
+    "numero": 141,
+    "assuntos": [
+      "estatistica-basica",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H29",
+    "b": 1.70676,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-142",
+    "ano": 2014,
+    "numero": 142,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "razao-proporcao"
+    ],
+    "habilidade": "H8",
+    "b": 2.05479,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-143",
+    "ano": 2014,
+    "numero": 143,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H20",
+    "b": 2.2941,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-144",
+    "ano": 2014,
+    "numero": 144,
+    "assuntos": [],
+    "habilidade": "H7",
+    "b": 0.57549,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-145",
+    "ano": 2014,
+    "numero": 145,
+    "assuntos": [],
+    "habilidade": "H23",
+    "b": 1.96098,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-146",
+    "ano": 2014,
+    "numero": 146,
+    "assuntos": [],
+    "habilidade": "H2",
+    "b": 3.76906,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-147",
+    "ano": 2014,
+    "numero": 147,
+    "assuntos": [],
+    "habilidade": "H8",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-148",
+    "ano": 2014,
+    "numero": 148,
+    "assuntos": [
+      "funcao-quadratica",
+      "graficos-tabelas",
+      "geometria-analitica"
+    ],
+    "habilidade": "H19",
+    "b": 3.30438,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-149",
+    "ano": 2014,
+    "numero": 149,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H4",
+    "b": 1.16553,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-150",
+    "ano": 2014,
+    "numero": 150,
+    "assuntos": [],
+    "habilidade": "H9",
+    "b": 1.70598,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-151",
+    "ano": 2014,
+    "numero": 151,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H18",
+    "b": 2.24783,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-152",
+    "ano": 2014,
+    "numero": 152,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H18",
+    "b": 1.52355,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-153",
+    "ano": 2014,
+    "numero": 153,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H25",
+    "b": 2.34426,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-154",
+    "ano": 2014,
+    "numero": 154,
+    "assuntos": [],
+    "habilidade": "H17",
+    "b": -0.36006,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-155",
+    "ano": 2014,
+    "numero": 155,
+    "assuntos": [],
+    "habilidade": "H30",
+    "b": 1.53309,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-156",
+    "ano": 2014,
+    "numero": 156,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H11",
+    "b": 1.76537,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-157",
+    "ano": 2014,
+    "numero": 157,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H29",
+    "b": 2.03551,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-158",
+    "ano": 2014,
+    "numero": 158,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H28",
+    "b": 2.98793,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-159",
+    "ano": 2014,
+    "numero": 159,
+    "assuntos": [],
+    "habilidade": "H13",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-160",
+    "ano": 2014,
+    "numero": 160,
+    "assuntos": [],
+    "habilidade": "H6",
+    "b": 1.9954,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-161",
+    "ano": 2014,
+    "numero": 161,
+    "assuntos": [],
+    "habilidade": "H27",
+    "b": 2.237,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-162",
+    "ano": 2014,
+    "numero": 162,
+    "assuntos": [
+      "porcentagem",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H5",
+    "b": 2.32163,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-163",
+    "ano": 2014,
+    "numero": 163,
+    "assuntos": [
+      "analise-combinatoria",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H2",
+    "b": 5.61338,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-164",
+    "ano": 2014,
+    "numero": 164,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": 3.71347,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-165",
+    "ano": 2014,
+    "numero": 165,
+    "assuntos": [
+      "estatistica-basica",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H13",
+    "b": 1.94698,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-166",
+    "ano": 2014,
+    "numero": 166,
+    "assuntos": [],
+    "habilidade": "H20",
+    "b": 1.47277,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-167",
+    "ano": 2014,
+    "numero": 167,
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana"
+    ],
+    "habilidade": "H14",
+    "b": 2.78945,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-168",
+    "ano": 2014,
+    "numero": 168,
+    "assuntos": [
+      "porcentagem",
+      "razao-proporcao"
+    ],
+    "habilidade": "H3",
+    "b": 1.224,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-169",
+    "ano": 2014,
+    "numero": 169,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-plana"
+    ],
+    "habilidade": "H11",
+    "b": 2.527,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-170",
+    "ano": 2014,
+    "numero": 170,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H19",
+    "b": 2.00335,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-171",
+    "ano": 2014,
+    "numero": 171,
+    "assuntos": [],
+    "habilidade": "H3",
+    "b": 0.34727,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-172",
+    "ano": 2014,
+    "numero": 172,
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "habilidade": "H1",
+    "b": -0.40621,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-173",
+    "ano": 2014,
+    "numero": 173,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H10",
+    "b": 1.73128,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-174",
+    "ano": 2014,
+    "numero": 174,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H18",
+    "b": 0.77827,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-175",
+    "ano": 2014,
+    "numero": 175,
+    "assuntos": [
+      "leitura-grafico-funcao"
+    ],
+    "habilidade": "H4",
+    "b": 2.43555,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-176",
+    "ano": 2014,
+    "numero": 176,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H20",
+    "b": 0.48664,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-177",
+    "ano": 2014,
+    "numero": 177,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H16",
+    "b": 2.04929,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2014-178",
+    "ano": 2014,
+    "numero": 178,
+    "assuntos": [],
+    "habilidade": "H14",
+    "b": 1.51223,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-179",
+    "ano": 2014,
+    "numero": 179,
+    "assuntos": [],
+    "habilidade": "H21",
+    "b": 1.8146,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2014-180",
+    "ano": 2014,
+    "numero": 180,
+    "assuntos": [],
+    "habilidade": "H23",
+    "b": 1.88929,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-136",
+    "ano": 2015,
+    "numero": 136,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H24",
+    "b": 2.83932,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-137",
+    "ano": 2015,
+    "numero": 137,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H9",
+    "b": 2.31697,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-138",
+    "ano": 2015,
+    "numero": 138,
+    "assuntos": [
+      "leitura-grafico-funcao"
+    ],
+    "habilidade": "H20",
+    "b": 0.5657,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-139",
+    "ano": 2015,
+    "numero": 139,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "probabilidade",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H1",
+    "b": 0.96427,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-140",
+    "ano": 2015,
+    "numero": 140,
+    "assuntos": [],
+    "habilidade": "H26",
+    "b": -0.42299,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-141",
+    "ano": 2015,
+    "numero": 141,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H14",
+    "b": 2.01353,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-142",
+    "ano": 2015,
+    "numero": 142,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": -0.23853,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-143",
+    "ano": 2015,
+    "numero": 143,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H27",
+    "b": 1.72592,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-144",
+    "ano": 2015,
+    "numero": 144,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H13",
+    "b": 1.68438,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-146",
+    "ano": 2015,
+    "numero": 146,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H14",
+    "b": 1.93082,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-147",
+    "ano": 2015,
+    "numero": 147,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H24",
+    "b": 2.82021,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-148",
+    "ano": 2015,
+    "numero": 148,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H8",
+    "b": 0.94349,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-149",
+    "ano": 2015,
+    "numero": 149,
+    "assuntos": [],
+    "habilidade": "H7",
+    "b": 2.01086,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-150",
+    "ano": 2015,
+    "numero": 150,
+    "assuntos": [
+      "estatistica-basica",
+      "leitura-grafico-funcao"
+    ],
+    "habilidade": "H18",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-151",
+    "ano": 2015,
+    "numero": 151,
+    "assuntos": [],
+    "habilidade": "H30",
+    "b": 4.5172,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-152",
+    "ano": 2015,
+    "numero": 152,
+    "assuntos": [
+      "funcao-afim"
+    ],
+    "habilidade": "H19",
+    "b": 1.8236,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-153",
+    "ano": 2015,
+    "numero": 153,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H9",
+    "b": 1.56733,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-154",
+    "ano": 2015,
+    "numero": 154,
+    "assuntos": [
+      "funcao-afim",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H21",
+    "b": 4.31587,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-155",
+    "ano": 2015,
+    "numero": 155,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H8",
+    "b": 1.80813,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-156",
+    "ano": 2015,
+    "numero": 156,
+    "assuntos": [],
+    "habilidade": "H3",
+    "b": 2.82511,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-157",
+    "ano": 2015,
+    "numero": 157,
+    "assuntos": [],
+    "habilidade": "H10",
+    "b": 2.33098,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-158",
+    "ano": 2015,
+    "numero": 158,
+    "assuntos": [],
+    "habilidade": "H23",
+    "b": 1.06274,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-159",
+    "ano": 2015,
+    "numero": 159,
+    "assuntos": [
+      "equacao-1-grau",
+      "porcentagem"
+    ],
+    "habilidade": "H3",
+    "b": 3.02993,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-160",
+    "ano": 2015,
+    "numero": 160,
+    "assuntos": [],
+    "habilidade": "H11",
+    "b": 1.10396,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-161",
+    "ano": 2015,
+    "numero": 161,
+    "assuntos": [
+      "porcentagem",
+      "geometria-plana"
+    ],
+    "habilidade": "H21",
+    "b": 4.11405,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-162",
+    "ano": 2015,
+    "numero": 162,
+    "assuntos": [],
+    "habilidade": "H5",
+    "b": 2.59319,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-163",
+    "ano": 2015,
+    "numero": 163,
+    "assuntos": [],
+    "habilidade": "H17",
+    "b": 2.59975,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-164",
+    "ano": 2015,
+    "numero": 164,
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "habilidade": "H2",
+    "b": 3.19644,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-165",
+    "ano": 2015,
+    "numero": 165,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H22",
+    "b": 2.40051,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-166",
+    "ano": 2015,
+    "numero": 166,
+    "assuntos": [],
+    "habilidade": "H17",
+    "b": 0.80613,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-167",
+    "ano": 2015,
+    "numero": 167,
+    "assuntos": [],
+    "habilidade": "H7",
+    "b": 2.09956,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-168",
+    "ano": 2015,
+    "numero": 168,
+    "assuntos": [
+      "porcentagem",
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": 3.8793,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-169",
+    "ano": 2015,
+    "numero": 169,
+    "assuntos": [],
+    "habilidade": "H25",
+    "b": 2.04178,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-170",
+    "ano": 2015,
+    "numero": 170,
+    "assuntos": [],
+    "habilidade": "H29",
+    "b": 2.78727,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-171",
+    "ano": 2015,
+    "numero": 171,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H12",
+    "b": 2.81649,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-172",
+    "ano": 2015,
+    "numero": 172,
+    "assuntos": [
+      "geometria-analitica"
+    ],
+    "habilidade": "H6",
+    "b": 2.54329,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-173",
+    "ano": 2015,
+    "numero": 173,
+    "assuntos": [],
+    "habilidade": "H1",
+    "b": 1.26471,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-174",
+    "ano": 2015,
+    "numero": 174,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H23",
+    "b": 3.51933,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-175",
+    "ano": 2015,
+    "numero": 175,
+    "assuntos": [
+      "probabilidade",
+      "geometria-espacial"
+    ],
+    "habilidade": "H19",
+    "b": 2.44217,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-176",
+    "ano": 2015,
+    "numero": 176,
+    "assuntos": [
+      "leitura-grafico-funcao",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H15",
+    "b": -0.39957,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2015-178",
+    "ano": 2015,
+    "numero": 178,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H10",
+    "b": 1.70467,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2015-180",
+    "ano": 2015,
+    "numero": 180,
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "habilidade": "H22",
+    "b": 5.35024,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-136",
+    "ano": 2016,
+    "numero": 136,
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana"
+    ],
+    "habilidade": "H12",
+    "b": 2.11088,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-137",
+    "ano": 2016,
+    "numero": 137,
+    "assuntos": [],
+    "habilidade": "H11",
+    "b": 1.63196,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2016-138",
+    "ano": 2016,
+    "numero": 138,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-plana"
+    ],
+    "habilidade": "H10",
+    "b": 0.5442,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-139",
+    "ano": 2016,
+    "numero": 139,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H20",
+    "b": 1.89621,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-140",
+    "ano": 2016,
+    "numero": 140,
+    "assuntos": [],
+    "habilidade": "H29",
+    "b": 1.86612,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-141",
+    "ano": 2016,
+    "numero": 141,
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "habilidade": "H17",
+    "b": 2.68497,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-142",
+    "ano": 2016,
+    "numero": 142,
+    "assuntos": [],
+    "habilidade": "H8",
+    "b": 1.11684,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-143",
+    "ano": 2016,
+    "numero": 143,
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H14",
+    "b": 2.46663,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-144",
+    "ano": 2016,
+    "numero": 144,
+    "assuntos": [
+      "estatistica-basica",
+      "porcentagem"
+    ],
+    "habilidade": "H29",
+    "b": 0.76944,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-145",
+    "ano": 2016,
+    "numero": 145,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H23",
+    "b": 2.11256,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2016-146",
+    "ano": 2016,
+    "numero": 146,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H5",
+    "b": 1.4705,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2016-147",
+    "ano": 2016,
+    "numero": 147,
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "habilidade": "H2",
+    "b": 2.42336,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-148",
+    "ano": 2016,
+    "numero": 148,
+    "assuntos": [],
+    "habilidade": "H1",
+    "b": 1.52149,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-149",
+    "ano": 2016,
+    "numero": 149,
+    "assuntos": [
+      "funcao-afim",
+      "funcao-quadratica"
+    ],
+    "habilidade": "H26",
+    "b": 1.89258,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-150",
+    "ano": 2016,
+    "numero": 150,
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H15",
+    "b": 2.43323,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-151",
+    "ano": 2016,
+    "numero": 151,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H25",
+    "b": 1.82931,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-152",
+    "ano": 2016,
+    "numero": 152,
+    "assuntos": [
+      "probabilidade",
+      "geometria-plana"
+    ],
+    "habilidade": "H28",
+    "b": 3.74711,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-153",
+    "ano": 2016,
+    "numero": 153,
+    "assuntos": [
+      "estatistica-basica",
+      "razao-proporcao"
+    ],
+    "habilidade": "H28",
+    "b": 0.27904,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-154",
+    "ano": 2016,
+    "numero": 154,
+    "assuntos": [
+      "razao-proporcao"
+    ],
+    "habilidade": "H13",
+    "b": 0.80312,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2016-155",
+    "ano": 2016,
+    "numero": 155,
+    "assuntos": [],
+    "habilidade": "H6",
+    "b": -0.40779,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-156",
+    "ano": 2016,
+    "numero": 156,
+    "assuntos": [
+      "regra-de-tres",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H16",
+    "b": 1.96996,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2016-157",
+    "ano": 2016,
+    "numero": 157,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H27",
+    "b": 0.90583,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-158",
+    "ano": 2016,
+    "numero": 158,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H24",
+    "b": 1.93987,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-159",
+    "ano": 2016,
+    "numero": 159,
+    "assuntos": [],
+    "habilidade": "H30",
+    "b": 2.57525,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2016-160",
+    "ano": 2016,
+    "numero": 160,
+    "assuntos": [
+      "progressao-geometrica"
+    ],
+    "habilidade": "H21",
+    "b": 3.92011,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2016-161",
+    "ano": 2016,
+    "numero": 161,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H8",
+    "b": 2.03775,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-162",
+    "ano": 2016,
+    "numero": 162,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H26",
+    "b": 2.1059,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-163",
+    "ano": 2016,
+    "numero": 163,
+    "assuntos": [],
+    "habilidade": "H3",
+    "b": 2.45335,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2016-164",
+    "ano": 2016,
+    "numero": 164,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H4",
+    "b": 1.84464,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-165",
+    "ano": 2016,
+    "numero": 165,
+    "assuntos": [],
+    "habilidade": "H3",
+    "b": 2.81506,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2016-166",
+    "ano": 2016,
+    "numero": 166,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "funcao-afim",
+      "geometria-plana"
+    ],
+    "habilidade": "H22",
+    "b": 2.64728,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-167",
+    "ano": 2016,
+    "numero": 167,
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H21",
+    "b": 2.63616,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2016-168",
+    "ano": 2016,
+    "numero": 168,
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "habilidade": "H2",
+    "b": 2.59645,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-169",
+    "ano": 2016,
+    "numero": 169,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H18",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-170",
+    "ano": 2016,
+    "numero": 170,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H27",
+    "b": 1.79574,
+    "dificuldade_estimada": "media",
+    "curada": true,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-171",
+    "ano": 2016,
+    "numero": 171,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H25",
+    "b": 3.12558,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-172",
+    "ano": 2016,
+    "numero": 172,
+    "assuntos": [],
+    "habilidade": "H9",
+    "b": 2.80412,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-173",
+    "ano": 2016,
+    "numero": 173,
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "habilidade": "H24",
+    "b": 1.84916,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-174",
+    "ano": 2016,
+    "numero": 174,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H12",
+    "b": 1.90224,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2016-175",
+    "ano": 2016,
+    "numero": 175,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H7",
+    "b": 4.08667,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2016-176",
+    "ano": 2016,
+    "numero": 176,
+    "assuntos": [
+      "leitura-grafico-funcao",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H20",
+    "b": 1.70422,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-177",
+    "ano": 2016,
+    "numero": 177,
+    "assuntos": [
+      "razao-proporcao",
+      "porcentagem"
+    ],
+    "habilidade": "H4",
+    "b": 1.16274,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2016-178",
+    "ano": 2016,
+    "numero": 178,
+    "assuntos": [],
+    "habilidade": "H6",
+    "b": 2.5091,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2016-179",
+    "ano": 2016,
+    "numero": 179,
+    "assuntos": [],
+    "habilidade": "H17",
+    "b": 1.00596,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2016-180",
+    "ano": 2016,
+    "numero": 180,
+    "assuntos": [],
+    "habilidade": "H19",
+    "b": 3.06564,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-136",
+    "ano": 2017,
+    "numero": 136,
+    "assuntos": [
+      "matematica-financeira"
+    ],
+    "habilidade": "H19",
+    "b": 4.14316,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-137",
+    "ano": 2017,
+    "numero": 137,
+    "assuntos": [
+      "matematica-financeira",
+      "progressao-geometrica"
+    ],
+    "habilidade": "H23",
+    "b": 4.65555,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-138",
+    "ano": 2017,
+    "numero": 138,
+    "assuntos": [
+      "porcentagem",
+      "geometria-plana",
+      "trigonometria"
+    ],
+    "habilidade": "H8",
+    "b": 1.59123,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-139",
+    "ano": 2017,
+    "numero": 139,
+    "assuntos": [
+      "leitura-grafico-funcao",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H20",
+    "b": 1.44146,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-140",
+    "ano": 2017,
+    "numero": 140,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H12",
+    "b": 3.70512,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-142",
+    "ano": 2017,
+    "numero": 142,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-espacial"
+    ],
+    "habilidade": "H13",
+    "b": 3.2473,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2017-143",
+    "ano": 2017,
+    "numero": 143,
+    "assuntos": [
+      "analise-combinatoria",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H2",
+    "b": 1.74779,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-144",
+    "ano": 2017,
+    "numero": 144,
+    "assuntos": [
+      "geometria-plana",
+      "razao-proporcao",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H14",
+    "b": 2.44318,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2017-145",
+    "ano": 2017,
+    "numero": 145,
+    "assuntos": [],
+    "habilidade": "H17",
+    "b": 2.03899,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-147",
+    "ano": 2017,
+    "numero": 147,
+    "assuntos": [
+      "graficos-tabelas",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H25",
+    "b": 1.81095,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-148",
+    "ano": 2017,
+    "numero": 148,
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana"
+    ],
+    "habilidade": "H7",
+    "b": 1.34664,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-149",
+    "ano": 2017,
+    "numero": 149,
+    "assuntos": [
+      "probabilidade",
+      "equacao-1-grau",
+      "geometria-plana"
+    ],
+    "habilidade": "H29",
+    "b": 2.41733,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-150",
+    "ano": 2017,
+    "numero": 150,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H9",
+    "b": 1.02866,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-151",
+    "ano": 2017,
+    "numero": 151,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas",
+      "matematica-financeira"
+    ],
+    "habilidade": "H30",
+    "b": 2.07643,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-152",
+    "ano": 2017,
+    "numero": 152,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H15",
+    "b": 2.33706,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-153",
+    "ano": 2017,
+    "numero": 153,
+    "assuntos": [
+      "geometria-plana",
+      "matematica-financeira",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H8",
+    "b": 0.20972,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-154",
+    "ano": 2017,
+    "numero": 154,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H6",
+    "b": 0.13558,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-155",
+    "ano": 2017,
+    "numero": 155,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H29",
+    "b": 3.8013,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-156",
+    "ano": 2017,
+    "numero": 156,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H9",
+    "b": 1.27713,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-157",
+    "ano": 2017,
+    "numero": 157,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H1",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-158",
+    "ano": 2017,
+    "numero": 158,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-espacial"
+    ],
+    "habilidade": "H11",
+    "b": 1.80836,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2017-159",
+    "ano": 2017,
+    "numero": 159,
+    "assuntos": [
+      "analise-combinatoria",
+      "razao-proporcao",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H4",
+    "b": 2.90712,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-160",
+    "ano": 2017,
+    "numero": 160,
+    "assuntos": [
+      "analise-combinatoria",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H3",
+    "b": 1.81579,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-161",
+    "ano": 2017,
+    "numero": 161,
+    "assuntos": [
+      "razao-proporcao",
+      "grandezas-unidades-escalas",
+      "geometria-plana"
+    ],
+    "habilidade": "H21",
+    "b": 2.59593,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-162",
+    "ano": 2017,
+    "numero": 162,
+    "assuntos": [
+      "funcao-quadratica",
+      "equacao-1-grau",
+      "geometria-analitica"
+    ],
+    "habilidade": "H22",
+    "b": 2.51063,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2017-163",
+    "ano": 2017,
+    "numero": 163,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H4",
+    "b": 0.97568,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-164",
+    "ano": 2017,
+    "numero": 164,
+    "assuntos": [
+      "razao-proporcao",
+      "regra-de-tres",
+      "porcentagem"
+    ],
+    "habilidade": "H16",
+    "b": 2.77172,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2017-165",
+    "ano": 2017,
+    "numero": 165,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H26",
+    "b": 3.62845,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-166",
+    "ano": 2017,
+    "numero": 166,
+    "assuntos": [],
+    "habilidade": "H19",
+    "b": 2.85105,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-167",
+    "ano": 2017,
+    "numero": 167,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H12",
+    "b": 1.33784,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-168",
+    "ano": 2017,
+    "numero": 168,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H21",
+    "b": 2.40148,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-169",
+    "ano": 2017,
+    "numero": 169,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H26",
+    "b": 1.89557,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-170",
+    "ano": 2017,
+    "numero": 170,
+    "assuntos": [
+      "graficos-tabelas",
+      "leitura-grafico-funcao"
+    ],
+    "habilidade": "H1",
+    "b": 1.9432,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-171",
+    "ano": 2017,
+    "numero": 171,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-plana"
+    ],
+    "habilidade": "H22",
+    "b": 2.41844,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-172",
+    "ano": 2017,
+    "numero": 172,
+    "assuntos": [],
+    "habilidade": "H25",
+    "b": 1.55638,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-173",
+    "ano": 2017,
+    "numero": 173,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H10",
+    "b": 1.89833,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2017-174",
+    "ano": 2017,
+    "numero": 174,
+    "assuntos": [
+      "porcentagem",
+      "estatistica-basica"
+    ],
+    "habilidade": "H27",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-175",
+    "ano": 2017,
+    "numero": 175,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": 3.04331,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-176",
+    "ano": 2017,
+    "numero": 176,
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H18",
+    "b": 3.01649,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2017-177",
+    "ano": 2017,
+    "numero": 177,
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "habilidade": "H5",
+    "b": 1.76214,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-178",
+    "ano": 2017,
+    "numero": 178,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H24",
+    "b": 0.58108,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2017-179",
+    "ano": 2017,
+    "numero": 179,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": 2.68705,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2017-180",
+    "ano": 2017,
+    "numero": 180,
+    "assuntos": [],
+    "habilidade": "H16",
+    "b": 2.44593,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-137",
+    "ano": 2018,
+    "numero": 137,
+    "assuntos": [
+      "matematica-financeira",
+      "porcentagem"
+    ],
+    "habilidade": "H18",
+    "b": 3.8538,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-138",
+    "ano": 2018,
+    "numero": 138,
+    "assuntos": [
+      "geometria-analitica",
+      "funcao-quadratica",
+      "equacao-2-grau"
+    ],
+    "habilidade": "H22",
+    "b": 2.95,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-139",
+    "ano": 2018,
+    "numero": 139,
+    "assuntos": [
+      "numeros-operacoes",
+      "geometria-plana"
+    ],
+    "habilidade": "H26",
+    "b": 3.31311,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-141",
+    "ano": 2018,
+    "numero": 141,
+    "assuntos": [
+      "sequencias-pa",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H3",
+    "b": 2.6677,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-143",
+    "ano": 2018,
+    "numero": 143,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H16",
+    "b": 1.86899,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-144",
+    "ano": 2018,
+    "numero": 144,
+    "assuntos": [
+      "probabilidade",
+      "geometria-plana"
+    ],
+    "habilidade": "H5",
+    "b": 1.1564,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-145",
+    "ano": 2018,
+    "numero": 145,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H27",
+    "b": 1.80201,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-146",
+    "ano": 2018,
+    "numero": 146,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "estatistica-basica"
+    ],
+    "habilidade": "H10",
+    "b": 1.36143,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-147",
+    "ano": 2018,
+    "numero": 147,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H4",
+    "b": 1.34943,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-148",
+    "ano": 2018,
+    "numero": 148,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H19",
+    "b": 2.05264,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-149",
+    "ano": 2018,
+    "numero": 149,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H14",
+    "b": 2.32157,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-150",
+    "ano": 2018,
+    "numero": 150,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H29",
+    "b": 3.47775,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-151",
+    "ano": 2018,
+    "numero": 151,
+    "assuntos": [
+      "geometria-plana",
+      "razao-proporcao"
+    ],
+    "habilidade": "H23",
+    "b": 3.31893,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-152",
+    "ano": 2018,
+    "numero": 152,
+    "assuntos": [
+      "graficos-tabelas",
+      "geometria-plana",
+      "probabilidade"
+    ],
+    "habilidade": "H20",
+    "b": 2.94242,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-153",
+    "ano": 2018,
+    "numero": 153,
+    "assuntos": [
+      "geometria-plana",
+      "trigonometria"
+    ],
+    "habilidade": "H8",
+    "b": 2.89341,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-154",
+    "ano": 2018,
+    "numero": 154,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H30",
+    "b": 3.44272,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-155",
+    "ano": 2018,
+    "numero": 155,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H7",
+    "b": 1.64983,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-156",
+    "ano": 2018,
+    "numero": 156,
+    "assuntos": [
+      "probabilidade",
+      "estatistica-basica",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H29",
+    "b": 3.72556,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-157",
+    "ano": 2018,
+    "numero": 157,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H11",
+    "b": 1.98197,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-158",
+    "ano": 2018,
+    "numero": 158,
+    "assuntos": [
+      "geometria-plana",
+      "porcentagem",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H5",
+    "b": 2.90397,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-159",
+    "ano": 2018,
+    "numero": 159,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H9",
+    "b": 0.1217,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-160",
+    "ano": 2018,
+    "numero": 160,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H27",
+    "b": 1.54995,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-161",
+    "ano": 2018,
+    "numero": 161,
+    "assuntos": [
+      "equacao-1-grau",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H22",
+    "b": 3.45729,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-162",
+    "ano": 2018,
+    "numero": 162,
+    "assuntos": [
+      "sequencias-pa",
+      "probabilidade"
+    ],
+    "habilidade": "H2",
+    "b": 1.6332,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-163",
+    "ano": 2018,
+    "numero": 163,
+    "assuntos": [],
+    "habilidade": "H4",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-164",
+    "ano": 2018,
+    "numero": 164,
+    "assuntos": [
+      "sequencias-pa",
+      "numeros-operacoes"
+    ],
+    "habilidade": "H3",
+    "b": 1.57022,
+    "dificuldade_estimada": "media",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-165",
+    "ano": 2018,
+    "numero": 165,
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "habilidade": "H2",
+    "b": 2.97454,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-166",
+    "ano": 2018,
+    "numero": 166,
+    "assuntos": [
+      "porcentagem",
+      "estatistica-basica"
+    ],
+    "habilidade": "H28",
+    "b": 1.86549,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-167",
+    "ano": 2018,
+    "numero": 167,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": 1.87774,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-168",
+    "ano": 2018,
+    "numero": 168,
+    "assuntos": [
+      "graficos-tabelas",
+      "porcentagem"
+    ],
+    "habilidade": "H24",
+    "b": 1.27294,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-169",
+    "ano": 2018,
+    "numero": 169,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H11",
+    "b": 3.02425,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-170",
+    "ano": 2018,
+    "numero": 170,
+    "assuntos": [
+      "funcao-afim"
+    ],
+    "habilidade": "H19",
+    "b": 2.08891,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-171",
+    "ano": 2018,
+    "numero": 171,
+    "assuntos": [
+      "estatistica-basica",
+      "geometria-plana"
+    ],
+    "habilidade": "H6",
+    "b": 1.50312,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-172",
+    "ano": 2018,
+    "numero": 172,
+    "assuntos": [
+      "razao-proporcao",
+      "estatistica-basica",
+      "sequencias-pa"
+    ],
+    "habilidade": "H25",
+    "b": 0.88381,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-173",
+    "ano": 2018,
+    "numero": 173,
+    "assuntos": [
+      "sequencias-pa",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H15",
+    "b": 3.86545,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-174",
+    "ano": 2018,
+    "numero": 174,
+    "assuntos": [
+      "geometria-plana",
+      "razao-proporcao",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H17",
+    "b": 3.58175,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-175",
+    "ano": 2018,
+    "numero": 175,
+    "assuntos": [
+      "matematica-financeira",
+      "porcentagem"
+    ],
+    "habilidade": "H21",
+    "b": 3.02371,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-176",
+    "ano": 2018,
+    "numero": 176,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H26",
+    "b": 2.03259,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-177",
+    "ano": 2018,
+    "numero": 177,
+    "assuntos": [
+      "graficos-tabelas",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H25",
+    "b": 1.44943,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-178",
+    "ano": 2018,
+    "numero": 178,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H21",
+    "b": 3.008,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2018-179",
+    "ano": 2018,
+    "numero": 179,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H8",
+    "b": 1.89084,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2018-180",
+    "ano": 2018,
+    "numero": 180,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H12",
+    "b": 4.77908,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-136",
+    "ano": 2019,
+    "numero": 136,
+    "assuntos": [],
+    "habilidade": "H6",
+    "b": 0.88644,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-137",
+    "ano": 2019,
+    "numero": 137,
+    "assuntos": [
+      "numeros-operacoes",
+      "progressao-geometrica"
+    ],
+    "habilidade": "H21",
+    "b": 2.217,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-138",
+    "ano": 2019,
+    "numero": 138,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H5",
+    "b": 1.61606,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-139",
+    "ano": 2019,
+    "numero": 139,
+    "assuntos": [
+      "geometria-espacial",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H15",
+    "b": 3.05197,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-140",
+    "ano": 2019,
+    "numero": 140,
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "habilidade": "H1",
+    "b": 0.4293,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-142",
+    "ano": 2019,
+    "numero": 142,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H9",
+    "b": 1.98685,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-143",
+    "ano": 2019,
+    "numero": 143,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H20",
+    "b": 0.80679,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-144",
+    "ano": 2019,
+    "numero": 144,
+    "assuntos": [
+      "matrizes-sistemas",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H1",
+    "b": 0.37213,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-145",
+    "ano": 2019,
+    "numero": 145,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H14",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-146",
+    "ano": 2019,
+    "numero": 146,
+    "assuntos": [
+      "graficos-tabelas",
+      "porcentagem"
+    ],
+    "habilidade": "H26",
+    "b": 1.92868,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-147",
+    "ano": 2019,
+    "numero": 147,
+    "assuntos": [
+      "geometria-plana",
+      "analise-combinatoria"
+    ],
+    "habilidade": "H12",
+    "b": 1.94549,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-148",
+    "ano": 2019,
+    "numero": 148,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "porcentagem"
+    ],
+    "habilidade": "H12",
+    "b": 0.47926,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-149",
+    "ano": 2019,
+    "numero": 149,
+    "assuntos": [
+      "graficos-tabelas",
+      "analise-combinatoria"
+    ],
+    "habilidade": "H24",
+    "b": 2.11115,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-150",
+    "ano": 2019,
+    "numero": 150,
+    "assuntos": [
+      "matematica-financeira",
+      "porcentagem"
+    ],
+    "habilidade": "H23",
+    "b": 1.53793,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-151",
+    "ano": 2019,
+    "numero": 151,
+    "assuntos": [
+      "razao-proporcao",
+      "matematica-financeira"
+    ],
+    "habilidade": "H16",
+    "b": 3.01267,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-152",
+    "ano": 2019,
+    "numero": 152,
+    "assuntos": [
+      "regra-de-tres",
+      "razao-proporcao"
+    ],
+    "habilidade": "H16",
+    "b": 1.24447,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-153",
+    "ano": 2019,
+    "numero": 153,
+    "assuntos": [
+      "matematica-financeira",
+      "porcentagem",
+      "regra-de-tres"
+    ],
+    "habilidade": "H3",
+    "b": 2.35696,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-154",
+    "ano": 2019,
+    "numero": 154,
+    "assuntos": [
+      "estatistica-basica",
+      "progressao-geometrica",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H21",
+    "b": 2.05336,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-155",
+    "ano": 2019,
+    "numero": 155,
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "habilidade": "H2",
+    "b": 3.78057,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-156",
+    "ano": 2019,
+    "numero": 156,
+    "assuntos": [
+      "analise-combinatoria",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H3",
+    "b": 2.61221,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-157",
+    "ano": 2019,
+    "numero": 157,
+    "assuntos": [
+      "geometria-espacial",
+      "razao-proporcao"
+    ],
+    "habilidade": "H7",
+    "b": 2.42062,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-158",
+    "ano": 2019,
+    "numero": 158,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "razao-proporcao"
+    ],
+    "habilidade": "H11",
+    "b": 1.31578,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-159",
+    "ano": 2019,
+    "numero": 159,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H30",
+    "b": 1.41653,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-160",
+    "ano": 2019,
+    "numero": 160,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H28",
+    "b": 1.95289,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-161",
+    "ano": 2019,
+    "numero": 161,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas",
+      "geometria-espacial"
+    ],
+    "habilidade": "H27",
+    "b": 1.87878,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-162",
+    "ano": 2019,
+    "numero": 162,
+    "assuntos": [
+      "graficos-tabelas",
+      "numeros-operacoes"
+    ],
+    "habilidade": "H10",
+    "b": 2.48432,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-163",
+    "ano": 2019,
+    "numero": 163,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "funcao-quadratica"
+    ],
+    "habilidade": "H4",
+    "b": 1.95818,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-164",
+    "ano": 2019,
+    "numero": 164,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H13",
+    "b": 1.40103,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-165",
+    "ano": 2019,
+    "numero": 165,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H19",
+    "b": 1.47023,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-166",
+    "ano": 2019,
+    "numero": 166,
+    "assuntos": [],
+    "habilidade": "H8",
+    "b": 2.72201,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-167",
+    "ano": 2019,
+    "numero": 167,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H29",
+    "b": 2.957,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-168",
+    "ano": 2019,
+    "numero": 168,
+    "assuntos": [
+      "funcao-afim",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H19",
+    "b": 1.51757,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-169",
+    "ano": 2019,
+    "numero": 169,
+    "assuntos": [
+      "geometria-plana",
+      "graficos-tabelas",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H9",
+    "b": 1.98136,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-170",
+    "ano": 2019,
+    "numero": 170,
+    "assuntos": [
+      "geometria-espacial",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H14",
+    "b": 2.01615,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-171",
+    "ano": 2019,
+    "numero": 171,
+    "assuntos": [
+      "analise-combinatoria",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H2",
+    "b": 1.93449,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-172",
+    "ano": 2019,
+    "numero": 172,
+    "assuntos": [
+      "graficos-tabelas",
+      "estatistica-basica"
+    ],
+    "habilidade": "H25",
+    "b": 3.003,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-173",
+    "ano": 2019,
+    "numero": 173,
+    "assuntos": [
+      "porcentagem",
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": 1.91179,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-174",
+    "ano": 2019,
+    "numero": 174,
+    "assuntos": [
+      "porcentagem",
+      "equacao-1-grau",
+      "razao-proporcao"
+    ],
+    "habilidade": "H26",
+    "b": 3.34343,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-175",
+    "ano": 2019,
+    "numero": 175,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H8",
+    "b": 2.30004,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-176",
+    "ano": 2019,
+    "numero": 176,
+    "assuntos": [
+      "porcentagem",
+      "geometria-plana"
+    ],
+    "habilidade": "H18",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2019-177",
+    "ano": 2019,
+    "numero": 177,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "numeros-operacoes",
+      "probabilidade"
+    ],
+    "habilidade": "H21",
+    "b": 1.63345,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-178",
+    "ano": 2019,
+    "numero": 178,
+    "assuntos": [
+      "graficos-tabelas",
+      "razao-proporcao",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H25",
+    "b": 2.8894,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-179",
+    "ano": 2019,
+    "numero": 179,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "graficos-tabelas",
+      "sequencias-pa"
+    ],
+    "habilidade": "H20",
+    "b": 1.15345,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2019-180",
+    "ano": 2019,
+    "numero": 180,
+    "assuntos": [
+      "porcentagem",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H4",
+    "b": 1.1667,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-136",
+    "ano": 2020,
+    "numero": 136,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H18",
+    "b": 2.33109,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-137",
+    "ano": 2020,
+    "numero": 137,
+    "assuntos": [
+      "equacao-1-grau",
+      "razao-proporcao"
+    ],
+    "habilidade": "H1",
+    "b": -0.08552,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-138",
+    "ano": 2020,
+    "numero": 138,
+    "assuntos": [
+      "geometria-espacial",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H11",
+    "b": 3.34168,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2020-139",
+    "ano": 2020,
+    "numero": 139,
+    "assuntos": [
+      "razao-proporcao"
+    ],
+    "habilidade": "H26",
+    "b": 0.62447,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-140",
+    "ano": 2020,
+    "numero": 140,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H13",
+    "b": 2.23254,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2020-141",
+    "ano": 2020,
+    "numero": 141,
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "habilidade": "H3",
+    "b": 2.6803,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2020-142",
+    "ano": 2020,
+    "numero": 142,
+    "assuntos": [
+      "probabilidade",
+      "porcentagem"
+    ],
+    "habilidade": "H28",
+    "b": 0.99371,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-143",
+    "ano": 2020,
+    "numero": 143,
+    "assuntos": [
+      "graficos-tabelas",
+      "porcentagem",
+      "razao-proporcao"
+    ],
+    "habilidade": "H24",
+    "b": 1.9226,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-145",
+    "ano": 2020,
+    "numero": 145,
+    "assuntos": [
+      "geometria-espacial",
+      "grandezas-unidades-escalas",
+      "geometria-plana"
+    ],
+    "habilidade": "H11",
+    "b": 2.49854,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-146",
+    "ano": 2020,
+    "numero": 146,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "leitura-grafico-funcao"
+    ],
+    "habilidade": "H21",
+    "b": 2.86173,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-147",
+    "ano": 2020,
+    "numero": 147,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H10",
+    "b": 2.77688,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-148",
+    "ano": 2020,
+    "numero": 148,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H25",
+    "b": 0.8958,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-149",
+    "ano": 2020,
+    "numero": 149,
+    "assuntos": [
+      "sequencias-pa",
+      "estatistica-basica",
+      "progressao-geometrica"
+    ],
+    "habilidade": "H19",
+    "b": 2.82281,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-151",
+    "ano": 2020,
+    "numero": 151,
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana"
+    ],
+    "habilidade": "H7",
+    "b": 1.89021,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2020-153",
+    "ano": 2020,
+    "numero": 153,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H17",
+    "b": 0.84339,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-154",
+    "ano": 2020,
+    "numero": 154,
+    "assuntos": [
+      "numeros-operacoes",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H1",
+    "b": 2.31084,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-155",
+    "ano": 2020,
+    "numero": 155,
+    "assuntos": [
+      "sequencias-pa",
+      "geometria-plana"
+    ],
+    "habilidade": "H2",
+    "b": 1.34028,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-156",
+    "ano": 2020,
+    "numero": 156,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H26",
+    "b": 1.08171,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-157",
+    "ano": 2020,
+    "numero": 157,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-158",
+    "ano": 2020,
+    "numero": 158,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H3",
+    "b": 3.29884,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-159",
+    "ano": 2020,
+    "numero": 159,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H4",
+    "b": 2.50648,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-160",
+    "ano": 2020,
+    "numero": 160,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-espacial"
+    ],
+    "habilidade": "H18",
+    "b": 2.40752,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2020-161",
+    "ano": 2020,
+    "numero": 161,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H8",
+    "b": 2.18033,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-162",
+    "ano": 2020,
+    "numero": 162,
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas",
+      "porcentagem"
+    ],
+    "habilidade": "H9",
+    "b": 1.73587,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-163",
+    "ano": 2020,
+    "numero": 163,
+    "assuntos": [
+      "analise-combinatoria",
+      "probabilidade"
+    ],
+    "habilidade": "H2",
+    "b": 2.17738,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-164",
+    "ano": 2020,
+    "numero": 164,
+    "assuntos": [
+      "regra-de-tres",
+      "graficos-tabelas",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H20",
+    "b": 0.44069,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-165",
+    "ano": 2020,
+    "numero": 165,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H30",
+    "b": 2.82961,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2020-166",
+    "ano": 2020,
+    "numero": 166,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H15",
+    "b": 2.03367,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-167",
+    "ano": 2020,
+    "numero": 167,
+    "assuntos": [
+      "porcentagem",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H5",
+    "b": 1.15438,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-169",
+    "ano": 2020,
+    "numero": 169,
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "habilidade": "H3",
+    "b": 1.65188,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2020-170",
+    "ano": 2020,
+    "numero": 170,
+    "assuntos": [
+      "matematica-financeira",
+      "numeros-operacoes"
+    ],
+    "habilidade": "H23",
+    "b": 2.10949,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-171",
+    "ano": 2020,
+    "numero": 171,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H9",
+    "b": 1.93473,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-172",
+    "ano": 2020,
+    "numero": 172,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H14",
+    "b": 1.76976,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-173",
+    "ano": 2020,
+    "numero": 173,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "funcao-quadratica"
+    ],
+    "habilidade": "H14",
+    "b": 3.0197,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-174",
+    "ano": 2020,
+    "numero": 174,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-plana"
+    ],
+    "habilidade": "H13",
+    "b": 1.60311,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-175",
+    "ano": 2020,
+    "numero": 175,
+    "assuntos": [
+      "porcentagem",
+      "leitura-grafico-funcao",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H20",
+    "b": 1.15201,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-176",
+    "ano": 2020,
+    "numero": 176,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H7",
+    "b": 0.84968,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-177",
+    "ano": 2020,
+    "numero": 177,
+    "assuntos": [],
+    "habilidade": "H6",
+    "b": -0.40358,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2020-178",
+    "ano": 2020,
+    "numero": 178,
+    "assuntos": [
+      "probabilidade",
+      "estatistica-basica"
+    ],
+    "habilidade": "H29",
+    "b": 1.1092,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2020-180",
+    "ano": 2020,
+    "numero": 180,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H27",
+    "b": 1.33416,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-136",
+    "ano": 2021,
+    "numero": 136,
+    "assuntos": [
+      "equacao-2-grau",
+      "sequencias-pa"
+    ],
+    "habilidade": "H2",
+    "b": 1.73939,
+    "dificuldade_estimada": "media",
+    "curada": true,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-137",
+    "ano": 2021,
+    "numero": 137,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H6",
+    "b": 4.78322,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-139",
+    "ano": 2021,
+    "numero": 139,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H29",
+    "b": 0.5697,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-141",
+    "ano": 2021,
+    "numero": 141,
+    "assuntos": [
+      "porcentagem",
+      "funcao-afim"
+    ],
+    "habilidade": "H19",
+    "b": 1.59278,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2021-142",
+    "ano": 2021,
+    "numero": 142,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H30",
+    "b": 2.88467,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2021-143",
+    "ano": 2021,
+    "numero": 143,
+    "assuntos": [
+      "graficos-tabelas",
+      "geometria-espacial"
+    ],
+    "habilidade": "H26",
+    "b": 0.94544,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-144",
+    "ano": 2021,
+    "numero": 144,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H27",
+    "b": 1.47451,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-145",
+    "ano": 2021,
+    "numero": 145,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H28",
+    "b": 2.47483,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-146",
+    "ano": 2021,
+    "numero": 146,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H28",
+    "b": 1.93237,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2021-147",
+    "ano": 2021,
+    "numero": 147,
+    "assuntos": [
+      "graficos-tabelas",
+      "leitura-grafico-funcao",
+      "estatistica-basica"
+    ],
+    "habilidade": "H25",
+    "b": 1.0645,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-148",
+    "ano": 2021,
+    "numero": 148,
+    "assuntos": [
+      "estatistica-basica",
+      "grandezas-unidades-escalas",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H27",
+    "b": 1.46799,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-150",
+    "ano": 2021,
+    "numero": 150,
+    "assuntos": [
+      "graficos-tabelas",
+      "leitura-grafico-funcao",
+      "porcentagem"
+    ],
+    "habilidade": "H25",
+    "b": 1.68956,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-151",
+    "ano": 2021,
+    "numero": 151,
+    "assuntos": [
+      "graficos-tabelas",
+      "porcentagem"
+    ],
+    "habilidade": "H26",
+    "b": 1.95839,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-152",
+    "ano": 2021,
+    "numero": 152,
+    "assuntos": [
+      "equacao-1-grau",
+      "funcao-quadratica",
+      "equacao-2-grau"
+    ],
+    "habilidade": "H21",
+    "b": 4.96788,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-153",
+    "ano": 2021,
+    "numero": 153,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H11",
+    "b": 1.53236,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-154",
+    "ano": 2021,
+    "numero": 154,
+    "assuntos": [
+      "graficos-tabelas",
+      "grandezas-unidades-escalas",
+      "estatistica-basica"
+    ],
+    "habilidade": "H24",
+    "b": 2.43343,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-155",
+    "ano": 2021,
+    "numero": 155,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H18",
+    "b": 1.91314,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-156",
+    "ano": 2021,
+    "numero": 156,
+    "assuntos": [
+      "trigonometria",
+      "funcao-afim",
+      "geometria-analitica"
+    ],
+    "habilidade": "H20",
+    "b": 2.33151,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-157",
+    "ano": 2021,
+    "numero": 157,
+    "assuntos": [
+      "matrizes-sistemas",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H4",
+    "b": 2.38315,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-158",
+    "ano": 2021,
+    "numero": 158,
+    "assuntos": [
+      "porcentagem",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H16",
+    "b": 2.3852,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2021-159",
+    "ano": 2021,
+    "numero": 159,
+    "assuntos": [
+      "regra-de-tres"
+    ],
+    "habilidade": "H16",
+    "b": 2.34886,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2021-160",
+    "ano": 2021,
+    "numero": 160,
+    "assuntos": [
+      "razao-proporcao",
+      "numeros-operacoes"
+    ],
+    "habilidade": "H17",
+    "b": 1.0422,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2021-161",
+    "ano": 2021,
+    "numero": 161,
+    "assuntos": [
+      "razao-proporcao",
+      "graficos-tabelas",
+      "porcentagem"
+    ],
+    "habilidade": "H15",
+    "b": 2.10496,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-162",
+    "ano": 2021,
+    "numero": 162,
+    "assuntos": [
+      "graficos-tabelas",
+      "leitura-grafico-funcao",
+      "porcentagem"
+    ],
+    "habilidade": "H15",
+    "b": 1.27898,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-163",
+    "ano": 2021,
+    "numero": 163,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H10",
+    "b": 2.21305,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-164",
+    "ano": 2021,
+    "numero": 164,
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "habilidade": "H22",
+    "b": 0.77599,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-165",
+    "ano": 2021,
+    "numero": 165,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H12",
+    "b": 2.09992,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2021-166",
+    "ano": 2021,
+    "numero": 166,
+    "assuntos": [
+      "equacao-1-grau",
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H9",
+    "b": 1.82229,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2021-167",
+    "ano": 2021,
+    "numero": 167,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H14",
+    "b": 1.94018,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-168",
+    "ano": 2021,
+    "numero": 168,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H7",
+    "b": 2.16194,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-169",
+    "ano": 2021,
+    "numero": 169,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H8",
+    "b": 2.23062,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-170",
+    "ano": 2021,
+    "numero": 170,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H8",
+    "b": 2.40851,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-171",
+    "ano": 2021,
+    "numero": 171,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H13",
+    "b": 1.88581,
+    "dificuldade_estimada": "media",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2021-172",
+    "ano": 2021,
+    "numero": 172,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H4",
+    "b": 1.49877,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-173",
+    "ano": 2021,
+    "numero": 173,
+    "assuntos": [
+      "equacao-1-grau",
+      "numeros-operacoes"
+    ],
+    "habilidade": "H4",
+    "b": 1.37865,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2021-174",
+    "ano": 2021,
+    "numero": 174,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H5",
+    "b": 1.30326,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-175",
+    "ano": 2021,
+    "numero": 175,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H7",
+    "b": 1.59921,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-176",
+    "ano": 2021,
+    "numero": 176,
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "habilidade": "H1",
+    "b": 1.21252,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2021-177",
+    "ano": 2021,
+    "numero": 177,
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "habilidade": "H1",
+    "b": 1.4025,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-178",
+    "ano": 2021,
+    "numero": 178,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H3",
+    "b": 1.21452,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2021-179",
+    "ano": 2021,
+    "numero": 179,
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "habilidade": "H2",
+    "b": 1.87459,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2021-180",
+    "ano": 2021,
+    "numero": 180,
+    "assuntos": [
+      "geometria-espacial",
+      "analise-combinatoria"
+    ],
+    "habilidade": "H3",
+    "b": 1.71637,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-136",
+    "ano": 2022,
+    "numero": 136,
+    "assuntos": [
+      "graficos-tabelas",
+      "leitura-grafico-funcao"
+    ],
+    "habilidade": "H25",
+    "b": 2.40899,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-137",
+    "ano": 2022,
+    "numero": 137,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": 4.65334,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-138",
+    "ano": 2022,
+    "numero": 138,
+    "assuntos": [
+      "estatistica-basica",
+      "equacao-1-grau",
+      "porcentagem"
+    ],
+    "habilidade": "H27",
+    "b": 2.27556,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-139",
+    "ano": 2022,
+    "numero": 139,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H11",
+    "b": 2.86025,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-140",
+    "ano": 2022,
+    "numero": 140,
+    "assuntos": [],
+    "habilidade": "H3",
+    "b": 3.30111,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-141",
+    "ano": 2022,
+    "numero": 141,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-142",
+    "ano": 2022,
+    "numero": 142,
+    "assuntos": [],
+    "habilidade": "H5",
+    "b": 3.33565,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-143",
+    "ano": 2022,
+    "numero": 143,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H7",
+    "b": 2.45135,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-145",
+    "ano": 2022,
+    "numero": 145,
+    "assuntos": [
+      "regra-de-tres",
+      "razao-proporcao"
+    ],
+    "habilidade": "H18",
+    "b": 2.58401,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-146",
+    "ano": 2022,
+    "numero": 146,
+    "assuntos": [
+      "equacao-1-grau",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H21",
+    "b": 2.41531,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-147",
+    "ano": 2022,
+    "numero": 147,
+    "assuntos": [
+      "razao-proporcao",
+      "porcentagem",
+      "regra-de-tres"
+    ],
+    "habilidade": "H17",
+    "b": 4.48651,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-148",
+    "ano": 2022,
+    "numero": 148,
+    "assuntos": [
+      "geometria-plana",
+      "equacao-1-grau",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H15",
+    "b": 2.2515,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-149",
+    "ano": 2022,
+    "numero": 149,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H27",
+    "b": 2.2135,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-150",
+    "ano": 2022,
+    "numero": 150,
+    "assuntos": [
+      "funcao-quadratica",
+      "probabilidade"
+    ],
+    "habilidade": "H22",
+    "b": 3.22198,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-151",
+    "ano": 2022,
+    "numero": 151,
+    "assuntos": [
+      "razao-proporcao",
+      "equacao-1-grau",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H17",
+    "b": 2.02109,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-152",
+    "ano": 2022,
+    "numero": 152,
+    "assuntos": [
+      "equacao-1-grau",
+      "grandezas-unidades-escalas",
+      "geometria-plana"
+    ],
+    "habilidade": "H18",
+    "b": 3.73781,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-153",
+    "ano": 2022,
+    "numero": 153,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H14",
+    "b": 2.44795,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-154",
+    "ano": 2022,
+    "numero": 154,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H3",
+    "b": 1.56693,
+    "dificuldade_estimada": "media",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-155",
+    "ano": 2022,
+    "numero": 155,
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "habilidade": "H2",
+    "b": 2.16924,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-156",
+    "ano": 2022,
+    "numero": 156,
+    "assuntos": [
+      "geometria-plana",
+      "sequencias-pa"
+    ],
+    "habilidade": "H7",
+    "b": 2.40685,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-157",
+    "ano": 2022,
+    "numero": 157,
+    "assuntos": [
+      "funcao-afim"
+    ],
+    "habilidade": "H19",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-158",
+    "ano": 2022,
+    "numero": 158,
+    "assuntos": [
+      "razao-proporcao",
+      "probabilidade"
+    ],
+    "habilidade": "H23",
+    "b": 2.3731,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-159",
+    "ano": 2022,
+    "numero": 159,
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "habilidade": "H2",
+    "b": 2.5423,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-160",
+    "ano": 2022,
+    "numero": 160,
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "habilidade": "H6",
+    "b": 2.43206,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-161",
+    "ano": 2022,
+    "numero": 161,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-plana"
+    ],
+    "habilidade": "H11",
+    "b": 2.33341,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-162",
+    "ano": 2022,
+    "numero": 162,
+    "assuntos": [
+      "graficos-tabelas",
+      "geometria-espacial"
+    ],
+    "habilidade": "H24",
+    "b": 1.38103,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-163",
+    "ano": 2022,
+    "numero": 163,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H30",
+    "b": 2.40384,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-164",
+    "ano": 2022,
+    "numero": 164,
+    "assuntos": [
+      "razao-proporcao",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H12",
+    "b": 1.6446,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-165",
+    "ano": 2022,
+    "numero": 165,
+    "assuntos": [
+      "graficos-tabelas",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H10",
+    "b": 2.301,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-166",
+    "ano": 2022,
+    "numero": 166,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H20",
+    "b": 1.77699,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-167",
+    "ano": 2022,
+    "numero": 167,
+    "assuntos": [
+      "porcentagem"
+    ],
+    "habilidade": "H4",
+    "b": 1.58603,
+    "dificuldade_estimada": "media",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-168",
+    "ano": 2022,
+    "numero": 168,
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "habilidade": "H6",
+    "b": 0.94716,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-169",
+    "ano": 2022,
+    "numero": 169,
+    "assuntos": [
+      "geometria-plana",
+      "equacao-1-grau",
+      "geometria-espacial"
+    ],
+    "habilidade": "H9",
+    "b": 1.88956,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-170",
+    "ano": 2022,
+    "numero": 170,
+    "assuntos": [
+      "razao-proporcao"
+    ],
+    "habilidade": "H26",
+    "b": 1.32978,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-171",
+    "ano": 2022,
+    "numero": 171,
+    "assuntos": [
+      "estatistica-basica",
+      "probabilidade"
+    ],
+    "habilidade": "H29",
+    "b": 0.87454,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-172",
+    "ano": 2022,
+    "numero": 172,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial",
+      "razao-proporcao"
+    ],
+    "habilidade": "H13",
+    "b": 2.58862,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-173",
+    "ano": 2022,
+    "numero": 173,
+    "assuntos": [
+      "graficos-tabelas",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H25",
+    "b": 0.63977,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-174",
+    "ano": 2022,
+    "numero": 174,
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana"
+    ],
+    "habilidade": "H8",
+    "b": 2.57768,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-175",
+    "ano": 2022,
+    "numero": 175,
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "habilidade": "H1",
+    "b": -0.02398,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-176",
+    "ano": 2022,
+    "numero": 176,
+    "assuntos": [],
+    "habilidade": "H9",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-177",
+    "ano": 2022,
+    "numero": 177,
+    "assuntos": [
+      "graficos-tabelas",
+      "regra-de-tres",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H26",
+    "b": 0.64802,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-178",
+    "ano": 2022,
+    "numero": 178,
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H12",
+    "b": 2.56697,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2022-179",
+    "ano": 2022,
+    "numero": 179,
+    "assuntos": [
+      "graficos-tabelas",
+      "estatistica-basica"
+    ],
+    "habilidade": "H24",
+    "b": 0.46698,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2022-180",
+    "ano": 2022,
+    "numero": 180,
+    "assuntos": [
+      "matematica-financeira"
+    ],
+    "habilidade": "H6",
+    "b": 2.03629,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-136",
+    "ano": 2023,
+    "numero": 136,
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana"
+    ],
+    "habilidade": "H8",
+    "b": 2.44818,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-137",
+    "ano": 2023,
+    "numero": 137,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H27",
+    "b": 1.08025,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-138",
+    "ano": 2023,
+    "numero": 138,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H30",
+    "b": 2.91942,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2023-139",
+    "ano": 2023,
+    "numero": 139,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H24",
+    "b": 1.75696,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-140",
+    "ano": 2023,
+    "numero": 140,
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "habilidade": "H27",
+    "b": 2.19574,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-141",
+    "ano": 2023,
+    "numero": 141,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": 1.3682,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-142",
+    "ano": 2023,
+    "numero": 142,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "estatistica-basica"
+    ],
+    "habilidade": "H14",
+    "b": 2.42208,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2023-143",
+    "ano": 2023,
+    "numero": 143,
+    "assuntos": [
+      "porcentagem",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H5",
+    "b": 1.52611,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2023-144",
+    "ano": 2023,
+    "numero": 144,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "habilidade": "H12",
+    "b": 2.23364,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-145",
+    "ano": 2023,
+    "numero": 145,
+    "assuntos": [
+      "geometria-plana",
+      "probabilidade"
+    ],
+    "habilidade": "H9",
+    "b": 2.1908,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-146",
+    "ano": 2023,
+    "numero": 146,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H4",
+    "b": 1.88674,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-147",
+    "ano": 2023,
+    "numero": 147,
+    "assuntos": [
+      "razao-proporcao",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H16",
+    "b": 1.98507,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2023-150",
+    "ano": 2023,
+    "numero": 150,
+    "assuntos": [
+      "funcao-afim",
+      "porcentagem"
+    ],
+    "habilidade": "H19",
+    "b": 1.45121,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2023-151",
+    "ano": 2023,
+    "numero": 151,
+    "assuntos": [
+      "graficos-tabelas",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H20",
+    "b": 0.86167,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-152",
+    "ano": 2023,
+    "numero": 152,
+    "assuntos": [
+      "leitura-grafico-funcao"
+    ],
+    "habilidade": "H22",
+    "b": 3.00088,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-155",
+    "ano": 2023,
+    "numero": 155,
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H12",
+    "b": 1.4869,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-156",
+    "ano": 2023,
+    "numero": 156,
+    "assuntos": [
+      "leitura-grafico-funcao",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H20",
+    "b": 0.3783,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-157",
+    "ano": 2023,
+    "numero": 157,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas",
+      "porcentagem"
+    ],
+    "habilidade": "H25",
+    "b": 1.23798,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-158",
+    "ano": 2023,
+    "numero": 158,
+    "assuntos": [
+      "porcentagem",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H5",
+    "b": 2.55621,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2023-159",
+    "ano": 2023,
+    "numero": 159,
+    "assuntos": [
+      "progressao-geometrica",
+      "razao-proporcao"
+    ],
+    "habilidade": "H23",
+    "b": 1.27709,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2023-160",
+    "ano": 2023,
+    "numero": 160,
+    "assuntos": [
+      "analise-combinatoria",
+      "probabilidade"
+    ],
+    "habilidade": "H29",
+    "b": 2.38012,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-161",
+    "ano": 2023,
+    "numero": 161,
+    "assuntos": [
+      "matematica-financeira",
+      "porcentagem"
+    ],
+    "habilidade": "H17",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2023-162",
+    "ano": 2023,
+    "numero": 162,
+    "assuntos": [
+      "funcao-afim"
+    ],
+    "habilidade": "H19",
+    "b": 0.86032,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2023-163",
+    "ano": 2023,
+    "numero": 163,
+    "assuntos": [
+      "graficos-tabelas",
+      "matematica-financeira",
+      "funcao-quadratica"
+    ],
+    "habilidade": "H6",
+    "b": 2.57722,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-164",
+    "ano": 2023,
+    "numero": 164,
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "habilidade": "H26",
+    "b": null,
+    "dificuldade_estimada": null,
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-165",
+    "ano": 2023,
+    "numero": 165,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H8",
+    "b": 1.98395,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-166",
+    "ano": 2023,
+    "numero": 166,
+    "assuntos": [
+      "graficos-tabelas",
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H26",
+    "b": 1.16539,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-167",
+    "ano": 2023,
+    "numero": 167,
+    "assuntos": [
+      "razao-proporcao",
+      "porcentagem",
+      "equacao-1-grau"
+    ],
+    "habilidade": "H18",
+    "b": 1.9392,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2023-168",
+    "ano": 2023,
+    "numero": 168,
+    "assuntos": [
+      "probabilidade"
+    ],
+    "habilidade": "H28",
+    "b": 2.50464,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-169",
+    "ano": 2023,
+    "numero": 169,
+    "assuntos": [
+      "sequencias-pa",
+      "grandezas-unidades-escalas",
+      "razao-proporcao"
+    ],
+    "habilidade": "H2",
+    "b": 0.7783,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-170",
+    "ano": 2023,
+    "numero": 170,
+    "assuntos": [
+      "matematica-financeira"
+    ],
+    "habilidade": "H22",
+    "b": 2.67185,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-171",
+    "ano": 2023,
+    "numero": 171,
+    "assuntos": [
+      "razao-proporcao",
+      "regra-de-tres"
+    ],
+    "habilidade": "H3",
+    "b": 1.53865,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2023-172",
+    "ano": 2023,
+    "numero": 172,
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "habilidade": "H13",
+    "b": 2.37234,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-173",
+    "ano": 2023,
+    "numero": 173,
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "habilidade": "H10",
+    "b": 2.11188,
+    "dificuldade_estimada": "media",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-175",
+    "ano": 2023,
+    "numero": 175,
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "habilidade": "H21",
+    "b": 1.82985,
+    "dificuldade_estimada": "media",
+    "curada": true,
+    "depende_de_imagem": false
+  },
+  {
+    "id": "enem-2023-176",
+    "ano": 2023,
+    "numero": 176,
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "habilidade": "H2",
+    "b": 1.34475,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-177",
+    "ano": 2023,
+    "numero": 177,
+    "assuntos": [
+      "leitura-grafico-funcao",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H15",
+    "b": 1.52433,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-178",
+    "ano": 2023,
+    "numero": 178,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "regra-de-tres"
+    ],
+    "habilidade": "H15",
+    "b": 2.84307,
+    "dificuldade_estimada": "dificil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-179",
+    "ano": 2023,
+    "numero": 179,
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "sequencias-pa"
+    ],
+    "habilidade": "H1",
+    "b": 0.63295,
+    "dificuldade_estimada": "facil",
+    "curada": false,
+    "depende_de_imagem": true
+  },
+  {
+    "id": "enem-2023-180",
+    "ano": 2023,
+    "numero": 180,
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "habilidade": "H30",
+    "b": 0.74313,
+    "dificuldade_estimada": "facil",
+    "curada": true,
+    "depende_de_imagem": false
+  }
+]

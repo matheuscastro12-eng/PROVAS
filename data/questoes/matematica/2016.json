@@ -1,0 +1,3339 @@
+[
+  {
+    "id": "enem-2016-136",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 136,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/136/27018caf-dac3-4dce-9379-fb0c5bd5416d.png)\n\nUtilize 3 como aproximação para π.\nO número mínimo de viagens que o caminhão precisará fazer para transportar todo o volume de grãos armazenados no silo é",
+    "imagens": [
+      "https://enem.dev/2016/questions/136/27018caf-dac3-4dce-9379-fb0c5bd5416d.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "16",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "17",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "18",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "21",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H12",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.63746,
+      "b": 2.11088,
+      "c": 0.28635,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 136",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/136",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-137",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 137,
+    "area": "matematica",
+    "enunciado": "A altura, a largura e a profundidade do desenho impresso para a apresentação serão, respectivamente,",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "22,00 cm, 12,00 cm e 5,00 cm.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "27,50 cm, 15,00 cm e 6,25 cm.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "34,37 cm, 18,75 cm e 7,81 cm.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "35,20 cm, 19,20 cm e 8,00 cm.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "44,00 cm, 24,00 cm e 10,00 cm.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H11",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.81671,
+      "b": 1.63196,
+      "c": 0.30232,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 137",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/137",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-138",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 138,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/138/484f68f6-18c6-4987-b92e-58c44f18b07b.png)\n\nNão habituado com a unidade pé, e querendo satisfazer sua curiosidade, esse turista consultou um manual de unidades de medidas e constatou que 1 pé equivale a 12 polegadas, e que 1 polegada equivale a 2,54 cm. Após alguns cálculos de conversão, o turista ficou surpreendido com o resultado obtido em metros.\nQual a medida que mais se aproxima do diâmetro da Roda do Milênio, em metro?",
+    "imagens": [
+      "https://enem.dev/2016/questions/138/484f68f6-18c6-4987-b92e-58c44f18b07b.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "53",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "94",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "113",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "135",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "145",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.78461,
+      "b": 0.5442,
+      "c": 0.17099,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 138",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/138",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-139",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 139,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/139/c748d750-cec7-42af-8fb1-4690aee8d9a8.png)\n\nQual é a vazão, em litro por hora, da bomba que foi ligada no início da segunda hora?",
+    "imagens": [
+      "https://enem.dev/2016/questions/139/c748d750-cec7-42af-8fb1-4690aee8d9a8.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 000",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 250",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 500",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2 000",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2 500",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H20",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.66308,
+      "b": 1.89621,
+      "c": 0.13493,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 139",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/139",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-140",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 140,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/140/ae197a69-68db-46c4-9321-f4fd03e424dc.png)\n\nApós as três “pesagens”, os organizadores do torneio informaram aos atletas quais deles se enfrentariam na primeira luta.\nA primeira luta foi entre os atletas",
+    "imagens": [
+      "https://enem.dev/2016/questions/140/ae197a69-68db-46c4-9321-f4fd03e424dc.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "II e III",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "III e IV",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H29",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.37969,
+      "b": 1.86612,
+      "c": 0.22417,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 140",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/140",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-141",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 141,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/141/5157ff2e-1b33-4a36-91dd-d088df930d2c.png)\n\nO proprietário de um veículo precisa trocar os pneus de seu carro e, ao chegar a uma loja, é informado por um vendedor que há somente pneus com os seguintes códigos: 175/65R15, 175/75R15, 175/80R15, 185/60R15 e 205/55R15. Analisando, juntamente com o vendedor, as opções de pneus disponíveis, concluem que o pneu mais adequado para seu veículo é o que tem a menor altura.\nDesta forma, o proprietário do veículo deverá comprar o pneu com a marcação",
+    "imagens": [
+      "https://enem.dev/2016/questions/141/5157ff2e-1b33-4a36-91dd-d088df930d2c.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "205/55R15.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "175/65R15.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "175/75R15.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "175/80R15.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "185/60R15",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H17",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.63837,
+      "b": 2.68497,
+      "c": 0.14392,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 141",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/141",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-142",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 142,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/142/27a20fd0-d2a2-46da-972f-c621f3cbdce8.png)\n\nA família pretende que esse imóvel tenha a mesma distância de percurso até o local de trabalho da mãe, localizado na rua 6 com a rua E, o consultório do pai, na rua 2 com a rua E, e a escola das crianças, na rua 4 com a rua A.\nCom base nesses dados, o imóvel que atende as pretensões da família deverá ser localizado no encontro das ruas",
+    "imagens": [
+      "https://enem.dev/2016/questions/142/27a20fd0-d2a2-46da-972f-c621f3cbdce8.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 e C",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "4 e C",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "4 e D",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4 e E",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5 e C",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H8",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.07664,
+      "b": 1.11684,
+      "c": 0.13937,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 142",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/142",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-143",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 143,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/143/ed2f51dd-ec06-4496-8180-b5b75383fd27.png)\n\nPara satisfazer o filho mais novo, esse senhor precisa encontrar um terreno retangular cujas medidas, em metro, do comprimento e da largura sejam iguais, respectivamente, a",
+    "imagens": [
+      "https://enem.dev/2016/questions/143/ed2f51dd-ec06-4496-8180-b5b75383fd27.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "7,5 e 14,5.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "9,0 e 16,0.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "9,3 e 16,3.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "10,0 e 17,0.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "13,5 e 20,5.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H14",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.19275,
+      "b": 2.46663,
+      "c": 0.11939,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 143",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/143",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-144",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 144,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/144/3c5cca0b-8c29-4ca2-9a1f-eba9121870b2.png)\n\nAvaliando os resultados, o conselho diretor da empresa decidiu comprar, nos dois meses subsequentes, a mesma quantidade de matéria-prima comprada no mês em que o lucro mais se aproximou da média dos lucros mensais dessa empresa nesse período de sete meses.\n\nNos próximos dois meses, essa empresa deverá comprar a mesma quantidade de matéria-prima comprada no mês",
+    "imagens": [
+      "https://enem.dev/2016/questions/144/3c5cca0b-8c29-4ca2-9a1f-eba9121870b2.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "IV",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "V",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "VII",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H29",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.57797,
+      "b": 0.76944,
+      "c": 0.09447,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 144",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/144",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-145",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 145,
+    "area": "matematica",
+    "enunciado": "_Art. 93. A empresa com 100 (cem) ou mais empregados está obrigada a preencher de 2% (dois por cento) a 5% (cinco por cento) dos seus cargos com beneficiários reabilitados ou pessoas com deficiência, habilitadas, na seguinte proporção:_  \n_I. até 200 empregados……………….. 2%;_  \n_II. de 201 a 500 empregados…………… 3%;_  \n_III. de 501 a 1 000 empregados………… 4%;_  \n_IV. de 1 001 em diante………………. 5%._\n\nDisponível em: www.planalto.gov.br. Acesso em: 3 fev. 2015.\n\nConstatou-se que a empresa possui 1 200 funcionários, dos quais 10 são reabilitados ou com deficiência, habilitados.\n\nPara adequar-se à referida lei, a empresa contratará apenas empregados que atendem ao perfil indicado no artigo 93.\n\nO número mínimo de empregados reabilitados ou com deficiência, habilitados, que deverá ser contratado pela empresa é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "74",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "70",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "64",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "60",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "53",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H23",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.41103,
+      "b": 2.11256,
+      "c": 0.1529,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 145",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/145",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-146",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 146,
+    "area": "matematica",
+    "enunciado": "Para atingir seu objetivo, e supondo que todos os picolés disponíveis foram vendidos no segundo dia, o valor de venda de cada picolé, no segundo dia, deve ser",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 0,96",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 1,00",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 1,40",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 1,50",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 1,56",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H5",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.78123,
+      "b": 1.4705,
+      "c": 0.17889,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 146",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/146",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-147",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 147,
+    "area": "matematica",
+    "enunciado": "Qual o número de possibilidades de escolha dos tenistas para a partida de exibição?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/147/b312c7db-dd7d-4633-af66-83c020de8340.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/147/6eea6a39-3b2d-4b06-8f22-3fb8b3354049.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/147/e5274b9d-58c1-47d8-80c4-9ba8ea7db58f.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/147/9ed4324a-682b-4a89-b93b-ce8035218bc6.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/147/3f06a01b-fdec-4bb2-affb-45cf27b74bfd.png"
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.35187,
+      "b": 2.42336,
+      "c": 0.15877,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 147",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/147",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-148",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 148,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/148/1a5c2092-7910-4ff5-8151-fc226f7d5abe.png)\n\nNessa disposição, o número que está representado na figura é",
+    "imagens": [
+      "https://enem.dev/2016/questions/148/1a5c2092-7910-4ff5-8151-fc226f7d5abe.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "46 171.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "147 016",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "171 064.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "460 171.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "610 741.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H1",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.50889,
+      "b": 1.52149,
+      "c": 0.16712,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 148",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/148",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-149",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 149,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/149/555013c9-a224-4e98-8e48-a30e33d02321.png)\n\nCom base nessas simulações, observou-se que a trajetória do projétil B deveria ser alterada para que o objetivo fosse alcançado.\n\nPara alcançar o objetivo, o coeficiente angular da reta que representa a trajetória de B deverá",
+    "imagens": [
+      "https://enem.dev/2016/questions/149/555013c9-a224-4e98-8e48-a30e33d02321.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diminuir em 2 unidades",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Diminuir em 4 unidades",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Aumentar em 2 unidades.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Aumentar em 4 unidades.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Aumentar em 8 unidades.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H26",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
+    "assuntos": [
+      "funcao-afim",
+      "funcao-quadratica"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.64539,
+      "b": 1.89258,
+      "c": 0.19287,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 149",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/149",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-150",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 150,
+    "area": "matematica",
+    "enunciado": "Uma expressão que fornece o custo para revestir uma parede de área A (em metro quadrado), situada a D metros da fonte sonora, é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/150/d98b4a6b-0f17-4c11-a265-5d349d907c4e.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/150/5eb36277-7f4b-4c1d-a3fd-68a26c9401e5.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/150/7ee2ec8a-740e-4cf4-a8da-b1e661261059.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/150/ba2ff490-2587-496a-9dce-5f8ea60661bd.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/150/9eebb46b-522f-45a2-96f3-469420638079.png"
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H15",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.03364,
+      "b": 2.43323,
+      "c": 0.16635,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 150",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/150",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-151",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 151,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/151/b9e723b5-a63c-4c11-b026-d686e0c3c807.png)\n\nUma menina aos 3 anos de idade tinha altura de 85 centímetros e aos 4 anos e 4 meses sua altura chegou a um valor que corresponde a um ponto exatamente sobre a curva p50.\n\nQual foi o aumento percentual da altura dessa menina, descrito com uma casa decimal, no período considerado?",
+    "imagens": [
+      "https://enem.dev/2016/questions/151/b9e723b5-a63c-4c11-b026-d686e0c3c807.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "23,5%",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "21,2%",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "19,0%",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "11,8%",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "10,0%",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H25",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.82869,
+      "b": 1.82931,
+      "c": 0.18734,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 151",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/151",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-152",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 152,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/152/b9f02657-5528-4c2c-8687-9a8db0f4a232.png)\n\nSuponha que relativamente a cada ramificação, as opções existentes de percurso pelos caminhos apresentem iguais probabilidades de escolha, que a caminhada foi feita escolhendo ao acaso os caminhos existentes e que, ao tomar um caminho que chegue a uma área distinta da IV, o adolescente necessariamente passa por ela ou retorna.\n\nNessas condições, a probabilidade de ele chegar à área IV sem passar por outras áreas e sem\nretornar é igual a",
+    "imagens": [
+      "https://enem.dev/2016/questions/152/b9f02657-5528-4c2c-8687-9a8db0f4a232.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/96",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1/64",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "5/24",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1/4",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5/12",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.63497,
+      "b": 3.74711,
+      "c": 0.20983,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 152",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/152",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-153",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 153,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/153/5ba13490-30b2-456d-9bd4-754e04e288c3.png)\n\nA prefeitura optou pela seguinte distribuição dos funcionários a serem contratados:\n\nI. 10 funcionários para cada região da cidade cujo número de casos seja maior que a média dos casos confirmados.  \nII. 7 funcionários para cada região da cidade cujo número de casos seja menor ou igual à média dos casos confirmados.\n\nQuantos funcionários a prefeitura deverá contratar para efetivar a ação?",
+    "imagens": [
+      "https://enem.dev/2016/questions/153/5ba13490-30b2-456d-9bd4-754e04e288c3.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "59",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "65",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "68",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "71",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "80",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "razao-proporcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.11894,
+      "b": 0.27904,
+      "c": 0.19659,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 153",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/153",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-154",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 154,
+    "area": "matematica",
+    "enunciado": "• Marca A: 2 g de fibras a cada 50 g de pão;  \n• Marca B: 5 g de fibras a cada 40 g de pão;  \n• Marca C: 5 g de fibras a cada 100 g de pão;  \n• Marca D: 6 g de fibras a cada 90 g de pão;  \n• Marca E: 7 g de fibras a cada 70 g de pão.\n\nRecomenda-se a ingestão do pão que possui a maior concentração de fibras.\n\nDisponível em: www.blog.saude.gov.br. Acesso em: 25 fev. 2013.\n\nA marca a ser escolhida é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "B",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "C",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "D",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "E",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H13",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
+    "assuntos": [
+      "razao-proporcao"
+    ],
+    "classificacao": "revisada",
+    "tri": {
+      "a": 1.78999,
+      "b": 0.80312,
+      "c": 0.19843,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 154",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/154",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2016-154",
+      "gabarito": "B",
+      "assuntos": [
+        "razao-proporcao"
+      ],
+      "habilidade": "H16",
+      "nivel_curador": 1,
+      "resumo": "Comparar concentrações (razão fibras/pão) de cinco marcas.",
+      "resolucao": "A concentração de fibras é a razão $\\dfrac{\\text{gramas de fibra}}{\\text{gramas de pão}}$. Calcule para cada marca:\n\n| Marca | Razão | Valor |\n|---|---|---|\n| A | $2/50$ | $0{,}04$ |\n| B | $5/40$ | $0{,}125$ |\n| C | $5/100$ | $0{,}05$ |\n| D | $6/90$ | $\\approx 0{,}067$ |\n| E | $7/70$ | $0{,}10$ |\n\nA maior concentração é a da marca **B** ($0{,}125$, ou 12,5 g de fibra a cada 100 g de pão). Alternativa **B**.",
+      "dicas": {
+        "dica1": "Concentração é uma razão: quantidade de fibra dividida pela quantidade de pão. Não compare só os gramas de fibra.",
+        "dica2": "Divida fibra por pão em cada marca (ou leve todas para 'fibra a cada 100 g de pão') e escolha a maior.",
+        "dica3": "A = 0,04; B = 5/40; C = 0,05; D = 6/90; E = 0,10. Qual é a maior?"
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "E",
+          "por_que": "Escolheu a marca com mais gramas de fibra (7 g), sem dividir pela quantidade de pão."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Escolheu a marca com maior quantidade de pão ou errou a divisão 6/90."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Comparou 5 g de fibra sem notar que são para 100 g de pão (metade da concentração da B)."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Escolheu a menor quantidade de pão achando que isso significa 'mais concentrado', sem fazer a razão."
+        }
+      ],
+      "conceitos": [
+        "razão entre grandezas",
+        "concentração",
+        "comparação de frações"
+      ],
+      "verificacao": {
+        "codigo_sympy": "marcas = {'A': Rational(2,50), 'B': Rational(5,40), 'C': Rational(5,100), 'D': Rational(6,90), 'E': Rational(7,70)}\nresultado = max(marcas, key=marcas.get)",
+        "resultado_esperado": "B",
+        "alternativa_esperada": "B"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
+    }
+  },
+  {
+    "id": "enem-2016-155",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 155,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/155/bb458c60-9970-4521-a651-92e97767141a.png)\n\nQual é o esboço obtido pelos alunos?",
+    "imagens": [
+      "https://enem.dev/2016/questions/155/bb458c60-9970-4521-a651-92e97767141a.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/155/e5c3117b-e59c-4133-8c1c-e12224e04762.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/155/a49c7a7a-8bb9-4ad2-a162-bcbbaf8c5935.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/155/182db264-e8a6-4e01-a680-2e76be4309e6.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/155/c2eb34bf-a4a9-4bbc-87c5-9a6a9f8339e6.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/155/0a817a97-acb8-40b4-9b80-4b49b55bc9e6.png"
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 0.94342,
+      "b": -0.40779,
+      "c": 0.19983,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 155",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/155",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-156",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 156,
+    "area": "matematica",
+    "enunciado": "Quantos policiais serão necessários no início do evento para garantir a segurança?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "360",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "485",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "560",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "740",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "860",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H16",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
+    "assuntos": [
+      "regra-de-tres",
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.1306,
+      "b": 1.96996,
+      "c": 0.09445,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 156",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/156",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-157",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 157,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/157/a509eb59-7fd2-4a42-a356-e1be71c628f2.png)\n\nQual deve ser o lucro mínimo da empresa no mês de junho, em milhares de reais, para o gerente continuar no cargo no próximo semestre?",
+    "imagens": [
+      "https://enem.dev/2016/questions/157/a509eb59-7fd2-4a42-a356-e1be71c628f2.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "26",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "29",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "30",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "31",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "35",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.78017,
+      "b": 0.90583,
+      "c": 0.12599,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 157",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/157",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-158",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 158,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/158/af29d603-c954-4ab7-a8b4-2c4db0cf6458.png)\n\nNas condições dadas, qual o tempo mínimo, após o sexto mês, para que o reservatório atinja o nível zero de sua capacidade?",
+    "imagens": [
+      "https://enem.dev/2016/questions/158/af29d603-c954-4ab7-a8b4-2c4db0cf6458.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2 meses e meio.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3 meses e meio.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 mês e meio.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4 meses.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "1 mês.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 0.98951,
+      "b": 1.93987,
+      "c": 0.07908,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 158",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/158",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-159",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 159,
+    "area": "matematica",
+    "enunciado": "Para atender essas condições, a quantidade de vacinas contra febre amarela que o posto de saúde deve adquirir no início do sexto mês é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "156",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "180",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "192",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "264",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "288",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H30",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.16875,
+      "b": 2.57525,
+      "c": 0.18866,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 159",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/159",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-160",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 160,
+    "area": "matematica",
+    "enunciado": "Use 0,477 como aproximação para log10 3 e 1,041 como aproximação para log10 11.\nO tempo decorrido, em hora, até que a liga atinja 30℃ é mais próximo de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "22",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "50",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "100",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "200",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "400",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H21",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
+    "assuntos": [
+      "progressao-geometrica"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 0.86661,
+      "b": 3.92011,
+      "c": 0.186,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 160",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/160",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-161",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 161,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/161/576da257-907a-462b-98b2-4d67f2679d3d.png)\n\nSuponha que ocorra um desastre quando o petroleiro se encontra com sua carga máxima: ele sofre um acidente que ocasiona um furo no fundo do compartimento C.\nPara fins de cálculo, considere desprezíveis as espessuras das placas divisórias.\nApós o fim do vazamento, o volume de petróleo derramado terá sido de",
+    "imagens": [
+      "https://enem.dev/2016/questions/161/576da257-907a-462b-98b2-4d67f2679d3d.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,4 × 10³  m³",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,8 × 10³  m³",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,0 × 10³  m³",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "3,2 × 10³  m³",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "6,0 × 10³  m³",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H8",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.98636,
+      "b": 2.03775,
+      "c": 0.14588,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 161",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/161",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-162",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 162,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/162/2d6250c2-b7ea-457b-8798-db4253b32235.png)\n\nCom base nas informações do gráfico, o floricultor verificou que poderia plantar essa flor rara.\nO mês escolhido para o plantio foi",
+    "imagens": [
+      "https://enem.dev/2016/questions/162/2d6250c2-b7ea-457b-8798-db4253b32235.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Janeiro",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Fevereiro",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Agosto",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Novembro",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Dezembro",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H26",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.8996,
+      "b": 2.1059,
+      "c": 0.1077,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 162",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/162",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-163",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 163,
+    "area": "matematica",
+    "enunciado": "Após a análise, os alunos ordenaram corretamente as densidades desses corpos da seguinte maneira",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "DB < dA < dC",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "DB = dA < dC",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "DC < dB = dA",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "DB < dC < dA",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "DC < dB < dA",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.46119,
+      "b": 2.45335,
+      "c": 0.12054,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 163",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/163",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-164",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 164,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/164/6be55162-4edb-4b05-9826-2502c11e4f14.png)\n\nComo o motorista conhece o percurso, sabe que existem, até a chegada a seu destino, cinco postos de abastecimento de combustível, localizados a 150 km, 187 km, 450 km, 500 km e 570 km do ponto de partida.\n\nQual a máxima distância, em quilômetro, que poderá percorrer até ser necessário reabastecer o veículo, de modo a não ficar sem combustível na estrada?",
+    "imagens": [
+      "https://enem.dev/2016/questions/164/6be55162-4edb-4b05-9826-2502c11e4f14.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "570",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "500",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "450",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "187",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "150",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H4",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.82503,
+      "b": 1.84464,
+      "c": 0.15051,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 164",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/164",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-165",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 165,
+    "area": "matematica",
+    "enunciado": "Qual é o número de andares desse edifício?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "40",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "60",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "100",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "115",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "120",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.15634,
+      "b": 2.81506,
+      "c": 0.10382,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 165",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/165",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-166",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 166,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/166/353d7220-13cd-44e2-b88b-a63acba081cd.png)\n\nEstudos de viabilidade técnica mostraram que, pelas características do solo, a construção de 1 m de galeria via segmento de reta demora 1,0 h, enquanto que 1 m de construção de galeria via semicircunferência demora 0,6 h. Há urgência em disponibilizar água para esse bairro.\n\nUse 3 como aproximação para π e 1,4 como aproximação para √2 .\n\nO menor tempo possível, em hora, para conclusão da construção da galeria, para atender às necessidades de água do bairro, é de",
+    "imagens": [
+      "https://enem.dev/2016/questions/166/353d7220-13cd-44e2-b88b-a63acba081cd.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 260.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2 520.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2 800.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "3 600.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "4 000.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H22",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "funcao-afim",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.67523,
+      "b": 2.64728,
+      "c": 0.24232,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 166",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/166",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-167",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 167,
+    "area": "matematica",
+    "enunciado": "Qual é a área da parte frontal da tampa de concreto, em metro quadrado?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "18",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "20",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "36",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "45",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "54",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H21",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.10247,
+      "b": 2.63616,
+      "c": 0.2797,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 167",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/167",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-168",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 168,
+    "area": "matematica",
+    "enunciado": "Para cadastrar-se em um _site_, uma pessoa precisa escolher uma senha composta por quatro caracteres, sendo dois algarismos e duas letras (maiúsculas ou minúsculas). As letras e os algarismos podem estar em qualquer posição. Essa pessoa sabe que o alfabeto é composto por vinte e seis letras e que uma letra maiúscula difere da minúscula em uma senha.\n\nDisponível em: www.infowester.com. Acesso em: 14 dez. 2012.\n\nO número total de senhas possíveis para o cadastramento nesse site é dado por",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/168/9c64c46b-2045-4d24-b6fe-4910a0fa92c6.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/168/71faed84-26d8-4498-af67-d92759a194fc.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/168/4afeb4f7-4f38-4401-b874-8386eef6b19c.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/168/81a766be-84c7-4074-ac24-ee3ef4a57a20.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/168/2e697e5f-81cd-4458-877d-a18c3082d73e.png"
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.05535,
+      "b": 2.59645,
+      "c": 0.17208,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 168",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/168",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-169",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 169,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/169/2a3b1883-983c-4974-9c15-d43c42742ae4.png)\n\nO Índice de Gini, que mede o grau de concentração de renda de um determinado grupo, pode ser calculado pela razão A/(A + B) em que A e B são as medidas das áreas indicadas no gráfico.\n\nA empresa tem como meta tornar seu Índice de Gini igual ao do país, que é 0,3. Para tanto, precisa ajustar os salários de modo a alterar o percentual que representa a parcela recebida pelos 10% dos funcionários de maior salário em relação ao total da massa salarial.\n\nDisponível em: www.ipea.gov.br. Acesso em: 4 maio 2016 (adaptado)\n\nPara atingir a meta desejada, o percentual deve ser",
+    "imagens": [
+      "https://enem.dev/2016/questions/169/2a3b1883-983c-4974-9c15-d43c42742ae4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "40%",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "20%",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "60%",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "30%",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "70%",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H18",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 169",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/169",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": [
+        "parâmetros TRI descartados: b=10.12436 fora da faixa [-6.0, 6.0] e sem correção inequívoca"
+      ]
+    }
+  },
+  {
+    "id": "enem-2016-170",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 170,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/170/4e96593f-1006-47bb-9f6f-2eac204f496c.png)\n\nCom base no quadro, qual é a moda do número de pessoas no elevador durante a subida do térreo ao quinto andar?",
+    "imagens": [
+      "https://enem.dev/2016/questions/170/4e96593f-1006-47bb-9f6f-2eac204f496c.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "5",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "6",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "classificacao": "revisada",
+    "tri": {
+      "a": 2.42957,
+      "b": 1.79574,
+      "c": 0.0949,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 170",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/170",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2016-170",
+      "gabarito": "D",
+      "assuntos": [
+        "estatistica-basica",
+        "graficos-tabelas"
+      ],
+      "habilidade": "H27",
+      "nivel_curador": 2,
+      "resumo": "Moda do número de pessoas no elevador em cada trecho da subida (quadro de entradas e saídas).",
+      "dados_da_imagem": "Quadro por andar (térreo, 1º, 2º, 3º, 4º, 5º): entram no elevador 4, 4, 1, 2, 2, 2; saem do elevador 0, 3, 1, 2, 0, 6.",
+      "resolucao": "**1. Calcule quantas pessoas há no elevador em cada trecho da subida** (após as entradas/saídas de cada andar):\n\n| Trecho | Conta | Pessoas |\n|---|---|---|\n| Térreo → 1º | $0 + 4 - 0$ | 4 |\n| 1º → 2º | $4 + 4 - 3$ | 5 |\n| 2º → 3º | $5 + 1 - 1$ | 5 |\n| 3º → 4º | $5 + 2 - 2$ | 5 |\n| 4º → 5º | $5 + 2 - 0$ | 7 |\n\n(No 5º andar entram 2 e saem 6: ficam 3, mas isso já é o fim da subida.)\n\n**2. Moda** = valor mais frequente do conjunto $\\{4, 5, 5, 5, 7\\}$ = **5**.\n\nAlternativa **D**.",
+      "dicas": {
+        "dica1": "Moda é o valor que mais se repete. Primeiro você precisa montar o conjunto: quantas pessoas estão no elevador em cada trecho entre andares.",
+        "dica2": "Comece no térreo com 0, some quem entra e subtraia quem sai em cada andar; anote o número de pessoas em cada subida (térreo→1º, 1º→2º, …).",
+        "dica3": "Trechos: 4, 5, 5, 5, 7. Qual aparece mais vezes?"
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Tomou a moda da linha 'entram' (2 aparece três vezes) em vez do número de pessoas no elevador."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Tomou a moda da linha 'entram' considerando o 4 ou parou no primeiro trecho (4 pessoas)."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Respondeu quantas pessoas restam ao final (3) ou a moda de alguma linha com erro."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Respondeu o maior valor da tabela (6 pessoas que saem no 5º andar), confundindo moda com máximo."
+        }
+      ],
+      "conceitos": [
+        "moda",
+        "saldo acumulado (entradas − saídas)",
+        "leitura de quadro"
+      ],
+      "verificacao": {
+        "codigo_sympy": "entram = [4,4,1,2,2,2]; saem = [0,3,1,2,0,6]\ntrechos = []\nn = 0\nfor i in range(5):\n    n += entram[i] - saem[i]\n    trechos.append(n)\nresultado = max(set(trechos), key=trechos.count)",
+        "resultado_esperado": "5",
+        "alternativa_esperada": "D"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
+    }
+  },
+  {
+    "id": "enem-2016-171",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 171,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/171/27a2aa79-e89f-40f4-a7ef-46822e39123c.png)\n\nO valor mais próximo do percentual que descreve o aumento da população nas capitais da Região Nordeste é",
+    "imagens": [
+      "https://enem.dev/2016/questions/171/27a2aa79-e89f-40f4-a7ef-46822e39123c.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "125%",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "231%",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "331%",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "700%",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "800%",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H25",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.60951,
+      "b": 3.12558,
+      "c": 0.13029,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 171",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/171",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-172",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 172,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/172/3fe1c831-6ce3-4efe-babc-02de4a8381b4.png)\n\nConsidere 1,4 e 1,7 como aproximações para √2 e √3 , respectivamente.\nPara que seja atingido o seu objetivo, qual dos exemplares de serra copo o marceneiro deverá escolher?",
+    "imagens": [
+      "https://enem.dev/2016/questions/172/3fe1c831-6ce3-4efe-babc-02de4a8381b4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H9",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.27355,
+      "b": 2.80412,
+      "c": 0.19635,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 172",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/172",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-173",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 173,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/173/fdf8c101-992d-4af6-8a5a-fa7bb406d400.png)\n\nConsidere que o padrão apresentado no resultado do exame, no período analisado, se repita para os dias subsequentes.\n\nO valor do parâmetro estabelecido pelo nutricionista, para uma dieta semanal, será igual a",
+    "imagens": [
+      "https://enem.dev/2016/questions/173/fdf8c101-992d-4af6-8a5a-fa7bb406d400.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "28",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "21",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "7",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "14",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.62289,
+      "b": 1.84916,
+      "c": 0.15371,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 173",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/173",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-174",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 174,
+    "area": "matematica",
+    "enunciado": "O número de gotas por minuto que o paciente deverá receber após as quatro primeiras horas será",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "16",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "20",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "24",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "34",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "40",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H12",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.21669,
+      "b": 1.90224,
+      "c": 0.18132,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 174",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/174",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-175",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 175,
+    "area": "matematica",
+    "enunciado": "Segundo a classificação dos polígonos, quais deles são possíveis de serem obtidos pelo artista plástico?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quadrados, apenas",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Triângulos e quadrados, apenas",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Triângulos, quadrados e trapézios, apenas",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Triângulos, quadrados, trapézios e quadriláteros irregulares, apenas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Triângulos, quadrados, trapézios, quadriláteros irregulares e pentágonos, apenas.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.94115,
+      "b": 4.08667,
+      "c": 0.1354,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 175",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/175",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-176",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 176,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/176/61a544a6-f994-4313-812d-2c4b7e563cc8.png)\n\nEm qual intervalo de tempo, em minuto, o reservatório tem uma vazão constante de enchimento?",
+    "imagens": [
+      "https://enem.dev/2016/questions/176/61a544a6-f994-4313-812d-2c4b7e563cc8.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De 0 a 10.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "De 5 a 10.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "De 5 a 15.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "De 15 a 25.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "De 0 a 25.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H20",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
+    "assuntos": [
+      "leitura-grafico-funcao",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 2.24873,
+      "b": 1.70422,
+      "c": 0.17961,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 176",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/176",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-177",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 177,
+    "area": "matematica",
+    "enunciado": "O LIRAa, Levantamento Rápido do Índice de Infestação por Aedes aegypti, consiste num mapeamento da infestação do mosquito Aedes aegypti. O LIRAa é dado pelo percentual do número de imóveis com focos do mosquito, entre os escolhidos de uma região em avaliação.\n\nO serviço de vigilância sanitária de um município, no mês de outubro do ano corrente, analisou o LIRAa de cinco bairros que apresentaram o maior índice de infestação no ano anterior. Os dados obtidos para cada bairro foram:\n\nI. 14 imóveis com focos de mosquito em 400 imóveis no bairro;  \nII. 6 imóveis com focos de mosquito em 500 imóveis no bairro;  \nIII. 13 imóveis com focos de mosquito em 520 imóveis no bairro;  \nIV. 9 imóveis com focos de mosquito em 360 imóveis no bairro;  \nV. 15 imóveis com focos de mosquito em 500 imóveis no bairro.\n\nDisponível em: http://bvsms.saude.gov.br. Acesso em: 28 out. 2015\n\nAs ações de controle iniciarão pelo bairro",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H4",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
+    "assuntos": [
+      "razao-proporcao",
+      "porcentagem"
+    ],
+    "classificacao": "revisada",
+    "tri": {
+      "a": 1.75245,
+      "b": 1.16274,
+      "c": 0.08471,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 177",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/177",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2016-177",
+      "gabarito": "A",
+      "assuntos": [
+        "razao-proporcao",
+        "porcentagem"
+      ],
+      "habilidade": "H3",
+      "nivel_curador": 2,
+      "resumo": "Calcular o índice (porcentagem) de cinco bairros e identificar o maior.",
+      "resolucao": "O LIRAa é o percentual $\\dfrac{\\text{imóveis com foco}}{\\text{imóveis analisados}} \\times 100$.\n\n| Bairro | Razão | LIRAa |\n|---|---|---|\n| I | $14/400$ | $3{,}5\\%$ |\n| II | $6/500$ | $1{,}2\\%$ |\n| III | $13/520$ | $2{,}5\\%$ |\n| IV | $9/360$ | $2{,}5\\%$ |\n| V | $15/500$ | $3{,}0\\%$ |\n\nO maior índice é o do bairro **I** (3,5%), por onde as ações de controle devem começar. Alternativa **A**.",
+      "dicas": {
+        "dica1": "Um índice percentual compara a parte com o todo. Não basta olhar quem tem mais imóveis com foco.",
+        "dica2": "Divida focos por imóveis em cada bairro e multiplique por 100. O maior percentual indica o primeiro bairro a ser atendido.",
+        "dica3": "14/400 = 0,035; 15/500 = 0,03; 13/520 = 0,025; 9/360 = 0,025; 6/500 = 0,012."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "E",
+          "por_que": "Escolheu o bairro com mais imóveis com foco em números absolutos (15), sem dividir pelo total."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Erro de divisão em 13/520 ou comparação apenas pela quantidade de imóveis analisados."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Escolheu o menor índice, invertendo o critério (ações começam pelo MAIOR índice)."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Escolheu o bairro com menos imóveis analisados, achando que isso indica maior infestação."
+        }
+      ],
+      "conceitos": [
+        "razão parte/todo",
+        "porcentagem",
+        "comparação de índices"
+      ],
+      "verificacao": {
+        "codigo_sympy": "idx = {'A': Rational(14,400), 'B': Rational(6,500), 'C': Rational(13,520), 'D': Rational(9,360), 'E': Rational(15,500)}\nresultado = max(idx, key=idx.get)",
+        "resultado_esperado": "A",
+        "alternativa_esperada": "A"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
+    }
+  },
+  {
+    "id": "enem-2016-178",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 178,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/178/9dd54a28-fb1e-492d-85a3-60f05af05d97.png)\n\nA projeção ortogonal, no plano α, do caminho traçado no globo pode ser representada por",
+    "imagens": [
+      "https://enem.dev/2016/questions/178/9dd54a28-fb1e-492d-85a3-60f05af05d97.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/178/61295cd7-dbbd-4c5b-a020-38fe0d4ff8e8.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/178/72e0c12c-006b-4bc6-aaa6-6613a78850e7.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/178/9e017368-a37a-4646-8617-6931fcb8a553.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/178/d3cc0e36-2585-409c-91b9-1e911c184f39.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2016/questions/178/441c5d19-71f8-48ed-96c3-897298ff37c9.png"
+      }
+    ],
+    "gabarito": "E",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.60611,
+      "b": 2.5091,
+      "c": 0.06869,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 178",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/178",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-179",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 179,
+    "area": "matematica",
+    "enunciado": "O filtro descartado é o",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F1.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "F2.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "F3.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "F4.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "F5.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H17",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.64372,
+      "b": 1.00596,
+      "c": 0.08678,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 179",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/179",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2016-180",
+    "ano": 2016,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 180,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2016/questions/180/903f1104-77ad-4319-a940-e7e2ab5d498b.png)\n\nsendo E a energia, em kWh, liberada pelo terremoto e E0 uma constante real positiva. Considere que E1 e E2 representam as energias liberadas nos terremotos ocorridos no Japão e na China, respectivamente.\n\nQual a relação entre E1 e E2?",
+    "imagens": [
+      "https://enem.dev/2016/questions/180/903f1104-77ad-4319-a940-e7e2ab5d498b.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "E1 = E2 + 2",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "E1 = 10².E2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "E1 = 10³.E2",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "E1 = 109/7.E2",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "E1 = 9/7.E2",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "gabarito_fonte": "inep",
+    "anulada": false,
+    "habilidade": "H19",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": {
+      "a": 1.75029,
+      "b": 3.06564,
+      "c": 0.15981,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2016, 2º dia, caderno azul (aplicação regular), questão 180",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2016/questions/180",
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2016.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  }
+]

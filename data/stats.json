@@ -1,0 +1,841 @@
+{
+  "gerado_em": "2026-11-09T07:47:58Z",
+  "fontes": {
+    "texto": "INEP (provas oficiais do ENEM), transcrição comunitária via https://api.enem.dev/v1",
+    "tri_habilidade": "INEP, microdados do ENEM (ITENS_PROVA_{ano}.csv); CSVs obtidos do espelho público Zenodo record 18801899 (https://zenodo.org/records/18801899)",
+    "matriz": "INEP, Matriz de Referência do ENEM"
+  },
+  "anos": {
+    "2009": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "correcoes_transcricao": [],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2009 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "63",
+        "cor": "AZUL",
+        "deslocamento_posicao": 0,
+        "n_comparaveis": 40,
+        "taxa_gabarito": 1.0,
+        "n_divergentes": 0,
+        "divergencias": [],
+        "n_com_tri": 40,
+        "n_tri_corrigidos": 40,
+        "n_tri_descartados": 0,
+        "n_anuladas": 2,
+        "n_habilidade_inep": 42,
+        "observacao": "caderno 63 (AZUL) casado: gabarito bateu em 100% de 40 itens comparáveis"
+      },
+      "n_curadas": 3,
+      "n_questoes": 42,
+      "n_com_tri": 40,
+      "n_com_imagem": 22,
+      "n_enunciado_vazio": 1,
+      "n_sem_assunto": 4,
+      "numeros_faltantes": [
+        140,
+        157,
+        166
+      ],
+      "por_dificuldade": {
+        "media": 16,
+        "facil": 7,
+        "dificil": 17,
+        "sem_tri": 2
+      }
+    },
+    "2010": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "correcoes_transcricao": [],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2010 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "99",
+        "cor": "AZUL",
+        "deslocamento_posicao": 0,
+        "n_comparaveis": 42,
+        "taxa_gabarito": 0.9762,
+        "n_divergentes": 1,
+        "divergencias": [
+          {
+            "id": "enem-2010-139",
+            "transcricao": "A",
+            "inep": "B"
+          }
+        ],
+        "n_com_tri": 42,
+        "n_tri_corrigidos": 0,
+        "n_tri_descartados": 0,
+        "n_anuladas": 3,
+        "n_habilidade_inep": 45,
+        "observacao": "caderno 99 (AZUL) casado: gabarito bateu em 98% de 42 itens comparáveis"
+      },
+      "n_curadas": 4,
+      "n_questoes": 45,
+      "n_com_tri": 42,
+      "n_com_imagem": 34,
+      "n_enunciado_vazio": 0,
+      "n_sem_assunto": 4,
+      "numeros_faltantes": [],
+      "por_dificuldade": {
+        "facil": 20,
+        "media": 10,
+        "dificil": 12,
+        "sem_tri": 3
+      }
+    },
+    "2011": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "correcoes_transcricao": [],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2011 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "131",
+        "cor": "AZUL",
+        "deslocamento_posicao": 0,
+        "n_comparaveis": 38,
+        "taxa_gabarito": 1.0,
+        "n_divergentes": 0,
+        "divergencias": [],
+        "n_com_tri": 38,
+        "n_tri_corrigidos": 0,
+        "n_tri_descartados": 0,
+        "n_anuladas": 0,
+        "n_habilidade_inep": 38,
+        "observacao": "caderno 131 (AZUL) casado: gabarito bateu em 100% de 38 itens comparáveis"
+      },
+      "n_curadas": 9,
+      "n_questoes": 38,
+      "n_com_tri": 38,
+      "n_com_imagem": 21,
+      "n_enunciado_vazio": 0,
+      "n_sem_assunto": 5,
+      "numeros_faltantes": [
+        147,
+        149,
+        151,
+        152,
+        153,
+        157,
+        171
+      ],
+      "por_dificuldade": {
+        "facil": 18,
+        "media": 12,
+        "dificil": 8
+      }
+    },
+    "2012": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "correcoes_transcricao": [],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2012 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "151",
+        "cor": "AZUL",
+        "deslocamento_posicao": 0,
+        "n_comparaveis": 42,
+        "taxa_gabarito": 0.9762,
+        "n_divergentes": 1,
+        "divergencias": [
+          {
+            "id": "enem-2012-165",
+            "transcricao": "E",
+            "inep": "C"
+          }
+        ],
+        "n_com_tri": 42,
+        "n_tri_corrigidos": 0,
+        "n_tri_descartados": 0,
+        "n_anuladas": 0,
+        "n_habilidade_inep": 42,
+        "observacao": "caderno 151 (AZUL) casado: gabarito bateu em 98% de 42 itens comparáveis"
+      },
+      "n_curadas": 6,
+      "n_questoes": 42,
+      "n_com_tri": 42,
+      "n_com_imagem": 27,
+      "n_enunciado_vazio": 2,
+      "n_sem_assunto": 4,
+      "numeros_faltantes": [
+        140,
+        162,
+        164
+      ],
+      "por_dificuldade": {
+        "media": 12,
+        "dificil": 8,
+        "facil": 22
+      }
+    },
+    "2013": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "correcoes_transcricao": [],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "181",
+        "cor": "AZUL",
+        "deslocamento_posicao": 0,
+        "n_comparaveis": 42,
+        "taxa_gabarito": 1.0,
+        "n_divergentes": 0,
+        "divergencias": [],
+        "n_com_tri": 40,
+        "n_tri_corrigidos": 0,
+        "n_tri_descartados": 2,
+        "n_anuladas": 0,
+        "n_habilidade_inep": 42,
+        "observacao": "caderno 181 (AZUL) casado: gabarito bateu em 100% de 42 itens comparáveis"
+      },
+      "n_curadas": 4,
+      "n_questoes": 42,
+      "n_com_tri": 40,
+      "n_com_imagem": 30,
+      "n_enunciado_vazio": 3,
+      "n_sem_assunto": 14,
+      "numeros_faltantes": [
+        152,
+        155,
+        180
+      ],
+      "por_dificuldade": {
+        "media": 16,
+        "facil": 15,
+        "dificil": 9,
+        "sem_tri": 2
+      }
+    },
+    "2014": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "correcoes_transcricao": [],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2014 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "209",
+        "cor": "AZUL",
+        "deslocamento_posicao": 0,
+        "n_comparaveis": 44,
+        "taxa_gabarito": 1.0,
+        "n_divergentes": 0,
+        "divergencias": [],
+        "n_com_tri": 43,
+        "n_tri_corrigidos": 0,
+        "n_tri_descartados": 1,
+        "n_anuladas": 1,
+        "n_habilidade_inep": 45,
+        "observacao": "caderno 209 (AZUL) casado: gabarito bateu em 100% de 44 itens comparáveis"
+      },
+      "n_curadas": 1,
+      "n_questoes": 45,
+      "n_com_tri": 43,
+      "n_com_imagem": 28,
+      "n_enunciado_vazio": 17,
+      "n_sem_assunto": 15,
+      "numeros_faltantes": [],
+      "por_dificuldade": {
+        "facil": 14,
+        "dificil": 11,
+        "media": 18,
+        "sem_tri": 2
+      }
+    },
+    "2015": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "correcoes_transcricao": [],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "245",
+        "cor": "AZUL",
+        "deslocamento_posicao": 0,
+        "n_comparaveis": 42,
+        "taxa_gabarito": 1.0,
+        "n_divergentes": 0,
+        "divergencias": [],
+        "n_com_tri": 41,
+        "n_tri_corrigidos": 0,
+        "n_tri_descartados": 1,
+        "n_anuladas": 0,
+        "n_habilidade_inep": 42,
+        "observacao": "caderno 245 (AZUL) casado: gabarito bateu em 100% de 42 itens comparáveis"
+      },
+      "n_curadas": 0,
+      "n_questoes": 42,
+      "n_com_tri": 41,
+      "n_com_imagem": 25,
+      "n_enunciado_vazio": 12,
+      "n_sem_assunto": 14,
+      "numeros_faltantes": [
+        145,
+        177,
+        179
+      ],
+      "por_dificuldade": {
+        "dificil": 19,
+        "media": 12,
+        "facil": 10,
+        "sem_tri": 1
+      }
+    },
+    "2016": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "correcoes_transcricao": [],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2016 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "303",
+        "cor": "AZUL",
+        "deslocamento_posicao": 0,
+        "n_comparaveis": 45,
+        "taxa_gabarito": 1.0,
+        "n_divergentes": 0,
+        "divergencias": [],
+        "n_com_tri": 44,
+        "n_tri_corrigidos": 0,
+        "n_tri_descartados": 1,
+        "n_anuladas": 0,
+        "n_habilidade_inep": 45,
+        "observacao": "caderno 303 (AZUL) casado: gabarito bateu em 100% de 45 itens comparáveis"
+      },
+      "n_curadas": 3,
+      "n_questoes": 45,
+      "n_com_tri": 44,
+      "n_com_imagem": 31,
+      "n_enunciado_vazio": 13,
+      "n_sem_assunto": 12,
+      "numeros_faltantes": [],
+      "por_dificuldade": {
+        "media": 16,
+        "facil": 11,
+        "dificil": 17,
+        "sem_tri": 1
+      }
+    },
+    "2017": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "correcoes_transcricao": [],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "403",
+        "cor": "AZUL",
+        "deslocamento_posicao": 135,
+        "n_comparaveis": 43,
+        "taxa_gabarito": 1.0,
+        "n_divergentes": 0,
+        "divergencias": [],
+        "n_com_tri": 41,
+        "n_tri_corrigidos": 0,
+        "n_tri_descartados": 2,
+        "n_anuladas": 0,
+        "n_habilidade_inep": 43,
+        "observacao": "caderno 403 (AZUL) casado: gabarito bateu em 100% de 43 itens comparáveis"
+      },
+      "n_curadas": 1,
+      "n_questoes": 43,
+      "n_com_tri": 41,
+      "n_com_imagem": 34,
+      "n_enunciado_vazio": 3,
+      "n_sem_assunto": 4,
+      "numeros_faltantes": [
+        141,
+        146
+      ],
+      "por_dificuldade": {
+        "dificil": 20,
+        "media": 11,
+        "facil": 10,
+        "sem_tri": 2
+      }
+    },
+    "2018": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "correcoes_transcricao": [],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2018 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "459",
+        "cor": "AZUL",
+        "deslocamento_posicao": 0,
+        "n_comparaveis": 41,
+        "taxa_gabarito": 1.0,
+        "n_divergentes": 0,
+        "divergencias": [],
+        "n_com_tri": 41,
+        "n_tri_corrigidos": 0,
+        "n_tri_descartados": 0,
+        "n_anuladas": 1,
+        "n_habilidade_inep": 42,
+        "observacao": "caderno 459 (AZUL) casado: gabarito bateu em 100% de 41 itens comparáveis"
+      },
+      "n_curadas": 1,
+      "n_questoes": 42,
+      "n_com_tri": 41,
+      "n_com_imagem": 27,
+      "n_enunciado_vazio": 0,
+      "n_sem_assunto": 1,
+      "numeros_faltantes": [
+        136,
+        140,
+        142
+      ],
+      "por_dificuldade": {
+        "dificil": 19,
+        "media": 13,
+        "facil": 9,
+        "sem_tri": 1
+      }
+    },
+    "2019": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "correcoes_transcricao": [],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2019 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "515",
+        "cor": "AZUL",
+        "deslocamento_posicao": 0,
+        "n_comparaveis": 43,
+        "taxa_gabarito": 1.0,
+        "n_divergentes": 0,
+        "divergencias": [],
+        "n_com_tri": 42,
+        "n_tri_corrigidos": 0,
+        "n_tri_descartados": 1,
+        "n_anuladas": 1,
+        "n_habilidade_inep": 44,
+        "observacao": "caderno 515 (AZUL) casado: gabarito bateu em 100% de 43 itens comparáveis"
+      },
+      "n_curadas": 7,
+      "n_questoes": 44,
+      "n_com_tri": 42,
+      "n_com_imagem": 25,
+      "n_enunciado_vazio": 0,
+      "n_sem_assunto": 2,
+      "numeros_faltantes": [
+        141
+      ],
+      "por_dificuldade": {
+        "facil": 14,
+        "media": 16,
+        "dificil": 12,
+        "sem_tri": 2
+      }
+    },
+    "2020": {
+      "descartadas_enemdev": [],
+      "correcoes_transcricao": [
+        {
+          "id": "enem-2020-140",
+          "campo": "alternativas.C.texto"
+        }
+      ],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2020 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "587",
+        "cor": "AZUL",
+        "deslocamento_posicao": 0,
+        "n_comparaveis": 39,
+        "taxa_gabarito": 1.0,
+        "n_divergentes": 0,
+        "divergencias": [],
+        "n_com_tri": 39,
+        "n_tri_corrigidos": 0,
+        "n_tri_descartados": 0,
+        "n_anuladas": 1,
+        "n_habilidade_inep": 40,
+        "observacao": "caderno 587 (AZUL) casado: gabarito bateu em 100% de 39 itens comparáveis"
+      },
+      "n_curadas": 2,
+      "n_questoes": 40,
+      "n_com_tri": 39,
+      "n_com_imagem": 32,
+      "n_enunciado_vazio": 0,
+      "n_sem_assunto": 1,
+      "numeros_faltantes": [
+        144,
+        150,
+        152,
+        168,
+        179
+      ],
+      "por_dificuldade": {
+        "dificil": 12,
+        "facil": 14,
+        "media": 13,
+        "sem_tri": 1
+      }
+    },
+    "2021": {
+      "descartadas_enemdev": [
+        {
+          "numero": 94,
+          "motivo": "fora do intervalo 136–180 (provável erro de disciplina na transcrição)"
+        },
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "correcoes_transcricao": [],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2021 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "899",
+        "cor": "AZUL",
+        "deslocamento_posicao": 0,
+        "n_comparaveis": 42,
+        "taxa_gabarito": 0.9286,
+        "n_divergentes": 3,
+        "divergencias": [
+          {
+            "id": "enem-2021-139",
+            "transcricao": "A",
+            "inep": "E"
+          },
+          {
+            "id": "enem-2021-145",
+            "transcricao": "A",
+            "inep": "C"
+          },
+          {
+            "id": "enem-2021-152",
+            "transcricao": "D",
+            "inep": "E"
+          }
+        ],
+        "n_com_tri": 42,
+        "n_tri_corrigidos": 0,
+        "n_tri_descartados": 0,
+        "n_anuladas": 0,
+        "n_habilidade_inep": 42,
+        "observacao": "caderno 899 (AZUL) casado: gabarito bateu em 93% de 42 itens comparáveis"
+      },
+      "n_curadas": 7,
+      "n_questoes": 42,
+      "n_com_tri": 42,
+      "n_com_imagem": 29,
+      "n_enunciado_vazio": 0,
+      "n_sem_assunto": 0,
+      "numeros_faltantes": [
+        138,
+        140,
+        149
+      ],
+      "por_dificuldade": {
+        "media": 17,
+        "dificil": 10,
+        "facil": 15
+      }
+    },
+    "2022": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "correcoes_transcricao": [],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2022 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "1075",
+        "cor": "AZUL",
+        "deslocamento_posicao": 0,
+        "n_comparaveis": 42,
+        "taxa_gabarito": 0.9762,
+        "n_divergentes": 1,
+        "divergencias": [
+          {
+            "id": "enem-2022-143",
+            "transcricao": "A",
+            "inep": "D"
+          }
+        ],
+        "n_com_tri": 41,
+        "n_tri_corrigidos": 0,
+        "n_tri_descartados": 1,
+        "n_anuladas": 2,
+        "n_habilidade_inep": 44,
+        "observacao": "caderno 1075 (AZUL) casado: gabarito bateu em 98% de 42 itens comparáveis"
+      },
+      "n_curadas": 3,
+      "n_questoes": 44,
+      "n_com_tri": 41,
+      "n_com_imagem": 27,
+      "n_enunciado_vazio": 0,
+      "n_sem_assunto": 3,
+      "numeros_faltantes": [
+        144
+      ],
+      "por_dificuldade": {
+        "dificil": 21,
+        "media": 12,
+        "sem_tri": 3,
+        "facil": 8
+      }
+    },
+    "2023": {
+      "descartadas_enemdev": [
+        {
+          "numero": 128,
+          "motivo": "fora do intervalo 136–180 (provável erro de disciplina na transcrição)"
+        },
+        {
+          "numero": 129,
+          "motivo": "fora do intervalo 136–180 (provável erro de disciplina na transcrição)"
+        },
+        {
+          "numero": 130,
+          "motivo": "fora do intervalo 136–180 (provável erro de disciplina na transcrição)"
+        },
+        {
+          "numero": 131,
+          "motivo": "fora do intervalo 136–180 (provável erro de disciplina na transcrição)"
+        },
+        {
+          "numero": 132,
+          "motivo": "fora do intervalo 136–180 (provável erro de disciplina na transcrição)"
+        },
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "correcoes_transcricao": [],
+      "inep": {
+        "disponivel": true,
+        "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899",
+        "casado": true,
+        "co_prova": "1211",
+        "cor": "AZUL",
+        "deslocamento_posicao": 0,
+        "n_comparaveis": 38,
+        "taxa_gabarito": 1.0,
+        "n_divergentes": 0,
+        "divergencias": [],
+        "n_com_tri": 38,
+        "n_tri_corrigidos": 0,
+        "n_tri_descartados": 0,
+        "n_anuladas": 2,
+        "n_habilidade_inep": 40,
+        "observacao": "caderno 1211 (AZUL) casado: gabarito bateu em 100% de 38 itens comparáveis"
+      },
+      "n_curadas": 9,
+      "n_questoes": 40,
+      "n_com_tri": 38,
+      "n_com_imagem": 27,
+      "n_enunciado_vazio": 3,
+      "n_sem_assunto": 0,
+      "numeros_faltantes": [
+        148,
+        149,
+        153,
+        154,
+        174
+      ],
+      "por_dificuldade": {
+        "dificil": 11,
+        "facil": 17,
+        "media": 10,
+        "sem_tri": 2
+      }
+    }
+  },
+  "totais": {
+    "anos_cobertos": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "n_questoes": 636,
+    "n_com_tri": 614,
+    "n_curadas": 60,
+    "n_com_imagem": 419,
+    "n_enunciado_vazio": 54,
+    "n_sem_assunto": 83,
+    "n_anuladas": 13,
+    "n_tri_corrigidos": 40,
+    "n_divergencias_gabarito": 6,
+    "gabarito_fonte": {
+      "inep": 623,
+      "transcricao": 13
+    },
+    "habilidade_origem": {
+      "inep": 636
+    },
+    "por_assunto": {
+      "grandezas-unidades-escalas": 120,
+      "geometria-plana": 113,
+      "graficos-tabelas": 100,
+      "porcentagem": 94,
+      "geometria-espacial": 82,
+      "equacao-1-grau": 68,
+      "estatistica-basica": 58,
+      "razao-proporcao": 54,
+      "probabilidade": 52,
+      "analise-combinatoria": 28,
+      "sequencias-pa": 26,
+      "numeros-operacoes": 23,
+      "funcao-afim": 21,
+      "regra-de-tres": 20,
+      "leitura-grafico-funcao": 18,
+      "matematica-financeira": 16,
+      "funcao-quadratica": 12,
+      "geometria-analitica": 8,
+      "progressao-geometrica": 7,
+      "trigonometria": 5,
+      "equacao-2-grau": 4,
+      "matrizes-sistemas": 3,
+      "semelhanca-pitagoras": 1
+    },
+    "por_assunto_curadas": {
+      "razao-proporcao": 18,
+      "porcentagem": 15,
+      "grandezas-unidades-escalas": 11,
+      "equacao-1-grau": 10,
+      "numeros-operacoes": 8,
+      "graficos-tabelas": 7,
+      "estatistica-basica": 5,
+      "regra-de-tres": 5,
+      "funcao-afim": 5,
+      "sequencias-pa": 4,
+      "leitura-grafico-funcao": 2,
+      "probabilidade": 2,
+      "geometria-plana": 2,
+      "analise-combinatoria": 1,
+      "progressao-geometrica": 1,
+      "semelhanca-pitagoras": 1,
+      "matematica-financeira": 1,
+      "equacao-2-grau": 1,
+      "funcao-quadratica": 1
+    },
+    "por_habilidade": {
+      "H1": 20,
+      "H2": 24,
+      "H3": 28,
+      "H4": 23,
+      "H5": 18,
+      "H6": 18,
+      "H7": 21,
+      "H8": 27,
+      "H9": 22,
+      "H10": 16,
+      "H11": 21,
+      "H12": 23,
+      "H13": 18,
+      "H14": 19,
+      "H15": 19,
+      "H16": 19,
+      "H17": 18,
+      "H18": 17,
+      "H19": 27,
+      "H20": 20,
+      "H21": 24,
+      "H22": 15,
+      "H23": 15,
+      "H24": 21,
+      "H25": 28,
+      "H26": 26,
+      "H27": 25,
+      "H28": 27,
+      "H29": 20,
+      "H30": 17
+    },
+    "por_dificuldade": {
+      "media": 204,
+      "facil": 204,
+      "dificil": 206,
+      "sem_tri": 22
+    }
+  },
+  "limiares_dificuldade": {
+    "facil_max": 1.56,
+    "media_max": 2.33,
+    "metodo": "tercis de tri.b das 614 questões de MT com TRI no banco",
+    "n": 614
+  }
+}

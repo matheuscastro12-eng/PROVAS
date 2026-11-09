@@ -1,0 +1,48 @@
+{
+  "id": "enem-2019-158",
+  "gabarito": "C",
+  "assuntos": [
+    "grandezas-unidades-escalas",
+    "razao-proporcao"
+  ],
+  "habilidade": "H11",
+  "nivel_curador": 2,
+  "resumo": "Escala 1:200 aplicada a volume (fator 200³), conversão cm³ → litro e divisão pelo consumo diário.",
+  "resolucao": "**1. Escala em volume.** Na escala $1:200$ cada comprimento real é 200 vezes o da maquete; o volume, que envolve três dimensões, é $200^3 = 8\\,000\\,000$ vezes maior:\n$$V_{\\text{real}} = 45 \\times 8\\,000\\,000 = 360\\,000\\,000\\ \\text{cm}^3$$\n\n**2. Converta para litros.** $1$ L $= 1\\,000$ cm³:\n$$360\\,000\\,000\\ \\text{cm}^3 = 360\\,000\\ \\text{L}$$\n\n**3. Dias de abastecimento.**\n$$\\frac{360\\,000}{30\\,000} = 12\\ \\text{dias}$$\n\nAlternativa **C**.",
+  "dicas": {
+    "dica1": "Escala 1:200 vale para comprimentos. Para volume, o fator é 200 × 200 × 200.",
+    "dica2": "Multiplique 45 cm³ por 200³, converta cm³ em litros (÷ 1 000) e divida pelos 30 000 L diários.",
+    "dica3": "45 × 8 000 000 cm³ = 360 000 L → 360 000 ÷ 30 000."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "E",
+      "por_que": "Usou 200² (área) em vez de 200³: 45 × 40 000 cm³ = 1 800 L, nem um dia de consumo; marcou então a menor alternativa."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Errou 200³ por um fator 2 (4 × 10⁶ em vez de 8 × 10⁶): 180 000 L ÷ 30 000 = 6 dias."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Chegou a 450 000 L (45 × 10⁷ cm³, arredondando 8 × 10⁶ para 10⁷) e dividiu: 15 dias."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Errou a conversão cm³ → L por um fator 2,5 (por exemplo 1 L = 400 cm³): 900 000 L ÷ 30 000 = 30."
+    }
+  ],
+  "conceitos": [
+    "escala aplicada a volumes (fator ao cubo)",
+    "conversão cm³ ↔ litro",
+    "divisão para obter número de dias"
+  ],
+  "verificacao": {
+    "codigo_sympy": "v_real_cm3 = 45 * 200**3\nlitros = Rational(v_real_cm3, 1000)\nresultado = litros / 30000",
+    "resultado_esperado": "12",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

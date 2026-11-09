@@ -1,0 +1,46 @@
+{
+  "id": "enem-2012-144",
+  "gabarito": "A",
+  "assuntos": [
+    "analise-combinatoria"
+  ],
+  "habilidade": "H2",
+  "nivel_curador": 1,
+  "resumo": "Princípio multiplicativo: objetos × personagens × cômodos, comparado ao número de alunos.",
+  "resolucao": "**1. Conte as respostas distintas possíveis.** Uma resposta é uma tripla (objeto, personagem, cômodo). Pelo princípio fundamental da contagem:\n$$5 \\times 6 \\times 9 = 270$$\n\n**2. Compare com o número de alunos.** São 280 alunos dando respostas sempre diferentes. Como $280 > 270$, as respostas distintas se esgotam antes dos alunos: alguém necessariamente acerta.\n$$280 - 270 = 10$$\n\nHá **10 alunos a mais** do que respostas possíveis (alternativa **A**).",
+  "dicas": {
+    "dica1": "Cada palpite combina três escolhas independentes. O total de palpites diferentes é o produto das quantidades de opções.",
+    "dica2": "Multiplique 5 × 6 × 9. Depois veja quantos alunos sobram além desse número.",
+    "dica3": "5 × 6 × 9 = 270; 280 − 270 = ?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Somou em vez de multiplicar (5 + 6 + 9 = 20) e fez 280 − 20 = 260."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Multiplicou só duas das três quantidades (ex.: 6 × 9 = 54... ou 5 × 6 × ... = 161) e subtraiu de 280."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Erro aritmético no produto (ex.: 5 × 6 × 9 = 260)."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Considerou apenas 10 respostas possíveis, confundindo o número final com a contagem de respostas."
+    }
+  ],
+  "conceitos": [
+    "princípio fundamental da contagem",
+    "princípio da casa dos pombos (intuitivo)"
+  ],
+  "verificacao": {
+    "codigo_sympy": "resultado = 280 - 5*6*9",
+    "resultado_esperado": "10",
+    "alternativa_esperada": "A"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

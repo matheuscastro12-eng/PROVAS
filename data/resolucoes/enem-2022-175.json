@@ -1,0 +1,47 @@
+{
+  "id": "enem-2022-175",
+  "gabarito": "E",
+  "assuntos": [
+    "numeros-operacoes"
+  ],
+  "habilidade": "H1",
+  "nivel_curador": 1,
+  "resumo": "Escrever R$ 1,35 bilhão com todos os algarismos.",
+  "resolucao": "**1. O que vale 1 bilhão.** Um bilhão é $10^9 = 1\\,000\\,000\\,000$ (o 1 seguido de nove zeros).\n\n**2. Multiplique por 1,35.**\n$$1{,}35 \\times 1\\,000\\,000\\,000 = 1\\,350\\,000\\,000$$\n\nDeslocar a vírgula nove casas para a direita transforma $1{,}35$ em $1\\,350\\,000\\,000$ (dez algarismos antes da vírgula).\n\n**3. Confira a ordem de grandeza.** O número tem de começar com a classe dos bilhões: \"1 bilhão, 350 milhões\". Só a alternativa **E** escreve isso: R$ 1 350 000 000,00.",
+  "dicas": {
+    "dica1": "Bilhão é 1 seguido de nove zeros. 'Um bilhão e pouco' tem que ter dez algarismos antes da vírgula.",
+    "dica2": "Escreva 1 000 000 000 e multiplique por 1,35: a vírgula anda nove casas para a direita.",
+    "dica3": "1,35 × 10⁹ = 1 350 000 000. Procure a alternativa com dez algarismos."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Trocou bilhão por 'cem milhões' (10⁸): 135 000 000 tem só nove algarismos, é 135 milhões."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Usou 10⁷ (dez milhões) como se fosse bilhão: 13 500 000 é 13,5 milhões."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Confundiu bilhão com milhão (10⁶): 1 350 000 é 1,35 milhão."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Multiplicou 1,35 por 100 000 (10⁵), perdendo quatro casas; 135 mil está muito longe de um bilhão."
+    }
+  ],
+  "conceitos": [
+    "classes e ordens do sistema decimal",
+    "potências de 10",
+    "multiplicação de decimal por potência de 10"
+  ],
+  "verificacao": {
+    "codigo_sympy": "resultado = Rational(135, 100) * 10**9",
+    "resultado_esperado": "1350000000",
+    "alternativa_esperada": "E"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

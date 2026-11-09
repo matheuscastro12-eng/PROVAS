@@ -1,0 +1,48 @@
+{
+  "id": "enem-2020-178",
+  "gabarito": "A",
+  "assuntos": [
+    "probabilidade",
+    "estatistica-basica"
+  ],
+  "habilidade": "H29",
+  "nivel_curador": 2,
+  "resumo": "Calcular o valor esperado (CRC) de cada pneu com 70% de chance de chuva e escolher o maior.",
+  "resolucao": "**1. Entenda o CRC.** É uma média ponderada pelas probabilidades: com chuva vale 70% ($0{,}7$) e sem chuva 30% ($0{,}3$):\n$$\\text{CRC} = 0{,}7 \\times \\text{EC}_{\\text{chuva}} + 0{,}3 \\times \\text{EC}_{\\text{sem chuva}}$$\n\n**2. Calcule para cada pneu.**\n\n| Pneu | Conta | CRC |\n|---|---|---|\n| I | $0{,}7 \\times 6 + 0{,}3 \\times 3 = 4{,}2 + 0{,}9$ | **5,1** |\n| II | $0{,}7 \\times 7 + 0{,}3 \\times (-4) = 4{,}9 - 1{,}2$ | 3,7 |\n| III | $0{,}7 \\times (-2) + 0{,}3 \\times 10 = -1{,}4 + 3$ | 1,6 |\n| IV | $0{,}7 \\times 2 + 0{,}3 \\times 8 = 1{,}4 + 2{,}4$ | 3,8 |\n| V | $0{,}7 \\times (-6) + 0{,}3 \\times 7 = -4{,}2 + 2{,}1$ | $-2{,}1$ |\n\n**3. Maior CRC:** pneu **I** (5,1). Alternativa **A**.",
+  "dicas": {
+    "dica1": "O CRC é um valor esperado: cada fator EC entra multiplicado pela probabilidade do clima correspondente.",
+    "dica2": "Para cada pneu faça 0,7 × (EC com chuva) + 0,3 × (EC sem chuva). Cuidado com os sinais negativos.",
+    "dica3": "Pneu I: 0,7·6 + 0,3·3 = 5,1. Compare com os outros quatro."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "B",
+      "por_que": "Escolheu o maior EC com chuva (7) sem ponderar; o −4 sem chuva derruba o CRC do II para 3,7."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Escolheu o maior EC sem chuva (10), mas esse clima tem só 30% de chance; o III fica com 1,6."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Somou os dois EC sem pesos (2 + 8 = 10, o maior total); com os pesos, o IV dá 3,8."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Trocou as probabilidades (0,3 para chuva e 0,7 para sem chuva) e ainda errou sinal; mesmo assim o V não vence (−1,8 + 4,9 = 3,1)."
+    }
+  ],
+  "conceitos": [
+    "valor esperado (média ponderada por probabilidades)",
+    "operações com números negativos",
+    "comparação de resultados"
+  ],
+  "verificacao": {
+    "codigo_sympy": "p = Rational(7, 10)\nec = {'A': (6, 3), 'B': (7, -4), 'C': (-2, 10), 'D': (2, 8), 'E': (-6, 7)}\ncrc = {k: p * c + (1 - p) * s for k, (c, s) in ec.items()}\nresultado = max(crc, key=crc.get)",
+    "resultado_esperado": "A",
+    "alternativa_esperada": "A"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

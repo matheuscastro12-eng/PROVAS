@@ -1,0 +1,48 @@
+{
+  "id": "enem-2023-180",
+  "gabarito": "C",
+  "assuntos": [
+    "estatistica-basica",
+    "graficos-tabelas"
+  ],
+  "habilidade": "H27",
+  "nivel_curador": 1,
+  "resumo": "Escolher o par de meses consecutivos com maior média de precipitação.",
+  "resolucao": "A média de dois meses consecutivos é $\\dfrac{m_1 + m_2}{2}$. Como todas dividem por 2, basta comparar as somas:\n\n| Meses | Soma (mm) | Média (mm) |\n|---|---|---|\n| out–nov | 250 + 150 = 400 | 200 |\n| nov–dez | 150 + 200 = 350 | 175 |\n| **dez–jan** | **200 + 450 = 650** | **325** |\n| jan–fev | 450 + 100 = 550 | 275 |\n| fev–mar | 100 + 200 = 300 | 150 |\n\nA maior média é a de **dezembro–janeiro**. O plantio deve ser no início de **dezembro** (alternativa **C**).",
+  "dicas": {
+    "dica1": "A semente precisa de água nos DOIS primeiros meses: compare pares de meses consecutivos, não meses isolados.",
+    "dica2": "Some a precipitação de cada par consecutivo (out+nov, nov+dez, …). O maior par indica o mês de plantio: o primeiro dos dois.",
+    "dica3": "dez+jan = 650 é a maior soma. Em qual mês começa esse par?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Escolheu janeiro, o mês isolado mais chuvoso, ou o segundo mês do melhor par em vez do primeiro."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Escolheu o primeiro mês do período ou o par out–nov (400), sem comparar com dez–jan."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Comparou médias erradas ou escolheu o mês anterior ao mais chuvoso sem conferir o par."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Escolheu o par com menor média (fev–mar), invertendo o critério."
+    }
+  ],
+  "conceitos": [
+    "média aritmética de dois valores",
+    "comparação de médias",
+    "leitura de dados em lista"
+  ],
+  "verificacao": {
+    "codigo_sympy": "meses = ['Outubro','Novembro','Dezembro','Janeiro','Fevereiro','Marco']\nv = [250,150,200,450,100,200]\nmedias = {meses[i]: Rational(v[i]+v[i+1], 2) for i in range(5)}\nresultado = max(medias, key=medias.get)",
+    "resultado_esperado": "Dezembro",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

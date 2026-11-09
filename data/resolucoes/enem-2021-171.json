@@ -1,0 +1,47 @@
+{
+  "id": "enem-2021-171",
+  "gabarito": "E",
+  "assuntos": [
+    "geometria-plana"
+  ],
+  "habilidade": "H12",
+  "nivel_curador": 2,
+  "resumo": "Calcular áreas de cinco figuras e escolher a maior dentro de um limite de custo (área ≤ 80 cm²).",
+  "resolucao": "**1. Limite de área.** Custo R$ 0,01/cm² e teto de R$ 0,80 → no máximo **80 cm²**.\n\n**2. Áreas** (com $\\pi = 3$ e $\\sqrt{3} = 1{,}7$):\n- Triângulo equilátero (lado 12): $\\dfrac{12^2 \\sqrt3}{4} = \\dfrac{144 \\times 1{,}7}{4} = 61{,}2$ cm²\n- Quadrado (lado 8): $64$ cm²\n- Retângulo (11 × 8): $88$ cm² → **ultrapassa** 80\n- Hexágono regular (lado 6): $6 \\times \\dfrac{6^2 \\sqrt3}{4} = 6 \\times 15{,}3 = 91{,}8$ cm² → **ultrapassa** 80\n- Círculo (diâmetro 10, raio 5): $3 \\times 5^2 = 75$ cm²\n\n**3. Dentro do limite** (≤ 80): triângulo 61,2; quadrado 64; círculo **75**. A maior é o **círculo**. Alternativa **E**.",
+  "dicas": {
+    "dica1": "Dois critérios: primeiro elimine as figuras que custam mais que R$ 0,80 (área > 80 cm²); depois escolha a maior área entre as que sobraram.",
+    "dica2": "Calcule as cinco áreas. Triângulo equilátero: l²√3/4; hexágono: 6 triângulos equiláteros; círculo: π r² com r = 5.",
+    "dica3": "Áreas: 61,2; 64; 88; 91,8; 75. Quais são ≤ 80? Qual é a maior delas?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Escolheu a maior área de todas (hexágono, 91,8 cm²), esquecendo o limite de preço."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Escolheu o retângulo (88 cm²), que também ultrapassa R$ 0,80."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Calculou a área do círculo com o diâmetro como raio ou errou π·r² (ex.: 3 × 10 = 30) e ficou com o quadrado."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Errou a fórmula do triângulo (ex.: 12 × 12/2 = 72 > 64) e achou que ele ganhava do quadrado e do círculo."
+    }
+  ],
+  "conceitos": [
+    "áreas de polígonos regulares e do círculo",
+    "restrição (desigualdade) + maximização",
+    "aproximações de π e √3"
+  ],
+  "verificacao": {
+    "codigo_sympy": "pi_a, r3 = 3, Rational(17,10)\nareas = {'A': Rational(144,4)*r3, 'B': 64, 'C': 11*8, 'D': 6*Rational(36,4)*r3, 'E': pi_a*5**2}\nvalidas = {k: v for k, v in areas.items() if v <= 80}\nresultado = max(validas, key=validas.get)",
+    "resultado_esperado": "E",
+    "alternativa_esperada": "E"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

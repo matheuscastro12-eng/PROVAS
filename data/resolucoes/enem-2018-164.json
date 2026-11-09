@@ -1,0 +1,48 @@
+{
+  "id": "enem-2018-164",
+  "gabarito": "C",
+  "assuntos": [
+    "sequencias-pa",
+    "numeros-operacoes"
+  ],
+  "habilidade": "H3",
+  "nivel_curador": 2,
+  "resumo": "Reconstruir a sequência de andares a partir do final e achar o maior andar visitado.",
+  "resolucao": "**1. Chame de $x$ o andar em que a criança entrou.** Os movimentos: $+7, -10, -13, +9, -4$, terminando no 5º:\n$$x + 7 - 10 - 13 + 9 - 4 = 5 \\;\\Rightarrow\\; x - 11 = 5 \\;\\Rightarrow\\; x = 16$$\n\n**2. Andares visitados, em ordem:**\n$$16 \\xrightarrow{+7} 23 \\xrightarrow{-10} 13 \\xrightarrow{-13} 0\\ (\\text{térreo}) \\xrightarrow{+9} 9 \\xrightarrow{-4} 5$$\n\n**3. O elevador parou uma vez no último andar.** O maior andar da sequência é **23**. Alternativa **C**.\n\n(O trajeto passa pelo térreo = 0, confirmando que a numeração começa em T.)",
+  "dicas": {
+    "dica1": "Trabalhe de trás para a frente ou com uma incógnita: o andar final (5º) é o resultado de somas e subtrações a partir do andar inicial.",
+    "dica2": "Escreva x + 7 − 10 − 13 + 9 − 4 = 5, ache x e liste todos os andares em que o elevador parou. O último andar do prédio é o maior deles.",
+    "dica3": "x = 16; sequência 16, 23, 13, 0, 9, 5. Qual é o maior?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Respondeu o andar inicial (16), não o maior andar visitado."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Somou todos os deslocamentos para cima (7 + 9 = 16) ao 5º andar, ou errou o sinal de um movimento (22)."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Somou 16 + 9 = 25 ou tratou 'desceu 10, desceu 13' como uma única descida errada."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Somou todos os movimentos em módulo (7 + 10 + 13 + 9 + 4 = 43) e subtraiu 11, ou calculou 16 + 7 + 9 = 32."
+    }
+  ],
+  "conceitos": [
+    "números inteiros (subidas e descidas)",
+    "equação do 1º grau",
+    "máximo de uma sequência"
+  ],
+  "verificacao": {
+    "codigo_sympy": "x = symbols('x')\nx0 = solve(Eq(x + 7 - 10 - 13 + 9 - 4, 5), x)[0]\nandares = [x0]\nfor m in [7, -10, -13, 9, -4]:\n    andares.append(andares[-1] + m)\nresultado = max(andares)",
+    "resultado_esperado": "23",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

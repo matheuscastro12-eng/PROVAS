@@ -1,0 +1,47 @@
+{
+  "id": "enem-2023-175",
+  "gabarito": "B",
+  "assuntos": [
+    "equacao-1-grau"
+  ],
+  "habilidade": "H21",
+  "nivel_curador": 2,
+  "resumo": "Sistema de duas equações do 1º grau com preços de tíquetes azul e vermelho.",
+  "resolucao": "Sejam $a$ e $v$ os preços (em reais) do tíquete azul e do vermelho.\n\n**1. Relação entre os preços:** \"azul menos vermelho é igual a vermelho mais cinco centavos\":\n$$a - v = v + 0{,}05 \\;\\Rightarrow\\; a = 2v + 0{,}05$$\n\n**2. Duas cartelas azuis + uma vermelha (9 tíquetes cada) custam R$ 32,40:**\n$$9(2a + v) = 32{,}40 \\;\\Rightarrow\\; 2a + v = 3{,}60$$\n\n**3. Substitua $a$:**\n$$2(2v + 0{,}05) + v = 3{,}60 \\;\\Rightarrow\\; 5v + 0{,}10 = 3{,}60 \\;\\Rightarrow\\; v = 0{,}70$$\n\n**4. Cartela vermelha** (9 tíquetes): $9 \\times 0{,}70 = 6{,}30$. Alternativa **B**.\n\n(O azul custa $a = 1{,}45$; confira: $9(2{,}90 + 0{,}70) = 32{,}40$ ✓.)",
+  "dicas": {
+    "dica1": "Duas incógnitas (preço do azul e do vermelho) pedem duas equações: uma da frase sobre a diferença, outra do total pago.",
+    "dica2": "Traduza: a − v = v + 0,05 e 9(2a + v) = 32,40. Isole a na primeira e substitua na segunda.",
+    "dica3": "2a + v = 3,60 e a = 2v + 0,05 → 5v = 3,50. Depois multiplique v por 9."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Respondeu o preço de um tíquete (0,70) multiplicado errado ou dividiu 32,40 por algo sem resolver o sistema (ex.: 32,40 × 0,7/4,85)."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Erro ao montar a relação: usou a − v = 0,05 (sem o 'v mais'), obtendo valores maiores para v."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Dividiu 32,40 igualmente pelas 3 cartelas e ajustou errado (10,80 → 10,50)."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Confundiu a cartela azul com a vermelha ou trocou a e v na relação (cartela azul = 13,05; valores intermediários dão 9,30)."
+    }
+  ],
+  "conceitos": [
+    "sistema linear 2×2",
+    "tradução de frases em equações",
+    "verificação da solução"
+  ],
+  "verificacao": {
+    "codigo_sympy": "a, v = symbols('a v')\nsol = solve([Eq(a - v, v + Rational(5,100)), Eq(9*(2*a + v), Rational(3240,100))], [a, v])\nresultado = 9*sol[v]",
+    "resultado_esperado": "6.3",
+    "alternativa_esperada": "B"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}
