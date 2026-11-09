@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/matheuscastro12-eng/PROVAS/schema/resolucao.schema.json",
+  "title": "Resolução curada de uma questão (tutor Gabarita)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "gabarito", "assuntos", "habilidade", "resolucao", "dicas", "erros_comuns", "conceitos", "verificacao", "classificacao"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^enem-(19|20)[0-9]{2}-[0-9]{1,3}$" },
+    "gabarito": { "type": "string", "enum": ["A", "B", "C", "D", "E"] },
+    "assuntos": { "type": "array", "minItems": 1, "items": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" }, "uniqueItems": true },
+    "habilidade": { "type": "string", "pattern": "^H([1-9]|[12][0-9]|30)$" },
+    "resumo": { "type": "string", "description": "Uma frase sobre o que a questão pede." },
+    "resolucao": { "type": "string", "minLength": 80, "description": "Passo a passo em Markdown com LaTeX entre $...$." },
+    "dicas": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["dica1", "dica2", "dica3"],
+      "properties": {
+        "dica1": { "type": "string", "minLength": 10, "description": "Conceitual: qual ideia resolve." },
+        "dica2": { "type": "string", "minLength": 10, "description": "Caminho: quais passos seguir." },
+        "dica3": { "type": "string", "minLength": 10, "description": "Quase a conta: monta a expressão, falta só calcular." }
+      }
+    },
+    "erros_comuns": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["alternativa", "por_que"],
+        "properties": {
+          "alternativa": { "type": "string", "enum": ["A", "B", "C", "D", "E"] },
+          "por_que": { "type": "string", "minLength": 10, "description": "Por que esse distrator atrai (o erro que leva a ele)." }
+        }
+      }
+    },
+    "conceitos": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+    "verificacao": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["codigo_sympy", "resultado_esperado"],
+      "properties": {
+        "codigo_sympy": { "type": "string", "description": "Código Python/SymPy que define a variável `resultado` com o valor calculado." },
+        "resultado_esperado": { "type": "string", "description": "Valor esperado de `resultado` (string avaliável pelo SymPy, ex.: '125', 'Rational(3,8)', '2.5')." },
+        "alternativa_esperada": { "type": "string", "enum": ["A", "B", "C", "D", "E"], "description": "Alternativa à qual o resultado corresponde (deve ser o gabarito)." },
+        "tolerancia": { "type": "number", "minimum": 0, "description": "Tolerância absoluta para comparar numericamente (padrão 1e-9)." }
+      }
+    },
+    "classificacao": { "const": "revisada" },
+    "revisado_por": { "type": "string" },
+    "revisado_em": { "type": "string", "format": "date" }
+  }
+}
