@@ -1,0 +1,17 @@
+{
+  "descricao": "Correções manuais ao texto transcrito pela enem.dev, aplicadas por scripts/build.py depois da normalização. Cada correção cita a evidência. O gabarito nunca é alterado aqui: ele vem do TX_GABARITO oficial do INEP (microdados).",
+  "correcoes": [
+    {
+      "id": "enem-2020-140",
+      "campo": "alternativas.C.texto",
+      "de": "3 caixas do tipo A e 1 caixa do tipo B.",
+      "para": "3 caixas do tipo A e 2 caixas do tipo B.",
+      "motivo": "Com 18 peças necessárias (11,52 m² / 0,64 m²), '3 A + 1 B' daria só 15 peças e não poderia ser o gabarito oficial (C, TX_GABARITO do INEP, caderno 587). A prova oficial traz '3 caixas do tipo A e 2 caixas do tipo B' (18 peças, R$ 159,00, a compra mais barata sem sobra); a transcrição da enem.dev trocou o 2 por 1.",
+      "evidencia": [
+        "INEP, microdados do ENEM 2020 (ITENS_PROVA), caderno 587 (AZUL), posição 140: TX_GABARITO = C",
+        "https://plataformaassaad.com.br/questao-140-caderno-azul-enem-2020/ (alternativa C: '3 caixas do tipo A e 2 caixa do tipo B')",
+        "https://descomplica.com.br/gabarito-enem/questoes/2020/segundo-dia/compra-que-atende-necessidades-proprietario-proporciona-menor-sobra/ (resolução: 3 A + 2 B = 18 peças, R$ 159,00)"
+      ]
+    }
+  ]
+}

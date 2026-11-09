@@ -7,7 +7,7 @@
   "additionalProperties": false,
   "required": [
     "id", "ano", "dia", "caderno", "numero", "area", "enunciado", "imagens", "alternativas",
-    "gabarito", "anulada", "habilidade", "competencia", "assuntos", "classificacao", "tri",
+    "gabarito", "gabarito_fonte", "anulada", "habilidade", "competencia", "assuntos", "classificacao", "tri",
     "dificuldade_estimada", "fonte"
   ],
   "properties": {
@@ -49,7 +49,12 @@
         }
       }
     },
-    "gabarito": { "type": "string", "enum": ["A", "B", "C", "D", "E"], "description": "Gabarito oficial do INEP (conferido com TX_GABARITO dos microdados quando disponível)." },
+    "gabarito": { "type": "string", "enum": ["A", "B", "C", "D", "E"], "description": "Gabarito da questão. Quando o caderno foi casado com os microdados, é o TX_GABARITO oficial do INEP (prevalece sobre a transcrição); ver gabarito_fonte." },
+    "gabarito_fonte": {
+      "type": "string",
+      "enum": ["inep", "transcricao"],
+      "description": "'inep' = confirmado/corrigido pelo TX_GABARITO dos microdados do INEP; 'transcricao' = só o correctAlternative da enem.dev (microdados indisponíveis, posição não casada ou item anulado)."
+    },
     "anulada": { "type": "boolean", "description": "true se o INEP anulou o item (IN_ITEM_ABAN=1 nos microdados)." },
     "habilidade": {
       "type": ["string", "null"],
@@ -84,11 +89,13 @@
         {
           "type": "object",
           "additionalProperties": false,
-          "required": ["a", "b", "c"],
+          "required": ["a", "b", "c", "corrigido", "fonte"],
           "properties": {
-            "a": { "type": "number", "description": "Discriminação (NU_PARAM_A)." },
-            "b": { "type": "number", "description": "Dificuldade (NU_PARAM_B), na escala (0,1) do INEP." },
-            "c": { "type": "number", "minimum": 0, "maximum": 1, "description": "Acerto casual (NU_PARAM_C)." }
+            "a": { "type": "number", "exclusiveMinimum": 0, "maximum": 6, "description": "Discriminação (NU_PARAM_A). Faixa plausível aceita: (0, 6]." },
+            "b": { "type": "number", "minimum": -6, "maximum": 6, "description": "Dificuldade (NU_PARAM_B), na escala (0,1) do INEP. Faixa plausível aceita: [-6, 6]." },
+            "c": { "type": "number", "minimum": 0, "exclusiveMaximum": 1, "description": "Acerto casual (NU_PARAM_C). Faixa plausível aceita: [0, 1)." },
+            "corrigido": { "type": "boolean", "description": "true quando o espelho trazia o decimal quebrado (ex.: 141.931) e o valor foi corrigido pela reinserção do ponto após o primeiro dígito (1.41931)." },
+            "fonte": { "type": "string", "description": "Ex.: 'INEP, microdados do ENEM 2019 (ITENS_PROVA), espelho Zenodo record 18801899'." }
           }
         }
       ]
@@ -96,7 +103,7 @@
     "dificuldade_estimada": {
       "type": ["string", "null"],
       "enum": ["facil", "media", "dificil", null],
-      "description": "Derivada de tri.b: b < 0,5 → facil; 0,5 ≤ b < 1,5 → media; b ≥ 1,5 → dificil. null quando tri é null."
+      "description": "Derivada de tri.b pelos tercis do banco de Matemática (limiares em data/stats.json → limiares_dificuldade): b < facil_max → facil; facil_max ≤ b < media_max → media; b ≥ media_max → dificil. null quando tri é null."
     },
     "fonte": {
       "type": "object",
@@ -108,7 +115,8 @@
         "url_oficial": { "type": ["string", "null"], "format": "uri", "description": "Página oficial de provas e gabaritos do INEP." },
         "transcricao": { "const": "enem.dev" },
         "transcricao_url": { "type": "string", "format": "uri", "description": "URL da questão na API enem.dev." },
-        "microdados_url": { "type": ["string", "null"], "format": "uri", "description": "URL dos microdados do INEP usados para TRI/habilidade, quando houver." }
+        "microdados_url": { "type": ["string", "null"], "format": "uri", "description": "URL oficial dos microdados do INEP usados para TRI/habilidade/gabarito, quando houver." },
+        "microdados_espelho_url": { "type": ["string", "null"], "format": "uri", "description": "Espelho público de onde o CSV ITENS_PROVA foi efetivamente obtido (ex.: Zenodo record 18801899), quando o host do INEP estava inacessível." }
       }
     },
     "qualidade": {

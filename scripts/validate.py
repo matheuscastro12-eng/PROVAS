@@ -7,6 +7,8 @@ Regras:
   - assuntos ∈ taxonomia/assuntos.json; habilidade/competência ∈ matriz-mt.json e coerentes
   - cada resolução em data/resolucoes/*.json valida contra schema/resolucao.schema.json,
     aponta para uma questão existente e tem gabarito igual ao da questão
+  - parâmetros TRI dentro das faixas plausíveis (a em (0,6], b em [-6,6], c em [0,1)) e
+    dificuldade_estimada coerente com os limiares de stats.json
   - executa o codigo_sympy de cada resolução e confere resultado_esperado (use --sem-sympy para pular)
   - index.json, curadas.json e stats.json coerentes com as questões
 
@@ -44,6 +46,10 @@ def validar(com_sympy: bool = True) -> list[str]:
     if len(matriz["habilidades"]) != 30 or len(matriz["competencias"]) != 7:
         erros.append("matriz-mt.json deve ter 30 habilidades e 7 competências")
 
+    stats = ler_json(DIR_DATA / "stats.json")
+    limiares = stats.get("limiares_dificuldade") or {"facil_max": 0.5, "media_max": 1.5}
+    faixas = {"a": (0.0, 6.0), "b": (-6.0, 6.0), "c": (0.0, 1.0)}
+
     questoes: dict[str, dict] = {}
     for arq in sorted(DIR_QUESTOES.glob("*.json")):
         ano = int(arq.stem)
@@ -67,6 +73,15 @@ def validar(com_sympy: bool = True) -> list[str]:
                 erros.append(f"{q['id']}: competência {q['competencia']} não corresponde a {q['habilidade']}")
             if (q["tri"] is None) != (q["dificuldade_estimada"] is None):
                 erros.append(f"{q['id']}: tri e dificuldade_estimada devem ser ambos null ou ambos preenchidos")
+            if q["tri"]:
+                a, b, c = q["tri"]["a"], q["tri"]["b"], q["tri"]["c"]
+                if not (faixas["a"][0] < a <= faixas["a"][1] and faixas["b"][0] <= b <= faixas["b"][1] and faixas["c"][0] <= c < faixas["c"][1]):
+                    erros.append(f"{q['id']}: parâmetros TRI fora da faixa plausível: a={a}, b={b}, c={c}")
+                esperado = "facil" if b < limiares["facil_max"] else "media" if b < limiares["media_max"] else "dificil"
+                if q["dificuldade_estimada"] != esperado:
+                    erros.append(f"{q['id']}: dificuldade_estimada {q['dificuldade_estimada']} incoerente com b={b} e limiares {limiares}")
+                if q["gabarito_fonte"] != "inep":
+                    erros.append(f"{q['id']}: questão com TRI do INEP deveria ter gabarito_fonte = 'inep'")
             if "resolucao" in q and q["classificacao"] != "revisada":
                 erros.append(f"{q['id']}: questão com resolução deve ter classificacao 'revisada'")
 
@@ -101,7 +116,6 @@ def validar(com_sympy: bool = True) -> list[str]:
         erros.append("curadas.json não bate com as questões que têm resolução (rode build.py)")
     if [c["ordem"] for c in curadas] != list(range(1, len(curadas) + 1)):
         erros.append("curadas.json: campo ordem fora de sequência")
-    stats = ler_json(DIR_DATA / "stats.json")
     if stats["totais"]["n_questoes"] != len(questoes):
         erros.append("stats.json desatualizado (rode build.py)")
     return erros
