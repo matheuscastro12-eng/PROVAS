@@ -1,0 +1,48 @@
+{
+  "id": "enem-2011-164",
+  "gabarito": "D",
+  "assuntos": [
+    "grandezas-unidades-escalas",
+    "razao-proporcao"
+  ],
+  "habilidade": "H16",
+  "nivel_curador": 2,
+  "resumo": "Consumo de um chuveiro de 4,8 kW em 2 banhos de 10 min por dia durante 7 dias (energia = potência × tempo).",
+  "resolucao": "**1. Tempo de banho por dia, em horas.** Dois banhos de 10 min = 20 min $= \\dfrac{20}{60} = \\dfrac{1}{3}$ h.\n\n**2. Consumo diário.** O enunciado diz que o chuveiro consome 4,8 kW **por hora** de uso:\n$$4{,}8 \\times \\frac{1}{3} = 1{,}6\\ (\\text{kWh por dia})$$\n\n**3. Em sete dias.**\n$$7 \\times 1{,}6 = 11{,}2$$\n\nAlternativa **D**.\n\n(O texto escreve \"kW\" onde a unidade correta de energia seria kWh; a conta é a mesma.)",
+  "dicas": {
+    "dica1": "Energia consumida = potência × tempo. A potência está em kW por hora, então o tempo tem de estar em horas.",
+    "dica2": "Converta os 20 minutos diários em fração de hora, multiplique por 4,8 e depois por 7 dias.",
+    "dica3": "4,8 × (20/60) × 7."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "B",
+      "por_que": "Calculou só um dia (4,8 × 1/3 = 1,6) e esqueceu os 7 dias."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Considerou um único banho de 10 min por dia e um só dia: 4,8 × 1/6 = 0,8."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Usou um banho de 10 min por dia durante 7 dias: 0,8 × 7 = 5,6."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Usou 1 hora de banho por dia (4,8 × 7 = 33,6), sem converter os 20 minutos."
+    }
+  ],
+  "conceitos": [
+    "potência e energia (kW, kWh)",
+    "conversão minuto → hora",
+    "proporcionalidade"
+  ],
+  "verificacao": {
+    "codigo_sympy": "resultado = Rational(48, 10) * Rational(2 * 10, 60) * 7",
+    "resultado_esperado": "Rational(56, 5)",
+    "alternativa_esperada": "D"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

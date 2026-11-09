@@ -1634,10 +1634,9 @@
     "habilidade_origem": "inep",
     "competencia": "C4",
     "assuntos": [
-      "geometria-espacial",
       "razao-proporcao"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": {
       "a": 3.10132,
       "b": 1.15101,
@@ -1660,6 +1659,53 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2013-159",
+      "gabarito": "B",
+      "assuntos": [
+        "razao-proporcao"
+      ],
+      "habilidade": "H16",
+      "nivel_curador": 1,
+      "resumo": "Divisão em partes proporcionais 1 : 4 : 2 de 14 m³ de concreto; parte do cimento.",
+      "resolucao": "**1. Total de partes.** Cimento : areia : brita = $1 : 4 : 2$, logo\n$$1 + 4 + 2 = 7\\ \\text{partes}.$$\n\n**2. Valor de uma parte.** Os 14 m³ correspondem às 7 partes:\n$$\\frac{14}{7} = 2\\ \\text{m}^3\\ \\text{por parte}$$\n\n**3. Cimento = 1 parte = 2 m³.** Alternativa **B**.\n\n(Areia: $4 \\times 2 = 8$ m³; brita: $2 \\times 2 = 4$ m³; $2 + 8 + 4 = 14$ ✓.)",
+      "dicas": {
+        "dica1": "Proporção 1 : 4 : 2 significa que o concreto é dividido em 1 + 4 + 2 partes iguais.",
+        "dica2": "Divida 14 m³ pelo total de partes; o cimento é uma dessas partes.",
+        "dica3": "14 ÷ 7 = ?"
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "C",
+          "por_que": "Dividiu 14 por 6, esquecendo de contar a parte do cimento no total (14/6 ≈ 2,33)."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Dividiu 14 por 8 (1,75), somando errado as partes ou incluindo uma parte a mais."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Respondeu as 2 partes de brita (4 m³) ou fez 14 × 2/7."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Respondeu as 4 partes de areia (8 m³), trocando qual ingrediente tem 1 parte."
+        }
+      ],
+      "conceitos": [
+        "divisão em partes proporcionais",
+        "razão entre partes e total",
+        "fração de uma quantidade"
+      ],
+      "verificacao": {
+        "codigo_sympy": "resultado = Rational(14, 1 + 4 + 2) * 1",
+        "resultado_esperado": "2",
+        "alternativa_esperada": "B"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {

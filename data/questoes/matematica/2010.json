@@ -114,9 +114,10 @@
     "habilidade_origem": "inep",
     "competencia": "C3",
     "assuntos": [
-      "geometria-plana"
+      "razao-proporcao",
+      "grandezas-unidades-escalas"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": {
       "a": 1.96748,
       "b": 1.29609,
@@ -139,6 +140,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2010-137",
+      "gabarito": "E",
+      "assuntos": [
+        "razao-proporcao",
+        "grandezas-unidades-escalas"
+      ],
+      "habilidade": "H11",
+      "nivel_curador": 1,
+      "resumo": "Razão entre 2,1 cm (olho) e 42 m (espelho) na mesma unidade.",
+      "resolucao": "**1. Mesma unidade.** $42$ m $= 4\\,200$ cm.\n\n**2. Razão.**\n$$\\frac{2{,}1}{4\\,200} = \\frac{21}{42\\,000} = \\frac{1}{2\\,000}$$\n\nA razão é **1 : 2 000**. Alternativa **E**.\n\nAtalho: $2{,}1$ cabe 20 vezes em 42; como ainda há o fator 100 entre cm e m, a razão é $1 : (20 \\times 100) = 1 : 2\\,000$.",
+      "dicas": {
+        "dica1": "Razão entre comprimentos só faz sentido com as duas medidas na mesma unidade.",
+        "dica2": "Converta 42 m para centímetros e divida 2,1 por esse valor; simplifique até a forma 1 : n.",
+        "dica3": "2,1 / 4 200 = 1 / ?"
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Dividiu 2,1 por 42 sem converter a unidade: 1 : 20."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Converteu 42 m para 420 cm (fator 10, como se fossem decímetros): 2,1/420 = 1 : 200."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Ficou só com o fator de conversão cm → m (100) e esqueceu o quociente 42 ÷ 2,1 = 20."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Multiplicou 20 por 50 ou arredondou 2 000 para 1 000 por erro de zeros."
+        }
+      ],
+      "conceitos": [
+        "razão entre grandezas de mesma espécie",
+        "conversão metro ↔ centímetro",
+        "simplificação de frações"
+      ],
+      "verificacao": {
+        "codigo_sympy": "resultado = Rational(21, 10) / (42 * 100)",
+        "resultado_esperado": "Rational(1, 2000)",
+        "alternativa_esperada": "E"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {

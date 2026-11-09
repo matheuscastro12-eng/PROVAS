@@ -1559,11 +1559,10 @@
     "habilidade_origem": "inep",
     "competencia": "C5",
     "assuntos": [
-      "razao-proporcao",
-      "regra-de-tres",
-      "grandezas-unidades-escalas"
+      "progressao-geometrica",
+      "razao-proporcao"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": {
       "a": 2.04085,
       "b": 1.27709,
@@ -1586,6 +1585,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2023-159",
+      "gabarito": "D",
+      "assuntos": [
+        "progressao-geometrica",
+        "razao-proporcao"
+      ],
+      "habilidade": "H23",
+      "nivel_curador": 2,
+      "resumo": "População de larvas multiplica por 10 a cada 3 dias: quantos dias até 1 000 000 larvas (5 L × 200 000).",
+      "resolucao": "**1. População que consome os 5 litros de uma vez.** 1 L trata 200 000 larvas, então\n$$5 \\times 200\\,000 = 1\\,000\\,000\\ \\text{larvas}.$$\n\n**2. Quantas multiplicações por 10 até lá?** Começa com 100:\n$$100 \\times 10^{k} = 1\\,000\\,000 \\;\\Rightarrow\\; 10^{k} = 10\\,000 \\;\\Rightarrow\\; k = 4$$\n\n(100 → 1 000 → 10 000 → 100 000 → 1 000 000: quatro saltos.)\n\n**3. Cada salto leva 3 dias.**\n$$4 \\times 3 = 12\\ \\text{dias}$$\n\nAlternativa **D**.",
+      "dicas": {
+        "dica1": "Descubra primeiro a população-alvo: a que usa exatamente os 5 litros. Depois conte quantas vezes é preciso multiplicar por 10.",
+        "dica2": "Alvo = 5 × 200 000. De 100 até esse alvo, conte os zeros acrescentados; cada ×10 custa 3 dias.",
+        "dica3": "100 × 10⁴ = 1 000 000 → 4 períodos de 3 dias."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "B",
+          "por_que": "Contou os 4 saltos de ×10 e respondeu 4, esquecendo de multiplicar pelos 3 dias de cada salto."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Usou 1 L (200 000 larvas) como alvo: 100 → 200 000 fica entre 3 e 4 saltos, e arredondou para 2 × 3 = 6."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Contou 6 saltos (os seis zeros de 1 000 000) sem descontar os dois zeros iniciais do 100: 6 × 3 = 18."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Respondeu os 2 zeros do 100 ou dividiu errado (6 ÷ 3 = 2)."
+        }
+      ],
+      "conceitos": [
+        "crescimento exponencial (multiplicação repetida)",
+        "potências de 10",
+        "proporcionalidade entre produto e população"
+      ],
+      "verificacao": {
+        "codigo_sympy": "alvo = 5 * 200000\npop, dias = 100, 0\nwhile pop < alvo:\n    pop *= 10\n    dias += 3\nassert pop == alvo\nresultado = dias",
+        "resultado_esperado": "12",
+        "alternativa_esperada": "D"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {

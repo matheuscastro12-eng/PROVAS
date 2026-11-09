@@ -587,12 +587,13 @@
     "ano": 2010,
     "numero": 137,
     "assuntos": [
-      "geometria-plana"
+      "razao-proporcao",
+      "grandezas-unidades-escalas"
     ],
     "habilidade": "H11",
     "b": 1.29609,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -1310,13 +1311,12 @@
     "ano": 2011,
     "numero": 148,
     "assuntos": [
-      "grandezas-unidades-escalas",
-      "equacao-1-grau"
+      "grandezas-unidades-escalas"
     ],
     "habilidade": "H10",
     "b": 1.31369,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -1460,14 +1460,13 @@
     "ano": 2011,
     "numero": 164,
     "assuntos": [
-      "progressao-geometrica",
       "grandezas-unidades-escalas",
-      "equacao-1-grau"
+      "razao-proporcao"
     ],
     "habilidade": "H16",
     "b": 1.29983,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -1745,13 +1744,13 @@
     "ano": 2012,
     "numero": 142,
     "assuntos": [
-      "geometria-espacial",
-      "razao-proporcao"
+      "grandezas-unidades-escalas",
+      "equacao-1-grau"
     ],
     "habilidade": "H12",
     "b": 1.306,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -2509,13 +2508,12 @@
     "ano": 2013,
     "numero": 159,
     "assuntos": [
-      "geometria-espacial",
       "razao-proporcao"
     ],
     "habilidade": "H16",
     "b": 1.15101,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -3175,12 +3173,12 @@
     "numero": 168,
     "assuntos": [
       "porcentagem",
-      "geometria-plana"
+      "razao-proporcao"
     ],
     "habilidade": "H3",
     "b": 1.224,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -6734,13 +6732,12 @@
     "numero": 178,
     "assuntos": [
       "probabilidade",
-      "equacao-1-grau",
-      "matematica-financeira"
+      "estatistica-basica"
     ],
     "habilidade": "H29",
     "b": 1.1092,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -7273,12 +7270,12 @@
     "ano": 2021,
     "numero": 176,
     "assuntos": [
-      "equacao-1-grau"
+      "numeros-operacoes"
     ],
     "habilidade": "H1",
     "b": 1.21252,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -7299,12 +7296,13 @@
     "ano": 2021,
     "numero": 178,
     "assuntos": [
-      "grandezas-unidades-escalas"
+      "grandezas-unidades-escalas",
+      "equacao-1-grau"
     ],
     "habilidade": "H3",
     "b": 1.21452,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -8199,14 +8197,13 @@
     "ano": 2023,
     "numero": 159,
     "assuntos": [
-      "razao-proporcao",
-      "regra-de-tres",
-      "grandezas-unidades-escalas"
+      "progressao-geometrica",
+      "razao-proporcao"
     ],
     "habilidade": "H23",
     "b": 1.27709,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
