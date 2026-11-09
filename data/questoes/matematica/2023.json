@@ -38,23 +38,32 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H6",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H8",
+    "habilidade_origem": "inep",
     "competencia": "C2",
     "assuntos": [
-      "geometria-espacial"
+      "geometria-espacial",
+      "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.09451,
+      "b": 2.44818,
+      "c": 0.25838,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 136",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/136",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -102,24 +111,32 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H27",
-    "habilidade_origem": "revisada",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "estatistica-basica",
       "graficos-tabelas"
     ],
     "classificacao": "revisada",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.33563,
+      "b": 1.08025,
+      "c": 0.20912,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 137",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/137",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -213,24 +230,32 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H30",
-    "habilidade_origem": "revisada",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "probabilidade",
       "equacao-1-grau"
     ],
     "classificacao": "revisada",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.46956,
+      "b": 2.91942,
+      "c": 0.24283,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 138",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/138",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -326,23 +351,31 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H24",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C6",
     "assuntos": [
       "graficos-tabelas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.18793,
+      "b": 1.75696,
+      "c": 0.15183,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 139",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/139",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -390,23 +423,31 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H27",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "estatistica-basica"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.71891,
+      "b": 2.19574,
+      "c": 0.08744,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 140",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/140",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -452,23 +493,31 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H28",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "probabilidade"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.70307,
+      "b": 1.3682,
+      "c": 0.16099,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 141",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/141",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -514,24 +563,32 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H14",
+    "habilidade_origem": "inep",
     "competencia": "C3",
     "assuntos": [
       "grandezas-unidades-escalas",
       "estatistica-basica"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.29744,
+      "b": 2.42208,
+      "c": 0.14073,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 142",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/142",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -577,25 +634,32 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H6",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H5",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [
-      "geometria-espacial",
       "porcentagem",
-      "razao-proporcao"
+      "geometria-espacial"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.09757,
+      "b": 1.52611,
+      "c": 0.10674,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 143",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/143",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -644,9 +708,10 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H12",
+    "habilidade_origem": "inep",
     "competencia": "C3",
     "assuntos": [
       "grandezas-unidades-escalas",
@@ -654,15 +719,22 @@
       "geometria-espacial"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.28918,
+      "b": 2.23364,
+      "c": 0.23391,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 144",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/144",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -710,24 +782,32 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H28",
-    "habilidade_origem": "heuristica",
-    "competencia": "C7",
+    "habilidade": "H9",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
     "assuntos": [
-      "probabilidade",
-      "geometria-plana"
+      "geometria-plana",
+      "probabilidade"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.58702,
+      "b": 2.1908,
+      "c": 0.24232,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 145",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/145",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -775,23 +855,31 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H4",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.38237,
+      "b": 1.88674,
+      "c": 0.10321,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 146",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/146",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -837,24 +925,32 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H16",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [
-      "grandezas-unidades-escalas",
-      "razao-proporcao"
+      "razao-proporcao",
+      "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.05676,
+      "b": 1.98507,
+      "c": 0.08392,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 147",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/147",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -900,24 +996,32 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H19",
-    "habilidade_origem": "revisada",
+    "habilidade_origem": "inep",
     "competencia": "C5",
     "assuntos": [
       "funcao-afim",
       "porcentagem"
     ],
     "classificacao": "revisada",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.26306,
+      "b": 1.45121,
+      "c": 0.23837,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 150",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/150",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1012,24 +1116,32 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H24",
-    "habilidade_origem": "heuristica",
-    "competencia": "C6",
+    "habilidade": "H20",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "graficos-tabelas",
       "equacao-1-grau"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.79257,
+      "b": 0.86167,
+      "c": 0.17314,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 151",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/151",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1080,23 +1192,31 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H20",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H22",
+    "habilidade_origem": "inep",
     "competencia": "C5",
     "assuntos": [
       "leitura-grafico-funcao"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.58609,
+      "b": 3.00088,
+      "c": 0.19242,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 152",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/152",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1144,24 +1264,32 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H12",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
       "geometria-plana",
       "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.5851,
+      "b": 1.4869,
+      "c": 0.21903,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 155",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/155",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1209,24 +1337,32 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H20",
-    "habilidade_origem": "revisada",
+    "habilidade_origem": "inep",
     "competencia": "C5",
     "assuntos": [
       "leitura-grafico-funcao",
       "graficos-tabelas"
     ],
     "classificacao": "revisada",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.72676,
+      "b": 0.3783,
+      "c": 0.17229,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 156",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/156",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1323,25 +1459,33 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H27",
-    "habilidade_origem": "heuristica",
-    "competencia": "C7",
+    "habilidade": "H25",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [
       "estatistica-basica",
-      "porcentagem",
-      "grandezas-unidades-escalas"
+      "graficos-tabelas",
+      "porcentagem"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.26313,
+      "b": 1.23798,
+      "c": 0.16267,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 157",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/157",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1387,24 +1531,32 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H5",
+    "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
       "porcentagem",
       "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.37105,
+      "b": 2.55621,
+      "c": 0.17151,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 158",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/158",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1450,25 +1602,33 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H23",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "razao-proporcao",
       "regra-de-tres",
       "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.04085,
+      "b": 1.27709,
+      "c": 0.27067,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 159",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/159",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1516,24 +1676,32 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H2",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H29",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
     "assuntos": [
       "analise-combinatoria",
       "probabilidade"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.11162,
+      "b": 2.38012,
+      "c": 0.17296,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 160",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/160",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1579,10 +1747,11 @@
       }
     ],
     "gabarito": "D",
-    "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "gabarito_fonte": "transcricao",
+    "anulada": true,
+    "habilidade": "H17",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [
       "matematica-financeira",
       "porcentagem"
@@ -1596,13 +1765,16 @@
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/161",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
-      "observacoes": []
+      "observacoes": [
+        "item anulado pelo INEP (IN_ITEM_ABAN=1); gabarito mantido da transcrição"
+      ]
     }
   },
   {
@@ -1642,23 +1814,31 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H19",
-    "habilidade_origem": "revisada",
+    "habilidade_origem": "inep",
     "competencia": "C5",
     "assuntos": [
       "funcao-afim"
     ],
     "classificacao": "revisada",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.99818,
+      "b": 0.86032,
+      "c": 0.22079,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 162",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/162",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1752,25 +1932,33 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H24",
-    "habilidade_origem": "heuristica",
-    "competencia": "C6",
+    "habilidade": "H6",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
     "assuntos": [
       "graficos-tabelas",
       "matematica-financeira",
       "funcao-quadratica"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.40824,
+      "b": 2.57722,
+      "c": 0.04513,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 163",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/163",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1818,13 +2006,13 @@
       }
     ],
     "gabarito": "D",
-    "anulada": false,
-    "habilidade": "H24",
-    "habilidade_origem": "heuristica",
+    "gabarito_fonte": "transcricao",
+    "anulada": true,
+    "habilidade": "H26",
+    "habilidade_origem": "inep",
     "competencia": "C6",
     "assuntos": [
-      "graficos-tabelas",
-      "regra-de-tres"
+      "graficos-tabelas"
     ],
     "classificacao": "heuristica",
     "tri": null,
@@ -1835,13 +2023,16 @@
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/164",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
       "alternativas_incompletas": false,
       "depende_de_imagem": true,
-      "observacoes": []
+      "observacoes": [
+        "item anulado pelo INEP (IN_ITEM_ABAN=1); gabarito mantido da transcrição"
+      ]
     }
   },
   {
@@ -1883,23 +2074,31 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H8",
+    "habilidade_origem": "inep",
     "competencia": "C2",
     "assuntos": [
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.39434,
+      "b": 1.98395,
+      "c": 0.11508,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 165",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/165",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1948,24 +2147,32 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H26",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [
-      "grandezas-unidades-escalas",
-      "graficos-tabelas"
+      "graficos-tabelas",
+      "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.52639,
+      "b": 1.16539,
+      "c": 0.05545,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 166",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/166",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2011,25 +2218,33 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H18",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [
       "razao-proporcao",
       "porcentagem",
       "equacao-1-grau"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.94836,
+      "b": 1.9392,
+      "c": 0.17138,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 167",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/167",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2075,23 +2290,31 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H28",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "probabilidade"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.68656,
+      "b": 2.50464,
+      "c": 0.12713,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 168",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/168",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2140,25 +2363,33 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H2",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [
+      "sequencias-pa",
       "grandezas-unidades-escalas",
-      "razao-proporcao",
-      "sequencias-pa"
+      "razao-proporcao"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.72431,
+      "b": 0.7783,
+      "c": 0.18886,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 169",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/169",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2208,23 +2439,31 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H22",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "matematica-financeira"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.01304,
+      "b": 2.67185,
+      "c": 0.08455,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 170",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/170",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2270,23 +2509,31 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H3",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
       "equacao-1-grau"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.39559,
+      "b": 1.53865,
+      "c": 0.11866,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 171",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/171",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2335,23 +2582,31 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H13",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.2107,
+      "b": 2.37234,
+      "c": 0.31768,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 172",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/172",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2397,23 +2652,31 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H10",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C3",
     "assuntos": [
       "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.60187,
+      "b": 2.11188,
+      "c": 0.26394,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 173",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/173",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2459,23 +2722,31 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H21",
-    "habilidade_origem": "revisada",
+    "habilidade_origem": "inep",
     "competencia": "C5",
     "assuntos": [
       "equacao-1-grau"
     ],
     "classificacao": "revisada",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.21375,
+      "b": 1.82985,
+      "c": 0.15414,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 175",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/175",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2570,23 +2841,31 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H2",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
       "sequencias-pa"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.63418,
+      "b": 1.34475,
+      "c": 0.13956,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 176",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/176",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2634,24 +2913,32 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H20",
-    "habilidade_origem": "heuristica",
-    "competencia": "C5",
+    "habilidade": "H15",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [
       "leitura-grafico-funcao",
       "graficos-tabelas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 0.96035,
+      "b": 1.52433,
+      "c": 0.14823,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 177",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/177",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2697,24 +2984,32 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H15",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [
       "grandezas-unidades-escalas",
       "regra-de-tres"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.95569,
+      "b": 2.84307,
+      "c": 0.24511,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 178",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/178",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2762,24 +3057,32 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H1",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [
       "grandezas-unidades-escalas",
       "sequencias-pa"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.52531,
+      "b": 0.63295,
+      "c": 0.18496,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 179",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/179",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2825,24 +3128,32 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H27",
-    "habilidade_origem": "revisada",
+    "habilidade": "H30",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "estatistica-basica",
       "graficos-tabelas"
     ],
     "classificacao": "revisada",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.78452,
+      "b": 0.74313,
+      "c": 0.18879,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2023 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 180",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/180",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2023.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,

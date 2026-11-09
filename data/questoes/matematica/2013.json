@@ -38,24 +38,32 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H9",
+    "habilidade_origem": "inep",
     "competencia": "C2",
     "assuntos": [
       "geometria-plana",
       "trigonometria"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.212,
+      "b": 2.195,
+      "c": 0.084,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 136",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/136",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -103,23 +111,31 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H27",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "estatistica-basica"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.87865,
+      "b": 1.86319,
+      "c": 0.17739,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 137",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/137",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -165,21 +181,29 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H2",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.4459,
+      "b": 2.05864,
+      "c": 0.18393,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 138",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/138",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -225,24 +249,32 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H12",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
-      "equacao-1-grau",
-      "geometria-espacial"
+      "geometria-espacial",
+      "equacao-1-grau"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.78,
+      "b": 0.876,
+      "c": 0.092,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 139",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/139",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -290,21 +322,29 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H5",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.59488,
+      "b": 1.39085,
+      "c": 0.14724,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 140",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/140",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -352,21 +392,29 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H8",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.79245,
+      "b": 1.67777,
+      "c": 0.092,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 141",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/141",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -414,21 +462,29 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H26",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.02037,
+      "b": 2.70479,
+      "c": 0.0547,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 142",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/142",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -476,23 +532,31 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H11",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
       "equacao-1-grau"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.773,
+      "b": 1.604,
+      "c": 0.23,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 143",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/143",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -540,24 +604,32 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H25",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [
-      "equacao-1-grau",
-      "graficos-tabelas"
+      "graficos-tabelas",
+      "equacao-1-grau"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.87432,
+      "b": -0.18327,
+      "c": 0.1013,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 144",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/144",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -605,24 +677,32 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H1",
+    "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
       "equacao-1-grau",
       "razao-proporcao"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.23485,
+      "b": 0.30828,
+      "c": 0.20321,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 145",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/145",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -670,23 +750,31 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H28",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "probabilidade"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.64437,
+      "b": 2.0082,
+      "c": 0.25458,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 146",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/146",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -734,21 +822,29 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H4",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.01156,
+      "b": 0.98993,
+      "c": 0.23233,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 147",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/147",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -794,24 +890,32 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H16",
-    "habilidade_origem": "revisada",
+    "habilidade_origem": "inep",
     "competencia": "C4",
     "assuntos": [
       "equacao-1-grau",
       "razao-proporcao"
     ],
     "classificacao": "revisada",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.87,
+      "b": 1.3,
+      "c": 0.043,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 148",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/148",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -907,23 +1011,31 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H24",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [
       "equacao-1-grau"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.01237,
+      "b": 0.69759,
+      "c": 0.05473,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 149",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/149",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -969,23 +1081,31 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H28",
-    "habilidade_origem": "revisada",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "probabilidade"
     ],
     "classificacao": "revisada",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.166,
+      "b": 2.693,
+      "c": 0.194,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 150",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/150",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1078,25 +1198,33 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H20",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
-      "geometria-plana",
       "geometria-analitica",
-      "equacao-1-grau"
+      "geometria-plana",
+      "funcao-quadratica"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.40484,
+      "b": 1.8758,
+      "c": 0.0938,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 151",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/151",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1142,25 +1270,33 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H19",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "geometria-plana",
-      "geometria-espacial",
-      "funcao-afim"
+      "funcao-afim",
+      "geometria-espacial"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.329,
+      "b": 1.6,
+      "c": 0.087,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 153",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/153",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1209,23 +1345,31 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H24",
-    "habilidade_origem": "heuristica",
-    "competencia": "C6",
+    "habilidade": "H15",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [
       "graficos-tabelas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.7321,
+      "b": 1.44395,
+      "c": 0.12945,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 154",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/154",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1271,24 +1415,32 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H2",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H15",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [
       "analise-combinatoria",
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.63412,
+      "b": 1.7685,
+      "c": 0.13052,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 156",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/156",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1336,23 +1488,31 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H14",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.62065,
+      "b": 1.94868,
+      "c": 0.16111,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 157",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/157",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1398,23 +1558,31 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H3",
-    "habilidade_origem": "revisada",
+    "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
       "porcentagem"
     ],
     "classificacao": "revisada",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.38025,
+      "b": 1.01952,
+      "c": 0.22361,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 158",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/158",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1507,23 +1675,32 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H6",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H16",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [
-      "geometria-espacial"
+      "geometria-espacial",
+      "razao-proporcao"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.10132,
+      "b": 1.15101,
+      "c": 0.18972,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 159",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/159",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1571,21 +1748,29 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H25",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.36408,
+      "b": 0.77378,
+      "c": 0.15282,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 160",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/160",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1633,21 +1818,29 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H25",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.57109,
+      "b": 0.53915,
+      "c": 0.09265,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 161",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/161",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1695,23 +1888,31 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H2",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H27",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
     "assuntos": [
       "sequencias-pa"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 0.56195,
+      "b": 4.27919,
+      "c": 0.14427,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 162",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/162",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1757,23 +1958,31 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "revisada",
-    "competencia": "C1",
+    "habilidade": "H17",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [
       "porcentagem"
     ],
     "classificacao": "revisada",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.69491,
+      "b": 1.61513,
+      "c": 0.06167,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 163",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/163",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1868,21 +2077,29 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H7",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.02072,
+      "b": 2.5857,
+      "c": 0.10265,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 164",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/164",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1930,9 +2147,10 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H2",
+    "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
       "equacao-1-grau"
@@ -1946,13 +2164,16 @@
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/165",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
       "alternativas_incompletas": false,
       "depende_de_imagem": true,
-      "observacoes": []
+      "observacoes": [
+        "parâmetros TRI descartados: b=17.62443 fora da faixa [-6.0, 6.0] e sem correção inequívoca"
+      ]
     }
   },
   {
@@ -1992,24 +2213,32 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H21",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
-      "porcentagem",
-      "progressao-geometrica"
+      "progressao-geometrica",
+      "porcentagem"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.90899,
+      "b": 2.19007,
+      "c": 0.11531,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 166",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/166",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2055,24 +2284,32 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H12",
-    "habilidade_origem": "revisada",
+    "habilidade": "H13",
+    "habilidade_origem": "inep",
     "competencia": "C3",
     "assuntos": [
       "geometria-plana",
       "porcentagem"
     ],
     "classificacao": "revisada",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.10104,
+      "b": 2.52253,
+      "c": 0.20375,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 167",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/167",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2168,21 +2405,29 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H29",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.68854,
+      "b": 3.68435,
+      "c": 0.11905,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 168",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/168",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2230,21 +2475,29 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H30",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.79469,
+      "b": 2.14272,
+      "c": 0.11122,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 169",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/169",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2290,23 +2543,31 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "revisada",
+    "habilidade": "H12",
+    "habilidade_origem": "inep",
     "competencia": "C3",
     "assuntos": [
       "grandezas-unidades-escalas"
     ],
     "classificacao": "revisada",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.89761,
+      "b": 1.92982,
+      "c": 0.21486,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 170",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/170",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2400,21 +2661,29 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H19",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.376,
+      "b": 2.325,
+      "c": 0.207,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 171",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/171",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -2462,21 +2731,29 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H23",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.24756,
+      "b": 1.93996,
+      "c": 0.14157,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 172",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/172",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2522,21 +2799,29 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H3",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.55431,
+      "b": 2.74384,
+      "c": 0.13923,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 173",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/173",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2584,24 +2869,32 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H11",
+    "habilidade_origem": "inep",
     "competencia": "C3",
     "assuntos": [
       "grandezas-unidades-escalas",
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 0.66541,
+      "b": 1.32509,
+      "c": 0.00301,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 174",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/174",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2649,23 +2942,31 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H6",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H22",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "geometria-analitica"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.79628,
+      "b": 0.94476,
+      "c": 0.13614,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 175",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/175",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2713,23 +3014,31 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H6",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H7",
+    "habilidade_origem": "inep",
     "competencia": "C2",
     "assuntos": [
       "geometria-espacial"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.7295,
+      "b": -0.03256,
+      "c": 0.15155,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 176",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/176",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2777,10 +3086,11 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H27",
-    "habilidade_origem": "heuristica",
-    "competencia": "C7",
+    "habilidade": "H10",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
       "estatistica-basica"
     ],
@@ -2793,13 +3103,16 @@
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/177",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
       "alternativas_incompletas": false,
       "depende_de_imagem": true,
-      "observacoes": []
+      "observacoes": [
+        "parâmetros TRI descartados: b=14.23385 fora da faixa [-6.0, 6.0] e sem correção inequívoca"
+      ]
     }
   },
   {
@@ -2841,24 +3154,32 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H9",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
     "assuntos": [
-      "razao-proporcao",
-      "geometria-espacial"
+      "geometria-espacial",
+      "razao-proporcao"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.433,
+      "b": 2.406,
+      "c": 0.183,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 178",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/178",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2906,21 +3227,29 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H8",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.59372,
+      "b": 2.87014,
+      "c": 0.16982,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2013 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2013, 2º dia, caderno azul (aplicação regular), questão 179",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2013/questions/179",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2013.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,

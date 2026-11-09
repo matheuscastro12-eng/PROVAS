@@ -36,23 +36,31 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H19",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "matematica-financeira"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 0.80131,
+      "b": 4.14316,
+      "c": 0.1181,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 136",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/136",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -100,24 +108,32 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H23",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "matematica-financeira",
       "progressao-geometrica"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 0.76406,
+      "b": 4.65555,
+      "c": 0.13227,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 137",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/137",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -165,23 +181,33 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H8",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
     "assuntos": [
-      "porcentagem"
+      "porcentagem",
+      "geometria-plana",
+      "trigonometria"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.52165,
+      "b": 1.59123,
+      "c": 0.16603,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 138",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/138",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -229,24 +255,32 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H20",
-    "habilidade_origem": "revisada",
+    "habilidade_origem": "inep",
     "competencia": "C5",
     "assuntos": [
       "leitura-grafico-funcao",
       "graficos-tabelas"
     ],
     "classificacao": "revisada",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.27998,
+      "b": 1.44146,
+      "c": 0.30754,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 139",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/139",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -343,23 +377,31 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H12",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.91773,
+      "b": 3.70512,
+      "c": 0.08701,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 140",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/140",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -405,24 +447,32 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H6",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H13",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
-      "geometria-espacial",
-      "grandezas-unidades-escalas"
+      "grandezas-unidades-escalas",
+      "geometria-espacial"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 0.92225,
+      "b": 3.2473,
+      "c": 0.18467,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 142",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/142",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -470,24 +520,32 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H2",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
       "analise-combinatoria",
       "equacao-1-grau"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.4349,
+      "b": 1.74779,
+      "c": 0.22339,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 143",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/143",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -533,25 +591,33 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H14",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
+      "geometria-plana",
       "razao-proporcao",
-      "grandezas-unidades-escalas",
-      "geometria-plana"
+      "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.54842,
+      "b": 2.44318,
+      "c": 0.17992,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 144",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/144",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -599,21 +665,29 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H17",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.35417,
+      "b": 2.03899,
+      "c": 0.09909,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 145",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/145",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -661,25 +735,32 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H25",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [
-      "grandezas-unidades-escalas",
       "graficos-tabelas",
-      "porcentagem"
+      "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.04425,
+      "b": 1.81095,
+      "c": 0.22729,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 147",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/147",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -727,24 +808,32 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H6",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H7",
+    "habilidade_origem": "inep",
     "competencia": "C2",
     "assuntos": [
       "geometria-espacial",
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 0.96268,
+      "b": 1.34664,
+      "c": 0.01124,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 148",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/148",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -792,9 +881,10 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H28",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H29",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "probabilidade",
@@ -802,15 +892,22 @@
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.67089,
+      "b": 2.41733,
+      "c": 0.24803,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 149",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/149",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -858,23 +955,31 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H9",
+    "habilidade_origem": "inep",
     "competencia": "C2",
     "assuntos": [
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.22842,
+      "b": 1.02866,
+      "c": 0.13443,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 150",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/150",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -923,9 +1028,10 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H27",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H30",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "estatistica-basica",
@@ -933,15 +1039,22 @@
       "matematica-financeira"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.48432,
+      "b": 2.07643,
+      "c": 0.19837,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 151",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/151",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -989,24 +1102,32 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H15",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [
       "geometria-plana",
       "geometria-espacial"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.2319,
+      "b": 2.33706,
+      "c": 0.10368,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 152",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/152",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1055,25 +1176,33 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H8",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
     "assuntos": [
+      "geometria-plana",
       "matematica-financeira",
-      "grandezas-unidades-escalas",
-      "geometria-plana"
+      "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.78755,
+      "b": 0.20972,
+      "c": 0.13567,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 153",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/153",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1121,23 +1250,31 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H6",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
     "assuntos": [
       "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 0.74136,
+      "b": 0.13558,
+      "c": 0.20302,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 154",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/154",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1185,24 +1322,32 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H27",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H29",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "estatistica-basica",
       "graficos-tabelas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.06629,
+      "b": 3.8013,
+      "c": 0.12848,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 155",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/155",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1251,23 +1396,31 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H9",
+    "habilidade_origem": "inep",
     "competencia": "C2",
     "assuntos": [
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.7001,
+      "b": 1.27713,
+      "c": 0.14108,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 156",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/156",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1315,10 +1468,11 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H1",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [
       "geometria-plana"
     ],
@@ -1331,13 +1485,16 @@
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/157",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
       "alternativas_incompletas": false,
       "depende_de_imagem": true,
-      "observacoes": []
+      "observacoes": [
+        "parâmetros TRI descartados: a=6.20439 fora da faixa [0.0, 6.0] e sem correção inequívoca"
+      ]
     }
   },
   {
@@ -1377,24 +1534,32 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H6",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H11",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
-      "geometria-espacial",
-      "grandezas-unidades-escalas"
+      "grandezas-unidades-escalas",
+      "geometria-espacial"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.9221,
+      "b": 1.80836,
+      "c": 0.15255,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 158",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/158",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1444,9 +1609,10 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H2",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H4",
+    "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
       "analise-combinatoria",
@@ -1454,15 +1620,22 @@
       "graficos-tabelas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.14608,
+      "b": 2.90712,
+      "c": 0.05065,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 159",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/159",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1510,24 +1683,32 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H2",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H3",
+    "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
       "analise-combinatoria",
       "equacao-1-grau"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.73135,
+      "b": 1.81579,
+      "c": 0.18263,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 160",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/160",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1575,25 +1756,33 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H21",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "razao-proporcao",
       "grandezas-unidades-escalas",
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.92882,
+      "b": 2.59593,
+      "c": 0.26714,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 161",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/161",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1639,25 +1828,33 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H22",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
+      "funcao-quadratica",
       "equacao-1-grau",
-      "geometria-analitica",
-      "funcao-quadratica"
+      "geometria-analitica"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 0.94629,
+      "b": 2.51063,
+      "c": 0.16509,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 162",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/162",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1705,23 +1902,31 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H4",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [
       "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.27542,
+      "b": 0.97568,
+      "c": 0.19626,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 163",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/163",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1767,25 +1972,33 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H16",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [
       "razao-proporcao",
       "regra-de-tres",
       "porcentagem"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.21079,
+      "b": 2.77172,
+      "c": 0.21678,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 164",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/164",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1834,23 +2047,31 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H24",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H26",
+    "habilidade_origem": "inep",
     "competencia": "C6",
     "assuntos": [
       "graficos-tabelas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.5736,
+      "b": 3.62845,
+      "c": 0.17737,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 165",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/165",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1898,21 +2119,29 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H19",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.81902,
+      "b": 2.85105,
+      "c": 0.15009,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 166",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/166",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1960,23 +2189,31 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H12",
+    "habilidade_origem": "inep",
     "competencia": "C3",
     "assuntos": [
       "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.24077,
+      "b": 1.33784,
+      "c": 0.13824,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 167",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/167",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2024,23 +2261,31 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H21",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.30232,
+      "b": 2.40148,
+      "c": 0.07097,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 168",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/168",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2088,23 +2333,31 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H26",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [
       "porcentagem"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.29084,
+      "b": 1.89557,
+      "c": 0.07463,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 169",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/169",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2152,24 +2405,32 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H24",
-    "habilidade_origem": "heuristica",
-    "competencia": "C6",
+    "habilidade": "H1",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [
       "graficos-tabelas",
       "leitura-grafico-funcao"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.76093,
+      "b": 1.9432,
+      "c": 0.25844,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 170",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/170",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2217,24 +2478,32 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H22",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "grandezas-unidades-escalas",
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.03002,
+      "b": 2.41844,
+      "c": 0.24519,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 171",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/171",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2282,21 +2551,29 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H25",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.38959,
+      "b": 1.55638,
+      "c": 0.17025,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 172",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/172",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2342,24 +2619,31 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H10",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C3",
     "assuntos": [
-      "grandezas-unidades-escalas",
-      "geometria-espacial"
+      "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.66062,
+      "b": 1.89833,
+      "c": 0.15134,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 173",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/173",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2407,12 +2691,14 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H27",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
     "assuntos": [
-      "porcentagem"
+      "porcentagem",
+      "estatistica-basica"
     ],
     "classificacao": "heuristica",
     "tri": null,
@@ -2423,13 +2709,16 @@
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/174",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
       "alternativas_incompletas": false,
       "depende_de_imagem": true,
-      "observacoes": []
+      "observacoes": [
+        "parâmetros TRI descartados: b=7.920920 fora da faixa [-6.0, 6.0] e sem correção inequívoca"
+      ]
     }
   },
   {
@@ -2469,23 +2758,31 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H28",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "probabilidade"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.60982,
+      "b": 3.04331,
+      "c": 0.21799,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 175",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/175",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -2531,24 +2828,32 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H18",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [
       "geometria-plana",
       "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.09568,
+      "b": 3.01649,
+      "c": 0.04704,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 176",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/176",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2596,23 +2901,31 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H2",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H5",
+    "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
       "analise-combinatoria"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.03148,
+      "b": 1.76214,
+      "c": 0.19951,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 177",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/177",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2660,23 +2973,31 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H24",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [
       "equacao-1-grau"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.45491,
+      "b": 0.58108,
+      "c": 0.32767,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 178",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/178",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2722,23 +3043,31 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H28",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "probabilidade"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.60552,
+      "b": 2.68705,
+      "c": 0.25409,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 179",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/179",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -2784,21 +3113,29 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H16",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.61681,
+      "b": 2.44593,
+      "c": 0.11192,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2017 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2017, 2º dia, caderno azul (aplicação regular), questão 180",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2017/questions/180",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2017.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,

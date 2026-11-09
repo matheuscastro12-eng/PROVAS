@@ -38,23 +38,31 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H24",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [
       "equacao-1-grau"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.174,
+      "b": 2.83932,
+      "c": 0.24418,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 136",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/136",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -100,23 +108,31 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H9",
+    "habilidade_origem": "inep",
     "competencia": "C2",
     "assuntos": [
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.33762,
+      "b": 2.31697,
+      "c": 0.20623,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 137",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/137",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -164,23 +180,31 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H20",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C5",
     "assuntos": [
       "leitura-grafico-funcao"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.58698,
+      "b": 0.5657,
+      "c": 0.15746,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 138",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/138",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -228,25 +252,33 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H1",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [
       "grandezas-unidades-escalas",
       "probabilidade",
       "equacao-1-grau"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.54884,
+      "b": 0.96427,
+      "c": 0.24491,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 139",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/139",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -294,21 +326,29 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H26",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.49174,
+      "b": -0.42299,
+      "c": 0.19323,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 140",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/140",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -354,23 +394,31 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H6",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H14",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
       "geometria-espacial"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.62877,
+      "b": 2.01353,
+      "c": 0.11918,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 141",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/141",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -416,24 +464,31 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H28",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
-      "probabilidade",
-      "analise-combinatoria"
+      "probabilidade"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.06024,
+      "b": -0.23853,
+      "c": 0.20527,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 142",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/142",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -481,24 +536,32 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H27",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
       "estatistica-basica",
       "graficos-tabelas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.62208,
+      "b": 1.72592,
+      "c": 0.10767,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 143",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/143",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -547,23 +610,31 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H13",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
       "porcentagem"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.9866,
+      "b": 1.68438,
+      "c": 0.2727,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 144",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/144",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -609,24 +680,32 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H14",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
       "geometria-plana",
       "geometria-espacial"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.89731,
+      "b": 1.93082,
+      "c": 0.19951,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 146",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/146",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -674,23 +753,31 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H24",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [
       "equacao-1-grau"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.4522,
+      "b": 2.82021,
+      "c": 0.18333,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 147",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/147",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -738,23 +825,31 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H8",
+    "habilidade_origem": "inep",
     "competencia": "C2",
     "assuntos": [
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.15675,
+      "b": 0.94349,
+      "c": 0.1759,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 148",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/148",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -800,21 +895,29 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H7",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.98262,
+      "b": 2.01086,
+      "c": 0.12481,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 149",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/149",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -860,10 +963,11 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H27",
-    "habilidade_origem": "heuristica",
-    "competencia": "C7",
+    "habilidade": "H18",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [
       "estatistica-basica",
       "leitura-grafico-funcao"
@@ -877,13 +981,16 @@
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/150",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
-      "observacoes": []
+      "observacoes": [
+        "parâmetros TRI descartados: b=6.3679 fora da faixa [-6.0, 6.0] e sem correção inequívoca"
+      ]
     }
   },
   {
@@ -923,21 +1030,29 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H30",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.49081,
+      "b": 4.5172,
+      "c": 0.09464,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 151",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/151",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -983,23 +1098,31 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H15",
-    "habilidade_origem": "heuristica",
-    "competencia": "C4",
+    "habilidade": "H19",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "funcao-afim"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.81962,
+      "b": 1.8236,
+      "c": 0.11266,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 152",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/152",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -1047,23 +1170,31 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H9",
+    "habilidade_origem": "inep",
     "competencia": "C2",
     "assuntos": [
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.63224,
+      "b": 1.56733,
+      "c": 0.11271,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 153",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/153",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1111,24 +1242,32 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H24",
-    "habilidade_origem": "heuristica",
-    "competencia": "C6",
+    "habilidade": "H21",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
-      "graficos-tabelas",
-      "funcao-afim"
+      "funcao-afim",
+      "graficos-tabelas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.4161,
+      "b": 4.31587,
+      "c": 0.12228,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 154",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/154",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1176,23 +1315,31 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H8",
+    "habilidade_origem": "inep",
     "competencia": "C2",
     "assuntos": [
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.42194,
+      "b": 1.80813,
+      "c": 0.2745,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 155",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/155",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1238,21 +1385,29 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H3",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 0.87277,
+      "b": 2.82511,
+      "c": 0.21108,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 156",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/156",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -1298,21 +1453,29 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H10",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.52928,
+      "b": 2.33098,
+      "c": 0.19899,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 157",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/157",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1360,21 +1523,29 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H23",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.76806,
+      "b": 1.06274,
+      "c": 0.21458,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 158",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/158",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1420,25 +1591,32 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H3",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
       "equacao-1-grau",
-      "porcentagem",
-      "estatistica-basica"
+      "porcentagem"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.16472,
+      "b": 3.02993,
+      "c": 0.1036,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 159",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/159",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1486,21 +1664,29 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H11",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.84267,
+      "b": 1.10396,
+      "c": 0.19698,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 160",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/160",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1548,24 +1734,32 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H21",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "porcentagem",
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.46951,
+      "b": 4.11405,
+      "c": 0.1258,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 161",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/161",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1611,21 +1805,29 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H5",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.74749,
+      "b": 2.59319,
+      "c": 0.14249,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 162",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/162",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -1673,21 +1875,29 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H17",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.66698,
+      "b": 2.59975,
+      "c": 0.20736,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 163",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/163",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1735,23 +1945,31 @@
       }
     ],
     "gabarito": "A",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H2",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
       "analise-combinatoria"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.70587,
+      "b": 3.19644,
+      "c": 0.20825,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 164",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/164",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1799,23 +2017,31 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H22",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.14018,
+      "b": 2.40051,
+      "c": 0.21976,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 165",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/165",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1861,21 +2087,29 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H17",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.2254,
+      "b": 0.80613,
+      "c": 0.17857,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 166",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/166",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -1923,21 +2157,29 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H7",
+    "habilidade_origem": "inep",
+    "competencia": "C2",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.03003,
+      "b": 2.09956,
+      "c": 0.1707,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 167",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/167",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -1983,23 +2225,32 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H28",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
     "assuntos": [
-      "porcentagem"
+      "porcentagem",
+      "probabilidade"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 3.41203,
+      "b": 3.8793,
+      "c": 0.05419,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 168",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/168",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -2047,21 +2298,29 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H25",
+    "habilidade_origem": "inep",
+    "competencia": "C6",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.15388,
+      "b": 2.04178,
+      "c": 0.28781,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 169",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/169",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2109,21 +2368,29 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H29",
+    "habilidade_origem": "inep",
+    "competencia": "C7",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.65509,
+      "b": 2.78727,
+      "c": 0.08102,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 170",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/170",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2169,23 +2436,31 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H12",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
       "geometria-plana"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.18579,
+      "b": 2.81649,
+      "c": 0.17915,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 171",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/171",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2233,23 +2508,31 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
     "habilidade": "H6",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "inep",
     "competencia": "C2",
     "assuntos": [
       "geometria-analitica"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.02151,
+      "b": 2.54329,
+      "c": 0.23534,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 172",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/172",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2295,21 +2578,29 @@
       }
     ],
     "gabarito": "C",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": null,
-    "habilidade_origem": null,
-    "competencia": null,
+    "habilidade": "H1",
+    "habilidade_origem": "inep",
+    "competencia": "C1",
     "assuntos": [],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.76491,
+      "b": 1.26471,
+      "c": 0.11821,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 173",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/173",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -2357,23 +2648,31 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H27",
-    "habilidade_origem": "heuristica",
-    "competencia": "C7",
+    "habilidade": "H23",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "estatistica-basica"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 2.00377,
+      "b": 3.51933,
+      "c": 0.20374,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 174",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/174",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2421,24 +2720,32 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H28",
-    "habilidade_origem": "heuristica",
-    "competencia": "C7",
+    "habilidade": "H19",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "probabilidade",
       "geometria-espacial"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.86527,
+      "b": 2.44217,
+      "c": 0.16755,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 175",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/175",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
@@ -2484,24 +2791,32 @@
       }
     ],
     "gabarito": "B",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H20",
-    "habilidade_origem": "heuristica",
-    "competencia": "C5",
+    "habilidade": "H15",
+    "habilidade_origem": "inep",
+    "competencia": "C4",
     "assuntos": [
       "leitura-grafico-funcao",
       "graficos-tabelas"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.44654,
+      "b": -0.39957,
+      "c": 0.20014,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "facil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 176",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/176",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -2547,23 +2862,31 @@
       }
     ],
     "gabarito": "E",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H6",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H10",
+    "habilidade_origem": "inep",
+    "competencia": "C3",
     "assuntos": [
       "geometria-espacial"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 1.77201,
+      "b": 1.70467,
+      "c": 0.12269,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "media",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 178",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/178",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": true,
@@ -2611,23 +2934,31 @@
       }
     ],
     "gabarito": "D",
+    "gabarito_fonte": "inep",
     "anulada": false,
-    "habilidade": "H2",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H22",
+    "habilidade_origem": "inep",
+    "competencia": "C5",
     "assuntos": [
       "sequencias-pa"
     ],
     "classificacao": "heuristica",
-    "tri": null,
-    "dificuldade_estimada": null,
+    "tri": {
+      "a": 0.79707,
+      "b": 5.35024,
+      "c": 0.16493,
+      "corrigido": false,
+      "fonte": "INEP, microdados do ENEM 2015 (ITENS_PROVA), espelho Zenodo record 18801899"
+    },
+    "dificuldade_estimada": "dificil",
     "fonte": {
       "orgao": "INEP",
       "prova": "ENEM 2015, 2º dia, caderno azul (aplicação regular), questão 180",
       "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
       "transcricao": "enem.dev",
       "transcricao_url": "https://api.enem.dev/v1/exams/2015/questions/180",
-      "microdados_url": null
+      "microdados_url": "https://download.inep.gov.br/microdados/microdados_enem_2015.zip",
+      "microdados_espelho_url": "https://zenodo.org/records/18801899"
     },
     "qualidade": {
       "enunciado_vazio": false,
