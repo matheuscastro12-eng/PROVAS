@@ -103,14 +103,14 @@
     ],
     "gabarito": "C",
     "anulada": false,
-    "habilidade": "H24",
-    "habilidade_origem": "heuristica",
-    "competencia": "C6",
+    "habilidade": "H27",
+    "habilidade_origem": "revisada",
+    "competencia": "C7",
     "assuntos": [
-      "graficos-tabelas",
-      "estatistica-basica"
+      "estatistica-basica",
+      "graficos-tabelas"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -126,6 +126,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": true,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2023-137",
+      "gabarito": "C",
+      "assuntos": [
+        "estatistica-basica",
+        "graficos-tabelas"
+      ],
+      "habilidade": "H27",
+      "nivel_curador": 1,
+      "resumo": "Média salarial de 100 funcionários a partir de um quadro com dois setores.",
+      "dados_da_imagem": "Quadro: Produção → 75 funcionários, salário R$ 2 000,00; Administração → 25 funcionários, salário R$ 7 000,00.",
+      "resolucao": "**1. Folha total de salários.**\n$$75 \\times 2\\,000 + 25 \\times 7\\,000 = 150\\,000 + 175\\,000 = 325\\,000$$\n\n**2. Divida pelos 100 funcionários.**\n$$\\frac{325\\,000}{100} = 3\\,250$$\n\nA média é **R$ 3 250,00** (alternativa **C**).",
+      "dicas": {
+        "dica1": "A média de todos os salários não é a média dos dois salários, porque os setores têm tamanhos diferentes.",
+        "dica2": "Multiplique cada salário pela quantidade de funcionários do setor, some e divida por 100.",
+        "dica3": "(75 × 2 000 + 25 × 7 000) ÷ 100."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "D",
+          "por_que": "Fez a média simples dos dois salários: (2 000 + 7 000)/2 = 4 500."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Fez (7 000 − 2 000)/2 ou outro cálculo com a diferença dos salários."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Respondeu o salário mais comum (moda), e não a média."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Somou os dois salários (9 000) sem ponderar nem dividir."
+        }
+      ],
+      "conceitos": [
+        "média ponderada",
+        "leitura de quadro/tabela"
+      ],
+      "verificacao": {
+        "codigo_sympy": "resultado = Rational(75*2000 + 25*7000, 100)",
+        "resultado_esperado": "3250",
+        "alternativa_esperada": "C"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -166,13 +214,14 @@
     ],
     "gabarito": "C",
     "anulada": false,
-    "habilidade": "H28",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H30",
+    "habilidade_origem": "revisada",
     "competencia": "C7",
     "assuntos": [
-      "probabilidade"
+      "probabilidade",
+      "equacao-1-grau"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -188,6 +237,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2023-138",
+      "gabarito": "C",
+      "assuntos": [
+        "probabilidade",
+        "equacao-1-grau"
+      ],
+      "habilidade": "H30",
+      "nivel_curador": 3,
+      "resumo": "Eventos independentes (duas urnas) e ajuste do número de bolas para a probabilidade cair a 1%.",
+      "resolucao": "**1. Probabilidade de ganhar hoje.** As retiradas são independentes:\n$$P = 0{,}20 \\times 0{,}25 = 0{,}05 = 5\\%$$\n\n**2. Composição atual da urna B.** 25% de pretas e 4 pretas → total $4 / 0{,}25 = 16$ bolinhas, ou seja, **12 brancas**.\n\n**3. Nova urna B com $x$ brancas.** A urna A não muda (0,20). Queremos:\n$$0{,}20 \\times \\frac{4}{4 + x} \\le 0{,}01 \\;\\Rightarrow\\; \\frac{4}{4 + x} \\le 0{,}05 \\;\\Rightarrow\\; 4 + x \\ge 80 \\;\\Rightarrow\\; x \\ge 76$$\n\n**4. Quantas brancas acrescentar?** Já há 12: $76 - 12 = 64$. Alternativa **C**.",
+      "dicas": {
+        "dica1": "Retirar uma bola de cada urna são eventos independentes: a probabilidade de ganhar é o produto das duas probabilidades.",
+        "dica2": "Descubra quantas brancas a urna B tem hoje (4 pretas são 25%). Depois imponha 0,2 × 4/(4 + brancas) ≤ 0,01 e veja quantas brancas faltam.",
+        "dica3": "4/(4 + b) ≤ 0,05 → b ≥ 76. A urna já tem 12 brancas."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "E",
+          "por_que": "Respondeu 80, o total de bolinhas que a urna B precisa ter, e não quantas brancas acrescentar."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Calculou 80 − 12 = 68, esquecendo que das 80 bolinhas 4 são pretas (brancas necessárias = 76)."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Tomou 76 − 16 = 60, descontando o total atual da urna em vez de só as brancas."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Exigiu que a probabilidade só da urna B fosse 1% (4/(4 + x) = 0,01... ou 1/5 disso), ignorando a urna A, ou errou a leitura do 25%."
+        }
+      ],
+      "conceitos": [
+        "eventos independentes",
+        "probabilidade como razão",
+        "inequação do 1º grau"
+      ],
+      "verificacao": {
+        "codigo_sympy": "brancas_atuais = 4/Rational(25,100) - 4\nb = symbols('b')\nminimo = solve(Eq(Rational(20,100)*4/(4+b), Rational(1,100)), b)[0]\nresultado = minimo - brancas_atuais",
+        "resultado_esperado": "64",
+        "alternativa_esperada": "C"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -804,14 +901,14 @@
     ],
     "gabarito": "A",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H19",
+    "habilidade_origem": "revisada",
+    "competencia": "C5",
     "assuntos": [
-      "grandezas-unidades-escalas",
+      "funcao-afim",
       "porcentagem"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -827,6 +924,53 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2023-150",
+      "gabarito": "A",
+      "assuntos": [
+        "funcao-afim",
+        "porcentagem"
+      ],
+      "habilidade": "H19",
+      "nivel_curador": 1,
+      "resumo": "Traduzir '90% da quantidade q' em expressão algébrica.",
+      "resolucao": "**1. Leia a frase-chave:** \"a concentração de álcool (C) no sangue corresponde a aproximadamente 90% da quantidade (q) de álcool ingerida\".\n\n**2. Traduza 90% de q:**\n$$C = \\frac{90}{100} \\cdot q = 0{,}9q$$\n\nAlternativa **A**.\n\nAs demais alternativas misturam \"perder 10%\" com subtrair 0,1q de 1 (que não faz sentido dimensional) ou subtrair 10 unidades.",
+      "dicas": {
+        "dica1": "'90% de q' é uma multiplicação: 0,9 vezes q.",
+        "dica2": "Escreva 90% como 0,9 e multiplique por q. Não há nada sendo subtraído de 1.",
+        "dica3": "C = 0,9 · q."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "B",
+          "por_que": "Usou os 10% eliminados em vez dos 90% que permanecem."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Tentou escrever 'tira 10%' como 1 − 0,1q, mas 1 não é a quantidade ingerida; o correto seria q − 0,1q = 0,9q."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Mesma confusão de C, com 0,9."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Tratou 10% como 10 unidades e subtraiu de q."
+        }
+      ],
+      "conceitos": [
+        "porcentagem como fator multiplicativo",
+        "função linear C = kq"
+      ],
+      "verificacao": {
+        "codigo_sympy": "q = symbols('q')\nresultado = Rational(90, 100) * q",
+        "resultado_esperado": "0.9*q",
+        "alternativa_esperada": "A"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1066,14 +1210,14 @@
     ],
     "gabarito": "A",
     "anulada": false,
-    "habilidade": "H24",
-    "habilidade_origem": "heuristica",
-    "competencia": "C6",
+    "habilidade": "H20",
+    "habilidade_origem": "revisada",
+    "competencia": "C5",
     "assuntos": [
-      "graficos-tabelas",
-      "equacao-1-grau"
+      "leitura-grafico-funcao",
+      "graficos-tabelas"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -1089,6 +1233,55 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": true,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2023-156",
+      "gabarito": "A",
+      "assuntos": [
+        "leitura-grafico-funcao",
+        "graficos-tabelas"
+      ],
+      "habilidade": "H20",
+      "nivel_curador": 1,
+      "resumo": "Ler em um gráfico de linha os intervalos em que a intensidade do sinal é zero.",
+      "dados_da_imagem": "Gráfico intensidade do sinal × tempo (min), de 0 a 30, com marcas a cada 2 min. A linha fica sobre o eixo (intensidade zero) de 10 a 12 min e de 16 a 20 min; nos demais trechos está acima de zero (pico isolado em 14 min).",
+      "resolucao": "**1. \"Sem sinal\" = intensidade igual a zero**, ou seja, a linha do gráfico encostada no eixo do tempo.\n\n**2. Localize esses trechos:**\n- de **10 a 12 min** → 2 minutos\n- de **16 a 20 min** → 4 minutos\n\n(Em 14 min há um pico: o sinal voltou por um instante entre os dois trechos sem sinal.)\n\n**3. Some:** $2 + 4 = 6$ minutos. Alternativa **A**.",
+      "dicas": {
+        "dica1": "No gráfico, 'sem sinal' é onde a linha toca o eixo horizontal (valor zero), não onde ela está baixa.",
+        "dica2": "Leia os instantes em que a linha encosta no eixo e some os comprimentos desses intervalos.",
+        "dica3": "Trechos no zero: 10–12 e 16–20. Some as durações."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "C",
+          "por_que": "Contou de 10 a 20 min como um único intervalo (10 min), ignorando o pico em 14 min."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Contou de 10 a 20 descontando só 2 min do pico (8) ou incluiu o intervalo de queda 8–10."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Somou os intervalos de sinal fraco (2–10 e 20–28), não os de sinal zero."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Contou o tempo com sinal (30 − 6 = 24) em vez do tempo sem sinal."
+        }
+      ],
+      "conceitos": [
+        "leitura de gráfico de linha",
+        "zeros de uma função em intervalos",
+        "soma de durações"
+      ],
+      "verificacao": {
+        "codigo_sympy": "intervalos_zero = [(10, 12), (16, 20)]\nresultado = sum(b - a for a, b in intervalos_zero)",
+        "resultado_esperado": "6",
+        "alternativa_esperada": "A"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1263,8 +1456,8 @@
     "competencia": "C1",
     "assuntos": [
       "razao-proporcao",
-      "grandezas-unidades-escalas",
-      "equacao-1-grau"
+      "regra-de-tres",
+      "grandezas-unidades-escalas"
     ],
     "classificacao": "heuristica",
     "tri": null,
@@ -1450,15 +1643,13 @@
     ],
     "gabarito": "D",
     "anulada": false,
-    "habilidade": "H6",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H19",
+    "habilidade_origem": "revisada",
+    "competencia": "C5",
     "assuntos": [
-      "geometria-espacial",
-      "porcentagem",
-      "grandezas-unidades-escalas"
+      "funcao-afim"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -1474,6 +1665,52 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2023-162",
+      "gabarito": "D",
+      "assuntos": [
+        "funcao-afim"
+      ],
+      "habilidade": "H19",
+      "nivel_curador": 1,
+      "resumo": "Preço = taxa fixa + preço por m³ × volume: identificar a lei da função afim.",
+      "resolucao": "**1. Parte fixa:** taxa de bombeamento de R$ 500,00, cobrada independentemente do volume.\n\n**2. Parte variável:** R$ 250,00 por metro cúbico; com $x$ m³, custa $250x$.\n\n**3. Lei da função:**\n$$y = 250x + 500$$\n\nAlternativa **D**.\n\nVerifique: com 0 m³ paga-se só a taxa ($y = 500$); cada m³ a mais aumenta o preço em 250.",
+      "dicas": {
+        "dica1": "Função afim y = ax + b: 'a' é o que varia com x (preço por m³) e 'b' é a parte fixa (taxa).",
+        "dica2": "O que é cobrado uma vez só? Isso é o termo independente. O que é cobrado por m³? Isso multiplica x.",
+        "dica3": "y = (250 por m³) · x + (taxa de 500)."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "E",
+          "por_que": "Trocou os papéis: colocou a taxa fixa multiplicando x e o preço por m³ como parte fixa."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Somou 500 + 250 = 750 e multiplicou por x, tratando a taxa fixa como se fosse por m³."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Esqueceu a taxa de bombeamento."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Usou a taxa como preço por m³ e esqueceu o custo do concreto."
+        }
+      ],
+      "conceitos": [
+        "função afim",
+        "coeficiente angular e linear em contexto"
+      ],
+      "verificacao": {
+        "codigo_sympy": "x = symbols('x')\ny = 250*x + 500\nresultado = (y.subs(x, 0), y.subs(x, 1) - y.subs(x, 0))  # (parte fixa, custo por m3)",
+        "resultado_esperado": "(500, 250)",
+        "alternativa_esperada": "D"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1521,7 +1758,8 @@
     "competencia": "C6",
     "assuntos": [
       "graficos-tabelas",
-      "matematica-financeira"
+      "matematica-financeira",
+      "funcao-quadratica"
     ],
     "classificacao": "heuristica",
     "tri": null,
@@ -1585,7 +1823,8 @@
     "habilidade_origem": "heuristica",
     "competencia": "C6",
     "assuntos": [
-      "graficos-tabelas"
+      "graficos-tabelas",
+      "regra-de-tres"
     ],
     "classificacao": "heuristica",
     "tri": null,
@@ -2221,13 +2460,13 @@
     ],
     "gabarito": "B",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H21",
+    "habilidade_origem": "revisada",
+    "competencia": "C5",
     "assuntos": [
-      "grandezas-unidades-escalas"
+      "equacao-1-grau"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -2243,6 +2482,53 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2023-175",
+      "gabarito": "B",
+      "assuntos": [
+        "equacao-1-grau"
+      ],
+      "habilidade": "H21",
+      "nivel_curador": 2,
+      "resumo": "Sistema de duas equações do 1º grau com preços de tíquetes azul e vermelho.",
+      "resolucao": "Sejam $a$ e $v$ os preços (em reais) do tíquete azul e do vermelho.\n\n**1. Relação entre os preços:** \"azul menos vermelho é igual a vermelho mais cinco centavos\":\n$$a - v = v + 0{,}05 \\;\\Rightarrow\\; a = 2v + 0{,}05$$\n\n**2. Duas cartelas azuis + uma vermelha (9 tíquetes cada) custam R$ 32,40:**\n$$9(2a + v) = 32{,}40 \\;\\Rightarrow\\; 2a + v = 3{,}60$$\n\n**3. Substitua $a$:**\n$$2(2v + 0{,}05) + v = 3{,}60 \\;\\Rightarrow\\; 5v + 0{,}10 = 3{,}60 \\;\\Rightarrow\\; v = 0{,}70$$\n\n**4. Cartela vermelha** (9 tíquetes): $9 \\times 0{,}70 = 6{,}30$. Alternativa **B**.\n\n(O azul custa $a = 1{,}45$; confira: $9(2{,}90 + 0{,}70) = 32{,}40$ ✓.)",
+      "dicas": {
+        "dica1": "Duas incógnitas (preço do azul e do vermelho) pedem duas equações: uma da frase sobre a diferença, outra do total pago.",
+        "dica2": "Traduza: a − v = v + 0,05 e 9(2a + v) = 32,40. Isole a na primeira e substitua na segunda.",
+        "dica3": "2a + v = 3,60 e a = 2v + 0,05 → 5v = 3,50. Depois multiplique v por 9."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Respondeu o preço de um tíquete (0,70) multiplicado errado ou dividiu 32,40 por algo sem resolver o sistema (ex.: 32,40 × 0,7/4,85)."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Erro ao montar a relação: usou a − v = 0,05 (sem o 'v mais'), obtendo valores maiores para v."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Dividiu 32,40 igualmente pelas 3 cartelas e ajustou errado (10,80 → 10,50)."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Confundiu a cartela azul com a vermelha ou trocou a e v na relação (cartela azul = 13,05; valores intermediários dão 9,30)."
+        }
+      ],
+      "conceitos": [
+        "sistema linear 2×2",
+        "tradução de frases em equações",
+        "verificação da solução"
+      ],
+      "verificacao": {
+        "codigo_sympy": "a, v = symbols('a v')\nsol = solve([Eq(a - v, v + Rational(5,100)), Eq(9*(2*a + v), Rational(3240,100))], [a, v])\nresultado = 9*sol[v]",
+        "resultado_esperado": "6.3",
+        "alternativa_esperada": "B"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -2416,7 +2702,8 @@
     "habilidade_origem": "heuristica",
     "competencia": "C3",
     "assuntos": [
-      "grandezas-unidades-escalas"
+      "grandezas-unidades-escalas",
+      "regra-de-tres"
     ],
     "classificacao": "heuristica",
     "tri": null,
@@ -2539,13 +2826,14 @@
     ],
     "gabarito": "C",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H27",
+    "habilidade_origem": "revisada",
+    "competencia": "C7",
     "assuntos": [
-      "grandezas-unidades-escalas"
+      "estatistica-basica",
+      "graficos-tabelas"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -2561,6 +2849,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2023-180",
+      "gabarito": "C",
+      "assuntos": [
+        "estatistica-basica",
+        "graficos-tabelas"
+      ],
+      "habilidade": "H27",
+      "nivel_curador": 1,
+      "resumo": "Escolher o par de meses consecutivos com maior média de precipitação.",
+      "resolucao": "A média de dois meses consecutivos é $\\dfrac{m_1 + m_2}{2}$. Como todas dividem por 2, basta comparar as somas:\n\n| Meses | Soma (mm) | Média (mm) |\n|---|---|---|\n| out–nov | 250 + 150 = 400 | 200 |\n| nov–dez | 150 + 200 = 350 | 175 |\n| **dez–jan** | **200 + 450 = 650** | **325** |\n| jan–fev | 450 + 100 = 550 | 275 |\n| fev–mar | 100 + 200 = 300 | 150 |\n\nA maior média é a de **dezembro–janeiro**. O plantio deve ser no início de **dezembro** (alternativa **C**).",
+      "dicas": {
+        "dica1": "A semente precisa de água nos DOIS primeiros meses: compare pares de meses consecutivos, não meses isolados.",
+        "dica2": "Some a precipitação de cada par consecutivo (out+nov, nov+dez, …). O maior par indica o mês de plantio: o primeiro dos dois.",
+        "dica3": "dez+jan = 650 é a maior soma. Em qual mês começa esse par?"
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "D",
+          "por_que": "Escolheu janeiro, o mês isolado mais chuvoso, ou o segundo mês do melhor par em vez do primeiro."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Escolheu o primeiro mês do período ou o par out–nov (400), sem comparar com dez–jan."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Comparou médias erradas ou escolheu o mês anterior ao mais chuvoso sem conferir o par."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Escolheu o par com menor média (fev–mar), invertendo o critério."
+        }
+      ],
+      "conceitos": [
+        "média aritmética de dois valores",
+        "comparação de médias",
+        "leitura de dados em lista"
+      ],
+      "verificacao": {
+        "codigo_sympy": "meses = ['Outubro','Novembro','Dezembro','Janeiro','Fevereiro','Marco']\nv = [250,150,200,450,100,200]\nmedias = {meses[i]: Rational(v[i]+v[i+1], 2) for i in range(5)}\nresultado = max(medias, key=medias.get)",
+        "resultado_esperado": "Dezembro",
+        "alternativa_esperada": "C"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   }
 ]

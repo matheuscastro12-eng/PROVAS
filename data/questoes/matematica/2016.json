@@ -863,7 +863,8 @@
     "habilidade_origem": "heuristica",
     "competencia": "C4",
     "assuntos": [
-      "funcao-afim"
+      "funcao-afim",
+      "funcao-quadratica"
     ],
     "classificacao": "heuristica",
     "tri": null,
@@ -1180,13 +1181,13 @@
     ],
     "gabarito": "B",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H16",
+    "habilidade_origem": "revisada",
+    "competencia": "C4",
     "assuntos": [
       "razao-proporcao"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -1202,6 +1203,53 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2016-154",
+      "gabarito": "B",
+      "assuntos": [
+        "razao-proporcao"
+      ],
+      "habilidade": "H16",
+      "nivel_curador": 1,
+      "resumo": "Comparar concentrações (razão fibras/pão) de cinco marcas.",
+      "resolucao": "A concentração de fibras é a razão $\\dfrac{\\text{gramas de fibra}}{\\text{gramas de pão}}$. Calcule para cada marca:\n\n| Marca | Razão | Valor |\n|---|---|---|\n| A | $2/50$ | $0{,}04$ |\n| B | $5/40$ | $0{,}125$ |\n| C | $5/100$ | $0{,}05$ |\n| D | $6/90$ | $\\approx 0{,}067$ |\n| E | $7/70$ | $0{,}10$ |\n\nA maior concentração é a da marca **B** ($0{,}125$, ou 12,5 g de fibra a cada 100 g de pão). Alternativa **B**.",
+      "dicas": {
+        "dica1": "Concentração é uma razão: quantidade de fibra dividida pela quantidade de pão. Não compare só os gramas de fibra.",
+        "dica2": "Divida fibra por pão em cada marca (ou leve todas para 'fibra a cada 100 g de pão') e escolha a maior.",
+        "dica3": "A = 0,04; B = 5/40; C = 0,05; D = 6/90; E = 0,10. Qual é a maior?"
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "E",
+          "por_que": "Escolheu a marca com mais gramas de fibra (7 g), sem dividir pela quantidade de pão."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Escolheu a marca com maior quantidade de pão ou errou a divisão 6/90."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Comparou 5 g de fibra sem notar que são para 100 g de pão (metade da concentração da B)."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Escolheu a menor quantidade de pão achando que isso significa 'mais concentrado', sem fazer a razão."
+        }
+      ],
+      "conceitos": [
+        "razão entre grandezas",
+        "concentração",
+        "comparação de frações"
+      ],
+      "verificacao": {
+        "codigo_sympy": "marcas = {'A': Rational(2,50), 'B': Rational(5,40), 'C': Rational(5,100), 'D': Rational(6,90), 'E': Rational(7,70)}\nresultado = max(marcas, key=marcas.get)",
+        "resultado_esperado": "B",
+        "alternativa_esperada": "B"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1304,10 +1352,11 @@
     ],
     "gabarito": "E",
     "anulada": false,
-    "habilidade": "H3",
+    "habilidade": "H16",
     "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "competencia": "C4",
     "assuntos": [
+      "regra-de-tres",
       "equacao-1-grau"
     ],
     "classificacao": "heuristica",
@@ -2187,13 +2236,13 @@
     "gabarito": "D",
     "anulada": false,
     "habilidade": "H27",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "revisada",
     "competencia": "C7",
     "assuntos": [
       "estatistica-basica",
       "graficos-tabelas"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -2209,6 +2258,55 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": true,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2016-170",
+      "gabarito": "D",
+      "assuntos": [
+        "estatistica-basica",
+        "graficos-tabelas"
+      ],
+      "habilidade": "H27",
+      "nivel_curador": 2,
+      "resumo": "Moda do número de pessoas no elevador em cada trecho da subida (quadro de entradas e saídas).",
+      "dados_da_imagem": "Quadro por andar (térreo, 1º, 2º, 3º, 4º, 5º): entram no elevador 4, 4, 1, 2, 2, 2; saem do elevador 0, 3, 1, 2, 0, 6.",
+      "resolucao": "**1. Calcule quantas pessoas há no elevador em cada trecho da subida** (após as entradas/saídas de cada andar):\n\n| Trecho | Conta | Pessoas |\n|---|---|---|\n| Térreo → 1º | $0 + 4 - 0$ | 4 |\n| 1º → 2º | $4 + 4 - 3$ | 5 |\n| 2º → 3º | $5 + 1 - 1$ | 5 |\n| 3º → 4º | $5 + 2 - 2$ | 5 |\n| 4º → 5º | $5 + 2 - 0$ | 7 |\n\n(No 5º andar entram 2 e saem 6: ficam 3, mas isso já é o fim da subida.)\n\n**2. Moda** = valor mais frequente do conjunto $\\{4, 5, 5, 5, 7\\}$ = **5**.\n\nAlternativa **D**.",
+      "dicas": {
+        "dica1": "Moda é o valor que mais se repete. Primeiro você precisa montar o conjunto: quantas pessoas estão no elevador em cada trecho entre andares.",
+        "dica2": "Comece no térreo com 0, some quem entra e subtraia quem sai em cada andar; anote o número de pessoas em cada subida (térreo→1º, 1º→2º, …).",
+        "dica3": "Trechos: 4, 5, 5, 5, 7. Qual aparece mais vezes?"
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Tomou a moda da linha 'entram' (2 aparece três vezes) em vez do número de pessoas no elevador."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Tomou a moda da linha 'entram' considerando o 4 ou parou no primeiro trecho (4 pessoas)."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Respondeu quantas pessoas restam ao final (3) ou a moda de alguma linha com erro."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Respondeu o maior valor da tabela (6 pessoas que saem no 5º andar), confundindo moda com máximo."
+        }
+      ],
+      "conceitos": [
+        "moda",
+        "saldo acumulado (entradas − saídas)",
+        "leitura de quadro"
+      ],
+      "verificacao": {
+        "codigo_sympy": "entram = [4,4,1,2,2,2]; saem = [0,3,1,2,0,6]\ntrechos = []\nn = 0\nfor i in range(5):\n    n += entram[i] - saem[i]\n    trechos.append(n)\nresultado = max(set(trechos), key=trechos.count)",
+        "resultado_esperado": "5",
+        "alternativa_esperada": "D"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -2629,14 +2727,13 @@
     "gabarito": "A",
     "anulada": false,
     "habilidade": "H3",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "revisada",
     "competencia": "C1",
     "assuntos": [
       "razao-proporcao",
-      "porcentagem",
-      "probabilidade"
+      "porcentagem"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -2652,6 +2749,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2016-177",
+      "gabarito": "A",
+      "assuntos": [
+        "razao-proporcao",
+        "porcentagem"
+      ],
+      "habilidade": "H3",
+      "nivel_curador": 2,
+      "resumo": "Calcular o índice (porcentagem) de cinco bairros e identificar o maior.",
+      "resolucao": "O LIRAa é o percentual $\\dfrac{\\text{imóveis com foco}}{\\text{imóveis analisados}} \\times 100$.\n\n| Bairro | Razão | LIRAa |\n|---|---|---|\n| I | $14/400$ | $3{,}5\\%$ |\n| II | $6/500$ | $1{,}2\\%$ |\n| III | $13/520$ | $2{,}5\\%$ |\n| IV | $9/360$ | $2{,}5\\%$ |\n| V | $15/500$ | $3{,}0\\%$ |\n\nO maior índice é o do bairro **I** (3,5%), por onde as ações de controle devem começar. Alternativa **A**.",
+      "dicas": {
+        "dica1": "Um índice percentual compara a parte com o todo. Não basta olhar quem tem mais imóveis com foco.",
+        "dica2": "Divida focos por imóveis em cada bairro e multiplique por 100. O maior percentual indica o primeiro bairro a ser atendido.",
+        "dica3": "14/400 = 0,035; 15/500 = 0,03; 13/520 = 0,025; 9/360 = 0,025; 6/500 = 0,012."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "E",
+          "por_que": "Escolheu o bairro com mais imóveis com foco em números absolutos (15), sem dividir pelo total."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Erro de divisão em 13/520 ou comparação apenas pela quantidade de imóveis analisados."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Escolheu o menor índice, invertendo o critério (ações começam pelo MAIOR índice)."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Escolheu o bairro com menos imóveis analisados, achando que isso indica maior infestação."
+        }
+      ],
+      "conceitos": [
+        "razão parte/todo",
+        "porcentagem",
+        "comparação de índices"
+      ],
+      "verificacao": {
+        "codigo_sympy": "idx = {'A': Rational(14,400), 'B': Rational(6,500), 'C': Rational(13,520), 'D': Rational(9,360), 'E': Rational(15,500)}\nresultado = max(idx, key=idx.get)",
+        "resultado_esperado": "A",
+        "alternativa_esperada": "A"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {

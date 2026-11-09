@@ -795,14 +795,14 @@
     ],
     "gabarito": "D",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H16",
+    "habilidade_origem": "revisada",
+    "competencia": "C4",
     "assuntos": [
       "equacao-1-grau",
-      "geometria-espacial"
+      "razao-proporcao"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -818,6 +818,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2013-148",
+      "gabarito": "D",
+      "assuntos": [
+        "equacao-1-grau",
+        "razao-proporcao"
+      ],
+      "habilidade": "H16",
+      "nivel_curador": 2,
+      "resumo": "Fração da capacidade ocupada por telhas e quantos tijolos cabem no restante.",
+      "resolucao": "**1. Que fração da capacidade as 900 telhas ocupam?** A capacidade é 1 500 telhas:\n$$\\frac{900}{1\\,500} = 0{,}6 = 60\\%$$\n\n**2. Fração que sobra:** $1 - 0{,}6 = 0{,}4$ (40%).\n\n**3. Tijolos que cabem em 40% da capacidade** (que é de 1 200 tijolos):\n$$0{,}4 \\times 1\\,200 = 480$$\n\nAlternativa **D**.",
+      "dicas": {
+        "dica1": "Pense na capacidade do caminhão como um 'todo' (100%). Telhas e tijolos ocupam frações desse todo.",
+        "dica2": "900 telhas são que fração de 1 500? O que sobra dessa fração, aplique a 1 200 tijolos.",
+        "dica3": "900/1 500 = 0,6; sobra 0,4; 0,4 × 1 200 = ?"
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Fez 1 200 − 900 = 300, subtraindo telhas de tijolos como se fossem a mesma coisa."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Calculou 1 500 − 900 = 600 (telhas que ainda caberiam) e chamou de tijolos."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Erro de proporção: usou 1/3 em vez de 0,4 (400 tijolos)."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Usou 0,3 em vez de 0,4 (360 tijolos) ou converteu com razão 1 200/1 500 aplicada errado."
+        }
+      ],
+      "conceitos": [
+        "fração de uma capacidade",
+        "proporcionalidade",
+        "complementar"
+      ],
+      "verificacao": {
+        "codigo_sympy": "fracao_livre = 1 - Rational(900, 1500)\nresultado = fracao_livre * 1200",
+        "resultado_esperado": "480",
+        "alternativa_esperada": "D"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -923,12 +971,12 @@
     "gabarito": "A",
     "anulada": false,
     "habilidade": "H28",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "revisada",
     "competencia": "C7",
     "assuntos": [
       "probabilidade"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -944,6 +992,53 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2013-150",
+      "gabarito": "A",
+      "assuntos": [
+        "probabilidade"
+      ],
+      "habilidade": "H28",
+      "nivel_curador": 2,
+      "resumo": "Probabilidade condicional com conjuntos: falar espanhol dado que não fala inglês.",
+      "resolucao": "**1. Organize os dados (1 200 alunos).**\n- Falam pelo menos uma língua: $1\\,200 - 300 = 900$.\n- Inglês: 600; Espanhol: 500. Como $600 + 500 = 1\\,100 > 900$, há quem fale as duas:\n$$\\text{ambas} = 600 + 500 - 900 = 200$$\n- Só espanhol: $500 - 200 = 300$.\n\n**2. Restrinja ao grupo \"não fala inglês\".** São $1\\,200 - 600 = 600$ alunos: os 300 que falam só espanhol e os 300 que não falam nenhuma.\n\n**3. Probabilidade condicional.**\n$$P(\\text{espanhol} \\mid \\text{não inglês}) = \\frac{300}{600} = \\frac{1}{2}$$\n\nAlternativa **A**.",
+      "dicas": {
+        "dica1": "'Sabendo que ele não fala inglês' muda o espaço amostral: só interessam os alunos que não falam inglês.",
+        "dica2": "Use um diagrama de Venn: descubra quantos falam as duas línguas (600 + 500 − 900) e quantos falam só espanhol. Divida pelos 600 que não falam inglês.",
+        "dica3": "Só espanhol = 300; não falam inglês = 600. P = 300/600."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "E",
+          "por_que": "Usou 500/1 400 ou outra razão com totais errados (somou 600 + 500 + 300 = 1 400 como se fossem grupos disjuntos)."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Dividiu 500 (todos que falam espanhol) por 800 ou 600 que falam só… sem descontar os que também falam inglês."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Dividiu os 300 que falam só espanhol pelo total de 1 200, ignorando a condição 'não fala inglês'."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Usou 500/600, dividindo todos os falantes de espanhol pelo grupo condicionado, sem tirar os 200 que falam as duas."
+        }
+      ],
+      "conceitos": [
+        "probabilidade condicional",
+        "diagrama de Venn / união de conjuntos",
+        "espaço amostral reduzido"
+      ],
+      "verificacao": {
+        "codigo_sympy": "ambas = 600 + 500 - (1200 - 300)\nso_espanhol = 500 - ambas\nnao_ingles = 1200 - 600\nresultado = Rational(so_espanhol, nao_ingles)",
+        "resultado_esperado": "Rational(1, 2)",
+        "alternativa_esperada": "A"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1305,12 +1400,12 @@
     "gabarito": "B",
     "anulada": false,
     "habilidade": "H3",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "revisada",
     "competencia": "C1",
     "assuntos": [
       "porcentagem"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -1326,6 +1421,53 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2013-158",
+      "gabarito": "B",
+      "assuntos": [
+        "porcentagem"
+      ],
+      "habilidade": "H3",
+      "nivel_curador": 1,
+      "resumo": "Imposto de 15% sobre o lucro da venda de ações.",
+      "resolucao": "**1. Identifique sobre o que incide o imposto.** O enunciado diz que o pagamento é de 15% **do lucro**, não do valor da venda.\n\n**2. Calcule o lucro.**\n$$\\text{lucro} = 34\\,000 - 26\\,000 = 8\\,000$$\n\n**3. Aplique a porcentagem.**\n$$15\\% \\text{ de } 8\\,000 = 0{,}15 \\times 8\\,000 = 1\\,200$$\n\nO contribuinte pagará **R$ 1 200,00** (alternativa **B**).",
+      "dicas": {
+        "dica1": "Porcentagem sempre é 'de alguma coisa'. Antes de calcular, descubra qual é a base: o imposto incide sobre o lucro, não sobre o preço de venda.",
+        "dica2": "Primeiro ache o lucro (venda menos custo). Depois calcule 15% desse lucro: multiplique por 0,15.",
+        "dica3": "Lucro = 34 000 − 26 000 = 8 000. Agora faça 8 000 × 0,15."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Resultado de 15% de 6 000 (erro de subtração ou de leitura dos valores)."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Aplicou 15% sobre o custo das ações (R$ 26 mil) em vez de sobre o lucro."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Aplicou 15% sobre o valor total da venda (R$ 34 mil), ignorando que o imposto é só sobre o lucro."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Confusão de base: tomou 15% da soma ou de um valor intermediário (14 mil) em vez do lucro."
+        }
+      ],
+      "conceitos": [
+        "porcentagem de um valor",
+        "lucro = receita − custo",
+        "identificar a base da porcentagem"
+      ],
+      "verificacao": {
+        "codigo_sympy": "lucro = 34000 - 26000\nresultado = Rational(15, 100) * lucro",
+        "resultado_esperado": "1200",
+        "alternativa_esperada": "B"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1617,13 +1759,12 @@
     "gabarito": "E",
     "anulada": false,
     "habilidade": "H3",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "revisada",
     "competencia": "C1",
     "assuntos": [
-      "porcentagem",
-      "equacao-1-grau"
+      "porcentagem"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -1639,6 +1780,53 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2013-163",
+      "gabarito": "E",
+      "assuntos": [
+        "porcentagem"
+      ],
+      "habilidade": "H3",
+      "nivel_curador": 2,
+      "resumo": "Desconto adicional de 10% aplicado sobre um preço já remarcado em 20%.",
+      "resolucao": "**1. Preço após a remarcação de 20%.**\n$$50 \\times (1 - 0{,}20) = 50 \\times 0{,}80 = 40$$\nEsse é o preço que o cliente **sem** cartão paga.\n\n**2. Desconto adicional de 10% para quem tem o cartão.** Ele incide sobre o valor **já remarcado** (R$ 40), não sobre os R$ 50 originais:\n$$10\\% \\text{ de } 40 = 0{,}10 \\times 40 = 4$$\n\n**3. Economia adicional** = o que ele deixaria de pagar = **R$ 4,00** (alternativa **E**).",
+      "dicas": {
+        "dica1": "Quando há dois descontos em sequência, o segundo incide sobre o preço já reduzido pelo primeiro.",
+        "dica2": "Ache o preço remarcado (50 menos 20%). A economia extra do cartão é 10% desse novo preço.",
+        "dica3": "50 × 0,8 = 40. Calcule 10% de 40."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "D",
+          "por_que": "Calculou 10% sobre o preço original de R$ 50,00, em vez de sobre o preço remarcado."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Calculou o desconto de 20% (R$ 10,00), que não é a economia adicional do cartão."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Somou os dois descontos (20% + 10% = 30%) e aplicou sobre 50."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Calculou o desconto total com o cartão (50 − 36 = 14), e não só a parte adicional."
+        }
+      ],
+      "conceitos": [
+        "descontos sucessivos",
+        "base de cálculo da porcentagem",
+        "porcentagem de um valor"
+      ],
+      "verificacao": {
+        "codigo_sympy": "remarcado = 50 * Rational(80, 100)\nresultado = Rational(10, 100) * remarcado",
+        "resultado_esperado": "4",
+        "alternativa_esperada": "E"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1868,14 +2056,14 @@
     ],
     "gabarito": "C",
     "anulada": false,
-    "habilidade": "H7",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H12",
+    "habilidade_origem": "revisada",
+    "competencia": "C3",
     "assuntos": [
       "geometria-plana",
       "porcentagem"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -1891,6 +2079,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2013-167",
+      "gabarito": "C",
+      "assuntos": [
+        "geometria-plana",
+        "porcentagem"
+      ],
+      "habilidade": "H12",
+      "nivel_curador": 2,
+      "resumo": "Redução percentual da área quando os dois lados do retângulo diminuem 20%.",
+      "resolucao": "**1. Área original:** $30 \\times 15 = 450$ cm².\n\n**2. Novos lados** (20% menores → 80% do original):\n$$30 \\times 0{,}8 = 24 \\qquad 15 \\times 0{,}8 = 12$$\n\n**3. Nova área:** $24 \\times 12 = 288$ cm².\n\n**4. Redução:**\n$$\\frac{450 - 288}{450} = \\frac{162}{450} = 0{,}36 = 36\\%$$\n\nAlternativa **C**.\n\nAtalho: a área é multiplicada por $0{,}8 \\times 0{,}8 = 0{,}64$, ou seja, cai $1 - 0{,}64 = 36\\%$.",
+      "dicas": {
+        "dica1": "Se cada lado vira 80% do original, a área vira 80% de 80%, e não 80% (nem 60%).",
+        "dica2": "Calcule a área antes e depois (lados × 0,8) e compare: (antiga − nova)/antiga.",
+        "dica3": "0,8 × 0,8 = 0,64. A área ficou com 64%; reduziu quanto?"
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "B",
+          "por_que": "Achou que a área reduz os mesmos 20% dos lados."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Respondeu 64%, que é quanto a área FICOU, não quanto foi reduzida."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Calculou 20% de 20% = 4%, confundindo com a variação total."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Somou 20% + 20% e usou algum cálculo com 0,96 ou interpretou mal a redução."
+        }
+      ],
+      "conceitos": [
+        "área do retângulo",
+        "efeito de variação linear sobre a área",
+        "variação percentual"
+      ],
+      "verificacao": {
+        "codigo_sympy": "antiga = 30*15\nnova = (30*Rational(8,10))*(15*Rational(8,10))\nresultado = (antiga - nova)/antiga*100",
+        "resultado_esperado": "36",
+        "alternativa_esperada": "C"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -2055,14 +2291,13 @@
     ],
     "gabarito": "C",
     "anulada": false,
-    "habilidade": "H6",
-    "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "habilidade": "H10",
+    "habilidade_origem": "revisada",
+    "competencia": "C3",
     "assuntos": [
-      "geometria-espacial",
       "grandezas-unidades-escalas"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -2078,6 +2313,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2013-170",
+      "gabarito": "C",
+      "assuntos": [
+        "grandezas-unidades-escalas"
+      ],
+      "habilidade": "H10",
+      "nivel_curador": 1,
+      "resumo": "Converter 355 mL para onças fluidas usando 1 fl oz ≈ 2,95 cL.",
+      "resolucao": "**1. Coloque 355 mL em centilitros.** $1 \\text{ cL} = 10 \\text{ mL}$, então:\n$$355 \\text{ mL} = 35{,}5 \\text{ cL}$$\n\n**2. Divida pelo valor de 1 onça fluida (2,95 cL).**\n$$\\frac{35{,}5}{2{,}95} \\approx 12{,}03$$\n\nA lata tem aproximadamente **12,03 fl oz** (alternativa **C**).\n\nEstimativa rápida: $2{,}95 \\approx 3$ e $35{,}5 / 3 \\approx 12$.",
+      "dicas": {
+        "dica1": "Para converter, as duas quantidades precisam estar na mesma unidade. O enunciado dá a onça em centilitros; passe os mililitros para centilitros.",
+        "dica2": "355 mL = 35,5 cL (1 cL = 10 mL). Depois divida por 2,95.",
+        "dica3": "35,5 ÷ 2,95 ≈ ? (perto de 35,5 ÷ 3)."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "E",
+          "por_que": "Não converteu mL para cL: 355 ÷ 2,95 = 120,34."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Multiplicou em vez de dividir: 35,5 × 2,95 = 104,7."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Converteu errado (355 mL = 3,55 cL, como se cL fosse 100 mL): 3,55 ÷ 2,95 ≈ 1,2."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Inverteu a razão: 2,95 ÷ 3,55 ≈ 0,83."
+        }
+      ],
+      "conceitos": [
+        "conversão mL–cL",
+        "razão entre unidades",
+        "estimativa"
+      ],
+      "verificacao": {
+        "codigo_sympy": "cl = Rational(355, 10)\nresultado = cl / Rational(295, 100)",
+        "resultado_esperado": "12.03",
+        "tolerancia": 0.01,
+        "alternativa_esperada": "C"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {

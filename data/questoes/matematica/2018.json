@@ -235,14 +235,13 @@
     ],
     "gabarito": "C",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
-    "competencia": "C3",
+    "habilidade": "H2",
+    "habilidade_origem": "revisada",
+    "competencia": "C1",
     "assuntos": [
-      "grandezas-unidades-escalas",
       "sequencias-pa"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -258,6 +257,53 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2018-141",
+      "gabarito": "C",
+      "assuntos": [
+        "sequencias-pa"
+      ],
+      "habilidade": "H2",
+      "nivel_curador": 2,
+      "resumo": "Contar os termos de uma PA (postes de 80 m a 1 380 m, de 20 em 20) e multiplicar pelo custo.",
+      "resolucao": "**1. É uma PA** com $a_1 = 80$, razão $r = 20$ e último termo $a_n = 1\\,380$.\n\n**2. Número de postes:**\n$$a_n = a_1 + (n - 1)r \\;\\Rightarrow\\; 1\\,380 = 80 + (n - 1) \\cdot 20 \\;\\Rightarrow\\; n - 1 = \\frac{1\\,300}{20} = 65 \\;\\Rightarrow\\; n = 66$$\n\n**3. Gasto máximo:**\n$$66 \\times 8\\,000 = 528\\,000$$\n\nAlternativa **C** (R$ 528 000,00).\n\nO erro clássico é esquecer o \"+1\": há 65 intervalos de 20 m, mas 66 postes.",
+      "dicas": {
+        "dica1": "As posições dos postes formam uma PA. A pergunta é quantos termos ela tem (não quantos intervalos).",
+        "dica2": "Use aₙ = a₁ + (n − 1)r com a₁ = 80, r = 20, aₙ = 1 380 para achar n. Depois multiplique por 8 000.",
+        "dica3": "(1 380 − 80)/20 = 65 intervalos → 66 postes. 66 × 8 000 = ?"
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "B",
+          "por_que": "Contou 65 postes (número de intervalos), esquecendo o primeiro: 65 × 8 000 = 520 000."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Contou 64 postes (errou duas vezes o ajuste do '+1')."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Dividiu 1 380 por 20 = 69 postes, ignorando que começam em 80 m."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Calculou (1 380 + 80)/20 = 73 postes."
+        }
+      ],
+      "conceitos": [
+        "progressão aritmética",
+        "número de termos",
+        "contagem de intervalos vs. extremos"
+      ],
+      "verificacao": {
+        "codigo_sympy": "n = (1380 - 80)//20 + 1\nresultado = n*8000",
+        "resultado_esperado": "528000",
+        "alternativa_esperada": "C"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -298,13 +344,14 @@
     ],
     "gabarito": "B",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H21",
+    "habilidade_origem": "revisada",
+    "competencia": "C5",
     "assuntos": [
-      "equacao-1-grau"
+      "equacao-1-grau",
+      "razao-proporcao"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -320,6 +367,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2018-143",
+      "gabarito": "B",
+      "assuntos": [
+        "equacao-1-grau",
+        "razao-proporcao"
+      ],
+      "habilidade": "H21",
+      "nivel_curador": 3,
+      "resumo": "Mistura: quanto de prata pura e de cobre adicionar a 10 g de prata 925 para obter 40 g de prata 950.",
+      "resolucao": "**1. Composição dos 10 g de prata 925** (925 partes de prata em 1 000):\n- prata pura: $0{,}925 \\times 10 = 9{,}25$ g\n- cobre: $0{,}075 \\times 10 = 0{,}75$ g\n\n**2. Composição desejada: 40 g de prata 950:**\n- prata pura: $0{,}950 \\times 40 = 38$ g\n- cobre: $0{,}050 \\times 40 = 2$ g\n\n**3. O que falta adicionar:**\n- prata: $38 - 9{,}25 = 28{,}75$ g\n- cobre: $2 - 0{,}75 = 1{,}25$ g\n\nAlternativa **B** (28,75 g de prata e 1,25 g de cobre). Confira: $28{,}75 + 1{,}25 = 30$ g adicionados, totalizando 40 g ✓.",
+      "dicas": {
+        "dica1": "Trabalhe com as quantidades de prata pura e de cobre separadamente: o que já existe nos 10 g e o que a liga final deve ter.",
+        "dica2": "Calcule quanto de prata e de cobre há em 10 g de prata 925 e quanto deve haver em 40 g de prata 950. A diferença é o que se adiciona.",
+        "dica3": "Prata: 38 − 9,25. Cobre: 2 − 0,75."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "C",
+          "por_que": "Aplicou 950/1 000 diretamente aos 30 g adicionados (28,5 e 1,5), ignorando que os 10 g iniciais têm proporção diferente."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Usou a proporção 975 (29,25 e 0,75) por confusão entre os tipos de prata citados."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Aplicou 925/1 000 aos 30 g adicionados (27,75 e 2,25)."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Supôs a proporção da diferença (950 − 925 = 25) ou dividiu os 30 g arbitrariamente."
+        }
+      ],
+      "conceitos": [
+        "proporção em misturas (partes por mil)",
+        "balanço de massas",
+        "subtração de quantidades"
+      ],
+      "verificacao": {
+        "codigo_sympy": "prata_ini = Rational(925,1000)*10; cobre_ini = Rational(75,1000)*10\nprata_fim = Rational(950,1000)*40; cobre_fim = Rational(50,1000)*40\nresultado = (prata_fim - prata_ini, cobre_fim - cobre_ini)",
+        "resultado_esperado": "(28.75, 1.25)",
+        "alternativa_esperada": "B"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1644,13 +1739,14 @@
     ],
     "gabarito": "C",
     "anulada": false,
-    "habilidade": "H2",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H3",
+    "habilidade_origem": "revisada",
     "competencia": "C1",
     "assuntos": [
-      "sequencias-pa"
+      "sequencias-pa",
+      "numeros-operacoes"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -1666,6 +1762,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2018-164",
+      "gabarito": "C",
+      "assuntos": [
+        "sequencias-pa",
+        "numeros-operacoes"
+      ],
+      "habilidade": "H3",
+      "nivel_curador": 2,
+      "resumo": "Reconstruir a sequência de andares a partir do final e achar o maior andar visitado.",
+      "resolucao": "**1. Chame de $x$ o andar em que a criança entrou.** Os movimentos: $+7, -10, -13, +9, -4$, terminando no 5º:\n$$x + 7 - 10 - 13 + 9 - 4 = 5 \\;\\Rightarrow\\; x - 11 = 5 \\;\\Rightarrow\\; x = 16$$\n\n**2. Andares visitados, em ordem:**\n$$16 \\xrightarrow{+7} 23 \\xrightarrow{-10} 13 \\xrightarrow{-13} 0\\ (\\text{térreo}) \\xrightarrow{+9} 9 \\xrightarrow{-4} 5$$\n\n**3. O elevador parou uma vez no último andar.** O maior andar da sequência é **23**. Alternativa **C**.\n\n(O trajeto passa pelo térreo = 0, confirmando que a numeração começa em T.)",
+      "dicas": {
+        "dica1": "Trabalhe de trás para a frente ou com uma incógnita: o andar final (5º) é o resultado de somas e subtrações a partir do andar inicial.",
+        "dica2": "Escreva x + 7 − 10 − 13 + 9 − 4 = 5, ache x e liste todos os andares em que o elevador parou. O último andar do prédio é o maior deles.",
+        "dica3": "x = 16; sequência 16, 23, 13, 0, 9, 5. Qual é o maior?"
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Respondeu o andar inicial (16), não o maior andar visitado."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Somou todos os deslocamentos para cima (7 + 9 = 16) ao 5º andar, ou errou o sinal de um movimento (22)."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Somou 16 + 9 = 25 ou tratou 'desceu 10, desceu 13' como uma única descida errada."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Somou todos os movimentos em módulo (7 + 10 + 13 + 9 + 4 = 43) e subtraiu 11, ou calculou 16 + 7 + 9 = 32."
+        }
+      ],
+      "conceitos": [
+        "números inteiros (subidas e descidas)",
+        "equação do 1º grau",
+        "máximo de uma sequência"
+      ],
+      "verificacao": {
+        "codigo_sympy": "x = symbols('x')\nx0 = solve(Eq(x + 7 - 10 - 13 + 9 - 4, 5), x)[0]\nandares = [x0]\nfor m in [7, -10, -13, 9, -4]:\n    andares.append(andares[-1] + m)\nresultado = max(andares)",
+        "resultado_esperado": "23",
+        "alternativa_esperada": "C"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1768,13 +1912,14 @@
     ],
     "gabarito": "C",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H27",
+    "habilidade_origem": "revisada",
+    "competencia": "C7",
     "assuntos": [
+      "estatistica-basica",
       "porcentagem"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -1790,6 +1935,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2018-166",
+      "gabarito": "C",
+      "assuntos": [
+        "estatistica-basica",
+        "porcentagem"
+      ],
+      "habilidade": "H27",
+      "nivel_curador": 2,
+      "resumo": "Média ponderada: nota mínima na quarta avaliação para atingir 60 pontos.",
+      "resolucao": "**1. Monte a média ponderada** com pesos 20%, 10%, 30% e 40% (somam 100%):\n$$M = 0{,}2 \\cdot 46 + 0{,}1 \\cdot 60 + 0{,}3 \\cdot 50 + 0{,}4 \\cdot x$$\n\n**2. Calcule a parte já conhecida.**\n$$0{,}2 \\cdot 46 = 9{,}2 \\qquad 0{,}1 \\cdot 60 = 6 \\qquad 0{,}3 \\cdot 50 = 15 \\qquad \\Rightarrow\\; 30{,}2$$\n\n**3. Imponha $M \\ge 60$.**\n$$30{,}2 + 0{,}4x \\ge 60 \\;\\Rightarrow\\; 0{,}4x \\ge 29{,}8 \\;\\Rightarrow\\; x \\ge 74{,}5$$\n\nO mínimo é **74,5 pontos** (alternativa **C**).",
+      "dicas": {
+        "dica1": "Com pesos diferentes, a média é a soma de (nota × peso). Como os pesos já somam 100%, não é preciso dividir por nada.",
+        "dica2": "Calcule a contribuição das três primeiras notas (nota × peso) e descubra quanto falta para 60; o que falta é 0,4 vezes a quarta nota.",
+        "dica3": "9,2 + 6 + 15 = 30,2. Falta 29,8, que deve ser 0,4 · x."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Parou em 29,8 (o quanto falta para 60) sem dividir pelo peso 0,4."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Usou média simples: 46 + 60 + 50 + x = 240 → x = 84."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Erro de conta na soma ponderada (ex.: 0,3 × 50 = 16,5 → falta 28,4 → 71)."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Erro aritmético ao dividir 29,8 por 0,4 (ou usou 30,2 → 75,5)."
+        }
+      ],
+      "conceitos": [
+        "média ponderada",
+        "inequação do 1º grau",
+        "pesos percentuais"
+      ],
+      "verificacao": {
+        "codigo_sympy": "x = symbols('x')\nresultado = solve(Eq(Rational(2,10)*46 + Rational(1,10)*60 + Rational(3,10)*50 + Rational(4,10)*x, 60), x)[0]",
+        "resultado_esperado": "74.5",
+        "alternativa_esperada": "C"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1831,12 +2024,13 @@
     "gabarito": "D",
     "anulada": false,
     "habilidade": "H28",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "revisada",
     "competencia": "C7",
     "assuntos": [
-      "probabilidade"
+      "probabilidade",
+      "equacao-1-grau"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -1852,6 +2046,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2018-167",
+      "gabarito": "D",
+      "assuntos": [
+        "probabilidade",
+        "equacao-1-grau"
+      ],
+      "habilidade": "H28",
+      "nivel_curador": 2,
+      "resumo": "Quantas perguntas fáceis acrescentar para a probabilidade passar de 25% a 75%.",
+      "resolucao": "**1. Situação inicial.** 20 perguntas, 25% fáceis: $0{,}25 \\times 20 = 5$ fáceis e 15 não fáceis.\n\n**2. Acrescente $x$ perguntas fáceis.** Ficam $5 + x$ fáceis em $20 + x$ perguntas. Queremos probabilidade 75%:\n$$\\frac{5 + x}{20 + x} = \\frac{3}{4}$$\n\n**3. Resolva.**\n$$4(5 + x) = 3(20 + x) \\;\\Rightarrow\\; 20 + 4x = 60 + 3x \\;\\Rightarrow\\; x = 40$$\n\nConfira: $45/60 = 0{,}75$ ✓. Alternativa **D**.",
+      "dicas": {
+        "dica1": "Ao acrescentar perguntas fáceis, muda o numerador (fáceis) E o denominador (total). Modele com uma incógnita.",
+        "dica2": "Há 5 fáceis em 20. Chame de x as novas fáceis e escreva (5 + x)/(20 + x) = 0,75.",
+        "dica3": "4(5 + x) = 3(20 + x). Isole x."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Calculou 75% de 20 = 15 fáceis e subtraiu as 5 existentes (10), esquecendo que o total também cresce."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Tomou 15 (as não fáceis) como resposta, confundindo o que precisa ser igualado."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Resolveu com o total fixo errado ou somou 5 a 40, confundindo total de fáceis (45) com as acrescentadas."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Erro algébrico ao resolver a equação (ex.: 60 − 20 − 5 = 35)."
+        }
+      ],
+      "conceitos": [
+        "probabilidade como razão",
+        "equação do 1º grau com fração",
+        "verificação do resultado"
+      ],
+      "verificacao": {
+        "codigo_sympy": "x = symbols('x')\nresultado = solve(Eq((5 + x)/(20 + x), Rational(3, 4)), x)[0]",
+        "resultado_esperado": "40",
+        "alternativa_esperada": "D"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -2347,14 +2589,15 @@
     ],
     "gabarito": "B",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H21",
+    "habilidade_origem": "revisada",
+    "competencia": "C5",
     "assuntos": [
-      "matematica-financeira",
-      "porcentagem"
+      "equacao-2-grau",
+      "equacao-1-grau",
+      "matematica-financeira"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -2370,6 +2613,55 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2018-175",
+      "gabarito": "B",
+      "assuntos": [
+        "equacao-2-grau",
+        "equacao-1-grau",
+        "matematica-financeira"
+      ],
+      "habilidade": "H21",
+      "nivel_curador": 3,
+      "resumo": "Sistema com produtos (N parcelas × valor) que se reduz a equações do 1º grau.",
+      "resolucao": "Seja $p$ o valor de cada parcela e $N$ o número de parcelas. O preço do carro é $N \\cdot p$ nas três situações.\n\n**1. Mais 5 parcelas, cada uma R$ 200 menor:**\n$$(N + 5)(p - 200) = Np \\;\\Rightarrow\\; Np - 200N + 5p - 1\\,000 = Np \\;\\Rightarrow\\; 5p = 200N + 1\\,000 \\;\\Rightarrow\\; p = 40N + 200$$\n\n**2. Menos 4 parcelas, cada uma R$ 232 maior:**\n$$(N - 4)(p + 232) = Np \\;\\Rightarrow\\; 232N - 4p - 928 = 0 \\;\\Rightarrow\\; p = 58N - 232$$\n\n**3. Iguale as duas expressões de $p$:**\n$$40N + 200 = 58N - 232 \\;\\Rightarrow\\; 432 = 18N \\;\\Rightarrow\\; N = 24$$\n\nAlternativa **B**. (Cada parcela vale $p = 1\\,160$; o carro custa R$ 27 840.)",
+      "dicas": {
+        "dica1": "O valor do carro é sempre (número de parcelas) × (valor da parcela). Escreva essa igualdade para as duas alterações de prazo.",
+        "dica2": "Expanda (N + 5)(p − 200) = Np e (N − 4)(p + 232) = Np. Os termos Np cancelam e sobram duas equações lineares em N e p.",
+        "dica3": "p = 40N + 200 e p = 58N − 232. Iguale e isole N."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Erro de sinal ao expandir um dos produtos (ex.: 5p = 200N − 1 000), levando a N = 20."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Erro aritmético na divisão final (432/18 ≈ 29?) ou somou 5 a 24."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Respondeu 40, o coeficiente de N em p = 40N + 200, confundindo com a resposta."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Respondeu 58, o coeficiente da segunda expressão de p."
+        }
+      ],
+      "conceitos": [
+        "produto de binômios",
+        "sistema não linear que se reduz a linear",
+        "modelagem de parcelamento"
+      ],
+      "verificacao": {
+        "codigo_sympy": "N, p = symbols('N p')\nsol = solve([Eq((N + 5)*(p - 200), N*p), Eq((N - 4)*(p + 232), N*p)], [N, p], dict=True)\nresultado = [s[N] for s in sol if s[N] > 0][0]",
+        "resultado_esperado": "24",
+        "alternativa_esperada": "B"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {

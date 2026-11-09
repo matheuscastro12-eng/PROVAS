@@ -477,13 +477,13 @@
     ],
     "gabarito": "C",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H11",
+    "habilidade_origem": "revisada",
     "competencia": "C3",
     "assuntos": [
       "grandezas-unidades-escalas"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -499,6 +499,53 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2011-143",
+      "gabarito": "C",
+      "assuntos": [
+        "grandezas-unidades-escalas"
+      ],
+      "habilidade": "H11",
+      "nivel_curador": 1,
+      "resumo": "Reduzir medidas reais (m) para uma maquete na escala 1:250, em cm.",
+      "resolucao": "**1. Converta as medidas reais para centímetros.**\n- Comprimento: $28 \\text{ m} = 2\\,800 \\text{ cm}$\n- Largura: $12 \\text{ m} = 1\\,200 \\text{ cm}$\n\n**2. Aplique a escala 1:250** (cada 250 cm reais viram 1 cm na maquete):\n$$\\frac{2\\,800}{250} = 11{,}2 \\text{ cm} \\qquad \\frac{1\\,200}{250} = 4{,}8 \\text{ cm}$$\n\nComprimento 11,2 cm e largura 4,8 cm: alternativa **C**.\n\nA alternativa A tem os mesmos números **trocados** (comprimento deve ser o maior).",
+      "dicas": {
+        "dica1": "Escala 1:250 quer dizer que 1 cm no desenho representa 250 cm na realidade. Para ir da realidade ao desenho, divida por 250.",
+        "dica2": "Passe 28 m e 12 m para centímetros e divida cada um por 250. Cuide da ordem: comprimento e depois largura.",
+        "dica3": "2 800 ÷ 250 e 1 200 ÷ 250."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Trocou a ordem: 4,8 é a largura e 11,2 o comprimento; a pergunta pede comprimento e largura, nessa ordem."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Multiplicou por 250 e errou a conversão de unidades (ou inverteu a escala)."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Apenas repetiu os números 28 e 12, sem aplicar a escala."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Dividiu por 4 (confundindo 1:250 com 1:400) ou arredondou grosseiramente."
+        }
+      ],
+      "conceitos": [
+        "escala",
+        "conversão metro–centímetro",
+        "proporcionalidade"
+      ],
+      "verificacao": {
+        "codigo_sympy": "resultado = (Rational(2800, 250), Rational(1200, 250))",
+        "resultado_esperado": "(11.2, 4.8)",
+        "alternativa_esperada": "C"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -665,13 +712,13 @@
     ],
     "gabarito": "E",
     "anulada": false,
-    "habilidade": "H10",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H11",
+    "habilidade_origem": "revisada",
     "competencia": "C3",
     "assuntos": [
       "grandezas-unidades-escalas"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -687,6 +734,53 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2011-146",
+      "gabarito": "E",
+      "assuntos": [
+        "grandezas-unidades-escalas"
+      ],
+      "habilidade": "H11",
+      "nivel_curador": 1,
+      "resumo": "Determinar a escala de um mapa: 8 cm no mapa correspondem a 2 000 km reais.",
+      "resolucao": "**1. Coloque as duas medidas na mesma unidade (cm).**\n$$2\\,000 \\text{ km} = 2\\,000 \\times 1\\,000 \\text{ m} = 2\\,000\\,000 \\text{ m} = 200\\,000\\,000 \\text{ cm} = 2 \\times 10^8 \\text{ cm}$$\n\n**2. Escala = medida no mapa : medida real.**\n$$\\frac{8}{2 \\times 10^8} = \\frac{1}{2{,}5 \\times 10^7} = \\frac{1}{25\\,000\\,000}$$\n\nEscala **1 : 25 000 000** (alternativa **E**).",
+      "dicas": {
+        "dica1": "Escala é uma razão entre medidas na MESMA unidade: desenho : real. Converta tudo para centímetros antes.",
+        "dica2": "1 km = 100 000 cm. Transforme 2 000 km em cm, depois divida pelo 8 cm do mapa.",
+        "dica3": "2 000 km = 2 × 10⁸ cm. Faça (2 × 10⁸) ÷ 8."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "D",
+          "por_que": "Converteu km para m (não para cm): 2 × 10⁶ / 8 = 250 000."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Dividiu 2 000 km por 8 e tratou o resultado (250) em metros, errando duas conversões."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Esqueceu completamente a conversão de unidades e fez 2 000/8 × 10."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Fez só 2 000 ÷ 8 = 250, sem converter unidades."
+        }
+      ],
+      "conceitos": [
+        "escala",
+        "conversão km–cm",
+        "notação científica"
+      ],
+      "verificacao": {
+        "codigo_sympy": "real_cm = 2000 * 1000 * 100\nresultado = Rational(real_cm, 8)  # denominador da escala 1:X",
+        "resultado_esperado": "25000000",
+        "alternativa_esperada": "E"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -921,10 +1015,11 @@
     ],
     "gabarito": "B",
     "anulada": false,
-    "habilidade": "H7",
+    "habilidade": "H19",
     "habilidade_origem": "heuristica",
-    "competencia": "C2",
+    "competencia": "C5",
     "assuntos": [
+      "funcao-quadratica",
       "geometria-plana"
     ],
     "classificacao": "heuristica",
@@ -983,14 +1078,14 @@
     ],
     "gabarito": "C",
     "anulada": false,
-    "habilidade": "H15",
-    "habilidade_origem": "heuristica",
-    "competencia": "C4",
+    "habilidade": "H19",
+    "habilidade_origem": "revisada",
+    "competencia": "C5",
     "assuntos": [
       "funcao-afim",
-      "grandezas-unidades-escalas"
+      "sequencias-pa"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -1006,6 +1101,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2011-156",
+      "gabarito": "C",
+      "assuntos": [
+        "funcao-afim",
+        "sequencias-pa"
+      ],
+      "habilidade": "H19",
+      "nivel_curador": 2,
+      "resumo": "Achar a expressão afim y = a + 4 300x sabendo o valor em fevereiro (x = 2).",
+      "resolucao": "**1. Forma da função.** O número de trabalhadores cresce 4 300 por mês, então\n$$y = y_0 + 4\\,300x$$\nem que $y_0$ é um valor de referência e $x$ é o mês (janeiro = 1, fevereiro = 2, …).\n\n**2. Use o dado de fevereiro** ($x = 2$, $y = 880\\,605$):\n$$880\\,605 = y_0 + 4\\,300 \\cdot 2 \\;\\Rightarrow\\; y_0 = 880\\,605 - 8\\,600 = 872\\,005$$\n\n**3. Expressão:**\n$$y = 872\\,005 + 4\\,300x$$\n\nAlternativa **C**.\n\nConfira: janeiro ($x=1$) dá $876\\,305$, e $876\\,305 + 4\\,300 = 880\\,605$ ✓.",
+      "dicas": {
+        "dica1": "Crescimento constante por mês = função afim com coeficiente 4 300. Falta descobrir o termo independente.",
+        "dica2": "Fevereiro é x = 2 e tem 880 605 trabalhadores. Substitua na forma y = b + 4 300x e isole b.",
+        "dica3": "b = 880 605 − 4 300 × 2."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "D",
+          "por_que": "Usou janeiro como x = 2 (ou fevereiro como x = 1): 880 605 − 4 300 = 876 305."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Tomou 880 605 como termo independente (como se fosse x = 0)."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Somou 4 300 a 880 605 e multiplicou por x, sem separar parte fixa e variável."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Considerou só o crescimento mensal, sem a quantidade inicial de trabalhadores."
+        }
+      ],
+      "conceitos": [
+        "função afim",
+        "determinar o coeficiente linear por um ponto",
+        "sequência com crescimento constante"
+      ],
+      "verificacao": {
+        "codigo_sympy": "b = symbols('b')\nresultado = solve(Eq(b + 4300*2, 880605), b)[0]",
+        "resultado_esperado": "872005",
+        "alternativa_esperada": "C"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1110,15 +1253,14 @@
     ],
     "gabarito": "A",
     "anulada": false,
-    "habilidade": "H15",
-    "habilidade_origem": "heuristica",
-    "competencia": "C4",
+    "habilidade": "H19",
+    "habilidade_origem": "revisada",
+    "competencia": "C5",
     "assuntos": [
       "funcao-afim",
-      "grandezas-unidades-escalas",
       "equacao-1-grau"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -1134,6 +1276,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2011-159",
+      "gabarito": "A",
+      "assuntos": [
+        "funcao-afim",
+        "equacao-1-grau"
+      ],
+      "habilidade": "H19",
+      "nivel_curador": 1,
+      "resumo": "Igualar os custos de duas propostas (fixo + por km) para achar a extensão de indiferença.",
+      "resolucao": "**1. Custo de cada empresa** em função de $n$ km (em milhares de reais):\n- Empresa 1: $100n + 350$\n- Empresa 2: $120n + 150$\n\n**2. Indiferença = custos iguais:**\n$$100n + 350 = 120n + 150$$\n\nAlternativa **A**.\n\n(Se quiser resolver: $200 = 20n \\Rightarrow n = 10$ km. Abaixo de 10 km a segunda é mais barata; acima, a primeira.)",
+      "dicas": {
+        "dica1": "Cada proposta é uma função afim: valor fixo + valor por km × n. 'Indiferente' significa custos iguais.",
+        "dica2": "Escreva o custo de cada empresa em milhares de reais (100n + 350 e 120n + 150) e iguale.",
+        "dica3": "A equação é exatamente a igualdade das duas expressões, sem multiplicar nada."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "B",
+          "por_que": "Trocou os valores fixos entre as empresas (350 com 120 e 150 com 100)."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Multiplicou o preço por km pela soma (n + fixo), como se o fixo também fosse por km."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Mesmo erro de C, com os valores em reais em vez de milhares."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Inverteu os papéis do fixo e do preço por km."
+        }
+      ],
+      "conceitos": [
+        "função afim",
+        "ponto de equilíbrio entre duas funções",
+        "equação do 1º grau"
+      ],
+      "verificacao": {
+        "codigo_sympy": "n = symbols('n')\nresultado = solve(Eq(100*n + 350, 120*n + 150), n)[0]  # km de indiferença",
+        "resultado_esperado": "10",
+        "alternativa_esperada": "A"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1300,14 +1490,13 @@
     ],
     "gabarito": "D",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
+    "habilidade": "H2",
+    "habilidade_origem": "revisada",
     "competencia": "C1",
     "assuntos": [
-      "equacao-1-grau",
       "sequencias-pa"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -1323,6 +1512,52 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2011-162",
+      "gabarito": "D",
+      "assuntos": [
+        "sequencias-pa"
+      ],
+      "habilidade": "H2",
+      "nivel_curador": 1,
+      "resumo": "Progressão aritmética: termo de julho a partir de janeiro, fevereiro e março.",
+      "resolucao": "**1. Reconheça a PA.** $33\\,000, 34\\,500, 36\\,000, \\dots$: a diferença é constante:\n$$r = 34\\,500 - 33\\,000 = 1\\,500$$\n\n**2. Julho é o 7º mês** ($a_1$ = janeiro). Termo geral:\n$$a_7 = a_1 + 6r = 33\\,000 + 6 \\times 1\\,500 = 33\\,000 + 9\\,000 = 42\\,000$$\n\nAlternativa **D**.",
+      "dicas": {
+        "dica1": "Crescimento 'no mesmo padrão' com diferença constante é uma progressão aritmética.",
+        "dica2": "Ache a razão (diferença entre meses seguidos). De janeiro a julho são 6 saltos: some 6 razões a janeiro.",
+        "dica3": "33 000 + 6 × 1 500 = ?"
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "B",
+          "por_que": "Contou 5 saltos (julho como 6º mês): 33 000 + 5 × 1 500 = 40 500."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Usou razão 1 000 ou contou poucos meses (33 000 + 5 000)."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Contou 10 saltos ou usou razão 2 500: 33 000 + 15 000 = 48 000."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Erro aritmético (41 000) ao somar 9 000 a 33 000 ou ao calcular a razão."
+        }
+      ],
+      "conceitos": [
+        "progressão aritmética",
+        "termo geral aₙ = a₁ + (n − 1)r"
+      ],
+      "verificacao": {
+        "codigo_sympy": "a1, r = 33000, 34500 - 33000\nresultado = a1 + (7 - 1)*r",
+        "resultado_esperado": "42000",
+        "alternativa_esperada": "D"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1553,14 +1788,14 @@
     ],
     "gabarito": "D",
     "anulada": false,
-    "habilidade": "H3",
-    "habilidade_origem": "heuristica",
-    "competencia": "C1",
+    "habilidade": "H16",
+    "habilidade_origem": "revisada",
+    "competencia": "C4",
     "assuntos": [
       "razao-proporcao",
       "porcentagem"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -1576,6 +1811,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2011-166",
+      "gabarito": "D",
+      "assuntos": [
+        "razao-proporcao",
+        "porcentagem"
+      ],
+      "habilidade": "H16",
+      "nivel_curador": 1,
+      "resumo": "Aplicar a mesma proporção de acréscimo (mulheres) ao grupo dos homens.",
+      "resolucao": "**1. Qual foi a proporção do acréscimo entre as mulheres?**\n$$\\frac{8\\,000}{32\\,000} = \\frac{1}{4} = 25\\%$$\n\n**2. Aplique a mesma proporção aos homens.** Acréscimo de 25% sobre 28 mil:\n$$28\\,000 \\times 0{,}25 = 7\\,000$$\n\n**3. Total de internações de homens nos próximos cinco anos:**\n$$28\\,000 + 7\\,000 = 35\\,000$$\n\nAlternativa **D** (35 mil).",
+      "dicas": {
+        "dica1": "'Na mesma proporção' significa mesma razão acréscimo/valor inicial, e não o mesmo número de internações a mais.",
+        "dica2": "Descubra que fração 8 mil é de 32 mil. Aplique essa fração a 28 mil e some ao valor original.",
+        "dica3": "8/32 = 1/4. Um quarto de 28 mil é 7 mil. Some com 28 mil."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "E",
+          "por_que": "Somou as mesmas 8 mil internações aos homens (28 + 8 = 36... e arredondou/errou para 39) ou usou 11 mil."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Subtraiu o acréscimo em vez de somar: 28 − 7 = 21 mil."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Calculou só uma razão intermediária (28 × 8/25 ≈ 9) sem somar ao valor original."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Tomou a diferença entre mulheres e homens (32 − 28 = 4 mil), que não é pedida."
+        }
+      ],
+      "conceitos": [
+        "razão",
+        "proporção",
+        "acréscimo percentual"
+      ],
+      "verificacao": {
+        "codigo_sympy": "fator = Rational(8000, 32000)\nresultado = 28000 * (1 + fator)",
+        "resultado_esperado": "35000",
+        "alternativa_esperada": "D"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {

@@ -231,14 +231,13 @@
     "gabarito": "C",
     "anulada": false,
     "habilidade": "H20",
-    "habilidade_origem": "heuristica",
+    "habilidade_origem": "revisada",
     "competencia": "C5",
     "assuntos": [
       "leitura-grafico-funcao",
-      "graficos-tabelas",
-      "equacao-1-grau"
+      "graficos-tabelas"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": null,
     "dificuldade_estimada": null,
     "fonte": {
@@ -254,6 +253,55 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": true,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2017-139",
+      "gabarito": "C",
+      "assuntos": [
+        "leitura-grafico-funcao",
+        "graficos-tabelas"
+      ],
+      "habilidade": "H20",
+      "nivel_curador": 1,
+      "resumo": "Identificar, no gráfico velocidade × tempo, o intervalo em que a velocidade é zero.",
+      "dados_da_imagem": "Gráfico velocidade × tempo (min), de 0 a 10. A linha é poligonal, com picos em 2 e 5 min, e fica sobre o eixo (velocidade zero) de 6 a 8 min; depois volta a subir até 10 min.",
+      "resolucao": "**1. Veículo imóvel = velocidade zero** = linha do gráfico sobre o eixo do tempo.\n\n**2. No gráfico, isso ocorre apenas de $t = 6$ min a $t = 8$ min.**\n\n**3. Duração:** $8 - 6 = 2$ minutos. Alternativa **C**.\n\nNos outros trechos a velocidade é baixa, mas não nula (o carro anda devagar).",
+      "dicas": {
+        "dica1": "'Imóvel' não é 'devagar': procure onde a velocidade vale exatamente zero, isto é, onde a linha encosta no eixo horizontal.",
+        "dica2": "Encontre o trecho em que a linha coincide com o eixo do tempo e meça sua duração.",
+        "dica3": "A linha está no zero de 6 a 8 min."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Incluiu os trechos de velocidade baixa (ex.: 3–4 min) como se fossem parada."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Contou o intervalo 5–8 (incluindo a desaceleração) como imóvel."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Contou só um ponto/1 min do trecho de parada."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Achou que o carro nunca parou porque a linha 'sempre aparece' no gráfico."
+        }
+      ],
+      "conceitos": [
+        "leitura de gráfico velocidade × tempo",
+        "valor zero de uma função",
+        "duração de intervalo"
+      ],
+      "verificacao": {
+        "codigo_sympy": "resultado = 8 - 6",
+        "resultado_esperado": "2",
+        "alternativa_esperada": "C"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
