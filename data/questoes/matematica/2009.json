@@ -1,0 +1,2676 @@
+[
+  {
+    "id": "enem-2009-136",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 136,
+    "area": "matematica",
+    "enunciado": "Dados da Associação Nacional de Empresas de Transportes Urbanos (ANTU) mostram que o número de passageiros transportados mensalmente nas principais regiões metropolitanas do país vem caindo sistematicamente. Eram 476,7 milhões de passageiros em 1995, e esse número caiu para 321,9 milhões em abril de 2001. Nesse período, o tamanho da frota de veículos mudou pouco, tendo no final de 2008 praticamente o mesmo tamanho que tinha em 2001.  \nO gráfico a seguir mostra um índice de produtividade utilizado pelas empresas do setor, que é a razão entre o total de passageiros transportados por dia e o tamanho da frota de veículos.\n\n![](https://enem.dev/2009/questions/136/dcd1ac1c-61ef-4937-bc83-ee7b4a18f667.jpg)\n\nSupondo que as frotas totais de veículos naquelas regiões metropolitanas em abril de 2001 e em outubro de 2008 eram do mesmo tamanho, os dados do gráfico permitem inferir que o total de passageiros transportados no mês de outubro de 2008 foi aproximadamente igual a",
+    "imagens": [
+      "https://enem.dev/2009/questions/136/dcd1ac1c-61ef-4937-bc83-ee7b4a18f667.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "355 milhões.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "400 milhões.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "426 milhões.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "441 milhões.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "477 milhões.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau",
+      "graficos-tabelas",
+      "razao-proporcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 136",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/136",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-137",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 137,
+    "area": "matematica",
+    "enunciado": "O mapa ao lado representa um bairro de determinada cidade, no qual as flechas indicam o sentido das mãos do tráfego. Sabe-se que esse bairro foi planejado e que cada quadra representada na figura é um terreno quadrado, de lado igual a 200 metros.\n\n![](https://enem.dev/2009/questions/137/d56b6567-20da-46f3-92e0-42b14796b37b.jpg)\n\nDesconsiderando-se a largura das ruas, qual seria o tempo, em minutos, que um ônibus, em velocidade constante e igual a 40 km/h, partindo do ponto X, demoraria para chegar até o ponto Y?",
+    "imagens": [
+      "https://enem.dev/2009/questions/137/d56b6567-20da-46f3-92e0-42b14796b37b.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "25 min.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "15 min.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,5 min.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,5 min.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,15 min.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 137",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/137",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-138",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 138,
+    "area": "matematica",
+    "enunciado": "A população mundial está ficando mais velha, os índices de natalidade diminuíram e a expectativa de vida aumentou. No gráfico seguinte, são apresentados dados obtidos por pesquisa realizada pela Organização das Nações Unidas (ONU), a respeito da quantidade de pessoas com 60 anos ou mais em todo o mundo. Os números da coluna da direita representam as faixas percentuais. Por exemplo, em 1950 havia 95 milhões de pessoas com 60 anos ou mais nos países desenvolvidos, número entre 10% e 15% da população total nos países desenvolvidos.\n\n![](https://enem.dev/2009/questions/138/2f19ef3b-7481-42c2-9c55-03664846dacc.jpg)\n\nSuponha que o modelo exponencial y = 363e0,03x, em que x = 0 corresponde ao ano 2000, x = 1 corresponde ao ano 2001, e assim sucessivamente, e que y é a população em milhões de habitantes no ano x, seja usado para estimar essa população com 60 anos ou mais de idade nos países em desenvolvimento entre 2010 e 2050.\n\nDesse modo, considerando e0,3 = 1,35, estima-se que a população com 60 anos ou mais estará, em 2030, entre",
+    "imagens": [
+      "https://enem.dev/2009/questions/138/2f19ef3b-7481-42c2-9c55-03664846dacc.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "490 e 510 milhões.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "550 e 620 milhões.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "780 e 800 milhões.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "810 e 860 milhões.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "870 e 910 milhões.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem",
+      "graficos-tabelas",
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 138",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/138",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-139",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 139,
+    "area": "matematica",
+    "enunciado": "A população mundial está ficando mais velha, os índices de natalidade diminuíram e a expectativa de vida aumentou. No gráfico seguinte, são apresentados dados obtidos por pesquisa realizada pela Organização das Nações Unidas (ONU), a respeito da quantidade de pessoas com 60 anos ou mais em todo o mundo. Os números da coluna da direita representam as faixas percentuais. Por exemplo, em 1950 havia 95 milhões de pessoas com 60 anos ou mais nos países desenvolvidos, número entre 10% e 15% da população total nos países desenvolvidos.\n\n![](https://enem.dev/2009/questions/139/ce6a3e69-a428-4ce0-9247-80452dcdca20.jpg)\n\nEm 2050, a probabilidade de se escolher, aleatoriamente, uma pessoa com 60 anos ou mais de idade, na população dos países desenvolvidos, será um número mais próximo de",
+    "imagens": [
+      "https://enem.dev/2009/questions/139/ce6a3e69-a428-4ce0-9247-80452dcdca20.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/2.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "7/20.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "8/25.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1/5.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "3/25.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade",
+      "porcentagem",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 139",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/139",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-141",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 141,
+    "area": "matematica",
+    "enunciado": "Uma resolução do Conselho Nacional de Política Energética (CNPE) estabeleceu a obrigatoriedade de adição de biodiesel ao óleo diesel comercializado nos postos. A exigência é que, a partir de 1.º de julho de 2009, 4% do volume da mistura final seja formada por biodiesel. Até junho de 2009, esse percentual era de 3%. Essa medida estimula a demanda de biodiesel, bem como possibilita a redução da importação de dísel de petróleo.\n\nDisponível em: http://www1.folha.uol.com.br.  \nAcesso em: 12 jul. 2009 (adaptado).\n\nEstimativas indicam que, com a adição de 4% de biodiesel ao dísel, serão consumidos 925 milhões de litros de biodiesel no segundo semestre de 2009. Considerando-se essa estimativa, para o mesmo volume da mistura final dísel/biodiesel consumida no segundo semestre de 2009, qual seria o consumo de biodiesel com a adição de 3%?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "27,75 milhões de litros.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "37,00 milhões de litros.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "231,25 milhões de litros.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "693,75 milhões de litros.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "888,00 milhões de litros.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 141",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/141",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-142",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 142,
+    "area": "matematica",
+    "enunciado": "A suspeita de que haveria uma relação causal entre tabagismo e câncer de pulmão foi levantada pela primeira vez a partir de observações clínicas. Para testar essa possível associação, foram conduzidos inúmeros estudos epidemiológicos. Dentre esses, houve o estudo do número de casos de câncer em relação ao número de cigarros consumidos por dia, cujos resultados são mostrados no gráfico a seguir.\n\n![](https://enem.dev/2009/questions/142/c56fbd08-b377-40bd-831c-b571ed7638fe.jpg)\n\nDe acordo com as informações do gráfico,",
+    "imagens": [
+      "https://enem.dev/2009/questions/142/c56fbd08-b377-40bd-831c-b571ed7638fe.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas inversamente proporcionais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas que não se relacionam.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas diretamente proporcionais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Uma pessoa não fumante certamente nunca será diagnosticada com câncer de pulmão.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas que estão relacionadas, mas sem proporcionalidade.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 142",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/142",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-143",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 143,
+    "area": "matematica",
+    "enunciado": "O gráfico a seguir mostra a evolução, de abril de 2008 a maio de 2009, da população economicamente ativa para seis Regiões Metropolitanas pesquisadas.\n\n![](https://enem.dev/2009/questions/143/d9c2ead9-7b0d-4ba9-bf7d-53d4e3024558.jpg)\n\nDisponível em: www.ibge.gov.br.\n\nConsiderando que a taxa de crescimento da população economicamente ativa, entre 05/09 e 06/09, seja de 4%, então o número de pessoas economicamente ativas em 06/09 será igual a",
+    "imagens": [
+      "https://enem.dev/2009/questions/143/d9c2ead9-7b0d-4ba9-bf7d-53d4e3024558.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "23.940.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "32.228.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "920.800.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "23.940.800.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "32.228.000.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 143",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/143",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-144",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 144,
+    "area": "matematica",
+    "enunciado": "A música e a matemática se encontram na representação dos tempos das notas musicais, conforme a figura seguinte.\n\n![](https://enem.dev/2009/questions/144/e592d2d8-7aca-4cb8-8a1c-3d01b64706a6.jpg)\n\nUm compasso é uma unidade musical composta por determinada quantidade de notas musicais em que a soma das durações coincide com a fração indicada como fórmula do compasso. Por exemplo, se a fórmula de compasso for 1/2 , poderia ter um compasso ou com duas semínimas ou uma mínima ou quatro colcheias, sendo possível a combinação de diferentes figuras.\n\nUm trecho musical de oito compassos, cuja fórmula é 3/4 , poderia ser preenchido com",
+    "imagens": [
+      "https://enem.dev/2009/questions/144/e592d2d8-7aca-4cb8-8a1c-3d01b64706a6.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "24 fusas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3 semínimas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "8 semínimas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "24 colcheias e 12 semínimas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "16 semínimas e 8 semicolcheias.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau",
+      "analise-combinatoria",
+      "numeros-operacoes"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 144",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/144",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-145",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 145,
+    "area": "matematica",
+    "enunciado": "O controle de qualidade de uma empresa fabricante de telefones celulares aponta que a probabilidade de um aparelho de determinado modelo apresentar defeito de fabricação é de 0,2%. Se uma loja acaba de vender 4 aparelhos desse modelo para um cliente, qual é a probabilidade de esse cliente sair da loja com exatamente dois aparelhos defeituosos?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2 × (0,2%)4.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "4 × (0,2%)2.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "6 × (0,2%)2  × (99,8%)2.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4 × (0,2%).",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "6 × (0,2%) × (99,8%).",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem",
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 145",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/145",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-146",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 146,
+    "area": "matematica",
+    "enunciado": "Uma pousada oferece pacotes promocionais para atrair casais a se hospedarem por até oito dias. A hospedagem seria em apartamento de luxo e, nos três primeiros dias, a diária custaria R$ 150,00, preço da diária fora da promoção. Nos três dias seguintes, seria aplicada uma redução no valor da diária, cuja taxa média de variação, a cada dia, seria de R$ 20,00. Nos dois dias restantes, seria mantido o preço do sexto dia. Nessas condições, um modelo para a promoção idealizada é apresentado no gráfico a seguir, no qual o valor da diária é função do tempo medido em número de dias.\n\n![](https://enem.dev/2009/questions/146/6e823a1c-778f-4d1a-89e6-06619fba287a.jpg)\n\nDe acordo com os dados e com o modelo, comparando o preço que um casal pagaria pela hospedagem por sete dias fora da promoção, um casal que adquirir o pacote promocional por oito dias fará uma economia de",
+    "imagens": [
+      "https://enem.dev/2009/questions/146/6e823a1c-778f-4d1a-89e6-06619fba287a.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 90,00.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 110,00.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 130,00.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 150,00.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 170,00.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "razao-proporcao",
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 146",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/146",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-147",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 147,
+    "area": "matematica",
+    "enunciado": "As figuras a seguir exibem um trecho de um quebra-cabeças que está sendo montado. Observe que as peças são quadradas e há 8 peças no tabuleiro da figura A e 8 peças no tabuleiro da figura B. As peças são retiradas do tabuleiro da figura B e colocadas no tabuleiro da figura A na posição correta, isto é, de modo a completar os desenhos.\n\n![](https://enem.dev/2009/questions/147/2540b2c3-868a-4e6d-bf25-edf78475b995.jpg)\n\n![](https://enem.dev/2009/questions/147/ce96a139-05bf-4b25-a3fc-eab46adf80f1.jpg)\n\nÉ possível preencher corretamente o espaço indicado pela seta no tabuleiro da figura A colocando a peça",
+    "imagens": [
+      "https://enem.dev/2009/questions/147/2540b2c3-868a-4e6d-bf25-edf78475b995.jpg",
+      "https://enem.dev/2009/questions/147/ce96a139-05bf-4b25-a3fc-eab46adf80f1.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 após girá-la 90° no sentido horário.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 após girá-la 180° no sentido anti-horário.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2 após girá-la 90° no sentido anti-horário.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2 após girá-la 180° no sentido horário.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2 após girá-la 270° no sentido anti-horário.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 147",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/147",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-148",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 148,
+    "area": "matematica",
+    "enunciado": "A tabela mostra alguns dados da emissão de dióxido de carbono de uma fábrica, em função do número de toneladas produzidas.\n\n![](https://enem.dev/2009/questions/148/052af6e6-63f3-43e2-be36-96d0f5a48ab4.jpg)\n\nOs dados na tabela indicam que a taxa média de variação entre a emissão de dióxido de carbono (em ppm) e a produção (em toneladas) é",
+    "imagens": [
+      "https://enem.dev/2009/questions/148/052af6e6-63f3-43e2-be36-96d0f5a48ab4.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inferior a 0,18.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Superior a 0,18 e inferior a 0,50.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Superior a 0,50 e inferior a 1,50.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Superior a 1,50 e inferior a 2,80.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Superior a 2,80.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 148",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/148",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-149",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 149,
+    "area": "matematica",
+    "enunciado": "Em Florença, Itália, na Igreja de Santa Croce, é possível encontrar um portão em que aparecem os anéis de Borromeo. Alguns historiadores acreditavam que os círculos representavam as três artes: escultura, pintura e arquitetura, pois elas eram tão próximas quanto inseparáveis.\n\n![](https://enem.dev/2009/questions/149/87fc20be-0d1a-4508-b804-bf58ba86e918.jpg)\n\nQual dos esboços a seguir melhor representa os anéis de Borromeo?",
+    "imagens": [
+      "https://enem.dev/2009/questions/149/87fc20be-0d1a-4508-b804-bf58ba86e918.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2009/questions/149/34488218-cb6e-4ae1-ae7b-3e7e2986995d.jpg"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2009/questions/149/a2900f94-fbf3-410d-ad2f-41938a2ef6b4.jpg"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2009/questions/149/704c275a-d2fb-4943-b7ea-9810d4855651.jpg"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2009/questions/149/a0f7ce1f-2021-48b4-99b4-776289157eac.jpg"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2009/questions/149/b83410e7-99f3-47a1-bed5-01c4cffce0e6.jpg"
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 149",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/149",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-150",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 150,
+    "area": "matematica",
+    "enunciado": "Brasil e França têm relações comerciais há mais de 200 anos. Enquanto a França é a 5ª nação mais rica do planeta, o Brasil é a 10ª, e ambas se destacam na economia mundial. No entanto, devido a uma série de restrições, o comércio entre esses dois países ainda não é adequadamente explorado, como mostra a tabela seguinte, referente ao período 2003-2007.\n\n![](https://enem.dev/2009/questions/150/345210ee-8d51-4c8d-b6ca-05541e682160.jpg)\n\nOs dados da tabela mostram que, no período considerado, os valores médios dos investimentos da França no Brasil foram maiores que os investimentos do Brasil na França em um valor",
+    "imagens": [
+      "https://enem.dev/2009/questions/150/345210ee-8d51-4c8d-b6ca-05541e682160.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inferior a 300 milhões de dólares.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Superior a 300 milhões de dólares, mas inferior a 400 milhões de dólares.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Superior a 400 milhões de dólares, mas inferior a 500 milhões de dólares.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Superior a 500 milhões de dólares, mas inferior a 600 milhões de dólares.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Superior a 600 milhões de dólares.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 150",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/150",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-151",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 151,
+    "area": "matematica",
+    "enunciado": "Um grupo de 50 pessoas fez um orçamento inicial para organizar uma festa, que seria dividido entre elas em cotas iguais. Verificou-se ao final que, para arcar com todas as despesas, faltavam R$ 510,00, e que 5 novas pessoas haviam ingressado no grupo. No acerto foi decidido que a despesa total seria dividida em partes iguais pelas 55 pessoas. Quem não havia ainda contribuído pagaria a sua parte, e cada uma das 50 pessoas do grupo inicial deveria contribuir com mais R$ 7,00.\n\nDe acordo com essas informações, qual foi o valor da cota calculada no acerto final para cada uma das 55 pessoas?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 14,00.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 17,00.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 22,00.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 32,00.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 57,00.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "razao-proporcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 151",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/151",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-152",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 152,
+    "area": "matematica",
+    "enunciado": "**Técnicos concluem mapeamento do aquífero Guarani**\n\nO aquífero Guarani localiza-se no subterrâneo dos territórios da Argentina, Brasil, Paraguai e Uruguai, com extensão total de 1.200.000 quilômetros quadrados, dos quais 840.000 quilômetros quadrados estão no Brasil. O aquífero armazena cerca de 30 mil quilômetros cúbicos de água e é considerado um dos maiores do mundo.  \nNa maioria das vezes em que são feitas referências à água, são usadas as unidades metro cúbico e litro, e não as unidades já descritas. A Companhia de Saneamento Básico do Estado de São Paulo (SABESP) divulgou, por exemplo, um novo reservatório cuja capacidade de armazenagem é de 20 milhões de litros.\n\nDisponível em: http://noticias.terra.com.br. Acesso em: 10 jul. 2009 (adaptado).\n\nComparando as capacidades do aquífero Guarani e desse novo reservatório da SABESP, a capacidade do aquífero Guarani é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,5 x 102 vezes a capacidade do reservatório novo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,5 x 103 vezes a capacidade do reservatório novo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,5 x 106 vezes a capacidade do reservatório novo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,5 x 108 vezes a capacidade do reservatório novo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "1,5 x 109 vezes a capacidade do reservatório novo.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 152",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/152",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-153",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 153,
+    "area": "matematica",
+    "enunciado": "Suponha que, na escultura do artista Emanoel Araújo, mostrada na figura a seguir, todos os prismas numerados em algarismos romanos são retos, com bases triangulares, e que as faces laterais do poliedro II são perpendiculares à sua própria face superior, que, por sua vez, é um triângulo congruente ao triângulo base dos prismas. Além disso, considere que os prismas I e III são perpendiculares ao prisma IV e ao poliedro II.\n\n![](https://enem.dev/2009/questions/153/0aaaf8f3-e87d-435c-901f-40781e411de9.jpg)\n\nImagine um plano paralelo à face α do prisma I, mas que passe pelo ponto P pertencente à aresta do poliedro II, indicado na figura. A interseção desse plano imaginário com a escultura contém",
+    "imagens": [
+      "https://enem.dev/2009/questions/153/0aaaf8f3-e87d-435c-901f-40781e411de9.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dois triângulos congruentes com lados correspondentes paralelos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Dois retângulos congruentes e com lados correspondentes paralelos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Dois trapézios congruentes com lados correspondentes perpendiculares.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Dois paralelogramos congruentes com lados correspondentes paralelos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Dois quadriláteros congruentes com lados correspondentes perpendiculares.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 153",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/153",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-154",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 154,
+    "area": "matematica",
+    "enunciado": "A rampa de um hospital tem na sua parte mais elevada uma altura de 2,2 metros. Um paciente ao caminhar sobre a rampa percebe que se deslocou 3,2 metros e alcançou uma altura de 0,8 metro.\n\nA distância em metros que o paciente ainda deve caminhar para atingir o ponto mais alto da rampa é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,16 metros.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,0 metros.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "5,4 metros.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "5,6 metros.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "7,04 metros.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 154",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/154",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-155",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 155,
+    "area": "matematica",
+    "enunciado": "Um posto de combustível vende 10.000 litros de álcool por dia a R$ 1,50 cada litro. Seu proprietário percebeu que, para cada centavo de desconto que  concedia por litro, eram vendidos 100 litros a mais por dia. Por exemplo, no dia em que o preço do álcool foi R$ 1,48, foram vendidos 10.200 litros.\n\nConsiderando x o valor, em centavos, do desconto dado no preço de cada litro, e V o valor, em R$, arrecadado por dia com a venda do álcool, então a expressão que relaciona V e x é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V = 10.000 + 50x – x².",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "V = 10.000 + 50x + x².",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "V = 15.000 – 50x – x².",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "V = 15.000 + 50x – x².",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V = 15.000 – 50x + x².",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-espacial",
+      "funcao-quadratica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 155",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/155",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-156",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 156,
+    "area": "matematica",
+    "enunciado": "Para cada indivíduo, a sua inscrição no Cadastro de Pessoas Físicas (CPF) é composto por um número de 9 algarismos e outro número de 2 algarismos, na forma _d1_ e _d2_, em que os dígitos _d1_ e _d2_ são denominados dígitos verificadores. Os dígitos verificadores são calculados, a partir da esquerda, da seguinte maneira: os 9 primeiros algarismos são multiplicados pela sequência 10, 9, 8, 7, 6, 5, 4, 3, 2 (o primeiro por 10, o segundo por 9, e assim sucessivamente); em seguida, calcula-se o resto _r_ da divisão da soma dos resultados das multiplicações por 11, e se esse resto _r_ for 0 ou 1, _d1_ é zero, caso contrário _d1_ = (11 – r). O dígito _d2_ é calculado pela mesma regra, na qual os números a serem multiplicados pela sequência dada são contados a partir do segundo algarismo, sendo _d1_ o último algarismo, isto é, _d2_ é zero se o resto _s_ da divisão por 11 das somas das multiplicações for 0 ou 1, caso contrário, _d2_ = (11 – _s_).\n\nSuponha que João tenha perdido seus documentos, inclusive o cartão de CPF e, ao dar queixa da perda na delegacia, não conseguisse lembrar quais eram os dígitos verificadores, recordando-se apenas que os nove primeiros algarismos eram 123.456.789. Neste caso, os dígitos verificadores d1 e d2 esquecidos são, respectivamente,",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0 e 9.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 e 4.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 e 7.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "9 e 1.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "0 e 1.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 156",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/156",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-158",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 158,
+    "area": "matematica",
+    "enunciado": "A figura a seguir mostra as medidas reais de uma aeronave que será fabricada para utilização por companhias de transporte aéreo. Um engenheiro precisa fazer o desenho desse avião em escala de 1:150.\n\n![](https://enem.dev/2009/questions/158/ee2af503-e5d1-45f8-b7f1-372e3cec5e11.jpg)\n\nPara o engenheiro fazer esse desenho em uma folha de papel, deixando uma margem de 1 cm em relação às bordas da folha, quais as dimensões mínimas, em centímetros, que essa folha deverá ter?",
+    "imagens": [
+      "https://enem.dev/2009/questions/158/ee2af503-e5d1-45f8-b7f1-372e3cec5e11.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2,9 cm × 3,4 cm.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,9 cm × 4,4 cm.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "20 cm × 25 cm.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "21 cm × 26 cm.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "192 cm × 242 cm.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 158",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/158",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-159",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 159,
+    "area": "matematica",
+    "enunciado": "Um experimento consiste em colocar certa quantidade de bolas de vidro idênticas em um copo com água até certo nível e medir o nível da água, conforme ilustrado na figura a seguir. Como resultado do experimento, concluiu-se que o nível da água é função do número de bolas de vidro que são colocadas dentro do copo.\n\n![](https://enem.dev/2009/questions/159/c49b9a82-ca97-42ec-89a8-0d08a9c8abd3.jpg)\n\nO quadro a seguir mostra alguns resultados do experimento realizado.\n\n![](https://enem.dev/2009/questions/159/09fc439a-a96c-466c-a8a7-0928313480ae.jpg)\n\nQual a expressão algébrica que permite calcular o nível da água (y) em função do número de bolas (x)?",
+    "imagens": [
+      "https://enem.dev/2009/questions/159/c49b9a82-ca97-42ec-89a8-0d08a9c8abd3.jpg",
+      "https://enem.dev/2009/questions/159/09fc439a-a96c-466c-a8a7-0928313480ae.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Y = 30x.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Y = 25x + 20,2.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Y = 1,27x.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Y = 0,7x.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Y = 0,07x + 6.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H15",
+    "habilidade_origem": "heuristica",
+    "competencia": "C4",
+    "assuntos": [
+      "funcao-afim",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 159",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/159",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-160",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 160,
+    "area": "matematica",
+    "enunciado": "Uma cooperativa de colheita propôs a um fazendeiro um contrato de trabalho nos seguintes termos: a cooperativa forneceria 12 trabalhadores e 4 máquinas, em um regime de trabalho de 6 horas diárias, capazes de colher 20 hectares de milho por dia, ao custo de R$ 10,00 por trabalhador por dia de trabalho, e R$ 1.000,00 pelo aluguel diário de cada máquina. O fazendeiro argumentou que fecharia contrato se a cooperativa colhesse 180 hectares de milho em 6 dias, com gasto inferior a R$ 25.000,00.\n\nPara atender às exigências do fazendeiro e supondo que o ritmo dos trabalhadores e das máquinas seja constante, a cooperativa deveria",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter sua proposta.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Oferecer 4 máquinas a mais.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Oferecer 6 trabalhadores a mais.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Aumentar a jornada de trabalho para 9 horas diárias.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Reduzir em R$ 400,00 o valor do aluguel diário de uma máquina.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 160",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/160",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-161",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 161,
+    "area": "matematica",
+    "enunciado": "Suponha que a etapa final de uma gincana escolar consista em um desafio de conhecimentos. Cada equipe escolheria 10 alunos para realizar uma prova objetiva, e a pontuação da equipe seria dada pela mediana das notas obtidas pelos alunos. As provas valiam, no máximo, 10 pontos cada. Ao final, a vencedora foi a equipe Ômega, com 7,8 pontos, seguida pela equipe Delta, com 7,6 pontos. Um dos alunos da equipe Gama, a qual ficou na terceira e última colocação, não pôde comparecer, tendo recebido nota zero na prova. As notas obtidas pelos 10 alunos da equipe Gama foram 10; 6,5; 8; 10; 7; 6,5; 7; 8; 6; 0.\n\nSe o aluno da equipe Gama que faltou tivesse comparecido, essa equipe",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teria a pontuação igual a 6,5 se ele obtivesse nota 0.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Seria a vencedora se ele obtivesse nota 10.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Seria a segunda colocada se ele obtivesse nota 8.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Permaneceria na terceira posição, independentemente da nota obtida pelo aluno.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Empataria com a equipe Ômega na primeira colocação se o aluno obtivesse nota 9.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "equacao-2-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 161",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/161",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-162",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 162,
+    "area": "matematica",
+    "enunciado": "Uma escola lançou uma campanha para seus alunos arrecadarem, durante 30 dias, alimentos não perecíveis para doar a uma comunidade carente da região. Vinte alunos aceitaram a tarefa e nos primeiros 10 dias trabalharam 3 horas diárias, arrecadando 12 kg de alimentos por dia. Animados com os resultados, 30 novos alunos somaram-se ao grupo, e passaram a trabalhar 4 horas por dia nos dias seguintes até o término da campanha.\n\nAdmitindo-se que o ritmo de coleta tenha se mantido constante, a quantidade de alimentos arrecadados ao final do prazo estipulado seria de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "920 kg.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "800 kg.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "720 kg.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "600 kg.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "570 kg.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 162",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/162",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-163",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 163,
+    "area": "matematica",
+    "enunciado": "Segundo as regras da Fórmula 1, o peso mínimo do carro, de tanque vazio, com o piloto, é de 605 kg, e a gasolina deve ter densidade entre 725 e 780 gramas por litro. Entre os circuitos nos quais ocorrem competições dessa categoria, o mais longo é _Spa-Francorchamps_, na Bélgica, cujo traçado tem 7 km de extensão. O consumo médio de um carro da Fórmula 1 é de 75 litros para cada 100 km.\n\nSuponha que um piloto de uma equipe específica, que utiliza um tipo de gasolina com densidade de 750 g/L, esteja no circuito de Spa-Francorchamps, parado no box para reabastecimento. Caso ele pretenda dar mais 16 voltas, ao ser liberado para retornar à pista, seu carro deverá pesar, no mínimo,",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "617 kg.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "668 kg.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "680 kg.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "689 kg.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "717 kg.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 163",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/163",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-164",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 164,
+    "area": "matematica",
+    "enunciado": "Ao morrer, o pai de João, Pedro e José deixou como herança um terreno retangular de 3 km x 2 km que contém uma área de extração de ouro delimitada por um quarto de círculo de raio 1 km a partir do canto inferior esquerdo da propriedade. Dado o maior valor da área de extração de ouro, os irmãos acordaram em repartir a propriedade de modo que cada um ficasse com a terça parte da área de extração, conforme mostra a figura.\n\n![](https://enem.dev/2009/questions/164/fbf84d66-498d-4521-8b27-9a164c60237d.jpg)\n\nEm relação à partilha proposta, constata-se que a porcentagem da área do terreno que coube a João corresponde, aproximadamente, a\n(considere  √3/3 = 0,58)",
+    "imagens": [
+      "https://enem.dev/2009/questions/164/fbf84d66-498d-4521-8b27-9a164c60237d.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "50%.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "43%",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "37%",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "33%",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "19%",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "porcentagem",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 164",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/164",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-165",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 165,
+    "area": "matematica",
+    "enunciado": "Doze times se inscreveram em um torneio de futebol amador. O jogo de abertura do torneio foi escolhido da seguinte forma: primeiro foram sorteados 4 times para compor o Grupo A. Em seguida, entre os times do Grupo A, foram sorteados 2 times para realizar o jogo de abertura do torneio, sendo que o primeiro deles jogaria em seu próprio campo, e o segundo seria o time visitante.\n\nA quantidade total de escolhas possíveis para o Grupo A e a quantidade total de escolhas dos times do jogo de abertura podem ser calculadas através de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma combinação e um arranjo, respectivamente.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Um arranjo e uma combinação, respectivamente.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Um arranjo e uma permutação, respectivamente.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Duas combinações.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Dois arranjos.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 165",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/165",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-167",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 167,
+    "area": "matematica",
+    "enunciado": "O quadro apresenta informações da área aproximada de cada bioma brasileiro.\n\n![](https://enem.dev/2009/questions/167/2e45ce65-e1cb-4d1c-975d-1a4c2feade5f.jpg)\n\nÉ comum em conversas informais, ou mesmo em noticiários, o uso de múltiplos da área de um campo de futebol (com as medidas de 120 m x 90 m) para auxiliar a visualização de áreas consideradas extensas\n\nNesse caso, qual é o número de campos de futebol correspondente à área aproximada do bioma Pantanal?",
+    "imagens": [
+      "https://enem.dev/2009/questions/167/2e45ce65-e1cb-4d1c-975d-1a4c2feade5f.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.400",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "14.000",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "140.000",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1.400.000",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "14.000.000",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 167",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/167",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-168",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 168,
+    "area": "matematica",
+    "enunciado": "Na tabela, são apresentados dados da cotação mensal do ovo extra branco vendido no atacado, em Brasília, em reais, por caixa de 30 dúzias de ovos, em alguns meses dos anos 2007 e 2008.\n\n![](https://enem.dev/2009/questions/168/f683544b-94d1-456c-bdfb-f2e964881776.jpg)\n\nDe acordo com esses dados, o valor da mediana das cotações mensais do ovo extra branco nesse período era igual a",
+    "imagens": [
+      "https://enem.dev/2009/questions/168/f683544b-94d1-456c-bdfb-f2e964881776.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 73,10.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 81,50.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 82,00.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 83,00.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 85,30.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 168",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/168",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-169",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 169,
+    "area": "matematica",
+    "enunciado": "A vazão do rio Tietê, em São Paulo, constitui preocupação constante nos períodos chuvosos. Em alguns trechos, são construídas canaletas para controlar o fluxo de água. Uma dessas canaletas, cujo corte vertical determina a forma de um trapézio isósceles, tem as medidas especificadas na figura I. Neste caso, a vazão da água é de 1.050 m³/s. O cálculo da vazão, Q em m³/s, envolve o produto da área A do setor transversal (por onde passa a água), em m², pela velocidade da água no local, v, em m/s, ou seja, Q = Av.  \nPlaneja-se uma reforma na canaleta, com as dimensões especificadas na figura II, para evitar a ocorrência de enchentes.\n\n![](https://enem.dev/2009/questions/169/ff2b8876-8f76-444b-b4d9-15556da637ec.jpg)\n\nNa suposição de que a velocidade da água não se alterará, qual a vazão esperada para depois da reforma na canaleta?",
+    "imagens": [
+      "https://enem.dev/2009/questions/169/ff2b8876-8f76-444b-b4d9-15556da637ec.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "90 m³/s.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "750 m³/s.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1.050 m³/s.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1.512 m³/s.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2.009 m³/s.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 169",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/169",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-170",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 170,
+    "area": "matematica",
+    "enunciado": "A resolução das câmeras digitais modernas é dada em _megapixels_, unidade de medida que representa um milhão de pontos. As informações sobre cada um desses pontos são armazenadas, em geral, em 3 _bytes_. Porém, para evitar que as imagens ocupem muito espaço, elas são submetidas a algoritmos de compressão, que reduzem em até 95% a quantidade de _bytes_ necessários  \npara armazená-las. Considere 1 KB = 1.000 bytes, 1 MB = 1.000 KB, 1 GB = 1.000 MB.\n\nUtilizando uma câmera de 2.0 megapixels cujo algoritmo de compressão é de 95%, João fotografou 150 imagens para seu trabalho escolar. Se ele deseja armazená-las de modo que o espaço restante no dispositivo seja o menor espaço possível, ele deve utilizar",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um CD de 700 MB.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Um pendrive de 1 GB.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Um HD externo de 16 GB.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Um memory stick de 16 MB.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Um cartão de memória de 64 MB.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 170",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/170",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-171",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 171,
+    "area": "matematica",
+    "enunciado": "A população brasileira sabe, pelo menos intuitivamente, que a probabilidade de acertar as seis dezenas da mega sena não é zero, mas é quase. Mesmo assim, milhões de pessoas são atraídas por essa loteria, especialmente quando o prêmio se acumula em valores altos. Até junho de 2009, cada aposta de seis dezenas, pertencentes ao conjunto {01, 02, 03, …, 59, 60}, custava R$ 1,50.\n\nDisponível em: www.caixa.gov.br. Acesso em: 7 jul. 2009.\n\nConsidere que uma pessoa decida apostar exatamente R$ 126,00 e que esteja mais interessada em acertar apenas cinco das seis dezenas da mega sena, justamente pela dificuldade desta última.\n\nNesse caso, é melhor que essa pessoa faça 84 apostas de seis dezenas diferentes, que não tenham cinco números em comum, do que uma única aposta com nove dezenas, porque a probabilidade de acertar a quina no segundo caso em relação ao primeiro é, aproximadamente,",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 1/2 vez menor.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2 1/2 vezes menor.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "4 vezes menor.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "9 vezes menor.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "14 vezes menor.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 171",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/171",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-172",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 172,
+    "area": "matematica",
+    "enunciado": "Nos últimos anos, o volume de petróleo exportado pelo Brasil tem mostrado expressiva tendência de crescimento, ultrapassando as importações em 2008. Entretanto, apesar de as importações terem se mantido praticamente no mesmo patamar desde 2001, os recursos gerados com as exportações ainda são inferiores àqueles despendidos com as importações, uma vez que o preço médio por metro cúbico do petróleo importado é superior ao do petróleo nacional. Nos primeiros cinco meses de 2009, foram gastos 2,84 bilhões de dólares com importações e gerada uma receita de 2,24 bilhões de dólares com as exportações. O preço médio por metro cúbico em maio de 2009 foi de 340 dólares para o petróleo importado e de 230 dólares para o petróleo exportado. O quadro a seguir mostra os dados consolidados de 2001 a 2008 e dos primeiros cinco meses de 2009.\n\n![](https://enem.dev/2009/questions/172/5f549378-e9d4-4d17-9950-19a0f32f95b7.jpg)\n\nConsidere que as importações e exportações de petróleo de junho a dezembro de 2009 sejam iguais a 7/5 das  \nimportações e exportações, respectivamente, ocorridas de janeiro a maio de 2009.\n\nNesse caso, supondo que os preços para importação e exportação não sofram alterações, qual seria o valor mais aproximado da diferença entre os recursos despendidos com as importações e os recursos gerados com as exportações em 2009?",
+    "imagens": [
+      "https://enem.dev/2009/questions/172/5f549378-e9d4-4d17-9950-19a0f32f95b7.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "600 milhões de dólares.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "840 milhões de dólares.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,34 bilhão de dólares.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,44 bilhão de dólares.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2,00 bilhões de dólares.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 172",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/172",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-173",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 173,
+    "area": "matematica",
+    "enunciado": "Uma fábrica produz velas de parafina em forma de pirâmide quadrangular regular com 19 cm de altura e 6 cm de aresta da base. Essas velas são formadas por 4 blocos de mesma altura — 3 troncos de pirâmide de bases paralelas e 1 pirâmide na parte superior —, espaçados de 1 cm entre eles, sendo que a base superior de cada bloco é igual à base inferior do bloco sobreposto, com uma haste de ferro passando pelo centro de cada bloco, unindo-os, conforme a figura.\n\n![](https://enem.dev/2009/questions/173/e9b7219c-4c2a-459d-a1ce-d4e7a3ec2c25.jpg)\n\nSe o dono da fábrica resolver diversificar o modelo, retirando a pirâmide da parte superior, que tem 1,5 cm de aresta na base, mas mantendo o mesmo molde, quanto ele passará a gastar com parafina para fabricar uma vela?",
+    "imagens": [
+      "https://enem.dev/2009/questions/173/e9b7219c-4c2a-459d-a1ce-d4e7a3ec2c25.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "156 cm³.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "189 cm³.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "192 cm³.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "216 cm³.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "540 cm³.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 173",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/173",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-174",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 174,
+    "area": "matematica",
+    "enunciado": "Considere um ponto P em uma circunferência de raio r no plano cartesiano. Seja Q a projeção ortogonal de P sobre o eixo x, como mostra a figura, e suponha que o ponto P percorra, no sentido anti-horário, uma distância d ≤ r sobre a circunferência.\n\n![](https://enem.dev/2009/questions/174/29dd5a77-8236-4be7-bdf2-fe2a3bfc482c.jpg)\n\nEntão, o ponto Q percorrerá, no eixo x, uma distância dada por",
+    "imagens": [
+      "https://enem.dev/2009/questions/174/29dd5a77-8236-4be7-bdf2-fe2a3bfc482c.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R( 1 - sen d/r ).",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R( 1 - cos d/r ).",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R( 1 - tag d/r ).",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Rsen (r/d).",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Rcos (r/d).",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "graficos-tabelas",
+      "trigonometria"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 174",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/174",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-175",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 175,
+    "area": "matematica",
+    "enunciado": "O Indicador do CadÚnico (ICadÚnico), que compõe o cálculo do Índice de Gestão Descentralizada do Programa Bolsa Família (IGD), é obtido por meio da **média aritmética** entre a taxa de cobertura qualificada de cadastros (TC) e a taxa de atualização de cadastros (TA), em que, _TC= NV/NF, TA= NA/NV, NV_ é o número de cadastros domiciliares válidos no perfil do CadÚnico, _NF_ é o número de famílias estimadas como público alvo do CadÚnico e _NA_ é o número de cadastros domiciliares atualizados no perfil do CadÚnico.\n\n**Portaria n° 148 de 27 de abril de 2006** (adaptado).\n\nSuponha que o IcadÚnico de um município específico é 0,6. Porém, dobrando NF o IcadÚnico cairá para 0,5. Se NA + NV = 3.600, então NF é igual a",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10.000.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "7.500.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "5.000.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.500.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "3.000.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem",
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 175",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/175",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-176",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 176,
+    "area": "matematica",
+    "enunciado": "Joana frequenta uma academia de ginástica onde faz exercícios de musculação. O programa de Joana requer que ela faça 3 séries de exercícios em 6 aparelhos diferentes, gastando 30 segundos em cada série. No aquecimento, ela caminha durante 10 minutos na esteira e descansa durante 60 segundos para começar o primeiro exercício no primeiro aparelho. Entre uma série e outra, assim como ao mudar de aparelho, Joana descansa por 60 segundos.\n\nSuponha que, em determinado dia, Joana tenha iniciado seus exercícios às 10h30min e finalizado às 11h7min. Nesse dia e nesse tempo, Joana",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não poderia fazer sequer a metade dos exercícios e dispor dos períodos de descanso especificados em seu programa.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Poderia ter feito todos os exercícios e cumprido rigorosamente os períodos de descanso especificados em seu programa.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Poderia ter feito todos os exercícios, mas teria de ter deixado de cumprir um dos períodos de descanso especificados em seu programa.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Conseguiria fazer todos os exercícios e cumpriria todos os períodos de descanso especificados em seu programa, e ainda se permitiria uma pausa de 7 min.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Não poderia fazer todas as 3 séries dos exercícios especificados em seu programa; em alguma dessas séries deveria ter feito uma série a menos e não deveria ter cumprido um dos períodos de descanso.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 176",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/176",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-177",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 177,
+    "area": "matematica",
+    "enunciado": "Um artesão construiu peças de artesanato interceptando uma pirâmide de base quadrada com um plano. Após fazer um estudo das diferentes peças que poderia obter, ele concluiu que uma delas poderia ter uma das faces pentagonal.\n\nQual dos argumentos a seguir justifica a conclusão do artesão?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma pirâmide de base quadrada tem 4 arestas laterais e a interseção de um plano com a pirâmide intercepta suas arestas laterais. Assim, esses pontos formam um polígono de 4 lados.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Uma pirâmide de base quadrada tem 4 faces triangulares e, quando um plano intercepta essa pirâmide, divide cada face em um triângulo e um trapézio. Logo, um dos polígonos tem 4 lados.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Uma pirâmide de base quadrada tem 5 faces e a interseção de uma face com um plano é um segmento de reta. Assim, se o plano interceptar todas as faces, o polígono obtido nessa interseção tem 5 lados.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O número de lados de qualquer polígono obtido como interseção de uma pirâmide com um plano é igual ao número de faces da pirâmide. Como a pirâmide tem 5 faces, o polígono tem 5 lados.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O número de lados de qualquer polígono obtido interceptando-se uma pirâmide por um plano é igual ao número de arestas laterais da pirâmide. Como a pirâmide tem 4 arestas laterais, o polígono tem 4 lados.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 177",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/177",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-178",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 178,
+    "area": "matematica",
+    "enunciado": "João deve 12 parcelas de R$ 150,00 referentes ao cheque especial de seu banco e cinco parcelas de R$ 80,00 referentes ao cartão de crédito. O gerente do banco lhe ofereceu duas parcelas de desconto no cheque especial, caso João quitasse esta dívida imediatamente ou, na mesma condição, isto é, quitação imediata, com 25% de desconto na dívida do cartão. João também poderia renegociar suas dívidas em 18 parcelas mensais de R$ 125,00. Sabendo desses termos, José, amigo de João, ofereceu-lhe emprestar o dinheiro que julgasse necessário pelo tempo de 18 meses, com juros de 25% sobre o total emprestado.\n\nA opção que dá a João o menor gasto seria",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Renegociar suas dívidas com o banco.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Pegar emprestado de José o dinheiro referente à quitação das duas dívidas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Recusar o empréstimo de José e pagar todas as parcelas pendentes nos devidos prazos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Pegar emprestado de José o dinheiro referente à quitação do cheque especial e pagar as parcelas do cartão de crédito.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Pegar emprestado de José o dinheiro referente à quitação do cartão de crédito e pagar as parcelas do cheque especial.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "matematica-financeira",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 178",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/178",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-179",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 179,
+    "area": "matematica",
+    "enunciado": "A cisterna é um recipiente utilizado para armazenar água da chuva. Os principais critérios a serem observados para captação e armazenagem de água da chuva são: a demanda diária de água na propriedade; o índice médio de precipitação (chuva), por região, em cada período do ano; o tempo necessário para armazenagem; e a área de telhado necessária ou disponível para captação. Para fazer o cálculo do volume de uma cisterna, deve-se acrescentar um adicional relativo ao coeficiente de evaporação. Na dificuldade em se estabelecer um coeficiente confiável, a Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA) sugere que sejam adicionados 10% ao volume calculado de água.\n\nDesse modo, o volume, em m³, de uma cisterna é calculado por Vc = Vd × Ndia, em que Vd = volume de demanda da água diária (m³), Ndia = número de dias de armazenagem, e este resultado deve ser acrescido de 10%.\n\nPara melhorar a qualidade da água, recomenda-se que a captação seja feita somente nos telhados das edificações.  \nConsiderando que a precipitação de chuva de 1 mm sobre uma área de 1 m²  \nproduz 1 litro de água, pode-se calcular a área de um telhado a fim de atender a  \nnecessidade de armazenagem da seguinte maneira: área do telhado (em m²) = volume da cisterna (em litros)/precipitação.\n\nDisponível em: www.cnpsa.embrapa.br.  \nAcesso em: 8 jun. 2009 (adaptado).\n\nPara atender a uma demanda diária de 2.000 litros de água, com período de armazenagem de 15 dias e precipitação média de 110 mm, o telhado, retangular, deverá ter as dimensões mínimas de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6 metros por 5 metros, pois assim teria uma área de 30 m² .",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "15 metros por 20 metros, pois assim teria uma área de 300 m² .",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "50 metros por 60 metros, pois assim teria uma área de 3.000 m² .",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "91 metros por 30 metros, pois assim teria uma área de 2.730 m² .",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "110 metros por 30 metros, pois assim teria uma área de 3.300 m² .",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 179",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/179",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2009-180",
+    "ano": 2009,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 180,
+    "area": "matematica",
+    "enunciado": "Um médico está estudando um novo medicamento que combate um tipo de câncer em estágios avançados. Porém, devido ao forte efeito dos seus componentes, a cada dose administrada há uma chance de 10% de que o paciente sofra algum dos efeitos colaterais observados no estudo, tais como dores de cabeça, vômitos ou mesmo agravamento dos sintomas da doença. O médico oferece tratamentos compostos por 3, 4, 6, 8 ou 10 doses do medicamento, de acordo com o risco que o paciente pretende assumir.\n\nSe um paciente considera aceitável um risco de até 35% de chances de que ocorra algum dos efeitos colaterais durante o tratamento, qual é o maior número admissível de doses para esse paciente?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 doses.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "4 doses.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "6 doses.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "8 doses.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "10 doses.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem",
+      "razao-proporcao",
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2009, 2º dia, caderno azul (aplicação regular), questão 180",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2009/questions/180",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  }
+]

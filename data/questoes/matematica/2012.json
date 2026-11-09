@@ -1,0 +1,2666 @@
+[
+  {
+    "id": "enem-2012-136",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 136,
+    "area": "matematica",
+    "enunciado": "O esporte de alta competição da atualidade produziu uma questão ainda sem resposta: Qual é o limite do corpo humano? O maratonista original, o grego da lenda, morreu de fadiga por ter corrido 42 quilômetros. O americano Dean Karnazes, cruzando sozinho as planícies da Califórnia, conseguiu correr dez vezes mais em 75 horas.  \nUm professor de Educação Física, ao discutir com a turma o texto sobre a capacidade do maratonista americano, desenhou na lousa uma pista reta de 60 centímetros, que representaria o percurso referido.\n\n_Disponível em: http://veja.abril.com.br. Acesso em: 25 jun. 2011 (adaptado)._\n\nSe o percurso de Dean Karnazes fosse também em uma pista reta, qual seria a escala entre a pista feita pelo professor e a percorrida pelo atleta?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1:700",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1:7 000",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1:70 000",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1:700 000",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "1:7 000 000",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "funcao-afim"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 136",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/136",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-137",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 137,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/137/5720ed4d-1330-4139-8e45-4161901d1ed3.png)\n\nDobrando-se o raio de duas das circunferências centradas em vértices opostos do losango e ainda mantendo-se a configuração das tangências, obtém-se uma situação conforme ilustrada pela Figura 2.\n\n![](https://enem.dev/2012/questions/137/232bcbe6-caaa-44af-a96a-317187b14850.png)\n\nO perímetro do losango da Figura 2, quando comparado ao perímetro do losango da Figura 1, teve um aumento de",
+    "imagens": [
+      "https://enem.dev/2012/questions/137/5720ed4d-1330-4139-8e45-4161901d1ed3.png",
+      "https://enem.dev/2012/questions/137/232bcbe6-caaa-44af-a96a-317187b14850.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "300%.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "200%.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "150%.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "100%.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "50%.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 137",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/137",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-138",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 138,
+    "area": "matematica",
+    "enunciado": "Sabendo-se que um deles levou 50 laranjas a mais no segundo trajeto, qual a quantidade de laranjas que José, Carlos e Paulo, nessa ordem, transportaram na segunda parte do trajeto?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "600, 550, 350",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "300, 300, 150",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "300, 250, 200",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "200, 200, 100",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "100, 100, 50",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 138",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/138",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-139",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 139,
+    "area": "matematica",
+    "enunciado": "O gráfico a seguir apresenta o resultado da enquete.\n\n![](https://enem.dev/2012/questions/139/d676f9b1-2c82-461a-9863-f38aacafed80.png)\n\nO administrador do _blog_ irá sortear um livro entre os visitantes que opinaram na postagem “Contos de Halloween”.\n\nSabendo que nenhum visitante votou mais de uma vez, a probabilidade de uma pessoa escolhida ao acaso entre as que opinaram ter assinalado que o conto “Contos de Halloween” é “Chato” é mais aproximada por",
+    "imagens": [
+      "https://enem.dev/2012/questions/139/d676f9b1-2c82-461a-9863-f38aacafed80.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,09.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,12.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,14.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,15.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,18.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 139",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/139",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-141",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 141,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/141/e150aff4-41c0-4f6b-9a19-232d978fc497.png)\n\nNestas condições, a área perdida do forro, após a primeira lavagem, será expressa por",
+    "imagens": [
+      "https://enem.dev/2012/questions/141/e150aff4-41c0-4f6b-9a19-232d978fc497.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2xy",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "15 − 3x",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "15 − 5y",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "−5y − 3x",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5y + 3x − xy",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 141",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/141",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-142",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 142,
+    "area": "matematica",
+    "enunciado": "A capacidade mínima, em BTU/h, de um aparelho de ar-condicionado, para ambientes sem exposição ao sol, pode ser determinada da seguinte forma:\n\n• 600 BTU/h por m2 , considerando-se até duas pessoas no ambiente;\n\n• para cada pessoa adicional nesse ambiente, acrescentar 600 BTU/h;\n\n• acrescentar mais 600 BTU/h para cada equipamento eletroeletrônico em funcionamento no ambiente.\n\nSerá instalado um aparelho de ar-condicionado em uma sala, sem exposição ao sol, de dimensões 4 m x 5 m, em que permaneçam quatro pessoas e possua um aparelho de televisão em funcionamento.\n\nA capacidade mínima, em BTU/h, desse aparelho de arcondicionado deve ser",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12 000.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "12 600.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "13 200.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "13 800.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "15 000.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "razao-proporcao",
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 142",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/142",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-143",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 143,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/143/29dbd2b9-ef4e-4af8-8de5-2a651c4935c4.png)\n\nA expressão que traduz a resistência S dessa viga de madeira é",
+    "imagens": [
+      "https://enem.dev/2012/questions/143/29dbd2b9-ef4e-4af8-8de5-2a651c4935c4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/143/fef35e1c-c502-4670-9b8c-cb591dce50d8.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/143/887c79e5-b54f-4164-84df-4b6150b6b726.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/143/ea36520c-f0fd-4346-824f-8027c18a169c.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/143/c637c2e1-f94b-4d64-a420-d27b03a11fdc.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/143/dd92ffbd-5cc1-48a6-9d20-5d948d58abd5.png"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 143",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/143",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-144",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 144,
+    "area": "matematica",
+    "enunciado": "O diretor de uma escola convidou os 280 alunos de terceiro ano a participarem de uma brincadeira. Suponha que existem 5 objetos e 6 personagens numa casa de 9 cômodos; um dos personagens esconde um dos objetos em um dos cômodos da casa. O objetivo da brincadeira é adivinhar qual objeto foi escondido por qual personagem e em qual cômodo da casa o objeto foi escondido.\n\nTodos os alunos decidiram participar. A cada vez um aluno é sorteado e dá a sua resposta. As respostas devem ser sempre distintas das anteriores, e um mesmo aluno não pode ser sorteado mais de uma vez. Se a resposta do aluno estiver correta, ele é declarado vencedor e a brincadeira é encerrada.\n\nO diretor sabe que algum aluno acertará a resposta porque há",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10 alunos a mais do que possíveis respostas distintas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "20 alunos a mais do que possíveis respostas distintas.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "119 alunos a mais do que possíveis respostas distintas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "260 alunos a mais do que possíveis respostas distintas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "270 alunos a mais do que possíveis respostas distintas.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade",
+      "razao-proporcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 144",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/144",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-145",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 145,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/145/6e2e626f-d7f8-4615-bd32-13151f6cc0be.png)\n\nQual é a árvore que apresenta a maior altura real?",
+    "imagens": [
+      "https://enem.dev/2012/questions/145/6e2e626f-d7f8-4615-bd32-13151f6cc0be.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 145",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/145",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-146",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 146,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/146/f3712744-381c-4ed8-8f20-86b3e9a52be9.png)\n\nUma jogada consiste em:\n\n1º) o jogador apresenta um palpite sobre a cor da bola que será retirada por ele da urna 2;\n\n2º) ele retira, aleatoriamente, uma bola da urna 1 e a coloca na urna 2, misturando-a com as que lá estão;\n\n3º) em seguida ele retira, também aleatoriamente, uma bola da urna 2;\n\n4º) se a cor da última bola retirada for a mesma do palpite inicial, ele ganha o jogo.\n\nQual cor deve ser escolhida pelo jogador para que ele tenha a maior probabilidade de ganhar?",
+    "imagens": [
+      "https://enem.dev/2012/questions/146/f3712744-381c-4ed8-8f20-86b3e9a52be9.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Azul.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Amarela.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Branca.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Verde.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Vermelha.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 146",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/146",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-147",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 147,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/147/04304914-c660-44ee-a7a0-ee9be4ae9d9c.png)\n\nConsiderando as informações indicadas na figura, o consumo total de água registrado nesse hidrômetro, em litros, é igual a",
+    "imagens": [
+      "https://enem.dev/2012/questions/147/04304914-c660-44ee-a7a0-ee9be4ae9d9c.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 534,85.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3 544,20.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3 534 850,00.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "3 534 859,35.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "3 534 850,39.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau",
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 147",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/147",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-148",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 148,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/148/26ce4617-a934-4ff1-83a3-96a7dad3e773.png)\n\nDe acordo com o gráfico, os meses em que ocorreram, respectivamente, a maior e a menor venda absolutas em 2011 foram",
+    "imagens": [
+      "https://enem.dev/2012/questions/148/26ce4617-a934-4ff1-83a3-96a7dad3e773.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Março e abril.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Março e agosto.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Agosto e setembro.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Junho e setembro.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Junho e agosto.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 148",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/148",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-149",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 149,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/149/1c6c7b68-7082-4bde-97d1-7095071d775c.png)\n\nQuais serão os sólidos geométricos que Maria obterá a partir dessas planificações?",
+    "imagens": [
+      "https://enem.dev/2012/questions/149/1c6c7b68-7082-4bde-97d1-7095071d775c.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cilindro, prisma de base pentagonal e pirâmide.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Cone, prisma de base pentagonal e pirâmide.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Cone, tronco de pirâmide e pirâmide.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Cilindro, tronco de pirâmide e prisma.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Cilindro, prisma e tronco de cone.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 149",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/149",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-150",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 150,
+    "area": "matematica",
+    "enunciado": "Jogar baralho é uma atividade que estimula o raciocínio. Um jogo tradicional é a Paciência, que utiliza 52 cartas. Inicialmente são formadas sete colunas com as cartas. A primeira coluna tem uma carta, a segunda tem duas cartas, a terceira tem três cartas, a quarta tem quatro cartas, e assim sucessivamente até a sétima coluna, a qual tem sete cartas, e o que sobra forma o monte, que são as cartas não utilizadas nas colunas.\n\nA quantidade de cartas que forma o monte é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "21.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "24.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "26.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "28.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "31.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "probabilidade",
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 150",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/150",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-151",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 151,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/151/d4cbd8c7-f9da-48aa-9108-72f611ce5370.png)\n\nCom base no gráfico e nas informações do texto, é possível inferir que houve maior aquecimento global em",
+    "imagens": [
+      "https://enem.dev/2012/questions/151/d4cbd8c7-f9da-48aa-9108-72f611ce5370.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1995.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1998.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2000.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2005.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2007.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 151",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/151",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-152",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 152,
+    "area": "matematica",
+    "enunciado": "Em exposições de artes plásticas, é usual que estátuas sejam expostas sobre plataformas giratórias. Uma medida de segurança é que a base da escultura esteja integralmente apoiada sobre a plataforma. Para que se providencie o equipamento adequado, no caso de uma base quadrada que será fixada sobre uma plataforma circular, o auxiliar técnico do evento deve estimar a medida _R_ do raio adequado para a plataforma em termos da medida _L_ do lado da base da estátua.\n\nQual relação entre R e L o auxiliar técnico deverá apresentar de modo que a exigência de segurança seja cumprida?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/152/1dc33ce8-535d-4502-917d-b1d1ca52d5ab.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/152/66e7c13b-a7c4-431d-a72c-9f63b3b4f1f9.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/152/32ffdfbb-dd66-41a9-b2c2-cc6ed1cc2668.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/152/0b5a0e31-232e-4214-a9f3-cd4fff19cc9d.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/152/9026b0e8-1acb-4887-ada6-e1889a31ff04.png"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 152",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/152",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-153",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 153,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/153/fa4fd7b5-9f57-4575-b0d7-efd5da168ad2.png)\n\nNa Figura 2, o ponto A está no plano do chão onde está colocado o globo da morte e o segmento AB passa pelo centro da esfera e é perpendicular ao plano do chão. Suponha que há um foco de luz direcionado para o chão colocado no ponto B e que um motoqueiro faça um trajeto dentro da esfera, percorrendo uma circunferência que passa pelos pontos A e B.\n\nA imagem do trajeto feito pelo motoqueiro no plano do chão é melhor representada por",
+    "imagens": [
+      "https://enem.dev/2012/questions/153/fa4fd7b5-9f57-4575-b0d7-efd5da168ad2.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/153/4407a6d1-8bea-4593-a271-4d67fae4f8ea.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/153/c5a84103-a02d-4576-9326-bb4cc62998e1.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/153/4442f0fa-2803-46d7-bf5c-6e73037f198e.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/153/568e9422-3b06-416a-9021-dbd0345427cc.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/153/6485f40e-a5f1-4426-9075-1bc63b0c4a87.png"
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 153",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/153",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-154",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 154,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/154/81fbfbc5-0f6b-40ed-a17e-9afc89d413fa.png)\n\nUma proposta substitutiva, relativa às alturas de tomadas e interruptores, respectivamente, que atenderá àquele potencial comprador é",
+    "imagens": [
+      "https://enem.dev/2012/questions/154/81fbfbc5-0f6b-40ed-a17e-9afc89d413fa.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,20 m e 1,45 m.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,20 m e 1,40 m.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,25 m e 1,35 m.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,25 m e 1,30 m.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,45 m e 1,20 m.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 154",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/154",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-155",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 155,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/155/2e31c69a-4a2e-40f7-be2d-de13087cb5c0.png)\n\nDe acordo com esta pesquisa, quantas horas de seu tempo gasta um jovem entre 12 e 18 anos, na semana inteira (de segunda-feira a domingo), nas atividades escolares?",
+    "imagens": [
+      "https://enem.dev/2012/questions/155/2e31c69a-4a2e-40f7-be2d-de13087cb5c0.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "21",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "24",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "25",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "27",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 155",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/155",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-156",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 156,
+    "area": "matematica",
+    "enunciado": "Com essas informações, o gráfico que melhor representa a relação entre salário e o número de produtos vendidos é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/156/4e2c0e03-b523-4518-aaef-fb4734e8ad69.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/156/f19a221b-7715-49be-a78c-0554583108f7.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/156/35d71a7f-1928-470f-b151-e475785e7579.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/156/7ab9d513-032b-4753-81cc-95bcd632fb4d.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/156/0df218fe-bdcd-42f6-8188-5cc32405b48e.png"
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H20",
+    "habilidade_origem": "heuristica",
+    "competencia": "C5",
+    "assuntos": [
+      "leitura-grafico-funcao",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 156",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/156",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-157",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 157,
+    "area": "matematica",
+    "enunciado": "Um maquinista de trem ganha R$ 100,00 por viagem e só pode viajar a cada 4 dias. Ele ganha somente se fizer a viagem e sabe que estará de férias de 1º a 10 de junho, quando não poderá viajar. Sua primeira viagem ocorreu no dia primeiro de janeiro. Considere que o ano tem 365 dias.\n\nSe o maquinista quiser ganhar o máximo possível, quantas viagens precisará fazer?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "37",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "51",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "88",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "89",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "91",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "razao-proporcao",
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 157",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/157",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-158",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 158,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/158/1f4ff459-e739-491b-abba-8350d8dd458b.png)\n\nO que aconteceria com o nível da água se colocássemos no tanque um objeto cujo volume fosse de 2 400 cm³?",
+    "imagens": [
+      "https://enem.dev/2012/questions/158/1f4ff459-e739-491b-abba-8350d8dd458b.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O nível subiria 0,2 cm, fazendo a água ficar com 20,2 cm de altura.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "O nível subiria 1 cm, fazendo a água ficar com 21 cm de altura.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "O nível subiria 2 cm, fazendo a água ficar com 22 cm de altura.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "O nível subiria 8 cm, fazendo a água transbordar.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "O nível subiria 20 cm, fazendo a água transbordar.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 158",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/158",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-159",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 159,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/159/4889b43a-36e3-4b29-91b2-ab87fda455d7.png)\n\nAvaliando-se todas as informações, serão necessários",
+    "imagens": [
+      "https://enem.dev/2012/questions/159/4889b43a-36e3-4b29-91b2-ab87fda455d7.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quatro unidades do tipo A e nenhuma unidade do tipo B.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Três unidades do tipo A e uma unidade do tipo B.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Duas unidades do tipo A e duas unidades do tipo B.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Uma unidade do tipo A e três unidades do tipo B.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma unidade do tipo A e quatro unidades do tipo B.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 159",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/159",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-160",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 160,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/160/c6742e65-6a0c-4579-b559-5327fa9d1a4c.png)\n\nNesta figura, os pontos A, B, C e D são pontos médios dos lados do quadrado e os segmentos AP e QC medem 1/4 da medida do lado do quadrado. Para confeccionar um vitral, são usados dois tipos de materiais: um para a parte sombreada da figura, que custa R$ 30,00 o m², e outro para a parte mais clara (regiões ABPDA e BCDQB), que custa R$ 50,00 o m².\n\nDe acordo com esses dados, qual é o custo dos materiais usados na fabricação de um vitral?",
+    "imagens": [
+      "https://enem.dev/2012/questions/160/c6742e65-6a0c-4579-b559-5327fa9d1a4c.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 22,50",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 35,00",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 40,00",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 42,50",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 45,00",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 160",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/160",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-161",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 161,
+    "area": "matematica",
+    "enunciado": "João decidiu contratar os serviços de uma empresa por telefone através do SAC (Serviço de Atendimento ao Consumidor). O atendente ditou para João o número de protocolo de atendimento da ligação e pediu que ele anotasse. Entretanto, João não entendeu um dos algarismos ditados pelo atendente e anotou o número 1 3 \\_ 9 8 2 0 7, sendo que o espaço vazio é o do algarismo que João não entendeu.\n\nDe acordo com essas informações, a posição ocupada pelo algarismo que falta no número de protocolo é a de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Centena.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Dezena de milhar.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Centena de milhar.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Milhão.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Centena de milhão.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H1",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 161",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/161",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-163",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 163,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/163/75b75570-0067-4c97-98b4-9742aaccb113.png)\n\nO gerente de atendimento deseja identificar os dias da semana em que o nível de eficiência pode ser considerado muito bom, ou seja, os dias em que o número de reclamações resolvidas excede o número de reclamações recebidas.\n\n_Disponível em: http://blog.bibliotecaunix.org. Acesso em: 21 jan. 2012 (adaptado)._\n\nO gerente de atendimento pôde concluir, baseado no conceito de eficiência utilizado na empresa e nas informações do gráfico, que o nível de eficiência foi muito bom na",
+    "imagens": [
+      "https://enem.dev/2012/questions/163/75b75570-0067-4c97-98b4-9742aaccb113.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segunda e na terça-feira.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Terça e na quarta-feira.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Terça e na quinta-feira.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Quinta-feira, no sábado e no domingo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Segunda, na quinta e na sexta-feira.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 163",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/163",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-165",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 165,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/165/3fbde9b0-ee25-43f8-8514-0b3b42bd2adc.png)\n\nO deslocamento descrito por João foi: mova-se pela pirâmide, sempre em linha reta, do ponto A ao ponto E, a seguir do ponto E ao ponto M, e depois de M a C.\n\nO desenho que Bruno deve fazer é",
+    "imagens": [
+      "https://enem.dev/2012/questions/165/3fbde9b0-ee25-43f8-8514-0b3b42bd2adc.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/165/8889758c-e418-4553-8e26-b602b0862a7e.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/165/38082c65-4727-4561-8ea3-0de04aa0346b.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/165/8b2481ca-b8ca-4958-8eec-be9f7ce78448.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/165/2adf001e-6960-46c9-91bc-fa1ca2b925f9.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/165/1332407d-5c97-49e1-b94a-2a46220809ac.png"
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H15",
+    "habilidade_origem": "heuristica",
+    "competencia": "C4",
+    "assuntos": [
+      "funcao-afim",
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 165",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/165",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-166",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 166,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/166/acff0d62-4e1d-4eb6-b58a-a91804ba997c.png)\n\nem que QO é quantidade de oferta, QD é a quantidade de demanda e P é o preço do produto.\n\nA partir dessas equações, de oferta e de demanda, os economistas encontram o preço de equilíbrio de mercado, ou seja, quando QO e QD se igualam.\n\nPara a situação descrita, qual o valor do preço de equilíbrio?",
+    "imagens": [
+      "https://enem.dev/2012/questions/166/acff0d62-4e1d-4eb6-b58a-a91804ba997c.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "11",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "13",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "23",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "33",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 166",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/166",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-167",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 167,
+    "area": "matematica",
+    "enunciado": "Nos shopping centers costumam existir parques com vários brinquedos e jogos. Os usuários colocam créditos em um cartão, que são descontados por cada período de tempo de uso dos jogos. Dependendo da pontuação da criança no jogo, ela recebe um certo número de tíquetes para trocar por produtos nas lojas dos parques. Suponha que o período de uso de um brinquedo em certo shopping custa R$ 3,00 e que uma bicicleta custa 9 200 tíquetes.\n\nPara uma criança que recebe 20 tíquetes por período de tempo que joga, o valor, em reais, gasto com créditos para obter a quantidade de tíquetes para trocar pela bicicleta é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "153.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "460.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 218.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1 380.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "3 066.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 167",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/167",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-168",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 168,
+    "area": "matematica",
+    "enunciado": "Dentre outros objetos de pesquisa, a Alometria estuda a relação entre medidas de diferentes partes do corpo humano. Por exemplo, segundo a Alometria, a área A da superfície corporal de uma pessoa relaciona-se com a sua massa m pela fórmula A = _k_⋅m2/3, em que _k_ é uma constante positiva.\n\nSe no período que vai da infância até a maioridade de um indivíduo sua massa é multiplicada por 8, por quanto será multiplicada a área da superfície corporal?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "∛16",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "√24",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "8",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "64",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 168",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/168",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-169",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 169,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/169/b957b116-b45b-4ac5-8ee8-3a2519ae6e1f.png)\n\nPara obter essas médias, ele multiplicou a matriz obtida a partir da tabela por",
+    "imagens": [
+      "https://enem.dev/2012/questions/169/b957b116-b45b-4ac5-8ee8-3a2519ae6e1f.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/169/ac49b2a2-c8b9-47db-aa0b-e3c194aa1553.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/169/f19cc62d-cb14-407a-bbd9-20d5c116cb11.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/169/07f396c3-1c1c-46aa-bbef-156e0aa6e668.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/169/943f11ff-0f7b-4ad1-8dea-915abf2ed0e7.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/169/c2bcaf1c-20e6-43b6-801f-19302b2260bb.png"
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "matrizes-sistemas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 169",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/169",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-170",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 170,
+    "area": "matematica",
+    "enunciado": "Existem no mercado chuveiros elétricos de diferentes potências, que representam consumos e custos diversos. A potência (P) de um chuveiro elétrico é dada pelo produto entre sua resistência elétrica (R) e o quadrado da corrente elétrica (i) que por ele circula. O consumo de energia elétrica (E), por sua vez, é diretamente proporcional à potência do aparelho.\n\nConsiderando as características apresentadas, qual dos gráficos a seguir representa a relação entre a energia consumida (E) por um chuveiro elétrico e a corrente elétrica (i) que circula por ele?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/170/715a4076-666c-46a9-ae05-2a83d355296e.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/170/4ac7fc20-5185-4cae-9a82-77ae7491d0ab.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/170/4c3ff5e4-57b9-480b-be2f-3753e095d212.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/170/d73bdaba-0aea-49f9-89e1-74929848eba9.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2012/questions/170/4680b091-1ae6-4487-a721-e8fcc1265f13.png"
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H16",
+    "habilidade_origem": "heuristica",
+    "competencia": "C4",
+    "assuntos": [
+      "regra-de-tres",
+      "razao-proporcao",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 170",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/170",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-171",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 171,
+    "area": "matematica",
+    "enunciado": "Em 20 de fevereiro de 2011 ocorreu a grande erupção do vulcão Bulusan nas Filipinas. A sua localização geográfica no globo terrestre é dada pelo GPS (sigla em inglês para Sistema de Posicionamento Global) com longitude de 124° 3’ 0” a leste do Meridiano de Greenwich.\n\nDado: 1° equivale a 60’ e 1’ equivale a 60”.\n\nPAVARIN, G. Galileu, fev. 2012 (adaptado).\n\nA representação angular da localização do vulcão com relação a sua longitude na forma decimal é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "124,02°.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "124,05°.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "124,20°.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "124,30°.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "124,50°.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade",
+      "numeros-operacoes"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 171",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/171",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-172",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 172,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/172/a1bd4967-d16c-4d09-b0c0-cd11524f5d94.png)\n\nCom base nessas informações, a menor distância que o asteroide YU 55 passou da superfície da Terra é igual a",
+    "imagens": [
+      "https://enem.dev/2012/questions/172/a1bd4967-d16c-4d09-b0c0-cd11524f5d94.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3,25 × 102 km.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,25 × 103 km.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3,25 × 104 km.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "3,25 × 105 km.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "3,25 × 106 km.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 172",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/172",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-173",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 173,
+    "area": "matematica",
+    "enunciado": "Há, em virtude da demanda crescente de economia de água, equipamentos e utensílios como, por exemplo, as bacias sanitárias ecológicas, que utilizam 6 litros de água por descarga em vez dos 15 litros utilizados por bacias sanitárias não ecológicas, conforme dados da Associação Brasileira de Normas Técnicas (ABNT).\n\nQual será a economia diária de água obtida por meio da substituição de uma bacia sanitária não ecológica, que gasta cerca de 60 litros por dia com a descarga, por uma bacia sanitária ecológica?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "24 litros",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "36 litros",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "40 litros",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "42 litros",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "50 litros",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 173",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/173",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-174",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 174,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/174/c9dc1c65-f17e-44ce-85fc-f4a36584a37f.png)\n\nUm investidor deseja comprar duas das empresas listadas na tabela. Para tal, ele calcula a média da receita bruta anual dos últimos três anos (de 2009 até 2011) e escolhe as duas empresas de maior média anual.\n\nAs empresas que este investidor escolhe comprar são",
+    "imagens": [
+      "https://enem.dev/2012/questions/174/c9dc1c65-f17e-44ce-85fc-f4a36584a37f.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Balas W e Pizzaria Y.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Chocolates X e Tecelagem Z.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Pizzaria Y e Alfinetes V.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Pizzaria Y e Chocolates X.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Tecelagem Z e Alfinetes V.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 174",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/174",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-175",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 175,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/175/8362025d-b302-483a-93b8-d628c12c46ae.png)\n\nUm paciente fez um exame de glicose nesse laboratório e comprovou que estava com hiperglicemia. Sua taxa de glicose era de 300 mg/dL. Seu médico prescreveu um tratamento em duas etapas. Na primeira etapa ele conseguiu reduzir sua taxa em 30% e na segunda etapa em 10%.\n\nAo calcular sua taxa de glicose após as duas reduções, o paciente verificou que estava na categoria de",
+    "imagens": [
+      "https://enem.dev/2012/questions/175/8362025d-b302-483a-93b8-d628c12c46ae.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipoglicemia.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Normal.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Pré-diabetes.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Diabetes melito.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperglicemia.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 175",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/175",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-176",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 176,
+    "area": "matematica",
+    "enunciado": "Um produtor de café irrigado em Minas Gerais recebeu um relatório de consultoria estatística, constando, entre outras informações, o desvio padrão das produções de uma safra dos talhões de sua propriedade. Os talhões têm a mesma área de 30 000 m² e o valor obtido para o desvio padrão foi de 90 kg/talhão. O produtor deve apresentar as informações sobre a produção e a variância dessas produções em sacas de 60 kg por hectare (10 000 m²).\n\nA variância das produções dos talhões expressa em (sacas/hectare)² é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20,25.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "4,50.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,71.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,50.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,25.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "grandezas-unidades-escalas",
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 176",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/176",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-177",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 177,
+    "area": "matematica",
+    "enunciado": "O _designer_ português Miguel Neiva criou um sistema de símbolos que permite que pessoas daltônicas identifiquem cores. O sistema consiste na utilização de símbolos que identificam as cores primárias (azul, amarelo e vermelho). Além disso, a justaposição de dois desses símbolos permite identificar cores secundárias (como o verde, que é o amarelo combinado com o azul). O preto e o branco são identificados por pequenos quadrados: o que simboliza o preto é cheio, enquanto o que simboliza o branco é vazio. Os símbolos que representam preto e branco também podem estar associados aos símbolos que identificam cores, significando se estas são claras ou escuras.\n\n_Folha de São Paulo. Disponível em: www1.folha.uol.com.br. Acesso em: 18 fev. 2012 (adaptado)._\n\nDe acordo com o texto, quantas cores podem ser representadas pelo sistema proposto?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "14",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "18",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "20",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "21",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "23",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 177",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/177",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-178",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 178,
+    "area": "matematica",
+    "enunciado": "José, Paulo e Antônio estão jogando dados não viciados, nos quais, em cada uma das seis faces, há um número de 1 a 6. Cada um deles jogará dois dados simultaneamente. José acredita que, após jogar seus dados, os números das faces voltadas para cima lhe darão uma soma igual a 7. Já Paulo acredita que sua soma será igual a 4 e Antônio acredita que sua soma será igual a 8.\n\nCom essa escolha, quem tem a maior probabilidade de acertar sua respectiva soma é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Antônio, já que sua soma é a maior de todas as escolhidas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "José e Antônio, já que há 6 possibilidades tanto para a escolha de José quanto para a escolha de Antônio, e há apenas 4 possibilidades para a escolha de Paulo.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "José e Antônio, já que há 3 possibilidades tanto para a escolha de José quanto para a escolha de Antônio, e há apenas 2 possibilidades para a escolha de Paulo.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "José, já que há 6 possibilidades para formar sua soma, 5 possibilidades para formar a soma de Antônio e apenas 3 possibilidades para formar a soma de Paulo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Paulo, já que sua soma é a menor de todas.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "analise-combinatoria",
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 178",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/178",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-179",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 179,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2012/questions/179/19738eb9-509c-4c48-8ea2-cd4ec4a9116c.png)\n\nCom base no gráfico, o valor da parte inteira da mediana dos empregos formais surgidos no período é",
+    "imagens": [
+      "https://enem.dev/2012/questions/179/19738eb9-509c-4c48-8ea2-cd4ec4a9116c.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "212 952.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "229 913.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "240 621.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "255 496.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "298 041.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 179",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/179",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2012-180",
+    "ano": 2012,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 180,
+    "area": "matematica",
+    "enunciado": "A cerâmica possui a propriedade da contração, que consiste na evaporação da água existente em um conjunto ou bloco cerâmico submetido a uma determinada temperatura elevada: em seu lugar aparecendo “espaços vazios” que tendem a se aproximar. No lugar antes ocupado pela água vão ficando lacunas e, consequentemente, o conjunto tende a retrair-se. Considere que no processo de cozimento a cerâmica de argila sofra uma contração, em dimensões lineares, de 20%.\n\n_Disponível em: www.arq.ufsc.br. Acesso em: 30 mar. 2012 (adaptado)._\n\nLevando em consideração o processo de cozimento e a contração sofrida, o volume V de uma travessa de argila, de forma cúbica de aresta a, diminui para um valor que é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20% menor que V, uma vez que o volume do cubo é diretamente proporcional ao comprimento de seu lado.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "36% menor que V, porque a área da base diminui de a2 para ((1 − 0,2)a)².",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "48,8% menor que V, porque o volume diminui de a3 para (0,8a)³.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "51,2% menor que V, porque cada lado diminui para 80% do comprimento original.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "60% menor que V, porque cada lado diminui 20%.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2012, 2º dia, caderno azul (aplicação regular), questão 180",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2012/questions/180",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  }
+]

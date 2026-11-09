@@ -1,0 +1,2566 @@
+[
+  {
+    "id": "enem-2023-136",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 136,
+    "area": "matematica",
+    "enunciado": "Um artista plástico esculpe uma escultura a partir de um bloco de madeira de lei, em etapas. Inicialmente, esculpe um cone reto com 36 cm de altura e diâmetro da base medindo 18 cm. Em seguida, remove desse cone um cone menor, cujo diâmetro da base mede 6 cm, obtendo, assim, um tronco de cone, conforme ilustrado na figura.\n\n![](https://enem.dev/2023/questions/136/565c2d5a-96a0-4468-9bb1-2710707a40fd.png)\n\nEm seguida, perfura esse tronco de cone, removendo um cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o mesmo do cone original. Dessa forma, ao final, a escultura tem a forma de um tronco de cone com uma perfuração cilíndrica de base a base.  \nO tipo de madeira utilizada para produzir essa escultura tem massa igual a 0,6 g por centímetro cúbico de volume. Utilize 3 como aproximação para π.\n\nQual é a massa, em grama, dessa escultura?",
+    "imagens": [
+      "https://enem.dev/2023/questions/136/565c2d5a-96a0-4468-9bb1-2710707a40fd.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.198,8",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1.296,0",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1.360,8",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.665,6",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "4.860,0",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 136",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/136",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-137",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 137,
+    "area": "matematica",
+    "enunciado": "Os 100 funcionários de uma empresa estão distribuídos em dois setores: Produção e Administração.\n\nOs funcionários de um mesmo setor recebem salários com valores iguais. O quadro apresenta a quantidade de funcionários por setor e seus respectivos salários.\n\n![](https://enem.dev/2023/questions/137/fc161c5c-10e9-46d8-a75d-09c59b21d5a4.png)\n\nA média dos salários dos 100 funcionários dessa empresa, em real, é",
+    "imagens": [
+      "https://enem.dev/2023/questions/137/fc161c5c-10e9-46d8-a75d-09c59b21d5a4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2.000,00.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.500,00.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.250,00.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.500,00.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "9.000,00.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 137",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/137",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-138",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 138,
+    "area": "matematica",
+    "enunciado": "Visando atrair mais clientes, o gerente de uma loja anunciou uma promoção em que cada cliente que realizar uma compra pode ganhar um voucher para ser usado em sua próxima compra. Para ganhar seu voucher, o cliente precisa retirar, ao acaso, uma bolinha de dentro de cada uma das duas urnas A e B disponibilizadas pelo gerente, nas quais há apenas bolinhas pretas e brancas. Atualmente, a probabilidade de se escolher, ao acaso, uma bolinha preta na urna A é igual a 20% e a probabilidade de se escolher uma bolinha preta na urna B é 25%. Ganha o voucher o cliente que retirar duas bolinhas pretas, uma de cada urna.\n\nCom o passar dos dias, o gerente percebeu que, para a promoção ser viável aos negócios, era preciso alterar a probabilidade de acerto do cliente sem alterar a regra da promoção. Para isso, resolveu alterar a quantidade de bolinhas brancas na urna B de forma que a probabilidade de um cliente ganhar o voucher passasse a ser menor ou igual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e que, em ambas as urnas, todas as bolinhas têm a mesma probabilidade de serem retiradas.\n\nQual é o número mínimo de bolinhas brancas que o gerente deve adicionar à urna B?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "60",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "64",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "68",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "80",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 138",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/138",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-139",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 139,
+    "area": "matematica",
+    "enunciado": "O gerente de uma fábrica pretende comparar a evolução das vendas de dois produtos similares (I e II). Para isso, passou a verificar o número de unidades vendidas de cada um desses produtos em cada mês. Os resultados dessa verificação, para os meses de abril a junho, são apresentados na tabela.\n\n![](https://enem.dev/2023/questions/139/abba5cb1-da9d-4899-bda7-97099ca51147.png)\n\nO gerente estava decidido a cessar a produção do produto II no mês seguinte àquele em que as vendas do produto I superassem as do produto II.  \nSuponha que a variação na quantidade de unidades vendidas dos produtos I e II se manteve, mês a mês, como no período representado na tabela.\n\nEm qual mês o produto II parou de ser produzido?",
+    "imagens": [
+      "https://enem.dev/2023/questions/139/abba5cb1-da9d-4899-bda7-97099ca51147.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Junho.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Julho.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Agosto.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Setembro.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Outubro.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 139",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/139",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-140",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 140,
+    "area": "matematica",
+    "enunciado": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até aquele instante do dia.\n\n![](https://enem.dev/2023/questions/140/846c1155-c9f0-48ad-a862-f9bf883c3935.png)\n\nComparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas pelos motoristas cadastrados nessa empresa, obtém-se",
+    "imagens": [
+      "https://enem.dev/2023/questions/140/846c1155-c9f0-48ad-a862-f9bf883c3935.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mediana = média < moda.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Mediana = moda < média.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mediana < média < moda.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Moda < média < mediana.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Moda < mediana < média.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 140",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/140",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-141",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 141,
+    "area": "matematica",
+    "enunciado": "Qual a probabilidade de o vencedor do sorteio ser um estudante do terceiro ano?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/141/e698edb1-adc0-416b-9370-c20a7e878259.jpg"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/141/b5f5bdf5-2251-4326-9877-ce9c2d831600.jpg"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/141/d241fadb-6516-4ca8-aa9b-e72fff314881.jpg"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/141/1dcce683-4ef7-4862-b554-3e3c66de54c3.jpg"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/141/7b4de18d-92ca-488f-8419-ec95d852a135.jpg"
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 141",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/141",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-142",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 142,
+    "area": "matematica",
+    "enunciado": "Qual é a quantidade mínima de água, em litro, que cada morador, em média, deverá economizar por dia, de modo que o reservatório não fique sem água nos próximos 10 dias?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "50",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "60",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "80",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "140",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "150",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 142",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/142",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-143",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 143,
+    "area": "matematica",
+    "enunciado": "Em janeiro do ano passado, a direção de uma fábrica abriu uma creche para os filhos de seus funcionários, com 10 salas, cada uma com capacidade para atender 10 crianças a cada ano. As vagas são sorteadas entre os filhos dos funcionários inscritos, enquanto os não contemplados pelo sorteio formam uma lista de espera. No ano passado, a lista de espera teve 400 nomes e, neste ano, esse número cresceu 10%. A direção da fábrica realizou uma pesquisa e constatou que a lista de espera para o próximo ano terá a mesma quantidade de nomes da lista de espera deste ano. Decidiu, então, construir, ao longo desse ano, novas salas para a creche, também com capacidade de atendimento para 10 crianças cada, de modo que o número de nomes na lista de espera no próximo ano seja 25% menor que o deste ano.\n\nO número mínimo de salas que deverão ser construídas é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "11",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "12",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "30",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "33",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial",
+      "porcentagem",
+      "razao-proporcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 143",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/143",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-144",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 144,
+    "area": "matematica",
+    "enunciado": "A foto mostra a construção de uma cisterna destinada ao armazenamento de água. Uma cisterna como essa, na forma de cilindro circular reto com 3 m² de área da base, foi abastecida por um curso-d’água com vazão constante. O seu proprietário registrou a altura do nível da água no interior da cisterna durante o abastecimento em diferentes momentos de um mesmo dia, conforme o quadro.\n\n![](https://enem.dev/2023/questions/144/c606403f-fd10-4c02-8e46-736fece94b85.png)\n\n![](https://enem.dev/2023/questions/144/2107cabc-64d0-4a1f-9eab-fa7dce0e9ac2.png)\n\nDisponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.\n\nQual foi a vazão, em metro cúbico por hora, do curso-d’água que abasteceu a cisterna?",
+    "imagens": [
+      "https://enem.dev/2023/questions/144/c606403f-fd10-4c02-8e46-736fece94b85.png",
+      "https://enem.dev/2023/questions/144/2107cabc-64d0-4a1f-9eab-fa7dce0e9ac2.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,3",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,5",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,9",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,8",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2,7",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 144",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/144",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-145",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 145,
+    "area": "matematica",
+    "enunciado": "Num certo momento de um jogo digital, a tela apresenta a imagem representada na figura. O ponto Q1 representa a posição de um jogador que está com a bola, os pontos Q2, Q3, Q4 , Q5 e Q6  \ntambém indicam posições de jogadores da mesma equipe, e os pontos A e B indicam os dois pés da trave mais próxima deles. No momento da partida retratado, o jogador Q1 tem a posse da bola, que será passada para um dos outros jogadores das posições Qn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQnB tenha a mesma medida do ângulo AQ1 B.\n\n![](https://enem.dev/2023/questions/145/f338280e-33fe-4896-b296-cfb94ca78430.png)\n\nQual é o jogador que receberá a bola?",
+    "imagens": [
+      "https://enem.dev/2023/questions/145/f338280e-33fe-4896-b296-cfb94ca78430.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/145/b794885b-0519-4e72-87e0-93de02461252.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/145/57b5461f-1924-4599-9914-4b148b722d7c.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/145/d7e46a12-9912-4fad-8d9d-225859b42312.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/145/7a03bf64-9ae1-4137-924d-e1c6110fd1a3.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/145/5be53460-7a9a-4138-8d62-ac01b26993d6.png"
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 145",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/145",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-146",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 146,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2023/questions/146/74e0c851-b2af-410d-9f19-3348dd8f883a.jpg)\n\nConsidere que os números colocados nos vértices do triângulo estejam em progressão aritmética de razão igual a 2.\nNas condições propostas, quais as possíveis soluções para as somas dos números que formam os lados do triângulo?",
+    "imagens": [
+      "https://enem.dev/2023/questions/146/74e0c851-b2af-410d-9f19-3348dd8f883a.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 9.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 7 e outra em que as somas são iguais a 9.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 146",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/146",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-147",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 147,
+    "area": "matematica",
+    "enunciado": "Alguns estudos comprovam que os carboidratos fornecem energia ao corpo, preservam as proteínas estruturais dos músculos durante a prática de atividade física e ainda dão força para o cérebro coordenar os movimentos, o que de fato tem impacto positivo no desenvolvimento do praticante. O ideal é consumir 1 grama de carboidrato para cada minuto de caminhada.\nCIRINO, C. Boa pergunta: consumir carboidratos antes dos exercícios melhora o desempenho do atleta? Revista Saúde! É Vital, n. 330, nov. 2010 (adaptado).\nUm casal realizará diariamente 30 minutos de caminhada, ingerindo, antes dessa atividade, a quantidade ideal de carboidratos recomendada. Para ter o consumo ideal apenas por meio do consumo de pão de fôrma integral, o casal planeja garantir o suprimento de pães para um período de 30 dias ininterruptos. Sabe-se que cada pacote desse pão vem com 18 fatias, e que cada uma delas tem 15 gramas de carboidratos.\nA quantidade mínima de pacotes de pão de fôrma necessários para prover o suprimento a esse casal é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "6",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "7",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "8",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "razao-proporcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 147",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/147",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-150",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 150,
+    "area": "matematica",
+    "enunciado": "Dirigir após ingerir bebidas alcoólicas é uma atitude extremamente perigosa, uma vez que, a partir da primeira dose, a pessoa já começa a ter perda de sensibilidade de movimentos e de reflexos. Apesar de a eliminação e absorção do álcool depender de cada pessoa e de como o organismo consegue metabolizar a substância, ao final da primeira hora após a ingestão, a concentração de álcool (C) no sangue corresponde a aproximadamente 90% da quantidade (q) de álcool ingerida, e a eliminação total dessa concentração pode demorar até 12 horas.\n\nDisponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado).\n\nNessas condições, ao final da primeira hora após a ingestão da quantidade q de álcool, a concentração C dessa substância no sangue é expressa algebricamente por",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "C = 0,9q",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "C = 0,1q",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "C = 1 − 0,1q",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "C = 1 − 0,9q",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "C = q − 10",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 150",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/150",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-151",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 151,
+    "area": "matematica",
+    "enunciado": "Um investidor iniciante observou o gráfico que apresenta a evolução dos valores de duas criptomoedas A e B em relação ao tempo.\n\n![](https://enem.dev/2023/questions/151/276495a3-e5f2-4e4c-83b0-3473512a5274.png)\n\nDurante horas consecutivas, esses valores foram observados em nove instantes, representados por horas exatas.\n\nEm quantos desses instantes a criptomoeda A estava mais valorizada do que a criptomoeda B?",
+    "imagens": [
+      "https://enem.dev/2023/questions/151/276495a3-e5f2-4e4c-83b0-3473512a5274.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "6",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "7",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "9",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 151",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/151",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-152",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 152,
+    "area": "matematica",
+    "enunciado": "A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível _N_ de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo ![](https://enem.dev/2023/questions/152/30b0ee85-ac44-4eca-a7c9-54bd70f9c069.png), _I_ a intensidade do som e ![](https://enem.dev/2023/questions/152/40f43a4f-f8da-44a9-a02c-f20ba89a48ce.png).\n\nDisponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).\n\nQuando o som é considerado baixo, ou seja, _N_ = 48 dB ou menos, deve ser utilizada a medida preventiva I. No caso de o som ser moderado, quando _N_ está no intervalo (48 dB, 55 dB), deve ser utilizada a medida preventiva II. Quando o som é moderado alto, que equivale a _N_ no intervalo (55 dB, 80 dB), a medida preventiva a ser usada é a III. Se _N_ estiver no intervalo (80 dB, 115 dB), quando o som é considerado alto, deve ser utilizada a medida preventiva IV. E se o som é considerado muito alto, com _N_ maior que 115 dB, deve-se utilizar a medida preventiva V.  \nUma nova máquina, com ![](https://enem.dev/2023/questions/152/13f26008-1dcf-404f-b3cf-aae104a036c1.png), foi adquirida e será classificada de acordo com o nível de ruído que produz.  \nConsidere 0,3 como aproximação para ![](https://enem.dev/2023/questions/152/717fdd2f-5eef-48c9-9211-8f62bdb2639c.png).\n\nO funcionário que operará a nova máquina deverá adotar a medida preventiva",
+    "imagens": [
+      "https://enem.dev/2023/questions/152/30b0ee85-ac44-4eca-a7c9-54bd70f9c069.png",
+      "https://enem.dev/2023/questions/152/40f43a4f-f8da-44a9-a02c-f20ba89a48ce.png",
+      "https://enem.dev/2023/questions/152/13f26008-1dcf-404f-b3cf-aae104a036c1.png",
+      "https://enem.dev/2023/questions/152/717fdd2f-5eef-48c9-9211-8f62bdb2639c.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H20",
+    "habilidade_origem": "heuristica",
+    "competencia": "C5",
+    "assuntos": [
+      "leitura-grafico-funcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 152",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/152",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-155",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 155,
+    "area": "matematica",
+    "enunciado": "Na planta baixa de um clube, a piscina é representada por um quadrado cuja área real mede 400 m². Ao redor dessa piscina, será construída uma calçada, de largura constante igual a 5 m.\n\n![](https://enem.dev/2023/questions/155/05746583-c107-4dd6-8a3b-7e7d0da99377.png)\n\nQual é a medida da área, em metro quadrado, ocupada pela calçada?",
+    "imagens": [
+      "https://enem.dev/2023/questions/155/05746583-c107-4dd6-8a3b-7e7d0da99377.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.000",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "900",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "600",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "500",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "400",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 155",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/155",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-156",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 156,
+    "area": "matematica",
+    "enunciado": "Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu celular para monitorar a variação da intensidade do sinal de internet recebido pelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo forneceu este gráfico:\n\n![](https://enem.dev/2023/questions/156/e9e0b793-5535-48e6-87c6-5516e6d7c8cd.png)\n\nPor quantos minutos, durante essa caminhada, o celular dessa pessoa ficou sem receber sinal de internet?",
+    "imagens": [
+      "https://enem.dev/2023/questions/156/e9e0b793-5535-48e6-87c6-5516e6d7c8cd.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "8",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "10",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "14",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "24",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 156",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/156",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-157",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 157,
+    "area": "matematica",
+    "enunciado": "Um professor, para promover a aprendizagem dos estudantes em estatística, propôs uma atividade. O objetivo era verificar o percentual de estudantes com massa corporal abaixo da média e altura acima da média de um grupo de estudantes. Para isso, usando uma balança e uma fita métrica, avaliou uma amostra de dez estudantes, anotando as medidas observadas. O gráfico apresenta a massa corporal, em quilograma, e a altura, em metro, obtidas na atividade\n\n![](https://enem.dev/2023/questions/157/13cfbc97-0034-4904-9100-ff5ca3f6504e.png)\n\nApós a coleta dos dados, os estudantes calcularam a média dos valores obtidos, referentes à massa corporal e à altura, obtendo, respectivamente, 80 kg e 1,65 m.\n\nQual é o percentual de estudantes dessa amostra com massa corporal abaixo da média e altura acima da média?",
+    "imagens": [
+      "https://enem.dev/2023/questions/157/13cfbc97-0034-4904-9100-ff5ca3f6504e.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "20",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "30",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "50",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "70",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "porcentagem",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 157",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/157",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-158",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 158,
+    "area": "matematica",
+    "enunciado": "Um pescador tem um custo fixo diário de R$ 900,00 com combustível, iscas, manutenção de seu barco e outras pequenas despesas. Ele vende cada quilograma de peixe por R$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00 por dia. Sozinho, ele consegue, ao final de um dia de trabalho, pescar 180 kg de peixe, o que é suficiente apenas para cobrir o custo fixo diário. Portanto, precisa contratar ajudantes, pagando para cada um R$ 250,00 por dia de trabalho. Além desse valor, 4%dareceita obtida pela venda de peixe é repartida igualmente entre os ajudantes. Considerando o tamanho de seu barco, ele pode contratar até 5 ajudantes. Ele sabe que com um ajudante a pesca diária é de 300 kg e que, a partir do segundo ajudante contratado, aumenta-se em 100 kg a quantidade de peixe pescada por ajudante em um dia de trabalho.\n\nA quantidade mínima de ajudantes que esse pescador precisa contratar para conseguir o lucro diário pretendido é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 158",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/158",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-159",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 159,
+    "area": "matematica",
+    "enunciado": "Um agricultor é informado sobre um método de proteção para sua lavoura que consiste em inserir larvas específicas, de rápida reprodução. A reprodução dessas larvas faz com que sua população multiplique-se por 10 a cada 3 dias e, para evitar eventuais desequilíbrios, é possível cessar essa reprodução aplicando-se um produto X. O agricultor decide iniciar esse método com 100 larvas e dispõe de 5 litros do produto X, cuja aplicação recomendada é de exatamente 1 litro para cada população de 200 000 larvas. A quantidade total do produto X de que ele dispõe deverá ser aplicada de uma única vez.\n\nQuantos dias após iniciado esse método o agricultor deverá aplicar o produto X?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "6",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "12",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "18",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "razao-proporcao",
+      "grandezas-unidades-escalas",
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 159",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/159",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-160",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 160,
+    "area": "matematica",
+    "enunciado": "Ao realizar o cadastro em um aplicativo de investimentos, foi solicitado ao usuário que criasse uma senha, sendo permitido o uso somente dos seguintes caracteres:\n\n• algarismos de 0 a 9;\n\n• 26 letras minúsculas do alfabeto;\n\n• 26 letras maiúsculas do alfabeto;\n\n• 6 caracteres especiais !, @, #, $, \\*, &.\n\nTrês tipos de estruturas para senha foram apresentadas ao usuário:\n\n• tipo I: formada por quaisquer quatro caracteres distintos, escolhidos dentre os permitidos;\n\n• tipo II: formada por cinco caracteres distintos, iniciando por três letras, seguidas por um algarismo e, ao final, um caractere especial;\n\n• tipo III: formada por seis caracteres distintos, iniciando por duas letras, seguidas por dois algarismos e, ao final, dois caracteres especiais.\n\nConsidere ![](https://enem.dev/2023/questions/160/a2d565c2-f39f-4b43-b261-087e349850fe.png) as probabilidades de se descobrirem ao acaso, na primeira tentativa, as senhas dos tipos I, II e III, respectivamente.\n\nNessas condições, o tipo de senha que apresenta a menor probabilidade de ser descoberta ao acaso, na primeira tentativa, é o",
+    "imagens": [
+      "https://enem.dev/2023/questions/160/a2d565c2-f39f-4b43-b261-087e349850fe.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tipo I, pois p1 < p2 < p3.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Tipo I, pois tem menor quantidade de caracteres.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Tipo II, pois tem maior quantidade de letras.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Tipo III, pois p3 < p2 < p1",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Tipo III, pois tem maior quantidade de caracteres.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "analise-combinatoria",
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 160",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/160",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-161",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 161,
+    "area": "matematica",
+    "enunciado": "Uma loja vende seus produtos de duas formas: à vista ou financiado em três parcelas mensais iguais. Para definir o valor dessas parcelas nas vendas financiadas, a loja aumenta em 20% o valor do produto à vista e divide esse novo valor por 3. A primeira parcela deve ser paga no ato da compra, e as duas últimas, em 30 e 60 dias após a compra.\n\nUm cliente da loja decidiu comprar, de forma financiada, um produto cujo valor à vista é R$ 1 500,00.\n\nUtilize 5,29 como aproximação para 28.\n\nA taxa mensal de juros compostos praticada nesse financiamento é de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6,7%",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "10%",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "20%",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "21,5%",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "23,3%",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "matematica-financeira",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 161",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/161",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-162",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 162,
+    "area": "matematica",
+    "enunciado": "Para concretar a laje de sua residência, uma pessoa contratou uma construtora. Tal empresa informa que o preço _y_ do concreto bombeado é composto de duas partes: uma fixa, chamada de taxa de bombeamento, e uma variável, que depende do volume _x_ de concreto utilizado. Sabe-se que a taxa de bombeamento custa R$ 500,00 e que o metro cúbico do concreto bombeado é de R$ 250,00.\n\nA expressão que representa o preço y em função do volume x, em metro cúbico, é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Y = 250x",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Y = 500x",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Y = 750x",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Y = 250x + 500",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Y = 500x + 250",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial",
+      "porcentagem",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 162",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/162",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-163",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 163,
+    "area": "matematica",
+    "enunciado": "Uma empresa de segurança domiciliar oferece o serviço de patrulha noturna, no qual vigilantes em motocicletas fazem o monitoramento periódico de residências. A empresa conta com uma base, de onde acompanha o trajeto realizado pelos vigilantes durante as patrulhas e orienta o deslocamento de equipes de reforço quando necessário. Numa patrulha rotineira, sem ocorrências, um vigilante conduziu sua motocicleta a uma velocidade constante durante todo o itinerário estabelecido, levando 30 minutos para conclusão. De acordo com os registros do GPS alocado na motocicleta, a distância da posição do vigilante à base, ao longo do tempo de realização do trajeto, é descrita pelo gráfico.\n\n![](https://enem.dev/2023/questions/163/ff0caefb-56e7-4c17-bae7-b65b91037e9c.png)\n\nA vista superior da trajetória realizada pelo vigilante durante a patrulha registrada no gráfico é descrita pela representação",
+    "imagens": [
+      "https://enem.dev/2023/questions/163/ff0caefb-56e7-4c17-bae7-b65b91037e9c.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/163/71c51165-c400-4d10-bb4b-c03ed19ff5ad.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/163/e04c3016-712a-4e6b-a9e5-be3505a57d41.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/163/1706f84a-c72a-48c1-982b-708ed91bcc8a.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/163/d49e3db4-31ee-4123-9a19-599e0b473503.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/163/7f6e3bbf-ef4c-4a6f-9fdb-407513158e78.png"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "matematica-financeira"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 163",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/163",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-164",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 164,
+    "area": "matematica",
+    "enunciado": "O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização, uma já está completamente imunizada, a dos trabalhadores da saúde.\n\n![](https://enem.dev/2023/questions/164/194cf28a-b40d-493d-b106-8f71aee57f51.png)\n\nÉpoca, 26 abr. 2010 (adaptado).\n\nDe acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-H1N1 é a categoria de",
+    "imagens": [
+      "https://enem.dev/2023/questions/164/194cf28a-b40d-493d-b106-8f71aee57f51.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indígenas.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Gestantes.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Doentes crônicos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Adultos entre 20 e 29 anos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Crianças de 6 meses a 2 anos.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 164",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/164",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-165",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 165,
+    "area": "matematica",
+    "enunciado": "A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas.\n\n![](https://enem.dev/2023/questions/165/bf369224-eb93-4bba-98c4-ff7d1e17df36.png)\n\nNessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos lados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.\n\nA área a ser revestida em cerâmica, em metro quadrado, mede",
+    "imagens": [
+      "https://enem.dev/2023/questions/165/bf369224-eb93-4bba-98c4-ff7d1e17df36.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,20.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,35.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,65.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,80.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "1,95.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 165",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/165",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-166",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 166,
+    "area": "matematica",
+    "enunciado": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte de seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que apresenta o número de horas diárias por atividade.\n\n![](https://enem.dev/2023/questions/166/80863c14-e426-4ae6-9ff0-03f5b3c71160.png)\n\nEla deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades físicas  praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h) são os seguintes:\n\n![](https://enem.dev/2023/questions/166/e3d70b62-2929-4694-ba58-cf45c0ac1374.png)\n\nO dia da semana em que será comemorado o aniversário é",
+    "imagens": [
+      "https://enem.dev/2023/questions/166/80863c14-e426-4ae6-9ff0-03f5b3c71160.png",
+      "https://enem.dev/2023/questions/166/e3d70b62-2929-4694-ba58-cf45c0ac1374.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segunda-feira.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Terça-feira.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Quarta-feira.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Quinta-feira.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Sexta-feira.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 166",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/166",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-167",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 167,
+    "area": "matematica",
+    "enunciado": "A cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número de alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos matriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos. A diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel ofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um desconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre.\n\nO desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(5,0 ; 5,5).",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "(8,0 ; 8,5).",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "(11,5 ; 12,5).",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "(19,5 ; 20,5).",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "(3,5 ; 4,0).",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "razao-proporcao",
+      "porcentagem",
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 167",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/167",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-168",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 168,
+    "area": "matematica",
+    "enunciado": "Em um colégio público, a admissão no primeiro ano se dá por sorteio. Neste ano há 55 candidatos, cujas inscrições são numeradas de 01 a 55. O sorteio de cada número de inscrição será realizado em etapas, utilizando-se duas urnas. Da primeira urna será sorteada uma bola, dentre bolas numeradas de 0 a 9, que representará o algarismo das unidades do número de inscrição a ser sorteado e, em seguida, da segunda urna, será sorteada uma bola para representar o algarismo das dezenas desse número. Depois do primeiro sorteio, e antes de se sortear o algarismo das dezenas, as bolas que estarão presentes na segunda urna serão apenas aquelas cujos números formam, com o algarismo já sorteado, um número de 01 a 55.\n\nAs probabilidades de os candidatos de inscrição número 50 e 02 serem sorteados são, respectivamente,",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/168/a5689a77-7cbd-4f5f-b548-eef2a3fee87f.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/168/67248715-8948-439d-9770-a652c76ac110.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/168/4d9a67e0-9136-42e4-855e-c72b0b876d28.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/168/24184847-9c76-40d3-9c78-44a35f0600e8.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/168/adeb932f-030f-4190-9b20-33a4a5f968f5.png"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 168",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/168",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-169",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 169,
+    "area": "matematica",
+    "enunciado": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo ![](https://enem.dev/2023/questions/169/76239f15-d46d-4067-bb38-bb40ca2f87c0.png) a intensidade na sua superfície.\n\n![](https://enem.dev/2023/questions/169/3af229c8-e385-4ca2-891a-22bdf6b2d593.png)\n\nConsidere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.\n\nA intensidade luminosa correspondente à profundidade de 6 m é igual a",
+    "imagens": [
+      "https://enem.dev/2023/questions/169/76239f15-d46d-4067-bb38-bb40ca2f87c0.png",
+      "https://enem.dev/2023/questions/169/3af229c8-e385-4ca2-891a-22bdf6b2d593.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/169/0ad62fa9-ccdd-40b7-95e6-024319a5c9bc.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/169/74afb699-867b-4b47-8fa9-9c0fddd6db14.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/169/23fe5ab4-dc1d-4693-8a62-c17abdd5c5cb.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/169/9394f679-b291-4e10-9384-b1f2c2dba975.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/169/5037e73b-aa7f-43fd-baa8-4f70d9f0f498.png"
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "razao-proporcao",
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 169",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/169",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-170",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 170,
+    "area": "matematica",
+    "enunciado": "Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão ![](https://enem.dev/2023/questions/170/369b24e4-258e-4faf-b7df-0c2e3da3c22a.png) , em que os valores de x representam os dias do mês, variando de 1 a 30.\n\nUm dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário ![](https://enem.dev/2023/questions/170/b158b079-eaf5-4f8c-84b1-99db8076a950.png) arrecadado ao longo do mês e classificar o desempenho conforme as categorias apresentadas a seguir, em que as quantidades estão expressas em milhar de real.\n\n![](https://enem.dev/2023/questions/170/e7404490-a2b4-46e1-b1e6-3a8c828050fe.png)\n\nNo caso analisado, qual seria a classificação do desempenho da empresa?",
+    "imagens": [
+      "https://enem.dev/2023/questions/170/369b24e4-258e-4faf-b7df-0c2e3da3c22a.png",
+      "https://enem.dev/2023/questions/170/b158b079-eaf5-4f8c-84b1-99db8076a950.png",
+      "https://enem.dev/2023/questions/170/e7404490-a2b4-46e1-b1e6-3a8c828050fe.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ótimo.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Bom.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Normal.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Ruim.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Péssimo.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "matematica-financeira"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 170",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/170",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-171",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 171,
+    "area": "matematica",
+    "enunciado": "O calendário maia apresenta duas contagens simultâneas de anos, o chamado ano Tzolkim, composto por 260 dias e que determinava o calendário religioso, e o ano Haab, composto por 365 dias e que determinava o calendário agrícola. Um historiador encontrou evidências de que gerações de uma mesma família governaram certa comunidade maia pelo período de 20 ciclos, sendo cada ciclo formado por 52 anos Haab.\n\nDisponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.\n\nDe acordo com as informações fornecidas, durante quantos anos Tzolkim aquela comunidade maia foi governada por tal família?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "741",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 040",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 460",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2 100",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5 200",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 171",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/171",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-172",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 172,
+    "area": "matematica",
+    "enunciado": "Sejam _a_, _b_ e _c_ as medidas dos lados de um triângulo retângulo, tendo a como medida da hipotenusa. Esses valores _a_, _b_ e _c_ são, respectivamente, os diâmetros dos círculos _C1_ , _C2_ e _C3_, como apresentados na figura.\n\n![](https://enem.dev/2023/questions/172/dcdd2743-6ad6-44e8-94ae-d2adec3a3400.png)\n\nObserve que essa construção assegura, pelo teorema de Pitágoras, que área (C1) = área (C2) + área (C3).\n\nUm professor de matemática era conhecedor dessa construção e, confraternizando com dois amigos em uma pizzaria onde são vendidas pizzas somente em formato de círculo, lançou um desafio: mesmo sem usar um instrumento de medição, poderia afirmar com certeza se a área do círculo correspondente à pizza que ele pedisse era maior, igual ou menor do que a soma das áreas das pizzas dos dois amigos. Assim, foram pedidas três pizzas. O professor as dividiu ao meio e formou um triângulo com os diâmetros das pizzas, conforme indicado na figura.\n\n![](https://enem.dev/2023/questions/172/8bd02f79-d5fb-4b8d-9321-c57434be3374.png)\n\nA partir da medida do ângulo a, o professor afirmou que a área de sua pizza é maior do que a soma das áreas das outras duas pizzas.\n\nA área da pizza do professor de matemática é maior do que a soma das áreas das outras duas pizzas, pois",
+    "imagens": [
+      "https://enem.dev/2023/questions/172/dcdd2743-6ad6-44e8-94ae-d2adec3a3400.png",
+      "https://enem.dev/2023/questions/172/8bd02f79-d5fb-4b8d-9321-c57434be3374.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0° < a < 90°",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "A = 90°",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "90° < a < 180°",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "A = 180°",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "180° < a < 360°",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 172",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/172",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-173",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 173,
+    "area": "matematica",
+    "enunciado": "Entre maratonistas, um parâmetro utilizado é o de economia de corrida (EC). O valor desse parâmetro é calculado pela razão entre o consumo de oxigênio, em mililitro (mL) por minuto (min), e a massa, em quilograma (kg), do atleta correndo a uma velocidade constante.\n\nDisponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado).\n\nUm maratonista, visando melhorar sua performance, auxiliado por um médico, mensura o seu consumo de oxigênio por minuto a velocidade constante. Com base nesse consumo e na massa do atleta, o médico calcula o EC do atleta.\nA unidade de medida da grandeza descrita pelo parâmetro EC é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/173/58763f45-39e0-4355-b932-75233adbdf21.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/173/81adc538-3ad2-4ced-9a2f-9a7f5f247c20.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/173/5d5d774d-009d-44a6-a774-55719c5547bf.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/173/3464da35-f15a-4506-b75a-168a26ff4664.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/173/146d0f23-94de-4fd7-ae01-2d31285103d3.png"
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 173",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/173",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-175",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 175,
+    "area": "matematica",
+    "enunciado": "O metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos em cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e uma cartela de tíquetes vermelhos são vendidas por R$ 32,40. Sabe-se que o preço de um tíquete azul menos o preço de um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos.\n\nQual o preço, em real, de uma cartela de tíquetes vermelhos?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4,68",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "6,30",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "9,30",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "10,50",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "10,65",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 175",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/175",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-176",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 176,
+    "area": "matematica",
+    "enunciado": "Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.\n\n![](https://enem.dev/2023/questions/176/d21e916b-a5fc-441e-b782-d2d4aca3522b.png)\n\nO oitavo número pentagonal é",
+    "imagens": [
+      "https://enem.dev/2023/questions/176/d21e916b-a5fc-441e-b782-d2d4aca3522b.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "59",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "83",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "86",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "89",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "92",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 176",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/176",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-177",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 177,
+    "area": "matematica",
+    "enunciado": "A figura ilustra uma roda-gigante no exato instante em que a cadeira onde se encontra a pessoa P está no ponto mais alto dessa roda-gigante.\n\n![](https://enem.dev/2023/questions/177/27c49bd5-ad8c-450c-9f56-970b9ca9c53c.png)\n\nCom o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P, em relação ao solo, vai se alterando.\n\nO gráfico que melhor representa a variação dessa altura, em função do tempo, contado a partir do instante em que a cadeira da pessoa P se encontra na posição mais alta da roda-gigante, é",
+    "imagens": [
+      "https://enem.dev/2023/questions/177/27c49bd5-ad8c-450c-9f56-970b9ca9c53c.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/177/3837d9d0-2ff6-49d7-affa-9bb60aacb00a.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/177/262c33a1-0c7b-494c-9bd4-92d308154b59.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/177/b9b5c23e-3ae9-4f92-9500-a1bda3ed5638.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/177/03cd2618-be50-4803-b159-da8033fdeb8d.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/177/0624eace-e934-40dc-895c-a505c0c9f183.png"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H20",
+    "habilidade_origem": "heuristica",
+    "competencia": "C5",
+    "assuntos": [
+      "leitura-grafico-funcao",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 177",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/177",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-178",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 178,
+    "area": "matematica",
+    "enunciado": "Estudantes trabalhando com robótica criaram uma “torneira inteligente” que automatiza sua abertura e seu fechamento durante a limpeza das mãos. A tecnologia funciona da seguinte forma: ao se colocarem as mãos sob a torneira, ela libera água durante 3 segundos para que a pessoa possa molhá-las. Em seguida, interrompe o fornecimento de água por 5 segundos, enquanto a pessoa ensaboa suas mãos, e finaliza o ciclo liberando água para o enxágue por mais 3 segundos. Considere o tempo (_t_), em segundo, contado a partir do instante em que se inicia o ciclo. A vazão de água nessa torneira é constante.\n\nUm esboço de gráfico que descreve o volume de água acumulado, em litro, liberado por essa torneira durante um ciclo de lavagem das mãos, em função do tempo (t), em segundo, é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/178/ad5cc202-0c4f-44fb-aa1a-ec86c2f86da4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/178/c3b0946f-0e59-4928-858d-3f0a8887fb80.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/178/f9e8ae9f-c9d6-4b83-9376-55b5ecba8a38.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/178/46326c50-0f0b-42cf-a1d5-65299d39a4fd.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2023/questions/178/7ebc0f53-95db-497b-bc23-30cf64649c3a.png"
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 178",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/178",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-179",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 179,
+    "area": "matematica",
+    "enunciado": "As características culturais variam de povo para povo. Há notícias de um povo que possuía formas de contar diferentes das nossas, como indicado no quadrinho a seguir.\n\n![](https://enem.dev/2023/questions/179/d2b83dd3-33ef-40d6-944a-b98d17f6411b.png)\n\nSegundo o padrão de contagem indicado na figura, as representações dos numerais cinco e sete, nessa cultura, devem ser, respectivamente,",
+    "imagens": [
+      "https://enem.dev/2023/questions/179/d2b83dd3-33ef-40d6-944a-b98d17f6411b.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Okosa urapum urapum urapum e okosa okosa urapum urapum urapum.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Okosa okosa urapum e okosa okosa okosa okosa urapum.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Okosa okosa urapum e okosa okosa okosa urapum.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Okosa urapum urapum e okosa urapum okosa urapum urapum.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Okosa okosa urapum e okosa okosa okosa okosa.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 179",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/179",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2023-180",
+    "ano": 2023,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 180,
+    "area": "matematica",
+    "enunciado": "Um tipo de semente necessita de bastante água nos dois primeiros meses após o plantio. Um produtor pretende estabelecer o melhor momento para o plantio desse tipo de semente, nos meses de outubro a março. Após consultar a previsão do índice mensal de precipitação de chuva (ImPC) da região onde ocorrerá o plantio, para o período chuvoso de 2020-2021, ele obteve os seguintes dados:  \n• outubro/2020: ImPC = 250 mm;  \n• novembro/2020: ImPC = 150 mm;  \n• dezembro/2020: ImPC = 200 mm;  \n• janeiro/2021: ImPC = 450 mm;  \n• fevereiro/2021: ImPC = 100 mm;  \n• março/2021: ImPC = 200 mm.\n\nCom base nessas previsões, ele precisa escolher dois meses consecutivos em que a média mensal de precipitação seja a maior possível.\n\nNo início de qual desses meses o produtor deverá plantar esse tipo de semente?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Outubro.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Novembro.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Dezembro.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Janeiro.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Fevereiro.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2023, 2º dia, caderno azul (aplicação regular), questão 180",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2023/questions/180",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  }
+]

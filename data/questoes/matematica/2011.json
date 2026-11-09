@@ -1,0 +1,2407 @@
+[
+  {
+    "id": "enem-2011-136",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 136,
+    "area": "matematica",
+    "enunciado": "Para colocar o pistão no motor que está sendo consertado, o dono da oficina terá de adquirir aquele que tenha o diâmetro mais próximo do que precisa.\n\nNessa condição, o dono da oficina deverá comprar o pistão de diâmetro",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "68,21 mm.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "68,102 mm.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "68,02 mm.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "68,012 mm.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "68,001 mm.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 136",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/136",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-137",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 137,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/137/71b536bf-1542-490f-96b7-6da5a37e0c08.png)\n\nOnde M0 é o momento sísmico (usualmente estimado a partir dos registros de movimento da superfície, através dos sismogramas), cuja unidade é o dina⋅cm. O terremoto de Kobe, acontecido no dia 17 de janeiro de 1995, foi um dos terremotos que causaram maior impacto no Japão e na comunidade científica internacional. Teve magnitude MW = 7,3.\n\n**U.S. GEOLOGICAL SURVEY**. Historic Earthquakes.  \nDisponível em: http://earthquake.usgs.gov. Acesso em: 1 maio 2010 (adaptado).\n\nMostrando que é possível determinar a medida por meio de conhecimentos matemáticos, qual foi o momento sísmico M0",
+    "imagens": [
+      "https://enem.dev/2011/questions/137/71b536bf-1542-490f-96b7-6da5a37e0c08.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10-5,10",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "10-0,73",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1012,00",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1021,65",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "1027,00",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 137",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/137",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-138",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 138,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/138/5a4afd15-b676-441f-8758-76185e535a3e.png)\n\nAo optar pelas medidas a e b em metros, obtêm-se, respectivamente,",
+    "imagens": [
+      "https://enem.dev/2011/questions/138/5a4afd15-b676-441f-8758-76185e535a3e.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,23 e 0,16.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2,3 e 1,6.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "23 e 16.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "230 e 160.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2 300 e 1 600.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 138",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/138",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-139",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 139,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/139/4b2c1448-7e79-415c-bd68-55a615705b89.png)\n\nA medida é expressa em kWh. O número obtido na leitura é composto por 4 algarismos. Cada posição do número é formada pelo último algarismo ultrapassado pelo ponteiro.\n\nO número obtido pela leitura em kWh, na imagem, é",
+    "imagens": [
+      "https://enem.dev/2011/questions/139/4b2c1448-7e79-415c-bd68-55a615705b89.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2 614.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2 624.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2 715.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2 725.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "4 162.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H1",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 139",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/139",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-140",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 140,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/140/63404fc2-7491-4ee5-9975-d0c6857dd37a.png)\n\nPara optar pelo terreno de maior área, que atenda às restrições impostas pela prefeitura, os moradores deverão escolher o terreno.",
+    "imagens": [
+      "https://enem.dev/2011/questions/140/63404fc2-7491-4ee5-9975-d0c6857dd37a.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 140",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/140",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-141",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 141,
+    "area": "matematica",
+    "enunciado": "– Enquanto você fala ao telefone, faça agachamentos: 100 calorias gastas em 20 minutos.  \n– Meia hora de supermercado: 100 calorias.  \n– Cuidar do jardim por 30 minutos: 200 calorias.  \n– Passear com o cachorro: 200 calorias em 30 minutos.  \n– Tirar o pó dos móveis: 150 calorias em 30 minutos.  \n– Lavar roupas por 30 minutos: 200 calorias.\n\nDisponível em: http://cyberdiet.terra.com.br. Acesso em: 27 abr. 2010 (adaptado).\n\nUma pessoa deseja executar essas atividades, porém, ajustando o tempo para que, em cada uma, gaste igualmente 200 calorias.\n\nA partir dos ajustes, quanto tempo a mais será necessário para realizar todas as atividades?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "50 minutos.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "60 minutos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "80 minutos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "120 minutos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "170 minutos.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 141",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/141",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-142",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 142,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/142/29f02ac4-b2ab-4397-b8f4-de763ed2079f.png)\n\nEm relação à temperatura, os valores da média, mediana e moda são, respectivamente, iguais a",
+    "imagens": [
+      "https://enem.dev/2011/questions/142/29f02ac4-b2ab-4397-b8f4-de763ed2079f.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "17°C, 17°C e 13,5°C.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "17°C, 18°C e 13,5°C.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "17°C, 13,5°C e 18°C.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "17°C, 18°C e 21,5°C.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "17°C, 13,5°C e 21,5°C.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 142",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/142",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-143",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 143,
+    "area": "matematica",
+    "enunciado": "Para uma atividade realizada no laboratório de Matemática, um aluno precisa construir uma maquete da quadra de esportes da escola que tem 28 m de comprimento por 12 m de largura. A maquete deverá ser construída na escala de 1 : 250.\n\nQue medidas de comprimento e largura, em cm, o aluno utilizará na construção da maquete?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4,8 e 11,2",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "7,0 e 3,0",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "11,2 e 4,8",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "28,0 e 12,0",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "30,0 e 70,0",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 143",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/143",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-144",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 144,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/144/d0e4d3d7-dfa0-48c0-81a7-03193a5dfea2.png)\n\nOs pontos A, B, C, D e O do cubo e da pirâmide são os mesmos. O ponto O é central na face superior do cubo. Os quatro cortes saem de O em direção às arestas _AD_, _BC_, _AB_ e _CD_, nessa ordem. Após os cortes, são descartados quatro sólidos.\n\nOs formatos dos sólidos descartados são",
+    "imagens": [
+      "https://enem.dev/2011/questions/144/d0e4d3d7-dfa0-48c0-81a7-03193a5dfea2.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todos iguais.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Todos diferentes.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Três iguais e um diferente.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas dois iguais.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Iguais dois a dois.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 144",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/144",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-145",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 145,
+    "area": "matematica",
+    "enunciado": "O consumo atingiu o maior nível da história no ano passado: os brasileiros beberam o equivalente a 331 bilhões de xícaras.\n\nVeja. Ed. 2158, 31 mar. 2010.\n\nConsidere que a xícara citada na notícia seja equivalente a, aproximadamente, 120 mL de café. Suponha que em 2010 os brasileiros bebam ainda mais café, aumentando o consumo em 1/5 do que foi consumido no ano anterior.\n\nDe acordo com essas informações, qual a previsão mais aproximada para consumo de café em 2010?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8 bilhões de litros.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "16 bilhões de litros.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "32 bilhões de litros.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "40 bilhões de litros.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "48 bilhões de litros.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 145",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/145",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-146",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 146,
+    "area": "matematica",
+    "enunciado": "Sabe-se que a distância real, em linha reta, de uma cidade A, localizada no estado de São Paulo, a uma cidade B, localizada no estado de Alagoas, é igual a 2 000 km. Um estudante, ao analisar um mapa, verificou com sua régua que a distância entre essas duas cidades, A e B, era 8 cm.\n\nOs dados nos indicam que o mapa observado pelo estudante está na escala de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 : 250.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 : 2 500.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 : 25 000.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1 : 250 000.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "1 : 25 000 000.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 146",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/146",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-148",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 148,
+    "area": "matematica",
+    "enunciado": "Em 2010, um caos aéreo afetou o continente europeu, devido à quantidade de fumaça expelida por um vulcão na Islândia, o que levou ao cancelamento de inúmeros voos.\n\nCinco dias após o início desse caos, todo o espaço aéreo europeu acima de 6 000 metros estava liberado, com exceção do espaço aéreo da Finlândia. Lá, apenas voos internacionais acima de 31 mil pés estavam liberados.\n\nDisponível em: http://www1.folha.uol.com.br. Acesso em: 21 abr. 2010 (adaptado).\n\nConsidere que 1 metro equivale a aproximadamente 3,3 pés.\n\nQual a diferença, em pés, entre as altitudes liberadas na Finlândia e no restante do continente europeu cinco dias após o início do caos?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 390 pés",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "9 390 pés",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "11 200 pés",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "19 800 pés",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "50 800 pés",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 148",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/148",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-150",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 150,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/150/881d187f-8906-4aa8-a941-220a57000731.png)\n\nA reta de equação y = x + 4 representa o planejamento do percurso da linha do metrô subterrâneo que atravessará o bairro e outras regiões da cidade. No ponto P = (-5, 5), localiza-se um hospital público. A comunidade solicitou ao comitê de planejamento que fosse prevista uma estação do metrô de modo que sua distância ao hospital, medida em linha reta, não fosse maior que 5 km.\nAtendendo ao pedido da comunidade, o comitê argumentou corretamente que isso seria automaticamente satisfeito, pois já estava prevista a construção de uma estação no ponto.",
+    "imagens": [
+      "https://enem.dev/2011/questions/150/881d187f-8906-4aa8-a941-220a57000731.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(–5, 0).",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "(–3, 1).",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "(–2, 1).",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "(0, 4).",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "(2, 6).",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "funcao-afim"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 150",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/150",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-154",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 154,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/154/10f8a6b9-37c7-4d75-99dd-24b07602b503.png)\n\nEm relação às edições de 2005 a 2009 da OBMEP, qual o percentual médio de medalhistas de ouro da região Nordeste?",
+    "imagens": [
+      "https://enem.dev/2011/questions/154/10f8a6b9-37c7-4d75-99dd-24b07602b503.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "14,6%",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "18,2%",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "18,4%",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "19,0%",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "21,0%",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 154",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/154",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-155",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 155,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/155/815b3733-1da7-4631-adc8-21e12190790b.png)\n\nSuponha que o navegante tenha medido o ângulo α = 30°  e, ao chegar ao ponto B, verificou que o barco havia percorrido a distância AB = 2 000 m.\n\nCom base nesses dados e mantendo a mesma trajetória, a menor distância do barco até o ponto fixo P será",
+    "imagens": [
+      "https://enem.dev/2011/questions/155/815b3733-1da7-4631-adc8-21e12190790b.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 000 m.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 000 √3 m.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2 000 √3/3 m.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2 000 m",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2 000 √3 m.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 155",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/155",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-156",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 156,
+    "area": "matematica",
+    "enunciado": "O saldo de contratações no mercado formal no setor varejista da região metropolitana de São Paulo registrou alta. Comparando as contratações deste setor no mês de fevereiro com as de janeiro deste ano, houve incremento de 4 300 vagas no setor, totalizando 880 605 trabalhadores com carteira assinada.\n\nDisponível em: http://www.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).\n\nConsiderando-se que y e x representam, respectivamente, as quantidades de trabalhadores no setor varejista e os meses, janeiro sendo o primeiro, fevereiro, o segundo, e assim por diante, a expressão algébrica que relaciona essas quantidades nesses meses é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Y = 4 300x",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Y = 884 905x",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Y = 872 005 + 4 300x",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Y = 876 305 + 4 300x",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Y = 880 605 + 4 300x",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H15",
+    "habilidade_origem": "heuristica",
+    "competencia": "C4",
+    "assuntos": [
+      "funcao-afim",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 156",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/156",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-158",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 158,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/158/1780f953-427b-4344-9cc8-3fc8908f62b0.png)\n\nConsidere dois consumidores: um que é de baixa renda e gastou 100 kWh e outro do tipo residencial que gastou 185 kWh.\n\nA diferença entre o gasto desses consumidores com 1kWh, depois da redução da tarifa de energia, mais aproximada, é de",
+    "imagens": [
+      "https://enem.dev/2011/questions/158/1780f953-427b-4344-9cc8-3fc8908f62b0.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 0,27.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 0,29.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 0,32.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 0,34.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 0,61.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 158",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/158",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-159",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 159,
+    "area": "matematica",
+    "enunciado": "O prefeito de uma cidade deseja construir uma rodovia para dar acesso a outro município. Para isso, foi aberta uma licitação na qual concorreram duas empresas. A primeira cobrou R$ 100 000,00 por km construído (n), acrescidos de um valor fixo de R$ 350 000,00, enquanto a segunda cobrou R$ 120 000,00 por km construído (n) acrescido de um valor fixo de R$ 150  000,00. As duas empresas apresentam o mesmo padrão de qualidade dos serviços prestados, mas apenas uma delas poderá ser contratada.\n\nDo ponto de vista econômico, qual equação possibilitaria encontrar a extensão da rodovia que tornaria indiferente para a prefeitura escolher qualquer uma das propostas apresentadas?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "100n + 350 = 120n + 150",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "100n + 150 = 120n + 350",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "100(n + 350) = 120(n + 150)",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "100(n + 350 000) = 120(n + 150 000)",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "350(n + 100 000) = 150(n + 120 000)",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H15",
+    "habilidade_origem": "heuristica",
+    "competencia": "C4",
+    "assuntos": [
+      "funcao-afim",
+      "grandezas-unidades-escalas",
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 159",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/159",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-160",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 160,
+    "area": "matematica",
+    "enunciado": "Uma pessoa aplicou certa quantia em ações. No primeiro mês, ela perdeu 30% do total do investimento e, no segundo mês, recuperou 20% do que havia perdido. Depois desses dois meses, resolveu tirar o montante de R$ 3 800,00 gerado pela aplicação.\n\nA quantia inicial que essa pessoa aplicou em ações corresponde ao valor de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 4 222,22.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 4 523,80.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 5 000,00.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "D R$ 13 300,00.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 17 100,00.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem",
+      "grandezas-unidades-escalas",
+      "matematica-financeira"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 160",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/160",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-161",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 161,
+    "area": "matematica",
+    "enunciado": "Cerca de 20 milhões de brasileiros vivem na região coberta pela caatinga, em quase 800 mil km² de área. Quando não chove, o homem do sertão e dua família precisam caminhar quilômetros em busca da água dos açudes. A irregularidade climática é um dos fatores que mais interferem na vida do sertanejo.\n\nDisponível em: http://www.wwf.org.br. Acesso em: 23 abr. 2010.\n\nSegundo este levantamento, a densidade demográfica da região coberta pela caatinga, em habitantes por km², é de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "250.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "25.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,5.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,25.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,025.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 161",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/161",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-162",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 162,
+    "area": "matematica",
+    "enunciado": "O número mensal de passagens de uma determinada empresa aérea aumentou no ano passado nas seguintes condições: em janeiro foram vendidas 33 000 passagens; em fevereiro, 34 500; em março, 36 000. Esse padrão de crescimento se mantém para os meses subsequentes.\n\nQuantas passagens foram vendidas por essa empresa em julho do ano passado?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "38 000",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "40 500",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "41 000",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "42 000",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "48 000",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau",
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 162",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/162",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-163",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 163,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/163/1712d7cd-309a-4383-970a-51e8310d5882.png)\n\nEscolhendo, aleatoriamente, uma das outras regiões para morar, a probabilidade de ele escolher uma região que seja adequada às recomendações médicas é",
+    "imagens": [
+      "https://enem.dev/2011/questions/163/1712d7cd-309a-4383-970a-51e8310d5882.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/5",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1/4",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2/5",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "3/5",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "3/4",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 163",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/163",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-164",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 164,
+    "area": "matematica",
+    "enunciado": "Muitas medidas podem ser tomadas em nossas casas visando à utilização racional de energia elétrica. Isso deve ser uma atitude diária de cidadania. Uma delas pode ser a redução do tempo no banho. Um chuveiro com potência de 4 800 W consome 4,8 kW por hora.\n\nUma pessoa que toma dois banhos diariamente, de 10 minutos cada, consumirá, em sete dias, quantos kW?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,8",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,6",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "5,6",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "11,2",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "33,6",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "progressao-geometrica",
+      "grandezas-unidades-escalas",
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 164",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/164",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-165",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 165,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/165/9f872841-f893-4cc4-bd7c-3356d7d73f0e.png)\n\nSe os atletas partissem do mesmo ponto, dando uma volta completa, em qual das raias o corredor estaria sendo beneficiado?",
+    "imagens": [
+      "https://enem.dev/2011/questions/165/9f872841-f893-4cc4-bd7c-3356d7d73f0e.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "5",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "7",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "8",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 165",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/165",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-166",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 166,
+    "area": "matematica",
+    "enunciado": "Nos últimos cinco anos, 32 mil mulheres de 20 a 24 anos foram internadas nos hospitais do SUS por causa de AVC. Entre os homens da mesma faixa etária, houve 28 mil internações pelo mesmo motivo.\n\n**Época**.26 abr. 2010 (adaptado).\n\nSupondo que, nos próximos cinco anos, haja um acréscimo de 8 mil internações de mulheres e que o acréscimo de internações de homens por AVC ocorra na mesma proporção.\n\nDe acordo com as informações dadas, o número de homens que seriam internados por AVC, nos próximos cinco anos, corresponderia a",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4 mil.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "9 mil.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "21 mil.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "35 mil.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "39 mil.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "razao-proporcao",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 166",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/166",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-167",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 167,
+    "area": "matematica",
+    "enunciado": "É possível usar água ou comida para atrair as aves e observá-las. Muitas pessoas costumam usar água com açúcar, por exemplo, para atrair beija-flores. Mas é importante saber que, na hora de fazer a mistura, você deve sempre usar uma parte de açúcar para cinco  partes de água. Além disso, em dias quentes, precisa trocar a água de duas a três vezes, pois com o calor ela pode fermentar e, se for ingerida pela ave, pode deixá-la doente. O excesso de açúcar, ao cristalizar, também pode manter o bico da ave fechado, impedindo-a de se alimentar. Isso pode até matá-la.\n\n**Ciência Hoje das Crianças**. FNDE; Instituto Ciência Hoje, ano 19, n.166, mar.1996\n\nPretende-se encher completamente um copo com a mistura para atrais beija-flores.\n\nO copo tem formato cilíndrico, e suas medidas são 10 cm de altura e 4 cm de diâmetro. A quantidade de água que deve ser utilizada na mistura é cerca de (utilize π = 3)",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20 mL.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "24 mL.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "100 mL.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "120 mL.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "600 mL.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas",
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 167",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/167",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-168",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 168,
+    "area": "matematica",
+    "enunciado": "Em um jogo disputado em uma mesa de sinuca, há 16 bolas: 1 branca e 15 coloridas, as quais, de acordo com a coloração, valem de 1 a 15 pontos (um valor para cada bola colorida).\n\nO jogador acerta o taco na bola branca de forma que esta acerte as outras, com o objetivo de acertar duas das quinze bolas em quaisquer caçapas. Os valores dessas duas bolas são somados e devem resultar em um valor escolhido pelo jogador antes do início da jogada.\n\nArthur, Bernardo e Caio escolhem os números 12, 17 e 22 como sendo resultados de suas respectivas somas.\n\nCom essa escolha, quem tem a maior probabilidade de ganhar o jogo é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Arthur, pois a soma que escolheu é a menor.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 4 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Caio, pois há 10 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 8 possibilidades para a escolha de Bernardo.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Caio, pois a soma que escolheu é a maior.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau",
+      "probabilidade",
+      "analise-combinatoria"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 168",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/168",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-169",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 169,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/169/138c3e55-cb8f-43d0-8303-23e8a9f9686f.png)\n\nNo quadro é apresentada a Escala de Índice de Massa Corporal com as respectivas categorias relacionadas aos pesos.\n\n![](https://enem.dev/2011/questions/169/4546f26f-0929-46e6-9960-fe66371e66a7.png)\n\nA partir dos dados biométricos de Duílio e Sandra e da Escala de IMC, o valor IMC e a categoria em que cada uma das pessoas se posiciona na Escala são",
+    "imagens": [
+      "https://enem.dev/2011/questions/169/138c3e55-cb8f-43d0-8303-23e8a9f9686f.png",
+      "https://enem.dev/2011/questions/169/4546f26f-0929-46e6-9960-fe66371e66a7.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Duílio tem o IMC 26,7 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Duílio tem o IMC 27,3 e Sandra tem o IMC 29,1estando ambos na categoria de sobrepeso.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Duílio tem o IMC 27,3 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Duílio tem o IMC 25,6, estando na categoria de sobrepeso, e Sandra tem o IMC 24,7, estando na categoria de peso normal.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Duílio tem o IMC 25,1, estando na categoria de sobrepeso, e Sandra tem o IMC 22,6, estando na categoria de peso normal.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 169",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/169",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-170",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 170,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/170/038f43e1-f843-49af-bdcd-da787662784d.png)\n\nEscolhendo-se aleatoriamente uma pessoa atendida nesse posto de vacinação, a probabilidade de ela ser portadora de doença crônica é",
+    "imagens": [
+      "https://enem.dev/2011/questions/170/038f43e1-f843-49af-bdcd-da787662784d.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8%.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "9%.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "11%.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "12%.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "22%.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem",
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 170",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/170",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-172",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 172,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/172/4e50e4d6-244a-45ad-8eae-0d21b0a2090e.png)\n\nIniciando a revisão pelo ponto K e terminando em F, sem passar mais de uma vez por cada ponto, o caminho será passando pelos pontos",
+    "imagens": [
+      "https://enem.dev/2011/questions/172/4e50e4d6-244a-45ad-8eae-0d21b0a2090e.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "K, I e F.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "K, J, I, G, L e F.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "K, L, G, I, J, H e F.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "K, J, H, I, G, L e F.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "K, L, G, I, H, J e F.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 172",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/172",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-173",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 173,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/173/2001a836-e42e-40a0-9858-00d6ac482132.png)\n\nEsse gráfico foi usado em uma palestra na qual o orador ressaltou uma queda da participação do agronegócio no PIB brasileiro e a posterior recuperação dessa participação, em termos percentuais.\n\nSegundo o gráfico, o período de queda ocorreu entre os anos de",
+    "imagens": [
+      "https://enem.dev/2011/questions/173/2001a836-e42e-40a0-9858-00d6ac482132.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1998 e 2001",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2001 e 2003",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2003 e 2006",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2003 e 2007",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2003 e 2008",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 173",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/173",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-174",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 174,
+    "area": "matematica",
+    "enunciado": "O setor de recursos humanos de uma empresa vai realizar uma entrevista com 120 candidatos a uma vaga de contador. Por sorteio, eles pretendem atribuir a cada candidato um número, colocar a lista de números em ordem numérica crescente e usá-la para convocar  \nos interessados. Acontece que, por um defeito do computador, foram gerados números com 5 algarismos distintos e, em nenhum deles, apareceram dígitos pares.\n\nEm razão disso, a ordem de chamada do candidato que tiver recebido o número 75 913 é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "24",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "31",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "32",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "88",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "89",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "razao-proporcao",
+      "probabilidade",
+      "analise-combinatoria"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 174",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/174",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-175",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 175,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/175/f947e93f-407e-43ed-be49-e43e523aee48.png)\n\nAnalisando os dados do gráfico, quantos internautas responderam “NÃO” à enquete?",
+    "imagens": [
+      "https://enem.dev/2011/questions/175/f947e93f-407e-43ed-be49-e43e523aee48.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Menos de 23.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Mais de 23 e menos de 25.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mais de 50 e menos de 75.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Mais de 100 e menos de 190.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Mais de 200.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 175",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/175",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-176",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 176,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/176/af44af53-d3de-470e-8beb-fc679278e63f.png)\n\nSe tomarmos uma estrela que tenha temperatura 5 vezes maior que a temperatura do Sol, qual será a ordem de grandeza de sua luminosidade?",
+    "imagens": [
+      "https://enem.dev/2011/questions/176/af44af53-d3de-470e-8beb-fc679278e63f.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20 000 vezes a luminosidade do Sol.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "28 000 vezes a luminosidade do Sol.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "28 850 vezes a luminosidade do Sol.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "30 000 vezes a luminosidade do Sol.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "50 000 vezes a luminosidade do Sol.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H1",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 176",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/176",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-177",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 177,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/177/3c240114-2bf9-4fc0-a3a7-2c480b27b238.png)\n\nPara escolher o investimento com a maior rentabilidade anual, essa pessoa deverá",
+    "imagens": [
+      "https://enem.dev/2011/questions/177/3c240114-2bf9-4fc0-a3a7-2c480b27b238.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Escolher qualquer um dos investimentos A, B ou C, pois as suas rentabilidades anuais são iguais a 36%.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Escolher os investimentos A ou C, pois suas rentabilidades anuais são iguais a 39%.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Escolher o investimento A, pois a sua rentabilidade anual é maior que as rentabilidades anuais dos investimentos B e C.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Escolher o investimento B, pois sua rentabilidade de 36% é maior que as rentabilidades de 3% do investimento A e de 18% do investimento C.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Escolher o investimento C, pois sua rentabilidade de 39% ao ano é maior que a rentabilidade de 36% ao ano dos investimentos A e B.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 177",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/177",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-178",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 178,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2011/questions/178/eaed6fd4-dacb-43e7-87ab-33f40ac3efba.png)\n\nConsiderando-se S como a resistência, a representação algébrica que exprime essa relação é",
+    "imagens": [
+      "https://enem.dev/2011/questions/178/eaed6fd4-dacb-43e7-87ab-33f40ac3efba.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "S = k . b . d",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "S = b . d²",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "S = k . b . d²",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "S = (k . b)/d",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "S = (k . d²)/b",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 178",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/178",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-179",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 179,
+    "area": "matematica",
+    "enunciado": "Uma empresa de telefone fixa oferece dois planos aos seus clientes: no plano K, o cliente paga R$ 29,90 por  200 minutos mensais e R$ 0,20 por cada minuto excedente; no plano Z, paga R$ 49,90 por 300 minutos mensais e R$ 0,10 por cada minuto excedente.\n\nO gráfico que representa o valor pago, em reais, nos dois planos em função dos minutos utilizados é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2011/questions/179/433b6b47-1dce-4ea0-9776-2b3740985df2.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2011/questions/179/ec7e7857-fd93-4ba2-ac72-a86af3feb3de.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2011/questions/179/b244cafb-d3e4-4e73-9377-ed74b129890c.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2011/questions/179/108be4dc-5c66-4214-8524-c5f5c32e2dab.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2011/questions/179/949bee07-2abc-4dfc-8b47-1e012203652e.png"
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "leitura-grafico-funcao",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 179",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/179",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2011-180",
+    "ano": 2011,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 180,
+    "area": "matematica",
+    "enunciado": "Uma indústria fabrica um único tipo de produto e sempre vende tudo o que produz. O custo total para fabricar uma quantidade _q_ de produtos é dado por uma função, simbolizada por CT, enquanto o faturamento que a empresa obtém com a venda da quantidade _q_ também é uma função, simbolizada por FT. O lucro total (LT) obtido pela venda da quantidade q de produtos é dado pela expressão LT(q) = FT(q) – CT(q).\n\nConsiderando-se as funções FT(q) = 5q e CT(q) = 2q + 12 como faturamento e custo, qual a quantidade mínima de produtos que a indústria terá de fabricar para não ter prejuízo?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "5",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2011, 2º dia, caderno azul (aplicação regular), questão 180",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2011/questions/180",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": true,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  }
+]

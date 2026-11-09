@@ -1,0 +1,528 @@
+{
+  "gerado_em": "2026-11-09T06:06:29Z",
+  "fontes": {
+    "texto": "INEP (provas oficiais do ENEM), transcrição comunitária via https://api.enem.dev/v1",
+    "tri_habilidade": "INEP, microdados do ENEM (ITENS_PROVA_{ano}.csv)",
+    "matriz": "INEP, Matriz de Referência do ENEM"
+  },
+  "anos": {
+    "2009": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 42,
+      "n_com_tri": 0,
+      "n_com_imagem": 22,
+      "n_enunciado_vazio": 1,
+      "n_sem_assunto": 5,
+      "numeros_faltantes": [
+        140,
+        157,
+        166
+      ]
+    },
+    "2010": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 45,
+      "n_com_tri": 0,
+      "n_com_imagem": 34,
+      "n_enunciado_vazio": 0,
+      "n_sem_assunto": 4,
+      "numeros_faltantes": []
+    },
+    "2011": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 38,
+      "n_com_tri": 0,
+      "n_com_imagem": 21,
+      "n_enunciado_vazio": 0,
+      "n_sem_assunto": 5,
+      "numeros_faltantes": [
+        147,
+        149,
+        151,
+        152,
+        153,
+        157,
+        171
+      ]
+    },
+    "2012": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 42,
+      "n_com_tri": 0,
+      "n_com_imagem": 27,
+      "n_enunciado_vazio": 2,
+      "n_sem_assunto": 6,
+      "numeros_faltantes": [
+        140,
+        162,
+        164
+      ]
+    },
+    "2013": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 42,
+      "n_com_tri": 0,
+      "n_com_imagem": 30,
+      "n_enunciado_vazio": 3,
+      "n_sem_assunto": 14,
+      "numeros_faltantes": [
+        152,
+        155,
+        180
+      ]
+    },
+    "2014": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 45,
+      "n_com_tri": 0,
+      "n_com_imagem": 28,
+      "n_enunciado_vazio": 17,
+      "n_sem_assunto": 15,
+      "numeros_faltantes": []
+    },
+    "2015": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 42,
+      "n_com_tri": 0,
+      "n_com_imagem": 25,
+      "n_enunciado_vazio": 12,
+      "n_sem_assunto": 14,
+      "numeros_faltantes": [
+        145,
+        177,
+        179
+      ]
+    },
+    "2016": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 45,
+      "n_com_tri": 0,
+      "n_com_imagem": 31,
+      "n_enunciado_vazio": 13,
+      "n_sem_assunto": 12,
+      "numeros_faltantes": []
+    },
+    "2017": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 43,
+      "n_com_tri": 0,
+      "n_com_imagem": 34,
+      "n_enunciado_vazio": 3,
+      "n_sem_assunto": 4,
+      "numeros_faltantes": [
+        141,
+        146
+      ]
+    },
+    "2018": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 42,
+      "n_com_tri": 0,
+      "n_com_imagem": 27,
+      "n_enunciado_vazio": 0,
+      "n_sem_assunto": 1,
+      "numeros_faltantes": [
+        136,
+        140,
+        142
+      ]
+    },
+    "2019": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 44,
+      "n_com_tri": 0,
+      "n_com_imagem": 25,
+      "n_enunciado_vazio": 0,
+      "n_sem_assunto": 2,
+      "numeros_faltantes": [
+        141
+      ]
+    },
+    "2020": {
+      "descartadas_enemdev": [],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 40,
+      "n_com_tri": 0,
+      "n_com_imagem": 32,
+      "n_enunciado_vazio": 0,
+      "n_sem_assunto": 1,
+      "numeros_faltantes": [
+        144,
+        150,
+        152,
+        168,
+        179
+      ]
+    },
+    "2021": {
+      "descartadas_enemdev": [
+        {
+          "numero": 94,
+          "motivo": "fora do intervalo 136–180 (provável erro de disciplina na transcrição)"
+        },
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 42,
+      "n_com_tri": 0,
+      "n_com_imagem": 29,
+      "n_enunciado_vazio": 0,
+      "n_sem_assunto": 2,
+      "numeros_faltantes": [
+        138,
+        140,
+        149
+      ]
+    },
+    "2022": {
+      "descartadas_enemdev": [
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 44,
+      "n_com_tri": 0,
+      "n_com_imagem": 27,
+      "n_enunciado_vazio": 0,
+      "n_sem_assunto": 4,
+      "numeros_faltantes": [
+        144
+      ]
+    },
+    "2023": {
+      "descartadas_enemdev": [
+        {
+          "numero": 128,
+          "motivo": "fora do intervalo 136–180 (provável erro de disciplina na transcrição)"
+        },
+        {
+          "numero": 129,
+          "motivo": "fora do intervalo 136–180 (provável erro de disciplina na transcrição)"
+        },
+        {
+          "numero": 130,
+          "motivo": "fora do intervalo 136–180 (provável erro de disciplina na transcrição)"
+        },
+        {
+          "numero": 131,
+          "motivo": "fora do intervalo 136–180 (provável erro de disciplina na transcrição)"
+        },
+        {
+          "numero": 132,
+          "motivo": "fora do intervalo 136–180 (provável erro de disciplina na transcrição)"
+        },
+        {
+          "numero": 150,
+          "motivo": "duplicata idêntica na API"
+        }
+      ],
+      "inep": {
+        "disponivel": false,
+        "casado": false,
+        "co_prova": null,
+        "cor": null,
+        "taxa_gabarito": null,
+        "n_com_tri": 0,
+        "n_divergentes": 0,
+        "observacao": "microdados do INEP não disponíveis no cache (download falhou ou não foi executado); tri = null"
+      },
+      "n_curadas": 0,
+      "n_questoes": 40,
+      "n_com_tri": 0,
+      "n_com_imagem": 27,
+      "n_enunciado_vazio": 3,
+      "n_sem_assunto": 0,
+      "numeros_faltantes": [
+        148,
+        149,
+        153,
+        154,
+        174
+      ]
+    }
+  },
+  "totais": {
+    "anos_cobertos": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "n_questoes": 636,
+    "n_com_tri": 0,
+    "n_curadas": 0,
+    "n_com_imagem": 419,
+    "n_enunciado_vazio": 54,
+    "n_sem_assunto": 89,
+    "habilidade_origem": {
+      "heuristica": 547,
+      "nenhuma": 89
+    },
+    "por_assunto": {
+      "grandezas-unidades-escalas": 135,
+      "geometria-plana": 116,
+      "graficos-tabelas": 104,
+      "porcentagem": 95,
+      "geometria-espacial": 88,
+      "equacao-1-grau": 81,
+      "estatistica-basica": 59,
+      "probabilidade": 58,
+      "razao-proporcao": 48,
+      "analise-combinatoria": 28,
+      "sequencias-pa": 25,
+      "leitura-grafico-funcao": 18,
+      "numeros-operacoes": 17,
+      "funcao-afim": 17,
+      "matematica-financeira": 17,
+      "progressao-geometrica": 7,
+      "geometria-analitica": 5,
+      "trigonometria": 4,
+      "regra-de-tres": 4,
+      "funcao-quadratica": 3,
+      "matrizes-sistemas": 3,
+      "equacao-2-grau": 1,
+      "polinomios-funcoes-outras": 1
+    },
+    "por_assunto_curadas": {},
+    "por_habilidade": {
+      "H1": 8,
+      "H2": 35,
+      "H3": 143,
+      "H6": 59,
+      "H7": 75,
+      "H10": 83,
+      "H15": 9,
+      "H16": 2,
+      "H19": 2,
+      "H20": 7,
+      "H24": 49,
+      "H27": 39,
+      "H28": 36
+    },
+    "por_dificuldade": {
+      "sem_tri": 636
+    }
+  }
+}

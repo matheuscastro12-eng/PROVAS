@@ -1,0 +1,2694 @@
+[
+  {
+    "id": "enem-2021-136",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 136,
+    "area": "matematica",
+    "enunciado": "Um segmento de reta está dividido em duas partes  \nna proporção áurea quando o todo está para uma das  \npartes na mesma razão em que essa parte está para a  \noutra. Essa constante de proporcionalidade é comumente  \nrepresentada pela letra grega ρ, e seu valor é dado pela  \nsolução positiva da equação ρ²=ρ+1\n\nAssim como a potência ρ², as potências superiores  \nde ρ podem ser expressas da forma aρ + b, em que a e b  \nsão inteiros positivos, como apresentad0o no quadro.\n\n![](https://enem.dev/2021/questions/136/291c6b71-3d02-4e67-af59-81f33cec15f5.png)\n\nA potência ρ7, escrita na forma aρ+b (a e b são inteiros positivos), é",
+    "imagens": [
+      "https://enem.dev/2021/questions/136/291c6b71-3d02-4e67-af59-81f33cec15f5.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5ρ+3",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "7ρ+2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "9ρ+6",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "11ρ+7",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "13ρ+8",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "razao-proporcao",
+      "probabilidade",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 136",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/136",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-137",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 137,
+    "area": "matematica",
+    "enunciado": "O Atomiuim, representado na imagem é um  \ndos principais pontos turísticos de Bruxelas. Ele foi  \nconstruído em 1958 para a primeira grande exposição  \nmundial depois da Segunda Guerra Mundial, a Feira  \nMundial de Bruxelas.  \nTrata-se de uma estrutura metálica construída no  \nformato de um cubo. Essa estrutura está apoiada por um  \ndos vértices sobre uma base paralela ao plano do solo,  \ne a diagonal do cubo, contendo esse vértice, é ortogonal  \nao plano da base. Centradas nos vértices desse cubo,  \nforam construídas oito esferas metálicas, e uma outra  \nesfera foi construída centrada no ponto de interseção das  \ndiagonais do cubo. As oito esferas sobre os vértices são  \ninterligadas segundo suas arestas, e a esfera central se  \nconecta a elas pelas diagonais do cubo.  \nTodas essas interligações são feitas por tubos  \ncilíndricos que possuem escadas em seu interior,  \npermitindo o deslocamento de pessoas pela parte  \ninterna da estrutura. Na diagonal ortogonal à base, o  \ndeslocamento é feito por um elevador, que permite o  \ndeslocamento entre as esferas da base e a esfera do  \nponto mais alto, passando pela esfera central.\n\nConsidere um visitante que se deslocou pelo interior  \ndo Atomium sempre em linha reta e seguindo o menor trajeto entre dois vértices, passand0 por todas as arestas e todas as diagonais do cubo.\n\n![](https://enem.dev/2021/questions/137/adb90310-f1c2-41fa-a3a4-a250c1141a16.png)\n\nA projeção ortogonal sobre o plano do solo do trajeto percorrido por esse visitante é representada por",
+    "imagens": [
+      "https://enem.dev/2021/questions/137/adb90310-f1c2-41fa-a3a4-a250c1141a16.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/137/79821b1f-7009-4322-8af7-3ae58951064a.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/137/a5e4c57e-4230-4b52-b3ea-e1b06cb99fa8.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/137/035954ad-5098-40f0-91bd-d0e2946fc930.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/137/2110fe80-816b-4c42-841b-746be19abc6a.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/137/92f0272e-9fb9-4787-9fe3-fe0051a11e8e.png"
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 137",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/137",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-139",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 139,
+    "area": "matematica",
+    "enunciado": "Uma rede de hamburgueria tem três franquias em  \ncidades distintas. Visando incluir um novo tipo de lanche  \nno cardápio, o gerente de marketing da rede sugeriu que  \nfossem colocados à venda cinco novos tipos de lanche,  \nem edições especiais. Os lanches foram oferecidos pelo  \nmesmo período de tempo em todos os franqueados,  \nO tipo que apresentasse a maior média por franquia  \nseria incluído definitivamente no cardápio. Terminado o  \nperíodo de experiência, a gerência recebeu um relatório  \ndescrevendo as quantidades vendidas, em unidade, de  \ncada um dos cinco tipos de lanche nas três franquias\n\n![](https://enem.dev/2021/questions/139/0c2cb7d1-b950-436a-8eab-6051b344e8ab.png)\n\nCom base nessas informações, a gerência decidiu incluir no cardápio o lanche de tipo",
+    "imagens": [
+      "https://enem.dev/2021/questions/139/0c2cb7d1-b950-436a-8eab-6051b344e8ab.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 139",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/139",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-141",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 141,
+    "area": "matematica",
+    "enunciado": "Aplicativos que gerenciam serviços de hospedagem  \ntêm ganhado espaço no Brasil e no mundo por oferecer  \nopções diferenciadas em termos de localização e valores  \nde hospedagem. Em um desses aplicativos, o preço P a  \nser pago pela hospedagem é calculado considerando um  \npreço por diária d, acrescido de uma taxa fixa de limpeza L  \ne de uma taxa de serviço. Essa taxa de serviço é um valor  \npercentual s calculado sobre o valor pago pelo total das  \ndiárias.\n\nNessa situação, o preço a ser pago ao aplicativo para uma hospedagem de n diárias pode ser obtido pela expressão",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "P=d.n + L + d.n.s",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "P=d.n + L + d.s",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "P= d+ L +s",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "P= d.n.s + L",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "P= d.n + L +s",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 141",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/141",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-142",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 142,
+    "area": "matematica",
+    "enunciado": "O organizador de uma competição de lançamento de  \ndados pretende tornar o campeonato mais competitivo.  \nPelas regras atuais da competição, numa rodada, o  \njogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores tem, em cada lançamento, 1/2 de probabilidade de acertar um dardo no alvo.  \nA fim de tornar o jogo mais atrativo, planeja modificar  \nas regras de modo que a probabilidade de um jogador  \npontuar em uma rodada seja igual ou superior a 9/10. Para  \nisso, decide aumentar a quantidade de dardos a serem  \nlançados em cada rodada.\n\nCom base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "6",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "9",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "10",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade",
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 142",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/142",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-143",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 143,
+    "area": "matematica",
+    "enunciado": "O gráfico apresenta o nível de ocupação dos cinco reservatórios de água que abasteciam uma cidade em 2 de Fevereiro de 2015.\n\n![](https://enem.dev/2021/questions/143/6658b31a-c862-4622-87b2-28e09d19a6d0.png)\n\nNessa data, o reservatório com o maior volume de água era o",
+    "imagens": [
+      "https://enem.dev/2021/questions/143/6658b31a-c862-4622-87b2-28e09d19a6d0.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 143",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/143",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-144",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 144,
+    "area": "matematica",
+    "enunciado": "Uma pessoa realizou uma pesquisa com alguns alunos de uma escola, coletando suas idades, e organizou esses dados no gráfico.\n\n![](https://enem.dev/2021/questions/144/0f754876-c1f5-41b1-bea6-3935cb1a5304.png)\n\nQual é a média das idades, em ano, desses alunos?",
+    "imagens": [
+      "https://enem.dev/2021/questions/144/0f754876-c1f5-41b1-bea6-3935cb1a5304.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "9",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "12",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "18",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "19",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "27",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 144",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/144",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-145",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 145,
+    "area": "matematica",
+    "enunciado": "Em um estudo realizado pelo IBGE em quatro estados e no Distrito Federal, com mais de 5 mil pessoas com 10 anos ou mais, observou-se que a leitura ocupa, em média, apenas seis minutos do dia de cada pessoa.  \nNa faixa de idade de 10 a 24 anos, a média diária é de três minutos. No entanto, no grupo de idades entre 24 e 60 anos, o tempo médio diário dedicado à leitura é de 5 minutos. Entre os mais velhos, com 60 anos ou mais, a média é de 12 minutos.  \nA quantidade de pessoas entrevistadas de cada faixa de idade seguiu a distribuição percentual descrita no quadro.\n\n![](https://enem.dev/2021/questions/145/9fa287d2-647c-4f7e-87a9-e58f5130bed7.png)\n\nOs valores de x e y do quadro são, respectivamente, iguais a",
+    "imagens": [
+      "https://enem.dev/2021/questions/145/9fa287d2-647c-4f7e-87a9-e58f5130bed7.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10 e 80.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "10 e 90.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "20 e 60.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "20 e 80.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "25 e 5",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 145",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/145",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-146",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 146,
+    "area": "matematica",
+    "enunciado": "Um zootecnista pretende testar se uma nova ração  \npara coelhos é mais eficiente do que a que ele vem  \nutilizando atualmente. A ração atual proporciona uma  \nmassa média de 10 kg por coelho, com um desvio padrão  \nde 1 kg, alimentado com essa ração durante um período  \nde três meses.  \nO zootecnista selecionou uma amostra de coelhos e  \nos alimentou com a nova ração pelo mesmo período de  \ntempo. Ao final, anotou a massa de cada coelho, obtendo  \num desvio padrão de 1,5 kg para a distribuição das  \nmassas dos coelhos dessa amostra.  \nPara avaliar a eficiência dessa ração, ele utilizará  \no coeficiente de variação (CV) que é uma medida de  \ndispersão definida por CV =S/X, em que s representa o  \ndesvio padrão X, a média das massas dos coelhos que  \nforam alimentados com uma determinada ração.  \nO zootecnista substituirá a ração que vinha utilizando  \npela nova, caso o coeficiente de variação da distribuição  \ndas massas dos coelhos que foram alimentados com a  \nnova ração for menor do que o coeficiente de variação  \nda distribuição das massas dos coelhos que foram  \nalimentados com a ração atual.\n\nA substituição da ração ocorrerá se a média da distribuição das massas dos coelhos da amostra, em quilograma, for superior",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5,0.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "9,5.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "10,0.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "10,5.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "15,0.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 146",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/146",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-147",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 147,
+    "area": "matematica",
+    "enunciado": "A Cifra de César é um exemplo de um método de codificação de mensagens usado por Júlio César para se comunicar com seus generais.  \nNo método, cada letra era trocada por uma letra que aparecia no alfabeto um número fixo de casas adiante (ou atrás) de forma cíclica. A seguir temos um exemplo em que cada letra é substituída pela que vem três posições à frente.\n\n![](https://enem.dev/2021/questions/147/114ddf31-06d9-41cf-a588-a987226385e6.png)\n\nPara quebrar um código como esse, a análise de frequências das letras de um texto é uma ferramenta importante.  \nUma análise do texto do romance O guarani, de José de Alencar, que é composto por 491 631 letras, gerou o seguinte gráfico de frequências:\n\n![](https://enem.dev/2021/questions/147/a5256e30-3984-4503-aaa0-41b95d681d71.png)\n\nApós codificar esse texto com a regra do exemplo fornecido, faz-se nova analise de frequência no texto codificado.\nAs quatro letras mais frequentes, em ordem decrescente de frequência, do texto codificado são",
+    "imagens": [
+      "https://enem.dev/2021/questions/147/114ddf31-06d9-41cf-a588-a987226385e6.png",
+      "https://enem.dev/2021/questions/147/a5256e30-3984-4503-aaa0-41b95d681d71.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A,E,O e S.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "D, E, F e G.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "D, E, F e G.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "D,H,R e V.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "X, B L e P.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas",
+      "leitura-grafico-funcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 147",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/147",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-148",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 148,
+    "area": "matematica",
+    "enunciado": "O quadro apresenta o número de terremotos de magnitude maior ou igual a 7, na escala de Richter, ocorridos em nosso planeta nos anos 2000 e 2011.\n\n![](https://enem.dev/2021/questions/148/4e954c86-a11f-49f4-b82b-b9cee8375883.png)\n\nUm pesquisador acredita que a mediana representa bem o número anual típico de terremotos em um período. Segundo esse pesquisador, o número anual típico de terremotos de magnitude maior ou igual a 7 é",
+    "imagens": [
+      "https://enem.dev/2021/questions/148/4e954c86-a11f-49f4-b82b-b9cee8375883.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "11.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "15.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "15,5.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "15,7.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "17,5.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 148",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/148",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-150",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 150,
+    "area": "matematica",
+    "enunciado": "A depressão caracteriza-se por um desequilíbrio na química cerebral. Os neurônios de um deprimido não respondem bem as estímulos dos neurotransmissores.  \nOs remédios que combatem a depressão têm o objetivo de restabelecer a química cerebral. Com o aumento gradativo de casos de depressão, a venda desses medicamentos está em crescente evolução, conforme ilustra o gráfico.\n\n![](https://enem.dev/2021/questions/150/76a52739-74da-4cbd-9cf8-c62522ed889f.png)\n\nNo período de 2005 a 2009, o aumento percentual no volume de vendas foi de",
+    "imagens": [
+      "https://enem.dev/2021/questions/150/76a52739-74da-4cbd-9cf8-c62522ed889f.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "45,4.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "54,5.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "120.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "220.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "283,2.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem",
+      "graficos-tabelas",
+      "leitura-grafico-funcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 150",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/150",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-151",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 151,
+    "area": "matematica",
+    "enunciado": "Um casal está planejando comprar um apartamento  \nde dois quartos num bairro de uma cidade e consultou  \na página de uma corretora de imóveis, encontrando  \n105 apartamentos de dois quartos à venda no bairro  \ndesejado. Eles usaram um aplicativo da corretora para  \ngerar a distribuição dos preços do conjunto de imóveis  \nselecionados.  \nO gráfico ilustra a distribuição de frequências dos  \npreços de venda dos apartamentos dessa lista (em  \nmil reais), no qual as faixas de preço são dadas por  \n\\]300, 400\\], \\]400, 5001, \\]500, 600\\], \\]00, 700\\], \\]700, 800\\],  \n\\]800, 900\\], \\]900, 1 000\\], \\]1 000, 1 100\\], \\]1 100, 1 200\\] e  \n\\]1 200, 1 300\\].  \nA mesma corretora anuncia que cerca de 50% dos  \napartamentos de dois quartos nesse bairro, publicados  \nem sua página, têm preço de venda inferior a 550 mil reais.  \nNo entanto, o casal achou que essa última informação  \nnão era compatível com o gráfico obtido.\n\n![](https://enem.dev/2021/questions/151/53a174a0-d119-4132-ade4-2cc79b864ee2.png)\n\nCom base no gráfico obtido, o menor preço, p (em mil reais), para o qual pelo menos 50% dos apartamentos apresenta preço inferior a p",
+    "imagens": [
+      "https://enem.dev/2021/questions/151/53a174a0-d119-4132-ade4-2cc79b864ee2.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "600.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "700.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "800.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "900.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "1000.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 151",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/151",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-152",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 152,
+    "area": "matematica",
+    "enunciado": "Para a comunicação entre dois navios é utilizado um sistema de codificação com base em valores numéricos. Para isso, são consideradas as operações triângulo ![](https://enem.dev/2021/questions/152/566c5d72-c957-4664-b7f7-e1b92f024e70.png) e estrela \\*, definidas sobre o conjunto dos números reais por x![](https://enem.dev/2021/questions/152/60957aae-73c8-44ad-8f75-7191b1d65c70.png)y = x² + xy – y² e x \\* y = xy + x.\n\nO navio que deseja enviar uma mensagem deve fornecer um valor de entrada b, que irá gerar um valor de saída, a ser enviado ao navio receptor, dado pela soma da duas maiores soluções da equação (a![](https://enem.dev/2021/questions/152/b78eb0e6-f154-443d-a6f5-1ffeb2ff1252.png)b)\\*(b![](https://enem.dev/2021/questions/152/54a56c94-9682-42f3-98b2-fc5a0fef2dba.png)a) = 0. Cada valor possível de entrada e saída representa uma mensagem diferente já conhecida pelos dois navios.\n\nUm navio deseja enviar ao outro a mensagem “ATENÇÃO!”. Para isso, deve utilizar o valor de entrada b=1.\n\nDessa forma, o valor recebido pelo navio receptor será",
+    "imagens": [
+      "https://enem.dev/2021/questions/152/566c5d72-c957-4664-b7f7-e1b92f024e70.png",
+      "https://enem.dev/2021/questions/152/60957aae-73c8-44ad-8f75-7191b1d65c70.png",
+      "https://enem.dev/2021/questions/152/b78eb0e6-f154-443d-a6f5-1ffeb2ff1252.png",
+      "https://enem.dev/2021/questions/152/54a56c94-9682-42f3-98b2-fc5a0fef2dba.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/152/c1747ad2-3295-4d07-af4a-018d7c412877.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/152/e3a76aed-69fd-4c41-a7ac-532a64efbcf3.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/152/2340c837-a802-4570-be90-91fc8a3a0a6f.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/152/fc88fa35-1166-4a50-8b3e-98825f086b76.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/152/51026f4e-2d93-4516-b1e1-65e937a6e88a.png"
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade",
+      "equacao-1-grau",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 152",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/152",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-153",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 153,
+    "area": "matematica",
+    "enunciado": "Um parque temático brasileiro construiu uma réplica em miniatura do castelo de Liechtenstein. O castelo original, representado na imagem, está situado na Alemanha e foi reconstruído entre os anos de 1840 e 1842, após duas destruições causadas por guerras.\n\n![](https://enem.dev/2021/questions/153/6826c1c9-9c1c-401f-b721-af14ad303f2e.jpg)\n\nO castelo possui uma ponte de 38,4m de comprimento e 1,68m de largura. O artesão que trabalhou para o parque produziu a réplica do castelo, em escala. Nessa obra, as medidas do comprimento e da largura da ponte eram, respectivamente, 160cm e 7 cm.\n\nA escala utilizada para fazer a réplica é",
+    "imagens": [
+      "https://enem.dev/2021/questions/153/6826c1c9-9c1c-401f-b721-af14ad303f2e.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 : 576",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 : 240",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 : 24",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1 : 4,2",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "1 : 2,4",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 153",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/153",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-154",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 154,
+    "area": "matematica",
+    "enunciado": "A demografia médica é o estudo da população de médicos no Brasil nos aspectos quantitativo e qualitativo, sendo um dos seus objetivos fazer projeções sobre a necessidade da formação de novos médicos. Um desses estudos gerou um conjunto de dados que aborda a evolução do número de médicos e da população brasileira por várias décadas. O quadro apresenta parte desses dados.\n\n![](https://enem.dev/2021/questions/154/06fed6e4-4341-487f-8c3a-6352bba5bfd1.jpg)\n\nSegundo uma projeção estatística, a variação do número de médicos e o da população brasileira de 2010 para 2020 será a média entre a variação de 1990 para 2000 e a de 2000 para 2010. Com o resultado dessa projeção, determina-se o número de médicos por mil habitantes no ano de 2020.\n\nDisponível em: www.cremesp.org.br. Acesso em: 24 jun. 2015 (adaptado)\n\nO número, com duas casas na parte decimal, mais próximo do número de médicos por mil habitantes no ano de 2020 seria de",
+    "imagens": [
+      "https://enem.dev/2021/questions/154/06fed6e4-4341-487f-8c3a-6352bba5bfd1.jpg"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,17",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,49",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,71",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2,06",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "3,32",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 154",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/154",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-155",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 155,
+    "area": "matematica",
+    "enunciado": "Um atleta produz sua própria refeição com custo fixo de R$ 10,00. Ela é composta por 400g de frango, 600g de batata-doce e uma hortaliça. Atualmente, os preços dos produtos para essa refeição são:\n\n![](https://enem.dev/2021/questions/155/0eb41d8c-7cd8-4398-96c2-b160d666be33.png)\n\nEm relação a esses preços, haverá um aumento de 50% no preço do quilograma de batata-doce, e os outros preços não serão alterados. O atleta deseja manter o custo da refeição, a quantidade de batata-doce e a hortaliça. Portanto, terá que reduzir a quantidade de frango.\n\nQual deve ser a redução percentual da quantidade de frango para que o atleta alcance seu objetivo?",
+    "imagens": [
+      "https://enem.dev/2021/questions/155/0eb41d8c-7cd8-4398-96c2-b160d666be33.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12,5",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "28,0",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "30,0",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "50,0",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "70,0",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 155",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/155",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-156",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 156,
+    "area": "matematica",
+    "enunciado": "Uma mola é solta da posição distendida conforme a figura. A figura à direita representa o gráfico da posição _P_ (em cm) da massa m em função do tempo _t_ (em segundo) em um sistema de coordenadas cartesianas. Esse movimento periódico é descrito por uma expressão do tipo P(t) = ![](https://enem.dev/2021/questions/156/22072ec1-3b3b-4ad6-a4b6-dffd6253a376.png) ou P(t) = ![](https://enem.dev/2021/questions/156/86b2ce7b-d131-40db-9629-e618470679c7.png), em que A>0 é a amplitude de deslocamento máximo e ![](https://enem.dev/2021/questions/156/f1cfe3fa-6396-47ed-b60b-48d48194225e.png) é a frequência, que se relaciona com o período T pela fórmula ![](https://enem.dev/2021/questions/156/38bd8acb-9ed5-402c-a6df-271fb1614213.png).\n\nConsidere a ausência de quaisquer forças dissipativas.\n\n![](https://enem.dev/2021/questions/156/9e69ba46-7bc0-40c9-b81e-bdae664b1ae1.png)\n\nA expressão algébrica que representa as posições P(t) da massa m, ao longo do tempo, no gráfico, é",
+    "imagens": [
+      "https://enem.dev/2021/questions/156/22072ec1-3b3b-4ad6-a4b6-dffd6253a376.png",
+      "https://enem.dev/2021/questions/156/86b2ce7b-d131-40db-9629-e618470679c7.png",
+      "https://enem.dev/2021/questions/156/f1cfe3fa-6396-47ed-b60b-48d48194225e.png",
+      "https://enem.dev/2021/questions/156/38bd8acb-9ed5-402c-a6df-271fb1614213.png",
+      "https://enem.dev/2021/questions/156/9e69ba46-7bc0-40c9-b81e-bdae664b1ae1.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "-3 cos (2t)",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "-3 sen (2t)",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3 cos (2t)",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "-6 cos (2t)",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "6 cos (2t)",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "trigonometria",
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 156",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/156",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-157",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 157,
+    "area": "matematica",
+    "enunciado": "Uma construtora, pretendendo investir na construção de imóveis em uma metrópole com cinco grandes regiões, fez uma pesquisa sobre a quantidade de famílias que mudaram de uma região para outra, de modo a determinar qual região foi o destino do maior fluxo de famílias, sem levar em consideração o número de famílias que deixaram a região. Os valores da pesquisa estão dispostos em uma matriz A = ![](https://enem.dev/2021/questions/157/8c6e4e74-df9c-40f8-8252-dbdeaea6b052.png), i, j ![](https://enem.dev/2021/questions/157/be8d14c5-515d-49fd-ac32-96ff68aec07f.png) {1, 2, 3, 4, 5}, em que o elemento ![](https://enem.dev/2021/questions/157/d9158cca-6b4e-48a2-bfdb-ffe3e0bc450d.png) corresponde ao total de famílias (em dezena) que se mudaram da região i para a região j durante um certo período, e o elemento ![](https://enem.dev/2021/questions/157/9e0b26da-8c61-4aad-b6d1-2266960860e0.png) é considerado nulo, uma vez que somente são consideradas mudanças entre regiões distintas. A seguir, está apresentada a matriz com os dados da pesquisa.\n\n![](https://enem.dev/2021/questions/157/7d732410-1899-40e4-ab0d-c9cac5de4aeb.png)\n\nQual região foi selecionada para o investimento da construtora?",
+    "imagens": [
+      "https://enem.dev/2021/questions/157/8c6e4e74-df9c-40f8-8252-dbdeaea6b052.png",
+      "https://enem.dev/2021/questions/157/be8d14c5-515d-49fd-ac32-96ff68aec07f.png",
+      "https://enem.dev/2021/questions/157/d9158cca-6b4e-48a2-bfdb-ffe3e0bc450d.png",
+      "https://enem.dev/2021/questions/157/9e0b26da-8c61-4aad-b6d1-2266960860e0.png",
+      "https://enem.dev/2021/questions/157/7d732410-1899-40e4-ab0d-c9cac5de4aeb.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H19",
+    "habilidade_origem": "heuristica",
+    "competencia": "C5",
+    "assuntos": [
+      "matrizes-sistemas",
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 157",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/157",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-158",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 158,
+    "area": "matematica",
+    "enunciado": "Para realizar um voo entre duas cidades que distam 2 000 km uma da outra, uma companhia aérea utilizava um modelo de aeronave A, capaz de transportar até 200 passageiros. Quando uma dessas aeronaves está lotada de passageiros, o consumo de combustível é de 0,02 litro por quilômetro e por passageiro. Essa companhia resolveu trocar o modelo de aeronave A pelo modelo de aeronave B, que é capaz de transportar 10% de passageiros a mais do que o modelo A, mas consumindo 10% menos combustível por quilômetro e por passageiro.\n\nA quantidade de combustível consumida pelo modelo de aeronave B, em relação à do modelo de aeronave B, em relação à do modelo de aeronave A, em um voo lotado entre as duas cidades, é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10% menor",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1% menor",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Igual",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1% maior",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "11% maior",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 158",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/158",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-159",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 159,
+    "area": "matematica",
+    "enunciado": "Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocar de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham à mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos completos, são necessários 4 segundos para que a troca seja efetuada. O tempo gasto por um grupo para trocar um pneu é inversamente proporcional ao número de pessoas trabalhando nele. Em uma dessas paradas, um dos trabalhadores passou mal, não pôde participar da troca e nem foi substituído, de forma que um dos quatro grupos de troca ficou reduzido.\n\nNessa parada específica, com um dos grupos reduzido, qual foi o tempo gasto, em segundo, para trocar os quatro pneus?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6,0",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "5,7",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "5,0",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4,5",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "4,4",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H16",
+    "habilidade_origem": "heuristica",
+    "competencia": "C4",
+    "assuntos": [
+      "regra-de-tres"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 159",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/159",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-160",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 160,
+    "area": "matematica",
+    "enunciado": "Um  nutricionista verificou, na dieta diária do seu cliente, a falta de 800mg do mineral A, de 1 000 mg do mineral B e de 1 200 mg do mineral C. Por isso, recomendou a compra de suplementos alimentares que forneçam os minerais faltantes e informou que não haveria problema se consumisse mais desses minerais do que o recomendado.\n\nO cliente encontrou cinco suplementos, vendidos em sachês unitários, cujos preços e as quantidades dos minerais estão apresentados a seguir:\n\n*   Suplemento I: contém 50mg do mineral A, 100mg do mineral B e 200 mg do mineral C e custa R$2,00;\n*   Suplemento II: contém 800mg do mineral A, 250mg do mineral B e 200 mg do mineral C e custa R$3,00;\n*   Suplemento III: contém 250mg do mineral A, 1 000mg do mineral B e 300 mg do mineral C e custa R$5,00;\n*   Suplemento IV: contém 600mg do mineral A, 500mg do mineral B e 1 000 mg do mineral C e custa R$6,00;\n*   Suplemento V: contém 400mg do mineral A, 800mg do mineral B e 1 200 mg do mineral C e custa R$8,00;\n\nO cliente decidiu comprar sachês de um único suplemento no qual gastasse menos dinheiro e ainda suprisse a falta de minerais indicada pelo nutricionista, mesmo que consumisse alguns deles além de sua necessidade.\n\nNessas condições, o cliente deverá comprar sachês do suplemento",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 160",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/160",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-161",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 161,
+    "area": "matematica",
+    "enunciado": "O administrador de um teatro percebeu que, com o ingresso do evento a R$20,00, um show conseguia atrair 200 pessoas e que, a cada R$1,00 de redução no preço do ingresso, o número de pessoas aumentava em 40. Ele sabe que os donos do teatro só admitem trabalhar com valores inteiros para os ingressos, pela dificuldade de disponibilizar troco, e pretende convencê-los a diminuir o preço do ingresso. Assim, apresentará um gráfico da arrecadação em função do valor do desconto no preço atual do ingresso.\n\nO gráfico que mais se assemelha ao que deve ser elaborado pelo administrador é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/161/71c29cd7-d512-4f07-a66b-d9c7384ebcf1.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/161/a22cdccd-2be3-48b7-b37e-3253586d2fe0.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/161/13b92c32-cd4b-4f3c-9699-3d0916f6d516.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/161/83ffed50-3e9d-46d0-9cb6-5acf0cd42d98.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/161/9536b3b7-3d03-40b4-abea-658166fee917.png"
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "razao-proporcao",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 161",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/161",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-162",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 162,
+    "area": "matematica",
+    "enunciado": "O quadro representa a relação entre o preço de um produto (R) e seu respectivo imposto devido (l).\n\n![](https://enem.dev/2021/questions/162/cc601335-5c45-493b-aa9d-b7c58c7b107a.png)\n\nO gráfico que melhor representa essa relação é",
+    "imagens": [
+      "https://enem.dev/2021/questions/162/cc601335-5c45-493b-aa9d-b7c58c7b107a.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/162/41839cfc-4413-4111-b228-b6f835d314f6.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/162/8e1d0658-17c6-447f-8852-a80221b9661f.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/162/070fd147-aeb8-4211-9ace-d2ddecb2bc76.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/162/a69d9997-7244-40d9-b945-11e7ac108a91.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/162/b9498a83-138e-4d4e-8eb9-b9ec50dcf5f4.png"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "leitura-grafico-funcao",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 162",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/162",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-163",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 163,
+    "area": "matematica",
+    "enunciado": "A relação de Newton-Laplace estabelece que o módulo volumétrico de um fluído é diretamente proporcional ao quadrado da velocidade do som (em metro por segundo) no fluido e à sua densidade (em quilograma por meto cúbico), com uma constante de proporcionalidade adimensional.\n\nNessa relação, a unidade de medida adequada para o módulo volumétrico é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/163/b08497a6-4df2-4f61-96f2-f125293d21a4.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/163/e8929184-06b7-4b2c-a7bf-8682d4d92231.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/163/381b63e2-88a8-405f-ab1e-ae5e1ef6b266.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/163/ef0b4b69-a758-420e-a3fa-b7b5e0a2b06c.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/163/2770886b-3ccc-4ff7-8e35-59674a921fa9.png"
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "polinomios-funcoes-outras"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 163",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/163",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-164",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 164,
+    "area": "matematica",
+    "enunciado": "Uma pessoa pretende viajar por uma companhia aérea que despacha gratuitamente uma mala com até 10kg.\n\nEm duas viagens que realizou, essa pessoa utilizou a mesma mala e conseguiu 10 kg com as seguintes combinações de itens:\n\n![](https://enem.dev/2021/questions/164/eab2c90e-a45f-482b-997d-a5c2f6931726.png)\n\nPara ter certeza de que sua bagagem terá massa de 10 kg, ela decide levar essa mala com duas calças, um sapato e o máximo de camisetas, admitindo que itens do mesmo tipo têm a mesma massa.\n\nQual a quantidade máxima de camisetas que essa pessoa poderá levar?",
+    "imagens": [
+      "https://enem.dev/2021/questions/164/eab2c90e-a45f-482b-997d-a5c2f6931726.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "22",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "24",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "26",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "33",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "39",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 164",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/164",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-165",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 165,
+    "area": "matematica",
+    "enunciado": "Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 10 km percorridos.\n\nO valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "15,9",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "16,1",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "16,4",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "17,4",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "18,0",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 165",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/165",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-166",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 166,
+    "area": "matematica",
+    "enunciado": "O projeto de um contêiner, em forma de paralelepípedo reto retangular, previa a pintura dos dois lados (interno e externo) de cada uma das quatro paredes com tinta acrílica e a pintura do piso interno com tinta epóxi. O construtor havia pedido, a cinco fornecedores diferentes, orçamentos das tintas necessárias, mas, antes de iniciar a obra, resolveu mudar o projeto original, alterando o comprimento e a largura para o dobro do originalmente previsto, mantendo inalterada a altura. Ao pedir novos orçamentos aos fornecedores, para as novas dimensões, cada um deu uma resposta diferente sobre as novas quantidades de tinta necessárias.\n\nEm relação ao previsto para o projeto original, as novas quantidades de tinta necessárias informadas pelos fornecedores foram as seguintes:\n\n–  Fornecedor I: “O dobro, tanto para as paredes quanto para o piso”.\n\n– Fornecedor II: “O dobro para as paredes e quatro vezes para o piso”.\n\n– Fornecedor III: “Quatro vezes, tanto para as paredes quanto para o piso.”\n\n– Fornecedor IV: “Quatro vezes para as paredes e o dobro para o piso.”\n\n– Fornecedor V: “Oito vezes para as paredes e quatro vezes para o piso.”\n\nAnalisando as informações dos fornecedores, o construtor providenciará a quantidade adequada de material. Considere a porta de acesso do contêiner como parte de uma das paredes.\n\nQual dos fornecedores prestou as informações adequadas, devendo ser o escolhido pelo construtor para aquisição do material?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 166",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/166",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-167",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 167,
+    "area": "matematica",
+    "enunciado": "Um povoado com 100 habitantes está passando por uma situação de seca prolongada e os responsáveis pela administração pública local decidem contratar a construção de um reservatório. Ele deverá ter a forma de um cilindro circular reto, cuja base tenha 5 metros de diâmetro interno, e atender à demanda de água da população por um período de exatamente sete dias consecutivos. No oitavo dia, o reservatório vazio é completamente reabastecido por carros-pipa.\n\nConsidere que o consumo médio diário por habitante é de 120 litros de água. Use 3 como aproximação para ![](https://enem.dev/2021/questions/167/42cbdc11-82db-44e3-8f1b-367c1b0e5853.png)\n\nNas condições apresentadas, o reservatório deverá ser construído com uma altura interna mínima, em metro, igual a",
+    "imagens": [
+      "https://enem.dev/2021/questions/167/42cbdc11-82db-44e3-8f1b-367c1b0e5853.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,12",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,10",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "4,35",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4,48",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5,60",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 167",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/167",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-168",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 168,
+    "area": "matematica",
+    "enunciado": "Num octaedro regular, duas faces são consideradas opostas quando não têm nem arestas, nem vértices em comum. Na figura, observa-se um octaedro regular e uma de suas planificações, na qual há uma face colorida na cor cinza escuro e outras quatro faces numeradas.\n\n![](https://enem.dev/2021/questions/168/71fccb41-8caa-485c-b7af-c1c537c4148b.png)\n\nQual(is) face(s) ficará(ão) oposta(s) à face de cor cinza escuro, quando o octaedro for reconstruído a partir da planificação dada?",
+    "imagens": [
+      "https://enem.dev/2021/questions/168/71fccb41-8caa-485c-b7af-c1c537c4148b.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1, 2, 3 e 4",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 e 3",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "4",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 168",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/168",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-169",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 169,
+    "area": "matematica",
+    "enunciado": "O instrumento da percussão conhecido como triângulo é composto por uma barra fina de aço, dobrada em um formato que se assemelha a um triângulo, com uma abertura e uma haste, conforme ilustra a Figura 1.\n\n![](https://enem.dev/2021/questions/169/d9c2223e-0155-480d-bfd2-0d0fd39cb200.png)\n\nUma empresa de brindes promocionais contrata uma fundição para a produção de miniaturas de instrumentos desse tipo. A fundição produz, inicialmente, peças com o formato de uma triângulo equilátero de altura h, conforme ilustra a Figura 2. Após esse processo, cada peça é aquecida, deformando os cantos, e cortada em um dos vértices, dando origem à miniatura. Assuma que não ocorram perdas de material no processo de produção, de forma que o comprimento da barra utilizada seja igual ao perímetro do triângulo equilátero representado na Figura 2.\n\nConsidere 1,7 como valor aproximado para √3.\n\nNessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centímetro, é\n\nNessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centímetro, é:",
+    "imagens": [
+      "https://enem.dev/2021/questions/169/d9c2223e-0155-480d-bfd2-0d0fd39cb200.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "9,07.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "13,60.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "20,40.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "27,18.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "36,24.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 169",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/169",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-170",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 170,
+    "area": "matematica",
+    "enunciado": "Uma pessoa comprou uma caneca para tomar sopa, conforme ilustração.\n\n![](https://enem.dev/2021/questions/170/4b81cbbc-0e2d-486f-9a21-2cbe5160b172.png)\n\nSabe-se que 1 cm³ = 1 mL e que o topo da caneca é uma circunferência de diâmetro (D) medindo 10 cm, e a base é um círculo de diâmetro (d) medindo 8 cm. Além disso, sabe-se que a altura (h) dessa caneca mede 12 cm (distância entre o centro das circunferências do topo e da base).\n\nUtilize 3 como aproximação para π.\n\nQual é a capacidade volumétrica, em milimitro, dessa caneca?",
+    "imagens": [
+      "https://enem.dev/2021/questions/170/4b81cbbc-0e2d-486f-9a21-2cbe5160b172.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "216",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "408",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "732",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2196",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2928",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 170",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/170",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-171",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 171,
+    "area": "matematica",
+    "enunciado": "O dono de uma loja pretende usar cartões imantados para a sua divulgação de sua loja. A empresa que fornecerá o serviço lhe informa que o custo de fabricação do cartão é de R$0,01 por centímetro quadrado e que disponibiliza modelos tendo como faces úteis para impressão:\n\n*   um triângulo equilátero de lado 12 cm;\n*   um quadrado de lado 8 cm;\n*   um retângulo de lados 11 cm e 8 cm;\n*   um hexágono regular de lado 6cm;\n*   um círculo de diâmetro 10 cm.\n\nO dono da loja está disposto a pagar, no máximo, R$0,80 por cartão. Ele escolherá, dentro desse limite de preço, o modelo que tiver maior área de impressão.\n\nUse 3 como aproximação para π e use 1,7 como aproximação para √3.\n\nNessas condições, o modelo que deverá ser escolhido tem como face útil para impressão um",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Triângulo",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Quadrado",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Retângulo",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Hexágono",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Círculo",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 171",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/171",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-172",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 172,
+    "area": "matematica",
+    "enunciado": "Um ciclista amador de 61 anos de idade utilizou um monitor cardíaco para medir suas frequências cardíacas em quatro diferentes tipos de trechos do percurso. Os resultados das frequências cardíacas máximas alcançadas nesses trechos foram:\n\n![](https://enem.dev/2021/questions/172/604532ed-546c-43dc-a7eb-3b0b3bfca440.png)\n\nSabe-se que a faixa aeróbica ideal para o ganho de condicionamento físico é entre 65% e 85% da frequência cardíaca máxima (Fc máx), que, por sua vez, é determinada pela fórmula:\n\nFc máx. = 220 – idades,\n\nem que a idade é dada em ano e Fc máx. é dada em bpm (batimento por minuto).\n\nOs trechos do percurso nos quais esse ciclista se mantém dentro de sua faixa aeróbica ideal, para o ganho de condicionamento físico, são:",
+    "imagens": [
+      "https://enem.dev/2021/questions/172/604532ed-546c-43dc-a7eb-3b0b3bfca440.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leve no plano, forte no plano, subida moderada e subida forte.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Leve no plano, forte no plano e subida moderada.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Forte no plano, subida moderada e subida forte.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Forte no plano e subida moderada.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Leve no plano e subida forte.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem",
+      "grandezas-unidades-escalas",
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 172",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/172",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-173",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 173,
+    "area": "matematica",
+    "enunciado": "Um lava-rápido oferece dois tipos de lavagem de veículos: lavagem simples, ao preço de R$ 20,00, e lavagem completa, ao preço de R$35,00. Para cobrir as despesas com produtos e funcionários, e não ter prejuízos, o lava-rápido deve ter uma receita diária de, pelo menos, R$300,00.\n\nPara não ter prejuízo, o menor número de lavagens diárias que o lava rápido deve efetuar é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "8",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "9",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "15",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "20",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 173",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/173",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-174",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 174,
+    "area": "matematica",
+    "enunciado": "Após a consulta médica, um paciente deve seguir um tratamento composto por três medicamentos: X, Y e Z. O paciente, para adquirir os três medicamentos, faz um orçamento em três farmácias diferentes, conforme o quadro.\n\n![](https://enem.dev/2021/questions/174/a9b99537-f174-43b1-9ee0-90b5bdfe57ad.png)\n\nDessas farmácias, algumas oferecem descontos:\n\n*   na compra dos medicamentos X e Y na Farmácia 2, recebe-se um desconto de 20% em ambos os produtos, independentemente da compra do medicamento Z, e não há desconto para o medicamento Z;\n*   na compra dos 3 medicamentos na Farmácia 3, recebe-se 20% de desconto no valor total da compra.\n\nO paciente deseja efetuar a compra de modo a minimizar duas despesa com os medicamentos.\n\nDe acordo com as informações fornecidas, o paciente deve comprar os medicamentos da seguinte forma:",
+    "imagens": [
+      "https://enem.dev/2021/questions/174/a9b99537-f174-43b1-9ee0-90b5bdfe57ad.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "X, Y e Z na Farmácia 1.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "X e Y na Farmácia 1, e Z na Farmácia 3.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "X e Y na Farmácia 2, e Z na Farmácia 3.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "X na Farmácia 2, e Y e Z na Farmácia 3.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "X, Y e Z na Farmácia 3.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 174",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/174",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-175",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 175,
+    "area": "matematica",
+    "enunciado": "Muitos brinquedos que frequentemente são encontrados em praças e parques públicos apresentam formatos de figuras geométricas bidimensionais e tridimensionais. Uma empresa foi contratada para desenvolver uma nova forma de brinquedo. A proposta apresentada pela empresa foi de uma estrutura formada apenas por hastes metálicas, conectadas umas às outras, como apresentado na figura. As hastes de mesma tonalidade e espessura são congruentes.\n\n![](https://enem.dev/2021/questions/175/604fdc09-c098-44f6-9b6f-002210df4c34.png)\n\nCom base na proposta apresentada, quantas figuras geométricas planas de cada tipo são formadas pela união das hastes?",
+    "imagens": [
+      "https://enem.dev/2021/questions/175/604fdc09-c098-44f6-9b6f-002210df4c34.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12 trapézios isósceles e 12 quadrados.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "24 trapézios isósceles e 12 quadrados.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "12 paralelogramos e 12 quadrados.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "8 trapézios isósceles",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 175",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/175",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": true,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-176",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 176,
+    "area": "matematica",
+    "enunciado": "O sistema de numeração romano ainda é utilizado na indicação de capítulos e volumes de livros, na designação de séculos e, em ordem cronológica, de papas e reis de mesmo nome. São utilizadas sete letras do alfabeto:  \nQuatro fundamentais: I (vale 1); X (vale 10); C (vale 100) e M (vale 1 000).  \nTrês secundárias: V (vale 5); L (vale 50); e D (vale 500).\n\nAs regras para escrever números romanos são:  \n1\\. Não existe símbolo correspondente ao zero;  \n2\\. Os símbolos fundamentais podem ser repetidos até três vezes e seus valores são adicionados. Exemplo: XXX = 30;  \n3\\. Uma letra posta à esquerda de outra de maior valor indica subtração dos respectivos valores. Exemplo: IX = 10 – 1 = 9;  \n4\\. Uma letra posta à direita de outra de maior valor indica adição dos respectivos valores. Exemplo: XI = 10 + 1 = 11\n\nEm uma cidade europeia há uma placa indicando o ano de sua fundação: MCDLXIX.\n\nQuantos anos de fundação essa cidade comemorará em 2050?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "379",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "381",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "579",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "581",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "601",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 176",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/176",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-177",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 177,
+    "area": "matematica",
+    "enunciado": "Uma das bases mais utilizadas para representar um número é a base decimal. Entretanto, os computadores trabalham com números na base binária. Nessa base, qualquer número natural é representado usando apenas os algarismos 0 e 1. Por exemplo, as representações dos números 9 e 12, na base binárias, são 1001 e 1100, respectivamente. A operação de adição, na base binária, segue um algoritmo similar ao utilizado na base decimal, como detalhado no quadro:\n\nPor exemplo, na base binária, a soma dos números 10 e 10 é 100, como apresentado:\n\n![](https://enem.dev/2021/questions/177/e82478b8-f2bb-43db-88d0-49359625343c.png)\n\nConsiderando as informações do texto, o resultado da adição 9 + 12 será representado, na base binária, por",
+    "imagens": [
+      "https://enem.dev/2021/questions/177/e82478b8-f2bb-43db-88d0-49359625343c.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "101",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1101",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1111",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "10101",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "11001",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H1",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "numeros-operacoes",
+      "equacao-1-grau",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 177",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/177",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-178",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 178,
+    "area": "matematica",
+    "enunciado": "Uma unidade de medida comum usada para a expressar áreas de terrenos de grandes dimensões é o hectare, que equivale a 10 000 m². Um fazendeiro decide fazer um loteamento utilizando 3 hectares de sua fazenda, dos quais 0,9 hectare será usado para a construção de ruas e calçadas e o restante será dividido em terrenos com área de 300 m² cada um. Os 20 primeiros terrenos vendidos terão preços promocionais de R$ 20 000,00 cada, e os demais, R$ 30 000,00 cada.\n\nNas condições estabelecidas, o valor total, em real, obtido, pelo fazendeiro com a venda de todos os terrenos será igual a",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "700 000",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 600 000",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 900 000",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2 200 000",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2 800 000",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 178",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/178",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-179",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 179,
+    "area": "matematica",
+    "enunciado": "Uma pessoa produzirá uma fantasia utilizando como materiais: 2 tipos de tecidos diferentes e 5 tipos distintos de pedras ornamentais. Essa pessoa tem à sua disposição 6 tecidos diferentes e 15 pedras ornamentais distintas.\n\nA quantidade de fantasias com materiais diferentes que podem ser produzidas é representada pela expressão",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/179/7551285a-0dd2-404f-9756-f6153809bb6b.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/179/ec6aed66-8609-4de8-8e4e-e352f8504ff0.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/179/e7db8ec1-87ee-4181-8cdc-f3de1667bd46.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/179/7e9a8152-4cad-499f-a704-e336986e83a5.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2021/questions/179/0e4dc469-3dcf-46e2-abb9-7218a2ae6fff.png"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 179",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/179",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2021-180",
+    "ano": 2021,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 180,
+    "area": "matematica",
+    "enunciado": "Os diretores de uma escola precisam construir um laboratório para uso dos alunos. Há duas possibilidades:\n\n(i) um laboratório do tipo A, com capacidade para 100 usuário, a um custo de 180 mil reais e gastos de 60 mil reais por ano para manutenção;\n\n(ii) um laboratório do tipo B, com capacidade para 80 usuários, a um custo de 120 mil reais e gastos com manutenção de 16 mil reais por ano.\n\nConsidera-se que, em qualquer caso, o laboratório implantado será utilizado na totalidade de sua capacidade.\n\nA economia da escola, na utilização de um laboratório tipo B, em vez de um laboratório tipo A, num período de 4 anos, por usuário, será de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,31 mil reais",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,90 mil reais",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,30 mil reais",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2,36 mil reais",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2,95 mil reais",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2021, 2º dia, caderno azul (aplicação regular), questão 180",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2021/questions/180",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  }
+]

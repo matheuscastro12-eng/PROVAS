@@ -1,0 +1,5 @@
+{
+  "descricao": "Trilha inicial do Gabarita: questões reais do ENEM com resolução revisada, ordenadas da mais fácil para a mais difícil (parâmetro b da TRI quando disponível; senão, nível atribuído na curadoria).",
+  "ordenacao": "tri.b crescente; sem TRI, nivel_curador crescente",
+  "questoes": []
+}

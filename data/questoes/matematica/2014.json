@@ -1,0 +1,2824 @@
+[
+  {
+    "id": "enem-2014-136",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 136,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/136/48b68b51-310d-4654-b637-5fece87a050f.png)\n\nSuponha que a taxa de desemprego oculto do mês de dezembro de 2012 tenha sido a metade da mesma taxa em junho de 2012 e que a taxa de desemprego total em dezembro de 2012 seja igual a essa taxa em dezembro de 2011.\n\nDisponível em: dieese.org.br. Acesso em: 1 ago. 2012 (fragmento).\n\nNesse caso, a taxa de desemprego aberto de dezembro de 2012 teria sido, em termos percentuais, de",
+    "imagens": [
+      "https://enem.dev/2014/questions/136/48b68b51-310d-4654-b637-5fece87a050f.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,1.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,5.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "4,5.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "6,8.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "7,9.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 136",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/136",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-137",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 137,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/137/40cf73c4-388a-4323-84f9-62bdaccf835b.png)\n\nSuponha que a variação percentual relativa na taxa de fecundidade no período de 2000 a 2010 se repita no período de 2010 a 2020.\n\nNesse caso, em 2020 a taxa de fecundidade no Brasil estará mais próxima de",
+    "imagens": [
+      "https://enem.dev/2014/questions/137/40cf73c4-388a-4323-84f9-62bdaccf835b.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,14.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1,42.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1,52.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,70.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "1,80.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 137",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/137",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-138",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 138,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/138/3fe2669a-4174-4db9-a85e-cee6c877f765.png)\n\nOs resultados obtidos permitiram que estados, municípios e o governo federal estabelecessem as regiões prioritárias do país para a intensificação das campanhas de doação de sangue.\n\nA campanha deveria ser intensificada nas regiões em que o percentual de doadores por habitantes fosse menor ou igual ao do país.\n\nDisponível em: http://bvsms.saude.gov.br. Acesso em: 2 ago. 2013 (adaptado).\n\nAs regiões brasileiras onde foram intensificadas campanhas na época são",
+    "imagens": [
+      "https://enem.dev/2014/questions/138/3fe2669a-4174-4db9-a85e-cee6c877f765.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Norte, Centro-Oeste e Sul.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Norte, Nordeste e Sudeste.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Nordeste, Norte e Sul.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Nordeste, Sudeste e Sul.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Centro-Oeste, Sul e Sudeste.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 138",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/138",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-139",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 139,
+    "area": "matematica",
+    "enunciado": "A razão entre a largura da nova porta e a largura da porta anterior é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/8",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "7/8",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "8/7",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "8/9",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "9/8",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "razao-proporcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 139",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/139",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-140",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 140,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/140/4c998d12-4067-468b-8789-037afc8b6503.png)\n\nSe cada brasileiro adotar o consumo de água indicado no quadro, mantendo o mesmo consumo nas demais atividades, então economizará diariamente, em média, em litros de água,",
+    "imagens": [
+      "https://enem.dev/2014/questions/140/4c998d12-4067-468b-8789-037afc8b6503.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30,0.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "69,6.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "100,4.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "130,4.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "170,0.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas",
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 140",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/140",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-141",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 141,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/141/ed992f8e-53a4-461c-8d93-6d5c402836e3.png)\n\nSegundo o edital de seleção, o candidato aprovado será aquele para o qual a mediana das notas obtidas por ele nas quatro disciplinas for a maior. O candidato aprovado será",
+    "imagens": [
+      "https://enem.dev/2014/questions/141/ed992f8e-53a4-461c-8d93-6d5c402836e3.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "K.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "L.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "M.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "N.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "P.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 141",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/141",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-142",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 142,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/142/3a321f8b-9e36-433f-9664-4f989a797ed8.png)\n\nConsidere um silo de 2 m de altura, 6 m de largura de topo e 20 m de comprimento. Para cada metro de altura do silo, a largura do topo tem 0,5 m a mais do que a largura do fundo. Após a silagem, 1 tonelada de forragem ocupa 2 m3 desse tipo de silo.\n\nEMBRAPA. **Gado de corte**. Disponível em: www.cnpgc.embrapa.br. Acesso em: 1 ago. 2012 (adaptado).\n\nApós a silagem, a quantidade máxima de forragem que cabe no silo, em toneladas, é",
+    "imagens": [
+      "https://enem.dev/2014/questions/142/3a321f8b-9e36-433f-9664-4f989a797ed8.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "110.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "125.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "130.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "220.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "260.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "razao-proporcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 142",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/142",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-143",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 143,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/143/7bcb5fac-8918-4e78-8ef7-d6e64ee5a6a4.png)\n\nNo topo da escultura foi ligada uma torneira que verte água, para dentro dela, com vazão constante.\n\nO gráfico que expressa a altura (h) da água na escultura em função do tempo (t) decorrido é:",
+    "imagens": [
+      "https://enem.dev/2014/questions/143/7bcb5fac-8918-4e78-8ef7-d6e64ee5a6a4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/143/4d7826cb-921c-4dff-97ce-81149babd82f.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/143/2d316985-fd36-476a-bbe0-7afe7e3b023f.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/143/8e77cb3b-c40c-4d99-99ed-8570710b158b.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/143/34491019-1b0e-408f-8215-32a73523f426.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/143/98ea7324-d1b1-4850-8c7e-e38c23efd1f6.png"
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 143",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/143",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-144",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 144,
+    "area": "matematica",
+    "enunciado": "Qual deverá ser a forma do adesivo?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/144/44526171-b101-4a97-acc1-054ba72d0fa7.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/144/a2d14544-a249-440f-b625-70e5ac48098c.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/144/1cb65586-4441-4648-95ca-f2d2d2219c50.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/144/d9792780-c879-4c1d-921c-dd1b1ac88884.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/144/fda755b2-ba2a-4f7f-84a5-6a29fb07e1e0.png"
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 144",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/144",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-145",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 145,
+    "area": "matematica",
+    "enunciado": "A expressão da função y = f(x) a ser utilizada pelo professor é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/145/fb982b59-0d4c-4072-a3f3-0d07ba073215.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/145/b3e30fe0-d8fb-4cca-abc7-8d2723b68bcc.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/145/e22c424c-ede8-4fc6-9030-a7293c0164df.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/145/f987fd5b-b6b5-44ae-a434-054759e16220.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/145/764cd798-3b7c-4607-9287-1364cfc323dc.png"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 145",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/145",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-146",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 146,
+    "area": "matematica",
+    "enunciado": "O número de divisores de N, diferentes de N, é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "X. y. z",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "(x+ 1).(y + 1)",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "X . y . z - 1",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "(x + 1).(y + 1).z",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "(x + 1).(y + 1).(z + 1) - 1",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 146",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/146",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-147",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 147,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/147/7d03f38b-d6bf-4e4a-821c-ff2c6d13f8e0.png)\n\nA quantidade máxima de triângulos não congruentes dois a dois que podem ser construídos é",
+    "imagens": [
+      "https://enem.dev/2014/questions/147/7d03f38b-d6bf-4e4a-821c-ff2c6d13f8e0.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "5.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "6.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "8.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "10.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 147",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/147",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-148",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 148,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/148/925f6a93-dd23-47d0-9176-6aa8754c38dd.png)\n\nNa figura, considere o plano cartesiano que contém a trajetória do assento do balanço, no qual a origem está localizada no topo do suporte do balanço, o eixo _X_ é paralelo ao chão do parque, e o eixo _Y_ tem orientação positiva para cima.\n\nA curva determinada pela trajetória do assento do balanço é parte do gráfico da função",
+    "imagens": [
+      "https://enem.dev/2014/questions/148/925f6a93-dd23-47d0-9176-6aa8754c38dd.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/148/b3d12a51-2044-42f4-9140-e1f94db0869a.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/148/a6615a80-066b-48bb-b21f-e7afe60a2bb8.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/148/b27e051a-39e5-4a70-a1fa-416e9ede79de.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/148/94b0c3ef-ada7-4aff-8d8e-7f0f5e4b0328.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/148/03e71b23-821a-4ec1-b825-ea5526695497.png"
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "leitura-grafico-funcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 148",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/148",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-149",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 149,
+    "area": "matematica",
+    "enunciado": "Qual é o tempo mínimo para que todos passem pelas catracas?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 hora.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 hora e 15 minutos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "5 horas.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "6 horas.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "6 horas e 15 minutos.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 149",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/149",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-150",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 150,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/150/d2daa25c-0942-4c50-b2a5-6ec82f5bcd4e.png)\n\nO maior valor possível para x, em centímetros, para que a caixa permaneça dentro dos padrões permitidos pela Anac é:",
+    "imagens": [
+      "https://enem.dev/2014/questions/150/d2daa25c-0942-4c50-b2a5-6ec82f5bcd4e.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "25.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "33.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "42.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "45.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "49.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 150",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/150",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-151",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 151,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/151/f01eefec-e89d-4de0-881e-3bf1249199ff.png)\n\nSerá produzida uma nova lata, com os mesmos formato e volume, de tal modo que as dimensões de sua base sejam 25% maiores que as da lata atual.\n\nPara obter a altura da nova lata, a altura da lata atual deve ser reduzida em",
+    "imagens": [
+      "https://enem.dev/2014/questions/151/f01eefec-e89d-4de0-881e-3bf1249199ff.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "14,4%",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "20,0%",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "32,0%",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "36,0%",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "64,0%",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 151",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/151",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-152",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 152,
+    "area": "matematica",
+    "enunciado": "Se o volume de esgoto gerado permanecer o mesmo e a meta dessa campanha se concretizar, o percentual de esgoto tratado passará a ser",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "72%",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "68%",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "64%",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "54%",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "18%",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 152",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/152",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-153",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 153,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/153/3938c0bb-0e7b-4093-a8cc-36fc3213211a.png)\n\nQual deve ser o aumento na receita da empresa para que o lucro mensal em 2014 seja o mesmo de 2013?",
+    "imagens": [
+      "https://enem.dev/2014/questions/153/3938c0bb-0e7b-4093-a8cc-36fc3213211a.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 114 285,00",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 130 000,00",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 160 000,00",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 210 000,00",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 213 333,00",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 153",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/153",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-154",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 154,
+    "area": "matematica",
+    "enunciado": "Qual desses jogadores apresentou maior desempenho?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 154",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/154",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-155",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 155,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/155/d051c23d-cdd3-4ec4-9957-a9aa1a9bd0c4.png)\n\nA menor nota que o candidato II deverá obter na prova final de química para vencer a competição é",
+    "imagens": [
+      "https://enem.dev/2014/questions/155/d051c23d-cdd3-4ec4-9957-a9aa1a9bd0c4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "18.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "19.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "22.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "25.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "26.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 155",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/155",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-156",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 156,
+    "area": "matematica",
+    "enunciado": "O volume real do armário, em centímetros cúbicos, será",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "600.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "6 000.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "60 000.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "6 000 000.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 156",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/156",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-157",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 157,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/157/0036f173-2e12-4c90-9b1b-9eb2fb4de45b.png)\n\nPara quantificar os sapatos pela cor, os donos representaram a cor branca pelo número 0 e a cor preta pelo número 1. Sabe-se que a média da distribuição desses zeros e uns é igual a 0,45.\n\nOs donos da loja decidiram que a numeração dos sapatos com maior número de reclamações e a cor com maior número de reclamações não serão mais vendidas.\n\nA loja encaminhou um ofício ao fornecedor dos sapatos, explicando que não serão mais encomendados os sapatos de cor",
+    "imagens": [
+      "https://enem.dev/2014/questions/157/0036f173-2e12-4c90-9b1b-9eb2fb4de45b.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Branca e os de número 38.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Branca e os de número 37.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Branca e os de número 36.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Preta e os de número 38.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Preta e os de número 37.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 157",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/157",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-158",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 158,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/158/f3fb8087-ffc9-4624-9550-cb84254ac99f.png)\n\nBENSEÑOR, I. M.; LOTUFO, P. A. **Epidemologia**: abordagem prática.\n\nSão Paulo: Sarvier, 2011 (adaptado).\n\nConforme o quadro do teste proposto, a sensibilidade dele é de",
+    "imagens": [
+      "https://enem.dev/2014/questions/158/f3fb8087-ffc9-4624-9550-cb84254ac99f.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "47,5%.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "85,0%.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "86,3%.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "94,4%.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "95,0%.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 158",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/158",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-159",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 159,
+    "area": "matematica",
+    "enunciado": "O número máximo de mudas que essa pessoa poderá plantar no espaço disponível é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "8.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "9.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "12.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "20.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 159",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/159",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-160",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 160,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/160/11f9c9a3-5c62-4447-a760-38bc9e08fad7.png)\n\nA figura que melhor representa a projeção ortogonal, sobre o piso da casa (plano), do caminho percorrido pela mão dessa pessoa é:",
+    "imagens": [
+      "https://enem.dev/2014/questions/160/11f9c9a3-5c62-4447-a760-38bc9e08fad7.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/160/142a57c8-6522-4336-a5a0-05764ab1ebcb.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/160/919d8e0f-3413-404e-9860-6026cf5673fa.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/160/9f27ec03-1133-457b-96f5-3889bb9c7f0a.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/160/7d666080-f366-4e80-8841-c44ed37580d3.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/160/440c2296-9aec-4eeb-a029-7cdf4cb320c2.png"
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 160",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/160",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-161",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 161,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/161/46f3d644-43b0-4dfc-9d1e-e688725abdaa.png)\n\nLevando-se em consideração os experimentos feitos, o reagente que atende às expectativas do pesquisador é o",
+    "imagens": [
+      "https://enem.dev/2014/questions/161/46f3d644-43b0-4dfc-9d1e-e688725abdaa.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 161",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/161",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-162",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 162,
+    "area": "matematica",
+    "enunciado": "_Valor do kWh (com tributos)_ x _consumo (em kWh) + Cosip_\n\nO valor da Cosip é fixo em cada faixa de consumo.  O quadro mostra o valor cobrado para algumas faixas.\n\n![](https://enem.dev/2014/questions/162/9f6d3bb3-95ac-44b3-88c3-7b0fe6d9d2f6.png)\n\nSuponha que, em uma residência, todo mês o consumo seja de 150 kWh, e o valor do kWh (com tributos) seja de R$ 0,50. O morador dessa residência pretende diminuir seu consumo mensal de energia elétrica com o objetivo de reduzir o custo total da conta em pelo menos 10%.\n\nQual deve ser o consumo máximo, em kWh, dessa residência para produzir a redução pretendida pelo morador?",
+    "imagens": [
+      "https://enem.dev/2014/questions/162/9f6d3bb3-95ac-44b3-88c3-7b0fe6d9d2f6.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "134,1",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "135,0",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "137,1",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "138,6",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "143,1",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 162",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/162",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-163",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 163,
+    "area": "matematica",
+    "enunciado": "De quantas formas distintas a estratégia desse cliente poderá ser posta em prática?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/163/d5d5048f-7ee3-40c6-b96b-ba9980dc7d05.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/163/41b3be85-5bb9-46db-9a3b-867bd95c514a.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/163/c02a3e9d-3cd7-4b47-91d5-d99aa1ee7b5d.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/163/2940ac08-b920-4111-9d2c-1d107c65df28.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/163/17d5d462-0b07-4324-9f98-61f36a9f808c.png"
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "analise-combinatoria",
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 163",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/163",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-164",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 164,
+    "area": "matematica",
+    "enunciado": "A probabilidade de o teste terminar na quinta pergunta é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,02048.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,08192.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,24000.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "0,40960.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "0,49152.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 164",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/164",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-165",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 165,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/165/b6b29eae-3d2d-447e-8ebf-a7e7c23b4e8f.png)\n\nAs medições de velocidade deixariam de ocorrer de maneira instantânea, ao se passar pelo radar, e seriam feitas a partir da velocidade média no trecho, considerando o tempo gasto no percurso entre um radar e outro. Sabe-se que a velocidade média é calculada como sendo a razão entre a distância percorrida e o tempo gasto para percorrê-la. O teste realizado mostrou que o tempo que permite uma condução segura de deslocamento no percurso entre os dois radares deveria ser de, no mínimo, 1 minuto e 24 segundos. Com isso, a CET precisa instalar uma placa antes do primeiro radar informando a velocidade média máxima permitida nesse trecho da via. O valor a ser exibido na placa deve ser o maior possível, entre os que atendem às condições de condução segura observadas.\n\nDisponível em: www1.folha.uol.com.br. Acesso em: 11 jan. 2014 (adaptado).\n\nA placa de sinalização que informa a velocidade que atende a essas condições é",
+    "imagens": [
+      "https://enem.dev/2014/questions/165/b6b29eae-3d2d-447e-8ebf-a7e7c23b4e8f.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/165/f4a4d1b9-83d7-4a83-947e-98fb97f81fbc.bmp"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/165/37cfc841-1368-4c3e-9518-13619ab55123.bmp"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/165/c18ced6c-5bd6-4ec4-b375-e136f68d1416.bmp"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/165/9fb1f2ca-3cfc-4eb1-83a5-0dd17ccc96cd.bmp"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2014/questions/165/f3c38b54-c09a-429b-ba43-e4e735a5c9f0.bmp"
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 165",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/165",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-166",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 166,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/166/9eb6c121-ac40-452b-b439-1b2261d6e950.png)\n\nEssa pessoa pretende gastar exatamente R$ 30,00 por mês com telefone.\n\nDos planos telefônicos apresentados, qual é o mais vantajoso, em tempo de chamada, para o gasto previsto para essa pessoa?",
+    "imagens": [
+      "https://enem.dev/2014/questions/166/9eb6c121-ac40-452b-b439-1b2261d6e950.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "B",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "C",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "D",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "E",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 166",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/166",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-167",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 167,
+    "area": "matematica",
+    "enunciado": "Use 3 como valor aproximado para π.\n\nA redução do volume da pílula, em milímetros cúbicos, após a reprogramação da máquina, será igual a",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "168.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "304.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "306.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "378.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "514.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 167",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/167",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-168",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 168,
+    "area": "matematica",
+    "enunciado": "O Brasil é um país com uma vantagem econômica clara no terreno dos recursos naturais, dispondo de uma das maiores áreas com vocação agrícola do mundo. Especialistas calculam que, dos 853 milhões de hectares do país, as cidades, as reservas indígenas e as áreas de preservação, incluindo florestas e mananciais, cubram por volta de 470 milhões de hectares. Aproximadamente 280 milhões se destinam à agropecuária, 200 milhões para pastagens e 80 milhões para a agricultura, somadas as lavouras anuais e as perenes, como o café e a fruticultura.\n\nFORTES, G. Recuperação de pastagens é alternativa para ampliar cultivos. **Folha de S. Paulo**, 30 out. 2011.\n\nDe acordo com os dados apresentados, o percentual correspondente à área utilizada para agricultura em relação à área do território brasileiro é mais próximo de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "32,8%",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "28,6%",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "10,7%",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "9,4%",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "8,0%",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 168",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/168",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-169",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 169,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/169/b44d9617-dc63-4685-b986-350085211e6d.png)\n\nDeseja-se reproduzi-la numa folha de papel retangular com 42 cm de comprimento e 30 cm de altura, deixando livres 3 cm em cada margem, conforme a Figura 2.\n\n![](https://enem.dev/2014/questions/169/763670f1-6c10-4db7-bc89-5871441c12b6.png)\n\nA reprodução da gravura deve ocupar o máximo possível da região disponível, mantendo-se as proporções da Figura 1\n\nPRADO, A. C. **Superinteressante**, ed. 301, fev. 2012 (adaptado).\n\nA escala da gravura reproduzida na folha de papel é",
+    "imagens": [
+      "https://enem.dev/2014/questions/169/b44d9617-dc63-4685-b986-350085211e6d.png",
+      "https://enem.dev/2014/questions/169/763670f1-6c10-4db7-bc89-5871441c12b6.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 : 3.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 : 4.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 : 20.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1 : 25.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "1 : 32.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 169",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/169",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-170",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 170,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/170/3ce1ab6e-11a1-45d0-a43f-cf84e9fc4e79.png)\n\nEm seguida, retira-se o cilindro de madeira do meio do papel enrolado, finalizando a confecção do diploma. Considere que a espessura da folha de papel original seja desprezível.\n\nQual é a medida, em centímetros, do lado da folha de papel usado na confecção do diploma?",
+    "imagens": [
+      "https://enem.dev/2014/questions/170/3ce1ab6e-11a1-45d0-a43f-cf84e9fc4e79.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Π d",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2π d",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "4π d",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "5π d",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "10π d",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 170",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/170",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-171",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 171,
+    "area": "matematica",
+    "enunciado": "No caso de carga máxima, as cargas recebidas pelos três pontos de sustentação serão, respectivamente,",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,8 t; 8,4 t; 1,8 t.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "3,0 t; 6,0 t; 3,0 t.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2,4 t; 7,2 t; 2,4 t.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "3,6 t; 4,8 t; 3,6 t.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "4,2 t; 3,6 t; 4,2 t.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 171",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/171",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-172",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 172,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/172/d8842865-9aae-47ac-87d3-7eb78f57f384.png)\n\nDisponível em: www.culturaperuana.com.br. Acesse em: 13 dez. 2012.\n\nO número da representação do quipus da Figura 2, em base decimal, é",
+    "imagens": [
+      "https://enem.dev/2014/questions/172/d8842865-9aae-47ac-87d3-7eb78f57f384.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "364.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "463.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3 064.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "3 640.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "4 603.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H1",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 172",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/172",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-173",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 173,
+    "area": "matematica",
+    "enunciado": "Qual é o valor, em metros quadrados, da área coberta pelo terreno da piscina?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "80",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "800",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "8 000",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "80 000",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 173",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/173",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-174",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 174,
+    "area": "matematica",
+    "enunciado": "O secretário de saúde comprará recipientes de um mesmo tipo, de modo a instalar 20 deles em cada escola, abastecidos com álcool em gel na sua capacidade máxima, de forma a utilizar todo o gel dos galões de uma só vez.\n\nQue tipo de recipiente o secretário de saúde deve comprar?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "II",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "III",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "IV",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "V",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 174",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/174",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-175",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 175,
+    "area": "matematica",
+    "enunciado": "De acordo com as informações, o intervalo das porcentagens que representam a variação total possível de P é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "[35 ; 63].",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "[40 ; 63].",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "[50 ; 70].",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "[50 ; 90].",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "[70 ; 90].",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H20",
+    "habilidade_origem": "heuristica",
+    "competencia": "C5",
+    "assuntos": [
+      "leitura-grafico-funcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 175",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/175",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-176",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 176,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/176/26bc065f-aefd-4edc-9fec-d2a1027ddf48.png)\n\nEm que dia dessa semana a quantidade total de bactérias nesse ambiente de cultura foi máxima?",
+    "imagens": [
+      "https://enem.dev/2014/questions/176/26bc065f-aefd-4edc-9fec-d2a1027ddf48.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Terça-feira.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Quarta-feira.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Quinta-feira.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Sexta-feira.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Domingo.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 176",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/176",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-177",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 177,
+    "area": "matematica",
+    "enunciado": "![](https://enem.dev/2014/questions/177/0a4df606-c0a5-4bac-b988-67ea996fa475.png)\n\nQuantos minutos essa torneira levará para encher completamente o restante do depósito?",
+    "imagens": [
+      "https://enem.dev/2014/questions/177/0a4df606-c0a5-4bac-b988-67ea996fa475.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "10",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "16",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "18",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "24",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 177",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/177",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-178",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 178,
+    "area": "matematica",
+    "enunciado": "Qual deve ser a ação desse proprietário para que ele atinja o seu objetivo?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Retirar 16 células.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Retirar 40 células.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Acrescentar 5 células.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Acrescentar 20 células.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Acrescentar 40 células.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 178",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/178",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-179",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 179,
+    "area": "matematica",
+    "enunciado": "A quantia que essa pessoa levava semanalmente para fazer a compra era",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 166,00.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 156,00.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 84,00.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 46,00.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 24,00.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 179",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/179",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2014-180",
+    "ano": 2014,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 180,
+    "area": "matematica",
+    "enunciado": "Para que o executivo chegue à cidade A no horário correto e admitindo que não haja atrasos, ele deve pegar um voo saindo da cidade B, em horário local de B, no máximo à(s)",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "16h.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "10h.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "7h.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4h.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "1h.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2014, 2º dia, caderno azul (aplicação regular), questão 180",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2014/questions/180",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": true,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  }
+]

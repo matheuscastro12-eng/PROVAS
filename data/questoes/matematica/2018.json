@@ -1,0 +1,2699 @@
+[
+  {
+    "id": "enem-2018-137",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 137,
+    "area": "matematica",
+    "enunciado": "Um contrato de empréstimo prevê que quando uma parcela é paga de forma antecipada, conceder-se-á uma redução de juros de acordo com o período de antecipação. Nesse caso, paga-se o valor presente, que é o valor, naquele momento, de uma quantia que deveria ser paga em uma data futura. Um valor presente _P_ submetido a juros compostos com taxa _i_, por um período de tempo _n_, produz um valor futuro _V_ determinado pela fórmula:\n\n![](https://enem.dev/2018/questions/137/477c2dff-f10a-4655-bf0c-8a3babc99e12.png)\n\nEm um contrato de empréstimo com sessenta parcelas fixas mensais, de R$820,00, a uma taxa de juros de 1,32% ao mês, junto com a trigésima parcela será paga antecipadamente uma outra parcela, desde que o desconto seja superior a 25% do valor da parcela.\n\nUtilize 0,2877 como aproximação para In ![](https://enem.dev/2018/questions/137/2061f394-d117-48f8-a334-f76269a6c036.png) e 0,0131 como aproximação para In (1,0132).\n\nA primeira das parcelas que poderá ser antecipada junto com a 30ª é a",
+    "imagens": [
+      "https://enem.dev/2018/questions/137/477c2dff-f10a-4655-bf0c-8a3babc99e12.png",
+      "https://enem.dev/2018/questions/137/2061f394-d117-48f8-a334-f76269a6c036.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "56ª",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "55ª",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "52ª",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "51ª",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "45ª",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "matematica-financeira",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 137",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/137",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-138",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 138,
+    "area": "matematica",
+    "enunciado": "Um jogo pedagógico utiliza-se de uma interface algébrico-geométrica do seguinte modo: os alunos devem eliminar os pontos do plano cartesiano dando “tiros”, seguindo trajetórias que devem passar pelos pontos escolhidos. Para dar os tiros, o aluno deve escrever em uma janela do programa a equação cartesiana de uma reta ou de uma circunferência que passa pelos pontos e pela origem do sistema de coordenadas. Se o tiro for dado por meio da equação da circunferência, cada ponto diferente da origem que for atingido vale 2 pontos. Se o tiro for dado por meio da equação de uma reta, cada ponto diferente da origem que for atingido vale 1 ponto. Em uma situação de jogo, ainda restam os  seguintes pontos para serem eliminados: A(0 ; 4), 6(4 ; 4), C(4 ; 0), D(2 ; 2) e E(0; 2).\n\n![](https://enem.dev/2018/questions/138/da8a254c-332c-4417-b998-1bde73398c79.png)\n\nPassando pelo ponto A, qual equação forneceria a maior pontuação?",
+    "imagens": [
+      "https://enem.dev/2018/questions/138/da8a254c-332c-4417-b998-1bde73398c79.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "X = 0",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Y = 0",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "X² + y² =16",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "X² + (y-2)² = 4",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "(x -2 )² + ( y - 2 )² = 8",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-analitica",
+      "equacao-1-grau",
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 138",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/138",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-139",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 139,
+    "area": "matematica",
+    "enunciado": "Sobre um sistema cartesiano considera-se uma malha formada por circunferências de raios com medidas dadas por números naturais e por 12 semirretas com extremidades na origem, separadas por ângulos de ![](https://enem.dev/2018/questions/139/d84b3e68-0894-4239-a9ec-c8e469562e5c.png) conforme a figura.\n\n![](https://enem.dev/2018/questions/139/156b89f8-d720-4f70-a5d9-81bbfe878262.png)\n\nSuponha que os objetos se desloquem apenas pelas semirretas e pelas circunferências dessa malha, não podendo passar pela origem (0;0).  \nConsidere o valor de _π_ com aproximação de, pelo menos, uma casa decimal.\n\nPara realizar o percurso mais curto possível ao longo da malha, do ponto B até o ponto A, um objeto deve percorrer uma distância igual a:",
+    "imagens": [
+      "https://enem.dev/2018/questions/139/d84b3e68-0894-4239-a9ec-c8e469562e5c.png",
+      "https://enem.dev/2018/questions/139/156b89f8-d720-4f70-a5d9-81bbfe878262.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/139/1d1d2cb9-d3f2-40bd-8788-ceb1aaaf1252.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/139/3d56d354-9153-49b1-bfe6-34dba6a2b043.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/139/6adf9c16-37c7-4686-89e7-dc05a22c1a47.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/139/8161d961-7997-4971-b30d-427924fc0ac8.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/139/aa89cb88-6296-4a65-8d57-ebe259edc4b0.png"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H1",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "numeros-operacoes",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 139",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/139",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-141",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 141,
+    "area": "matematica",
+    "enunciado": "A prefeitura de um pequeno município do interior decide colocar postes para  iluminação ao longo de uma estrada retilínea, que inicia em uma praça central e termina numa fazenda na zona rural. Como a praça já possui iluminação, o primeiro poste será colocado a 80 metros da praça, o segundo, a 100 metros, o terceiro, a 120 metros, e assim sucessivamente, mantendo-se sempre uma distância de vinte metros entre os postes, até que o último poste seja colocado a uma distância de 1 380 metros da praça.\n\nSe a prefeitura pode pagar, no máximo, R$ 8 000,00 por poste colocado, o maior valor que poderá gastar com a colocação desses postes é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$512 000,00.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "R$520 000,00.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "R$528 000,00.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "R$552 000,00.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "R$584 000,00.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 141",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/141",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-143",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 143,
+    "area": "matematica",
+    "enunciado": "Os tipos de prata normalmente vendidos são 975, 950 e 925. Essa classificação é feita de acordo com a sua pureza. Por exemplo, a prata 975 é a substância constituída de 975 partes de prata pura e 25 partes de cobre em 1 000 partes da substância. Já a prata 950 é constituída de 950 partes de prata pura e 50 de cobre em 1 000; e a prata 925 é constituída de 925 partes de prata pura e 75 partes de cobre em 1 000. Um ourives possui 10 gramas de prata 925 e deseja obter 40 gramas de prata 950 para produção de uma joia.\n\nNessas condições, quantos gramas de prata e de cobre, respectivamente, devem ser fundidos com os 10 gramas de prata 925?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "29,25 e 0,75",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "28,75 e 1,25",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "28,50 e 1,50",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "27,75 e 2,25",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "25,00 e 5,00",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 143",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/143",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-144",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 144,
+    "area": "matematica",
+    "enunciado": "Em um aeroporto, os passageiros devem submeter suas bagagens a uma das cinco máquinas de raio-X disponíveis ao adentrarem a sala de embarque. Num dado instante, o tempo gasto por essas máquinas para escanear a bagagem de cada passageiro e o número de pessoas presentes em cada fila estão apresentados em um painel, como mostrado na figura.\n\n![](https://enem.dev/2018/questions/144/c95def0f-e520-4774-9ff2-00ab5e8ab0c1.png)\n\nUm passageiro, ao chegar à sala de embarque desse aeroporto no instante indicado, visando esperar o menor tempo possível, deverá se dirigir à máquina",
+    "imagens": [
+      "https://enem.dev/2018/questions/144/c95def0f-e520-4774-9ff2-00ab5e8ab0c1.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 144",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/144",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-145",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 145,
+    "area": "matematica",
+    "enunciado": "A Comissão Interna de Prevenção de Acidentes (CIPA) de uma empresa,  observando os altos custos com os frequentes acidentes de trabalho ocorridos, fez, a pedido da diretoria, uma pesquisa do número de acidentes sofridos por funcionários. Essa pesquisa, realizada com uma amostra de 100 funcionários, norteará as ações da empresa na política de segurança no trabalho.  \nOs resultados obtidos estão no quadro.\n\n![](https://enem.dev/2018/questions/145/bc57dd00-a683-42ea-95a4-b3ffd7949f55.png)\n\nA média do número de acidentes por funcionário na amostra que a CIPA apresentará à diretoria da empresa é",
+    "imagens": [
+      "https://enem.dev/2018/questions/145/bc57dd00-a683-42ea-95a4-b3ffd7949f55.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,15.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "0,30.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "0,50.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1,11.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2,22.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 145",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/145",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-146",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 146,
+    "area": "matematica",
+    "enunciado": "Numa atividade de treinamento realizada no Exército de um determinado país, três equipes – Alpha, Beta e Gama – foram designadas a percorrer diferentes caminhos, todos com os mesmos pontos de partida e de chegada.  \n• A equipe Alpha realizou seu percurso em 90 minutos com uma velocidade média de 6,0 km/h.  \n• A equipe Beta também percorreu sua trajetória em 90 minutos, mas sua velocidade média foi de 5,0 km/h.  \n• Com uma velocidade média de 6,5 km/h, a equipe Gama concluiu seu caminho em 60 minutos.  \nCom base nesses dados, foram comparadas as distâncias ![](https://enem.dev/2018/questions/146/fb3e90c2-53bf-4913-98a9-f14b290c135d.png) percorridas pelas três equipes.\n\nA ordem das distâncias percorridas pelas equipes Alpha, Beta e Gama é",
+    "imagens": [
+      "https://enem.dev/2018/questions/146/fb3e90c2-53bf-4913-98a9-f14b290c135d.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/146/1fb8607c-0374-442f-a914-d45118679f4f.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/146/9652da77-3886-44df-909f-c3a7f1cc66d7.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/146/94830fa5-25d8-499d-a527-501c1c28c8cb.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/146/03f32730-2de7-4b08-a122-d4dc42b8bcce.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/146/f9dece31-c3d4-4018-adce-a72296ef5aaa.png"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 146",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/146",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-147",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 147,
+    "area": "matematica",
+    "enunciado": "O colesterol total de uma pessoa é obtido pela soma da taxa do seu “colesterol bom” com a taxa do seu “colesterol ruim”. Os exames periódicos, realizados em um paciente adulto, apresentaram taxa normal de “colesterol bom”, porém, taxa do “colesterol ruim” (também chamado LDL) de 280 mg/dL. O quadro apresenta uma classificação de acordo com as taxas de LDL em adultos.\n\n![](https://enem.dev/2018/questions/147/38704883-6fae-4379-b321-b5d918656a3a.png)\n\nO paciente, seguindo as recomendações médicas sobre estilo de vida e alimentação, realizou o exame logo após o primeiro mês, e a taxa de LDL reduziu 25%. No mês seguinte, realizou novo exame e constatou uma redução de mais 20% na taxa de LDL.\n\nDe acordo com o resultado do segundo exame, a classificação da taxa de LDL do paciente é",
+    "imagens": [
+      "https://enem.dev/2018/questions/147/38704883-6fae-4379-b321-b5d918656a3a.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ótima.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Próxima de ótima.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Limite",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Alta.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Muito alta.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 147",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/147",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-148",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 148,
+    "area": "matematica",
+    "enunciado": "Uma empresa deseja iniciar uma campanha publicitária divulgando uma promoção para seus possíveis consumidores. Para esse tipo de campanha, os meios mais viáveis são a distribuição de panfletos na rua e anúncios na rádio local. Considera-se que a população alcançada pela distribuição de panfletos seja igual ã quantidade de panfletos distribuídos, enquanto que a alcançada por um anúncio na rádio seja igual à quantidade de ouvintes desse anúncio. O custo de cada anúncio na rádio é de R$ 120,00, e a estimativa é de que seja ouvido por 1 500 pessoas. Já a produção e a distribuição dos panfletos custam R$ 180,00 cada 1 000 unidades. Considerando que cada pessoa será alcançada por um único desses meios de divulgação, a empresa pretende investir em ambas as mídias.\n\nConsidere X e Y os valores (em real) gastos em anúncios na rádio e com panfletos, respectivamente.\n\nO número de pessoas alcançadas pela campanha será dado pela expressão",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/148/815e56d4-7cf2-461e-b709-d3b3cc046213.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/148/a81a1d03-16e2-4934-8f48-901d1c2c8d0a.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/148/3b53ea9e-c3b3-47f1-a112-d94a02a89929.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/148/69efff97-2140-4f41-a084-51cb3aa9d1fb.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/148/4f37fa96-41c0-48d4-b071-319fe84388a3.png"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 148",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/148",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-149",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 149,
+    "area": "matematica",
+    "enunciado": "A inclinação de uma rampa é calculada da seguinte maneira: para cada metro medido na horizontal, mede-se x centímetros na vertical. Diz-se, nesse caso, que a rampa tem inclinação de x%, como no exemplo da figura:\n\n![](https://enem.dev/2018/questions/149/7cd35de7-0953-4f3c-81c7-91d49f3e2f05.png)\n\nA figura apresenta um projeto de uma rampa de acesso a uma garagem residencial cuja base, situada 2 metros abaixo do nível da rua, tem 8 metros de comprimento.\n\n![](https://enem.dev/2018/questions/149/f33abdb8-3adb-4c94-8a4f-6e477d249440.png)\n\nDepois de projetada a rampa, o responsável pela obra foi informado de que as normas técnicas do município onde ela está localizada exigem que a inclinação máxima de uma rampa de acesso a uma garagem residencial seja de 20%.  \nSe a rampa projetada tiver inclinação superior a 20%, o nível da garagem deverá ser alterado para diminuir o percentual de inclinação, mantendo o comprimento da base da rampa.\n\nPara atender às normas técnicas do município, o nível da garagem deverá ser",
+    "imagens": [
+      "https://enem.dev/2018/questions/149/7cd35de7-0953-4f3c-81c7-91d49f3e2f05.png",
+      "https://enem.dev/2018/questions/149/f33abdb8-3adb-4c94-8a4f-6e477d249440.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Elevado em 40 cm.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Elevado em 50 cm.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Mantido no mesmo nível.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Rebaixado em 40 cm.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Rebaixado em 50 cm.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 149",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/149",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-150",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 150,
+    "area": "matematica",
+    "enunciado": "Para ganhar um prêmio, uma pessoa deverá retirar, sucessivamente e sem reposição, duas bolas pretas de uma mesma urna.  \nInicialmente, as quantidades e cores das bolas são como descritas a seguir:  \n• Urna A – Possui três bolas brancas, duas bolas pretas e uma bola verde;  \n• Urna B – Possui seis bolas brancas, três bolas pretas e uma bola verde;  \n• Urna C – Possui duas bolas pretas e duas bolas verdes;  \n• Urna D – Possui três bolas brancas e três bolas pretas.  \nA pessoa deve escolher uma entre as cinco opções apresentadas:  \n• Opção 1 – Retirar, aleatoriamente, duas bolas da urna A;  \n• Opção 2 – Retirar, aleatoriamente, duas bolas da urna B;  \n• Opção 3 – Passar, aleatoriamente, uma bola da urna C para a urna A; após isso, retirar, aleatoriamente, duas bolas da urna A;  \n• Opção 4 – Passar, aleatoriamente, uma bola da urna D para a urna C; após isso, retirar, aleatoriamente, duas bolas da urna C;  \n• Opção 5 – Passar, aleatoriamente, uma bola da urna C para a urna D; após isso, retirar, aleatoriamente, duas bolas da urna D.\n\nCom o objetivo de obter a maior probabilidade possível de ganhar o prêmio, a pessoa deve escolher a opção",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "5.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 150",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/150",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-151",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 151,
+    "area": "matematica",
+    "enunciado": "A Ecofont possui _design_ baseado na velha fonte Vera Sans. Porém, ela tem um diferencial: pequenos buraquinhos circulares congruentes, e em todo o seu corpo, presentes em cada símbolo. Esses furos proporcionam um gasto de tinta menor na hora da impressão.\n\n![](https://enem.dev/2018/questions/151/e405bd59-e5e2-4ca8-885b-52cd9a249d2d.png)\n\nSuponha que a palavra ECO esteja escrita nessa fonte, com tamanho 192, e que seja composta por letras formadas por quadrados de lados x com furos circulares de raio ![](https://enem.dev/2018/questions/151/57de2d97-79b3-412f-b898-74d8da95dc5f.png) Para que a área a ser pintada seja reduzida a ![](https://enem.dev/2018/questions/151/54cbb144-7f20-4ae7-aeb6-f1d179294f74.png) da área inicial, pretende-se reduzir o tamanho da fonte. Sabe-se que, ao alterar o tamanho da fonte, o tamanho da letra é alterado na mesma proporção.\n\nNessas condições, o tamanho adequado da fonte será",
+    "imagens": [
+      "https://enem.dev/2018/questions/151/e405bd59-e5e2-4ca8-885b-52cd9a249d2d.png",
+      "https://enem.dev/2018/questions/151/57de2d97-79b3-412f-b898-74d8da95dc5f.png",
+      "https://enem.dev/2018/questions/151/54cbb144-7f20-4ae7-aeb6-f1d179294f74.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "64.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "48.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "24.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "21.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "12.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "razao-proporcao"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 151",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/151",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-152",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 152,
+    "area": "matematica",
+    "enunciado": "Para criar um logotipo, um profissional da área de _design_ gráfico deseja construí-lo utilizando o conjunto de pontos do plano na forma de um triângulo,  exatamente como mostra a imagem.\n\n![](https://enem.dev/2018/questions/152/30a16007-c0c0-48d8-afa8-5a4b353de0ab.png)\n\nPara construir tal imagem utilizando uma ferramenta gráfica, será necessário escrever algebricamente o conjunto que representa os pontos desse gráfico.\n\nEsse conjunto é dado pelos pares ordenados tais que",
+    "imagens": [
+      "https://enem.dev/2018/questions/152/30a16007-c0c0-48d8-afa8-5a4b353de0ab.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/152/ba7275fc-dc07-4b42-94d6-da6c53844fa8.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/152/fea69a4e-b568-4a4e-a2a3-bf30a6e8d34c.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/152/a3a18021-6219-406f-81a0-8057aceea09e.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/152/37ae63c0-96c9-40d4-b88f-75223b31607a.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/152/e9743309-471e-43e8-a2de-71d1739329df.png"
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "geometria-plana",
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 152",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/152",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-153",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 153,
+    "area": "matematica",
+    "enunciado": "A figura mostra uma praça circular que contém um chafariz em seu centro e, em seu entorno, um passeio. Os círculos que definem a praça e o chafariz são concêntricos.\n\n![](https://enem.dev/2018/questions/153/222ea15d-d436-4e73-8297-5e4a490f851a.png)\n\nO passeio terá seu piso revestido com ladrilhos. Sem condições de calcular os raios, pois o chafariz está cheio, um engenheiro fez a seguinte medição: esticou uma trena tangente ao chafariz, medindo a distância entre dois pontos _A_ e _B_, conforme a figura. Com isso, obteve a medida do segmento de reta _AB_: 16 m.\n\n![](https://enem.dev/2018/questions/153/1d6e5ac1-393a-426c-95c0-c70622ddc252.png)\n\nDispondo apenas dessa medida, o engenheiro calculou corretamente a medida da área do passeio, em metro quadrado.\n\nA medida encontrada pelo engenheiro foi",
+    "imagens": [
+      "https://enem.dev/2018/questions/153/222ea15d-d436-4e73-8297-5e4a490f851a.png",
+      "https://enem.dev/2018/questions/153/1d6e5ac1-393a-426c-95c0-c70622ddc252.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4π.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "8π.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "48π.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "64π.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "192π.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 153",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/153",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-154",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 154,
+    "area": "matematica",
+    "enunciado": "Um _designer_ de jogos planeja um jogo que faz uso de um tabuleiro de dimensão  n x n, com ![](https://enem.dev/2018/questions/154/9362959c-1289-4dc6-b20f-48073903e287.png)no qual cada jogador, na sua vez, coloca uma peça sobre uma das casas vazias do tabuleiro. Quando uma peça é posicionada, a região formada pelas casas que estão na mesma linha ou coluna dessa peça é chamada de zona de combate dessa peça. Na figura está ilustrada a zona de combate de uma peça colocada em uma das casas de um tabuleiro de dimensão 8 x 8.\n\n![](https://enem.dev/2018/questions/154/0068d482-0227-4b01-b0d9-39e450ef5215.png)\n\nO tabuleiro deve ser dimensionado de forma que a probabilidade de se posicionar a segunda peça aleatoriamente, seguindo a regra do jogo, e esta ficar sobre a zona de combate da primeira, seja inferior a ![](https://enem.dev/2018/questions/154/bbc3b943-e82f-4763-a5c5-058753ed2f88.png)\n\nA dimensão mínima que o designer deve adotar para esse tabuleiro é",
+    "imagens": [
+      "https://enem.dev/2018/questions/154/9362959c-1289-4dc6-b20f-48073903e287.png",
+      "https://enem.dev/2018/questions/154/0068d482-0227-4b01-b0d9-39e450ef5215.png",
+      "https://enem.dev/2018/questions/154/bbc3b943-e82f-4763-a5c5-058753ed2f88.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4 x 4.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "6 x 6.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "9 x 9.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "10 x 10.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "11 x 11.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 154",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/154",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-155",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 155,
+    "area": "matematica",
+    "enunciado": "O remo de assento deslizante é um esporte que faz uso de um barco e dois remos do mesmo tamanho. A figura mostra uma das posições de uma técnica chamada afastamento.\n\n![](https://enem.dev/2018/questions/155/f37e4605-4e3a-4335-beb3-c941cd9f8e05.png)\n\nNessa posição, os dois remos se encontram no ponto A e suas outras extremidades estão indicadas pelos pontos B e C. Esses três pontos formam um triângulo ABC cujo ângulo ![](https://enem.dev/2018/questions/155/8504e1af-d94a-4a73-96e9-f59d6b4fa9c4.png)  tem medida de 170°.\n\nO  tipo de triângulo com vértices nos pontos A, B e C, no momento em que o remador está nessa posição, é",
+    "imagens": [
+      "https://enem.dev/2018/questions/155/f37e4605-4e3a-4335-beb3-c941cd9f8e05.png",
+      "https://enem.dev/2018/questions/155/8504e1af-d94a-4a73-96e9-f59d6b4fa9c4.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Retângulo escaleno.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Acutângulo escaleno.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Acutângulo isósceles.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Obtusângulo escaleno.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Obtusângulo isósceles.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 155",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/155",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-156",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 156,
+    "area": "matematica",
+    "enunciado": "Um rapaz estuda em uma escola que fica longe de sua casa, e por isso precisa utilizar o transporte público. Como é muito observador, todos os dias ele anota a hora exata (sem considerar os segundos) em que o ônibus passa pelo ponto de espera. Também notou que nunca consegue chegar ao ponto de ônibus antes de 6h 15 min da manhã. Analisando os dados coletados durante o mês de fevereiro, o  qual teve 21 dias letivos, ele concluiu que 6 h 21 min foi o que mais se repetiu, e que a mediana do conjunto de dados é 6 h 22 min.\n\nA probabilidade de que, em algum dos dias letivos de fevereiro, esse rapaz tenha apanhado o ônibus antes de 6 h 21 min da manhã é, no máximo,",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4/21",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "5/21",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "6/21",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "7/21",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "8/21",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas",
+      "probabilidade",
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 156",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/156",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-157",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 157,
+    "area": "matematica",
+    "enunciado": "Um mapa é a representação reduzida e simplificada de uma localidade. Essa redução, que é feita com o uso de uma escala, mantém a proporção do espaço representado em relação ao espaço real.  \nCerto mapa tem escala 1 : 58 000 000.\n\n![](https://enem.dev/2018/questions/157/4eb455e0-2c2e-46d3-83d6-d589c334a2c3.png)\n\nConsidere que, nesse mapa, o segmento de reta que liga o navio à marca do tesouro meça 7,6 cm.\n\nA medida real, em quilômetro, desse segmento de reta é",
+    "imagens": [
+      "https://enem.dev/2018/questions/157/4eb455e0-2c2e-46d3-83d6-d589c334a2c3.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4 408.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "7 632.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "44 080.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "76 316.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "440 800.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 157",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/157",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-158",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 158,
+    "area": "matematica",
+    "enunciado": "Um produtor de milho utiliza uma área de 160 hectares para as suas atividades agrícolas. Essa área é dividida em duas partes: uma de 40 hectares, com maior produtividade, e outra, de 120 hectares, com menor produtividade. A produtividade é dada pela razão entre a produção, em tonelada, e a área cultivada. Sabe-se que a área de 40 hectares tem produtividade igual a 2,5 vezes à  \nda outra. Esse fazendeiro pretende aumentar sua produção total em 15%,  aumentando o tamanho da sua propriedade. Para tanto, pretende comprar uma parte de uma fazenda vizinha, que possui a mesma produtividade da parte de 120 hectares de suas terras.\n\nQual é a área mínima, em hectare, em que o produtor precisará comprar?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "36",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "33",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "27",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "24",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "21",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 158",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/158",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-159",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 159,
+    "area": "matematica",
+    "enunciado": "_Minecraft_ é um jogo virtual que pode auxiliar no desenvolvimento de conhecimentos relacionados a espaço e forma. É possível criar casas, edifícios, monumentos e até naves espaciais, tudo em escala real, através do empilhamento de cubinhos.  \nUm jogador deseja construir um cubo com dimensões 4 x 4 x 4. Ele já empilhou alguns dos cubinhos necessários, conforme a figura.\n\n![](https://enem.dev/2018/questions/159/3165700a-a712-45c3-9e96-cbcc942d98e7.png)\n\nOs cubinhos que ainda faltam empilhar para finalizar a construção do cubo, juntos, formam uma peça única, capaz de completar a tarefa.\n\nO formato da peça capaz de completar o cubo 4 x 4 x 4 é",
+    "imagens": [
+      "https://enem.dev/2018/questions/159/3165700a-a712-45c3-9e96-cbcc942d98e7.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/159/7e00d062-f3ef-413c-a6c6-8101297adb78.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/159/fac127c0-476f-4865-95e1-fc57636f7213.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/159/cbc5a41d-a91a-4869-b508-c47eab7acea0.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/159/2f93160d-cde0-4da6-914c-8be65a4cf0e6.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/159/e953ba55-bf4d-433f-8d1a-514afba2a67e.png"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H6",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 159",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/159",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-160",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 160,
+    "area": "matematica",
+    "enunciado": "De acordo com um relatório recente da Agência Internacional de Energia (AIE), o mercado de veículos elétricos atingiu um novo marco em 2016, quando foram vendidos mais de 750 mil automóveis da categoria. Com isso, o total de carros elétricos vendidos no mundo alcançou a marca de 2 milhões de unidades desde que os primeiros modelos começaram a ser comercializados em 2011. No Brasil, a expansão das vendas também se verifica. A marca A, por exemplo, expandiu suas vendas no ano de 2016, superando em 360 unidades as vendas de 2015, conforme representado no gráfico.\n\n![](https://enem.dev/2018/questions/160/f5d1ad10-fc7b-4607-8c40-c152182706dd.png)\n\nA média anual do número de carros vendidos pela marca A, nos anos representados no gráfico, foi de",
+    "imagens": [
+      "https://enem.dev/2018/questions/160/f5d1ad10-fc7b-4607-8c40-c152182706dd.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "192.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "240.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "252.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "320.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "420.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas",
+      "equacao-1-grau",
+      "estatistica-basica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 160",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/160",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-161",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 161,
+    "area": "matematica",
+    "enunciado": "Para apagar os focos A e B de um incêndio, que estavam a uma distância de 30m um do outro, os bombeiros de um quartel decidiram se posicionar de modo que a distância de um bombeiro ao foco A, de temperatura mais elevada, fosse sempre o dobro da distância desse bombeiro ao foco B, de temperatura menos elevada.\n\nNestas condições, a maior distância, em metro, que dois bombeiros poderiam ter entre eles é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "40.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "45.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "60.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "68.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau",
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 161",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/161",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-162",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 162,
+    "area": "matematica",
+    "enunciado": "Torneios de tênis, em geral, são disputados em sistema de eliminatória simples. Nesse sistema, são disputadas partidas entre dois competidores, com a eliminação do perdedor e promoção do vencedor para a fase seguinte. Dessa forma, se na 1ª fase o torneio conta com 2_n_ competidores, então na 2ª fase restarão _n_ competidores, e assim sucessivamente até a partida final.  \nEm um torneio de tênis, disputado nesse sistema, participam 128 tenistas.\n\nPara se definir o campeão desse torneio, o número de partidas necessárias é dado por",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2 X 128",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "64 + 32 + 16 + 8 + 4 + 2",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "128 + 64 + 32 + 16 + 8 + 4 + 2 + 1",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "128 + 64 + 32 + 16 + 8 + 4 + 2",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "64 + 32 + 16 + 8+ 4 + 2+ 1",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade",
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 162",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/162",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-163",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 163,
+    "area": "matematica",
+    "enunciado": "O artigo 33 da lei brasileira sobre drogas prevê a pena de reclusão de 5 a 15 anos para qualquer pessoa que seja condenada por tráfico ilícito ou produção não autorizada de drogas. Entretanto, caso o condenado seja réu primário, com bons antecedentes criminais, essa pena pode sofrer uma redução de um sexto a dois terços.\n\nSuponha que um réu primário, com bons antecedentes criminais, foi condenado pelo artigo 33 da lei brasileira sobre drogas.\n\nApós o benefício da redução de pena, sua pena poderá variar de",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 ano e 8 meses a 12 anos e 6 meses.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "1 ano e 8 meses a 5 anos.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "3 anos e 4 meses a 10 anos.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "4 anos e 2 meses a 5 anos.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "4 anos e 2 meses a 12 anos e 6 meses.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": null,
+    "habilidade_origem": null,
+    "competencia": null,
+    "assuntos": [],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 163",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/163",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-164",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 164,
+    "area": "matematica",
+    "enunciado": "Um edifício tem a numeração dos andares iniciando no térreo (T), e continuando com primeiro, segundo, terceiro, …, até o último andar. Uma criança entrou no elevador e, tocando no painel, seguiu uma sequência de andares, parando, abrindo e fechando a porta em diversos andares. A partir de onde entrou a criança, o elevador subiu sete andares, em seguida desceu dez, desceu mais treze, subiu nove, desceu quatro e parou no quinto andar, finalizando a sequência. Considere que, no trajeto seguido pela criança, o elevador parou uma vez no último andar do edifício.\n\nDe acordo com as informações dadas, o último andar do edifício é o",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "16º",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "22º",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "23º",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "25º",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "32º",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 164",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/164",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-165",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 165,
+    "area": "matematica",
+    "enunciado": "O Salão do Automóvel de São Paulo é um evento no qual vários fabricantes expõem seus modelos mais recentes de veículos, mostrando, principalmente, suas inovações em design e tecnologia.  \nDisponível em: http://g1.globo.com. Acesso em: 4 fev. 2015 (adaptado).\n\nUma montadora pretende participar desse evento com dois estandes, um na entrada e outro na região central do salão, expondo, em cada um deles, um carro compacto e uma caminhonete. Para compor os estandes, foram disponibilizados pela montadora quatro carros compactos, de modelos distintos, e seis caminhonetes de diferentes cores para serem escolhidos aqueles que serão expostos. A posição dos carros dentro de cada estande é irrelevante.\n\nUma expressão que fornece a quantidade de maneiras diferentes que os estandes podem ser compostos é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/165/8a4d9acc-9b18-4293-9f6c-497c494f016d.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/165/2ebeb5be-8227-4178-9641-4b0a73914b53.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/165/e6a7bd56-205b-4909-b7e2-997d45edf6d5.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/165/a309bdb0-fe6a-4deb-86a0-2b602347e266.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/165/af3980ac-cba2-48cd-aa9c-75da41077140.png"
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "analise-combinatoria"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 165",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/165",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-166",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 166,
+    "area": "matematica",
+    "enunciado": "Os alunos da disciplina de estatística, em um curso universitário, realizam quatro avaliações por semestre com os pesos de 20%, 10%, 30% e 40%, respectivamente.  \nNo final do semestre, precisam obter uma média nas quatro avaliações de, no mínimo, 60 pontos para serem aprovados. Um estudante dessa disciplina obteve os seguintes pontos nas três primeiras avaliações: 46, 60 e 50, respectivamente.\n\nO mínimo de pontos que esse estudante precisa obter na quarta avaliação para ser aprovado é",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "29,8.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "71,0.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "74,5.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "75,5.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "84,0.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 166",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/166",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-167",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 167,
+    "area": "matematica",
+    "enunciado": "O gerente do setor de recursos humanos de uma empresa está organizando uma avaliação em que uma das etapas é um jogo de perguntas e respostas. Para essa etapa, ele classificou as perguntas, pelo nível de dificuldade, em fácil, médio e difícil, e escreveu cada pergunta em cartões para colocação em uma urna.\n\nContudo, após depositar vinte perguntas de diferentes níveis na urna, ele observou que 25% delas eram de nível fácil. Querendo que as perguntas de nível fácil sejam a maioria, o gerente decidiu acrescentar mais perguntas de nível fácil à urna, de modo que a probabilidade de o primeiro participante retirar, aleatoriamente, uma pergunta de nível fácil seja de 75%.\n\nCom essas informações, a quantidade de perguntas de nível fácil que o gerente deve acrescentar à urna é igual a",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "15.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "35.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "40.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "45.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H28",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "probabilidade"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 167",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/167",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-168",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 168,
+    "area": "matematica",
+    "enunciado": "A raiva é uma doença viral e infecciosa, transmitida por mamíferos. A campanha nacional de vacinação antirrábica tem o objetivo de controlar a circulação do vírus da raiva canina e felina, prevenindo a raiva humana. O gráfico mostra a cobertura (porcentagem de vacinados) da campanha, em cães, nos anos de 2013, 2015 e 2017, no município de Belo Horizonte, em Minas Gerais. Os valores das coberturas dos anos de 2014 e 2016 não estão informados no gráfico e deseja-se estimá-los. Para tal, levou-se em consideração que a variação na cobertura de vacinação da campanha antirrábica, nos períodos de 2013 a 2015 e de 2015 a 2017, deu-se de forma linear.\n\n![](https://enem.dev/2018/questions/168/cc2d3b70-86a9-4939-9193-7a240258c191.png)\n\nQual teria sido a cobertura dessa campanha no ano de 2014?",
+    "imagens": [
+      "https://enem.dev/2018/questions/168/cc2d3b70-86a9-4939-9193-7a240258c191.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "62,3%",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "63,0%",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "63,5%",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "64,0%",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "65,5%",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "porcentagem",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 168",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/168",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-169",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 169,
+    "area": "matematica",
+    "enunciado": "Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de 15m de altura e uma esteira de 90 m de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre 0,5 cm e 1 cm, enquanto a esteira deve apresentar comprimento superior a 4 cm. Todo o desenho deverá ser feito em uma escala 1 : X.\n\nOs valores possíveis para X são, apenas,",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "X > 1 500.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "X < 3 000.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "1 500 < X < 2 250.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "1 500 < X < 3 000.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2 250 < X < 3 000.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H10",
+    "habilidade_origem": "heuristica",
+    "competencia": "C3",
+    "assuntos": [
+      "grandezas-unidades-escalas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 169",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/169",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-170",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 170,
+    "area": "matematica",
+    "enunciado": "Em 2014 foi inaugurada a maior roda-gigante do mundo, a _High Roller_, situada em Las Vegas. A figura representa um esboço dessa roda-gigante, no qual o ponto A representa uma de suas cadeiras:\n\n![](https://enem.dev/2018/questions/170/b84e9f23-d18e-4f36-9917-643beaf719e3.png)\n\nA partir da posição indicada, em que o segmento _OA_ se encontra paralelo ao plano do solo, rotaciona-se a _High Roller_ no sentido anti-horário, em torno do ponto _O_. Sejam _t_ o ângulo determinado pelo segmento _OA_ em relação à sua posição inicial, e _f_ a função que descreve a altura do ponto _A_, em relação ao solo, em função de _t_. Após duas voltas completas, _f_ tem o seguinte gráfico:\n\nA expressão da função altura é dada por",
+    "imagens": [
+      "https://enem.dev/2018/questions/170/b84e9f23-d18e-4f36-9917-643beaf719e3.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F(t) = 80sen(t) + 88",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "F(t) = 80cos(t) + 8 8",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "F(t) = 88cos(t) + 168",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "F(t) = 168sen(t) + 88cos(t)",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "F(t) = 88sen(t) + 168cos(t)",
+        "imagem": null
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H15",
+    "habilidade_origem": "heuristica",
+    "competencia": "C4",
+    "assuntos": [
+      "funcao-afim",
+      "graficos-tabelas",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 170",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/170",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-171",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 171,
+    "area": "matematica",
+    "enunciado": "A rosa dos ventos é uma figura que representa oito sentidos, que dividem o círculo em partes iguais.\n\n![](https://enem.dev/2018/questions/171/17c9e8b1-0b8b-49a5-80c9-d7b32e25a0b3.png)\n\nUma câmera de vigilância está fixada no teto de um shopping e sua lente pode ser direcionada remotamente, através de um controlador, para qualquer sentido. A lente da câmera está apontada inicialmente no sentido Oeste e o seu controlador efetua três mudanças consecutivas, a saber:  \n• 1ª mudança: 135° no sentido anti-horário;  \n• 2ª mudança: 60° no sentido horário;  \n• 3ª mudança: 45° no sentido anti-horário.  \nApós a 3ª mudança, ele é orientado a reposicionar a câmera, com a menor amplitude possível, no sentido Noroeste (_NO_) devido a um movimento suspeito de um cliente.\n\nQual mudança de sentido o controlador deve efetuar para reposicionar a câmera?",
+    "imagens": [
+      "https://enem.dev/2018/questions/171/17c9e8b1-0b8b-49a5-80c9-d7b32e25a0b3.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "75° no sentido horário.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "105° no sentido anti-horário.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "120° no sentido anti-horário.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "135° no sentido anti-horário.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "165° no sentido horário.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H27",
+    "habilidade_origem": "heuristica",
+    "competencia": "C7",
+    "assuntos": [
+      "estatistica-basica",
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 171",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/171",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-172",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 172,
+    "area": "matematica",
+    "enunciado": "Na teoria das eleições, o Método de Borda sugere que, em vez de escolher um candidato, cada juiz deve criar um _ranking_ de sua preferência para os concorrentes (isto é, criar uma lista com a ordem de classificação dos concorrentes). A este ranking é associada uma pontuação: um ponto para o último colocado no _ranking_, dois pontos para o penúltimo, três para o antepenúltimo, e assim sucessivamente. Ao final, soma-se a pontuação atribuída a cada concorrente por cada um dos juízes.\n\nEm uma escola houve um concurso de poesia no qual cinco alunos concorreram a um prêmio, sendo julgados por 25 juízes. Para a escolha da poesia vencedora foi utilizado o Método de Borda. Nos quadros, estão apresentados os _rankings_ dos juízes e a frequência de cada _ranking_.\n\n![](https://enem.dev/2018/questions/172/36a8ea01-988a-4748-8a82-5c9a2607cbdb.png)\n\nA poesia vencedora foi a de",
+    "imagens": [
+      "https://enem.dev/2018/questions/172/36a8ea01-988a-4748-8a82-5c9a2607cbdb.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Edu.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "Dani.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "Caio.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "Bia.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "Ana.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "E",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "razao-proporcao",
+      "estatistica-basica",
+      "sequencias-pa"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 172",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/172",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-173",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 173,
+    "area": "matematica",
+    "enunciado": "Os guindastes são fundamentais em canteiros de obras, no manejo de materiais pesados como vigas de aço. A figura ilustra uma sequência de estágios em que um  guindaste iça uma viga de aço que se encontra inicialmente no solo.\n\n![](https://enem.dev/2018/questions/173/ace966fb-7b1a-431d-9b54-2c57b1e78d0d.png)\n\nNa figura, o ponto O representa a projeção ortogonal do cabo de aço sobre o plano do chão e este se mantém na vertical durante todo o movimento de içamento da viga, que se inicia no tempo t = 0 (estágio 1) e finaliza no ![](https://enem.dev/2018/questions/173/a57ff676-4fd7-4821-b75c-cf675966c899.png) (estágio 3). Uma das extremidades da viga é içada verticalmente a partir do ponto O, enquanto que a outra extremidade desliza sobre o solo em direção ao ponto O. Considere que o cabo de aço utilizado pelo guindaste para içar a viga fique sempre na posição vertical. Na figura, o ponto M representa o ponto médio do segmento que representa a viga.\n\n![](https://enem.dev/2018/questions/173/a776c7e1-aebd-4f91-b40e-861331c1db77.png)\n\nO gráfico que descreve a distância do ponto M ao ponto O, em função do tempo, entre, é",
+    "imagens": [
+      "https://enem.dev/2018/questions/173/ace966fb-7b1a-431d-9b54-2c57b1e78d0d.png",
+      "https://enem.dev/2018/questions/173/a57ff676-4fd7-4821-b75c-cf675966c899.png",
+      "https://enem.dev/2018/questions/173/a776c7e1-aebd-4f91-b40e-861331c1db77.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/173/ff2abae2-528e-4337-8115-3f45241150f7.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/173/f1baf187-1d0f-440c-bf5e-ddf90a972eb9.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/173/be3758af-749d-40c8-861c-79e0cc06eaa0.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/173/744395ff-a1d2-4989-9c4e-ab3599aae57f.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/173/a2c79be7-a0af-4389-a011-16d1b661007d.png"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H2",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "sequencias-pa",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 173",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/173",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-174",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 174,
+    "area": "matematica",
+    "enunciado": "Com o avanço em ciência da computação, estamos próximos do momento em que o número de transistores no processador de um computador pessoal será da mesma ordem de grandeza que o número de neurônios em um cérebro humano, que é da ordem de 100 bilhões.  \nUma das grandezas determinantes para o desempenho de um processador é a densidade de transistores, que é o número de transistores por centímetro quadrado. Em 1986, uma empresa fabricava um processador contendo 100 000 transistores distribuídos em 0,25 cm² de área. Desde então, o número de transistores por centímetro quadrado que se pode colocar em um processador dobra a cada dois anos (Lei de Moore).\n\nDisponível em: www.pocket-lint.com. Acesso em: 1 dez. 2017 (adaptado).\n\nConsidere 0,30 como aproximação para \nEm que ano a empresa atingiu ou atingirá a densidade de 100 bilhões de transistores?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1999",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "2002",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "2022",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "2026",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "2146",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "grandezas-unidades-escalas",
+      "progressao-geometrica"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 174",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/174",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-175",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 175,
+    "area": "matematica",
+    "enunciado": "Uma loja vende automóveis em N parcelas iguais sem juros. No momento de contratar o financiamento, caso o cliente queira aumentar o prazo, acrescentando mais 5 parcelas, o valor de cada uma das parcelas diminui R$200,00, ou se ele quiser diminuir o prazo, com 4 parcelas a menos, o valor de cada uma das parcelas sobe R$ 232,00. Considere ainda que, nas três possibilidades de pagamento, o valor do automóvel é o mesmo, todas são sem juros e não ê dado desconto em nenhuma das situações.\n\nNessas condições, qual é a quantidade N de parcelas a serem pagas de acordo com a proposta inicial da loja?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "24",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "29",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "40",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "58",
+        "imagem": null
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "matematica-financeira",
+      "porcentagem"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 175",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/175",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-176",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 176,
+    "area": "matematica",
+    "enunciado": "O salto ornamental é um esporte em que cada competidor realiza seis saltos. A nota em cada salto é calculada pela soma das notas dos juízes, multiplicada pela nota de partida (o grau de dificuldade de cada salto). Fica em primeiro lugar o atleta que obtiver a maior soma das seis notas recebidas.  \nO atleta 10 irá realizar o último salto da final. Ele observa no Quadro 1, antes de executar o salto, o recorte do quadro parcial de notas com a sua classificação e a dos três primeiros lugares atê aquele momento.\n\n![](https://enem.dev/2018/questions/176/858eaa5e-d8db-41d2-b16e-b2a312bb6f29.png)\n\nEle precisa decidir com seu treinador qual salto deverá realizar. Os dados dos possíveis tipos de salto estão no Quadro 2.\n\n![](https://enem.dev/2018/questions/176/404191f9-8cdb-4a30-80b6-b7d08af2d364.png)\n\nO atleta optará pelo salto com a maior probabilidade de obter a nota estimada, de maneira que lhe permita alcançar o primeiro lugar.\n\nConsiderando essas condições, o salto que o atleta deverá escolher é o de tipo",
+    "imagens": [
+      "https://enem.dev/2018/questions/176/858eaa5e-d8db-41d2-b16e-b2a312bb6f29.png",
+      "https://enem.dev/2018/questions/176/404191f9-8cdb-4a30-80b6-b7d08af2d364.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "T1.",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "T2.",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "T3.",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "T4.",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "T5.",
+        "imagem": null
+      }
+    ],
+    "gabarito": "C",
+    "anulada": false,
+    "habilidade": "H24",
+    "habilidade_origem": "heuristica",
+    "competencia": "C6",
+    "assuntos": [
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 176",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/176",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-177",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 177,
+    "area": "matematica",
+    "enunciado": "Devido ao não cumprimento das metas definidas para a campanha de vacinação contra a gripe comum e o vírus H1N1 em um ano, o Ministério da Saúde anunciou a prorrogação da campanha por mais uma semana. A tabela apresenta as quantidades de pessoas vacinadas dentre os cinco grupos de risco até a data de início da prorrogação da campanha\n\n![](https://enem.dev/2018/questions/177/386a9f9b-dd80-4081-9bde-da2ac43d1940.png)\n\nQual é a porcentagem do total de pessoas desses grupos de risco já vacinadas?",
+    "imagens": [
+      "https://enem.dev/2018/questions/177/386a9f9b-dd80-4081-9bde-da2ac43d1940.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "18",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "30",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "40",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "50",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau",
+      "graficos-tabelas"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 177",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/177",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-178",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 178,
+    "area": "matematica",
+    "enunciado": "Durante uma festa de colégio, um grupo de alunos organizou uma rifa. Oitenta alunos faltaram à festa e não participaram da rifa. Entre os que compareceram, alguns compraram três bilhetes, 45 compraram 2 bilhetes, e muitos compraram apenas um. O total de alunos que comprou um único bilhete era 20% do número total de bilhetes vendidos, e o total de bilhetes vendidos excedeu em 33 o número total de alunos do colégio.\n\nQuantos alunos compraram somente um bilhete?",
+    "imagens": [],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "34",
+        "imagem": null
+      },
+      {
+        "letra": "B",
+        "texto": "42",
+        "imagem": null
+      },
+      {
+        "letra": "C",
+        "texto": "47",
+        "imagem": null
+      },
+      {
+        "letra": "D",
+        "texto": "48",
+        "imagem": null
+      },
+      {
+        "letra": "E",
+        "texto": "79",
+        "imagem": null
+      }
+    ],
+    "gabarito": "D",
+    "anulada": false,
+    "habilidade": "H3",
+    "habilidade_origem": "heuristica",
+    "competencia": "C1",
+    "assuntos": [
+      "equacao-1-grau"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 178",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/178",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": false,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-179",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 179,
+    "area": "matematica",
+    "enunciado": "Um quebra-cabeça consiste em recobrir um quadrado com triângulos retângulos isósceles, como ilustra a figura.\n\n![](https://enem.dev/2018/questions/179/f90ac045-3059-4503-a9c5-2275ede0c308.png)\n\nUma artesã confecciona um quebra-cabeça como o descrito, de tal modo que a menor das peças é um triângulo retângulo isósceles cujos catetos medem 2 cm.\n\n![](https://enem.dev/2018/questions/179/3fc75c6b-0e16-4686-857b-155ddd7ad50c.png) ![](https://enem.dev/2018/questions/179/5eabdb02-5a5d-4cc2-befb-903521158327.png) ![](https://enem.dev/2018/questions/179/6cbaacc0-e621-4e81-9314-bbd6d9120ad2.png)\n\nO quebra-cabeça, quando montado, resultará em um quadrado cuja medida do lado, em centímetro, é",
+    "imagens": [
+      "https://enem.dev/2018/questions/179/f90ac045-3059-4503-a9c5-2275ede0c308.png",
+      "https://enem.dev/2018/questions/179/3fc75c6b-0e16-4686-857b-155ddd7ad50c.png",
+      "https://enem.dev/2018/questions/179/5eabdb02-5a5d-4cc2-befb-903521158327.png",
+      "https://enem.dev/2018/questions/179/6cbaacc0-e621-4e81-9314-bbd6d9120ad2.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/179/cffd9e29-a8e1-4ab9-8e46-24ec536138c5.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/179/80266f09-674e-4edd-a349-05c7d22ad5fc.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/179/8d325c60-94d7-4eb0-a780-db03877a4d0b.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/179/2e70100e-b60a-4924-adfc-ed2d2a8e6ea4.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/179/4903bfee-6848-4a2f-b393-2a45fa498cef.png"
+      }
+    ],
+    "gabarito": "A",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 179",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/179",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  },
+  {
+    "id": "enem-2018-180",
+    "ano": 2018,
+    "dia": 2,
+    "caderno": "azul",
+    "numero": 180,
+    "area": "matematica",
+    "enunciado": "Para decorar um cilindro circular reto será usada uma faixa retangular de papel transparente, na qual está desenhada em negrito uma diagonal que forma 30° com a borda inferior. O raio da base do cilindro mede 6/π cm, e ao enrolar a faixa obtém-se uma linha em formato de hélice, como na figura.\n\n![](https://enem.dev/2018/questions/180/aefa4129-634d-4a56-9c4b-704b4c98c97b.png)\n\nO valor da medida da altura do cilindro, em centímetro, é",
+    "imagens": [
+      "https://enem.dev/2018/questions/180/aefa4129-634d-4a56-9c4b-704b4c98c97b.png"
+    ],
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/180/790c259f-eca9-4bdb-b3ec-55577fcedf9c.png"
+      },
+      {
+        "letra": "B",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/180/da175caf-5e27-4ecf-8caa-f4ac6440c4bb.png"
+      },
+      {
+        "letra": "C",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/180/6dab86df-3603-49cd-b6a0-b25f4906eb77.png"
+      },
+      {
+        "letra": "D",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/180/6fc6dddc-7fe1-4dab-85c8-e43fa3eda51c.png"
+      },
+      {
+        "letra": "E",
+        "texto": "",
+        "imagem": "https://enem.dev/2018/questions/180/6f7a278d-b55a-499d-a86c-5afdf99a748c.png"
+      }
+    ],
+    "gabarito": "B",
+    "anulada": false,
+    "habilidade": "H7",
+    "habilidade_origem": "heuristica",
+    "competencia": "C2",
+    "assuntos": [
+      "geometria-plana",
+      "geometria-espacial"
+    ],
+    "classificacao": "heuristica",
+    "tri": null,
+    "dificuldade_estimada": null,
+    "fonte": {
+      "orgao": "INEP",
+      "prova": "ENEM 2018, 2º dia, caderno azul (aplicação regular), questão 180",
+      "url_oficial": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      "transcricao": "enem.dev",
+      "transcricao_url": "https://api.enem.dev/v1/exams/2018/questions/180",
+      "microdados_url": null
+    },
+    "qualidade": {
+      "enunciado_vazio": false,
+      "alternativas_incompletas": false,
+      "depende_de_imagem": true,
+      "observacoes": []
+    }
+  }
+]
