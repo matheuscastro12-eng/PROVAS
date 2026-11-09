@@ -32,6 +32,10 @@ def executar_verificacao(verificacao: dict) -> tuple[bool, str]:
     if "resultado" not in ns:
         return False, "codigo_sympy não definiu a variável `resultado`"
     obtido = ns["resultado"]
+    if isinstance(obtido, str):
+        # resposta textual (ex.: a letra/opção escolhida): comparação exata
+        ok = obtido.strip() == str(verificacao["resultado_esperado"]).strip()
+        return ok, "ok" if ok else f"obtido {obtido!r}, esperado {verificacao['resultado_esperado']!r}"
     try:
         esperado = sympify(verificacao["resultado_esperado"], locals=ns)
     except Exception as e:  # noqa: BLE001
@@ -39,8 +43,9 @@ def executar_verificacao(verificacao: dict) -> tuple[bool, str]:
     tol = float(verificacao.get("tolerancia", 1e-9))
     try:
         if isinstance(obtido, (list, tuple, set, frozenset)):
-            obtido_s = sorted((S(x) for x in obtido), key=lambda v: str(v))
-            esperado_s = sorted((S(x) for x in esperado), key=lambda v: str(v))
+            # sequências: comparação posicional (a ordem faz parte da resposta)
+            obtido_s = [S(x) for x in obtido]
+            esperado_s = [S(x) for x in esperado]
             if len(obtido_s) != len(esperado_s):
                 return False, f"obtido {obtido!r}, esperado {esperado!r}"
             for a, b in zip(obtido_s, esperado_s):
