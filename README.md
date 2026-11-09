@@ -115,6 +115,8 @@ Para cada ano, `build.py` agrupa os itens de MT por `CO_PROVA`, normaliza a cor 
 
 `dificuldade_estimada` deriva de `tri.b` pelos **tercis do parâmetro b das questões de MT com TRI no banco**, recalculados a cada `build.py` e gravados em `stats.json → limiares_dificuldade` (geração atual: `facil` se b < 1,56; `media` se 1,56 ≤ b < 2,33; `dificil` se b ≥ 2,33, sobre 614 questões). Os limiares são relativos ao próprio ENEM de Matemática: um item "fácil" aqui ainda tem b positivo na escala (0,1) do INEP, porque Matemática é a área mais difícil da prova para a população de participantes. A trilha `data/curadas.json` ordena pelo `b` crescente (as poucas curadas sem TRI, se houver, vão para o fim por `nivel_curador`).
 
+**Política da trilha inicial ("fáceis primeiro", 09/11/2026).** A trilha é a semana de abertura do tutor: só entram itens do tercil fácil (b < 1,56), de preferência sem imagem essencial, e uma minoria de médias apenas para cobrir assuntos de foco que não têm item fácil sem imagem (função quadrática, equação do 2º grau, moda, sistema do 1º grau, área). Nenhuma difícil. Como o teste limita a trilha a 60 itens, a versão anterior (59 curadas com 19 difíceis e 21 médias) foi substituída: as 30 resoluções retiradas continuam no histórico do git (commit `2da1b03`) para uma trilha 2 de médias e difíceis. `enem-2020-140` (b = 2,23, média) e `enem-2022-145` (b = 2,58, difícil) ficaram fora por esse critério.
+
 ### Classificação de assuntos
 
 Heurística por palavras-chave (`taxonomia/assuntos.json`) com bônus quando a habilidade oficial pertence ao assunto; até 3 assuntos por questão, marcados `classificacao = "heuristica"`. Nas curadas a classificação é manual (`"revisada"`). A habilidade é sempre a oficial do INEP (`habilidade_origem = "inep"`) nesta geração; em 27 curadas a habilidade proposta pela curadoria diferia da oficial e prevaleceu a oficial (a proposta continua em `resolucao.habilidade` para auditoria).
@@ -131,10 +133,10 @@ Heurística por palavras-chave (`taxonomia/assuntos.json`) com bônus quando a h
 | Divergências de gabarito enem.dev × INEP (prevaleceu o INEP) | 6: enem-2010-139 (A→B), enem-2012-165 (E→C), enem-2021-139 (A→E), enem-2021-145 (A→C), enem-2021-152 (D→E), enem-2022-143 (A→D) |
 | Habilidade oficial (`habilidade_origem = "inep"`) | 636 |
 | Dificuldade (tercis de b: 1,56 e 2,33) | fácil 204 · média 204 · difícil 206 · sem TRI 22 |
-| Questões curadas (trilha inicial) | 59 (fácil 19 · média 21 · difícil 19; todas com TRI) |
+| Questões curadas (trilha inicial, "fáceis primeiro") | **60** (fácil 49 · média 11 · difícil 0; todas com TRI; b de −0,05 a 2,16) |
 | Questões que dependem de imagem | 419 |
 | Questões com enunciado vazio na transcrição | 54 |
-| Questões sem assunto atribuído pela heurística | 84 |
+| Questões sem assunto atribuído pela heurística | 83 |
 
 Casamento com os microdados, por ano (caderno azul escolhido, itens comparáveis e taxa de coincidência do gabarito):
 
@@ -158,7 +160,9 @@ Casamento com os microdados, por ano (caderno azul escolhido, itens comparáveis
 
 Em 2009 a transcrição corresponde ao caderno 63 (100 % dos gabaritos) e não aos cadernos 77–80 (12 %), que não têm `CO_HABILIDADE`.
 
-Curadas por assunto (uma questão pode ter mais de um): porcentagem 13 · equação do 1º grau 11 · razão e proporção 10 · gráficos e tabelas 8 · grandezas/unidades/escalas 6 · sequências/PA 6 · estatística básica 6 · probabilidade 6 · função afim 5 · análise combinatória 5 · leitura de gráfico de função 3 · geometria plana 3 · regra de três 3 · equação do 2º grau 3 · função quadrática 2 (além de números e operações 3 e matemática financeira 1, como assuntos secundários). Todos os 15 assuntos de foco têm curadas. Dos 59 itens, 50 não dependem de imagem; os 9 restantes usam tabelas ou gráficos simples cujos dados estão transcritos em `dados_da_imagem`.
+Curadas por assunto (uma questão pode ter mais de um): razão e proporção 18 · porcentagem 15 · grandezas/unidades/escalas 11 · equação do 1º grau 10 · gráficos e tabelas 7 · estatística básica 5 · regra de três 5 · função afim 5 · sequências/PA 4 · leitura de gráfico de função 2 · probabilidade 2 · geometria plana 2 · análise combinatória 1 · equação do 2º grau 1 · função quadrática 1 (além de números e operações 8, progressão geométrica 1, semelhança 1 e matemática financeira 1, como assuntos complementares). Todos os 15 assuntos de foco têm curadas; análise combinatória, probabilidade e geometria plana ficaram com poucas porque quase não há itens fáceis sem imagem nesses assuntos. Dos 60 itens, 53 não dependem de imagem; os 7 restantes usam tabelas, quadros ou gráficos simples cujos dados estão transcritos em `dados_da_imagem`.
+
+Por dificuldade, as 49 fáceis vão de b = −0,05 (enem-2012-150) a 1,56 (enem-2010-154); as 11 médias, de 1,57 (enem-2022-154) a 2,16 (enem-2009-155, a única curada de função quadrática).
 
 Números completos (por ano, por assunto, por habilidade, divergências) em `data/stats.json`.
 
@@ -169,7 +173,7 @@ Números completos (por ano, por assunto, por habilidade, divergências) em `dat
 3. **Questões com imagem.** 419 das 636 questões dependem de figura, gráfico ou tabela em imagem (hospedada pela enem.dev). O texto não descreve a imagem; o tutor deve exibi-la. Na curadoria priorizamos questões sem imagem.
 4. **Transcrição incompleta.** 54 questões vieram sem o texto-base (`qualidade.enunciado_vazio = true`, concentradas em 2014–2016) e 3 têm só 4 alternativas transcritas. Faltam na API alguns números por ano (ex.: 2011 e 2020/2023 têm 38–40 questões; a lista está em `stats.json → anos.{ano}.numeros_faltantes`). A API repete a questão 150 em quase todos os anos (duplicata removida) e, em 2021 e 2023, rotula como matemática itens 94 e 128–132 que são de outras áreas (descartados).
 5. **Gabaritos.** O gabarito é o oficial do INEP em 623 questões. Os dois casos antes suspeitos foram resolvidos: `enem-2020-140` tem gabarito oficial C e o erro estava na alternativa C transcrita (corrigida, ver *Correções de transcrição*); `enem-2022-145` tem gabarito oficial E (400 000 moedas: a quantidade a inserir é medida em relação ao pacote básico, 500 000 − 100 000). As 6 divergências listadas acima seguem o INEP; a transcrição dessas questões ainda pode ter outros erros (texto ou ordem das alternativas) que só a conferência com o PDF oficial elimina.
-6. **Classificação heurística.** Fora das 59 curadas, os assuntos são estimativas por palavras-chave; servem para busca e filtros, não como rótulo definitivo. A habilidade, ao contrário, é oficial.
+6. **Classificação heurística.** Fora das 60 curadas, os assuntos são estimativas por palavras-chave; servem para busca e filtros, não como rótulo definitivo. A habilidade, ao contrário, é oficial.
 7. **Numeração.** O `numero` segue o caderno azul da aplicação regular (Matemática = 136–180 no 2º dia), que é o que a transcrição usa; outras cores têm ordem diferente.
 
 ## Licença e uso
