@@ -776,9 +776,10 @@
     "habilidade_origem": "inep",
     "competencia": "C4",
     "assuntos": [
-      "geometria-espacial"
+      "grandezas-unidades-escalas",
+      "porcentagem"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": {
       "a": 2.69266,
       "b": 1.52176,
@@ -801,6 +802,55 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2011-145",
+      "gabarito": "E",
+      "assuntos": [
+        "grandezas-unidades-escalas",
+        "porcentagem"
+      ],
+      "habilidade": "H17",
+      "nivel_curador": 2,
+      "resumo": "331 bilhões de xícaras de 120 mL em litros, com aumento de 1/5.",
+      "resolucao": "**1. Volume consumido no ano anterior.** Cada xícara tem 120 mL $= 0{,}12$ L:\n$$331 \\times 10^9 \\times 0{,}12 \\approx 39{,}7 \\times 10^9\\ \\text{L} \\approx 40\\ \\text{bilhões de litros}$$\n\n**2. Aumento de 1/5 (20%).**\n$$40 \\times \\left(1 + \\tfrac15\\right) = 40 \\times 1{,}2 = 48\\ \\text{bilhões de litros}$$\n\n(Com o valor exato: $39{,}72 \\times 1{,}2 = 47{,}66 \\approx 48$.) Alternativa **E**.",
+      "dicas": {
+        "dica1": "Transforme xícaras em litros (120 mL = 0,12 L) e depois aplique o aumento de 1/5, que é 20%.",
+        "dica2": "331 bilhões × 0,12 L ≈ 40 bilhões de litros. Aumentar em 1/5 é multiplicar por 1,2.",
+        "dica3": "≈ 40 × 1,2."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "D",
+          "por_que": "Parou no consumo do ano anterior (≈ 40 bilhões de litros) e não aplicou o aumento de 1/5."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Calculou só o aumento (1/5 de 40 ≈ 8 bilhões) em vez do novo total."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Reduziu em 1/5 (40 × 0,8 = 32), trocando aumento por redução."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Calculou 2/5 de 40 bilhões (≈ 16), misturando 'aumento de 1/5' com uma fração do total."
+        }
+      ],
+      "conceitos": [
+        "conversão mL ↔ L",
+        "ordem de grandeza (bilhões)",
+        "aumento fracionário (1/5 = 20%)"
+      ],
+      "verificacao": {
+        "codigo_sympy": "litros = 331 * 10**9 * Rational(12, 100)\nnovo = litros * Rational(6, 5)\nresultado = novo / 10**9",
+        "resultado_esperado": "47.664",
+        "alternativa_esperada": "E",
+        "tolerancia": 0.001
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1585,9 +1635,10 @@
     "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
+      "razao-proporcao",
       "grandezas-unidades-escalas"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": {
       "a": 2.74865,
       "b": 1.47857,
@@ -1610,6 +1661,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2011-161",
+      "gabarito": "B",
+      "assuntos": [
+        "razao-proporcao",
+        "grandezas-unidades-escalas"
+      ],
+      "habilidade": "H3",
+      "nivel_curador": 1,
+      "resumo": "Densidade demográfica: 20 milhões de habitantes divididos por 800 mil km².",
+      "resolucao": "**1. Densidade demográfica** é a razão habitantes ÷ área:\n$$\\frac{20\\,000\\,000}{800\\,000} = \\frac{20 \\times 10^6}{8 \\times 10^5} = \\frac{20}{8} \\times 10 = 25$$\n\n**2. Resposta:** cerca de **25 habitantes por km²**. Alternativa **B**.\n\nDica de conta: corte cinco zeros de cima e de baixo: $200 \\div 8 = 25$.",
+      "dicas": {
+        "dica1": "Densidade demográfica = população ÷ área, em habitantes por km².",
+        "dica2": "Escreva 20 milhões e 800 mil com todos os zeros (ou em potências de 10) e divida.",
+        "dica3": "20 000 000 ÷ 800 000 = 200 ÷ 8."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Errou uma casa decimal nos zeros (20 milhões ÷ 80 mil = 250)."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Errou a casa para o outro lado (20 milhões ÷ 8 milhões = 2,5)."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Inverteu parcialmente ou errou duas casas (0,25 = 200 mil ÷ 800 mil)."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Dividiu área por população (800 000 ÷ 20 000 000 = 0,04) e arredondou, invertendo a razão."
+        }
+      ],
+      "conceitos": [
+        "razão entre grandezas diferentes (densidade)",
+        "potências de 10 e ordens de grandeza",
+        "divisão com zeros"
+      ],
+      "verificacao": {
+        "codigo_sympy": "resultado = Rational(20 * 10**6, 800 * 10**3)",
+        "resultado_esperado": "25",
+        "alternativa_esperada": "B"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {

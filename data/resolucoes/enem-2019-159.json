@@ -1,0 +1,47 @@
+{
+  "id": "enem-2019-159",
+  "gabarito": "D",
+  "assuntos": [
+    "probabilidade"
+  ],
+  "habilidade": "H30",
+  "nivel_curador": 2,
+  "resumo": "Probabilidade de perceber pelo menos uma placa (complementar) acima de 99%: quantas placas novas além da existente.",
+  "resolucao": "**1. Use o complementar.** Com $n$ placas no total, cada uma percebida com probabilidade $\\tfrac12$ (independentes),\n$$P(\\text{nenhuma}) = \\left(\\tfrac12\\right)^{n}, \\qquad P(\\text{pelo menos uma}) = 1 - \\left(\\tfrac12\\right)^{n}.$$\n\n**2. Imponha a condição.**\n$$1 - \\left(\\tfrac12\\right)^{n} > \\frac{99}{100} \\;\\Rightarrow\\; \\left(\\tfrac12\\right)^{n} < \\frac{1}{100} \\;\\Rightarrow\\; 2^{n} > 100$$\n\nComo $2^6 = 64$ e $2^7 = 128$, o menor $n$ é **7 placas no total**.\n\n**3. Placas novas.** Já existe uma placa; faltam\n$$7 - 1 = 6.$$\n\nAlternativa **D**.",
+  "dicas": {
+    "dica1": "'Pelo menos uma' pede o complementar: 1 − P(não perceber nenhuma). Com placas independentes, essa probabilidade é (1/2)ⁿ.",
+    "dica2": "Resolva (1/2)ⁿ < 1/100, isto é, 2ⁿ > 100. Depois lembre que uma placa já existe.",
+    "dica3": "2⁷ = 128 > 100 → 7 placas no total → quantas são novas?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Achou que precisaria de 99 placas para chegar a 99%, somando probabilidades como se fossem aditivas."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Fez 1/2 × n > 99/100 → n ≥ 50 (99 ÷ 2 ≈ 50), tratando as probabilidades como soma."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Mesma ideia aditiva (50 placas) mais a placa já existente: 51."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Achou que uma única placa nova (duas no total, 1 − 1/4 = 75%) bastaria, ou parou na primeira iteração."
+    }
+  ],
+  "conceitos": [
+    "evento complementar",
+    "eventos independentes (produto de probabilidades)",
+    "potências de 1/2 e inequação exponencial"
+  ],
+  "verificacao": {
+    "codigo_sympy": "n = 1\nwhile 1 - Rational(1, 2)**n <= Rational(99, 100):\n    n += 1\nresultado = n - 1",
+    "resultado_esperado": "6",
+    "alternativa_esperada": "D"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

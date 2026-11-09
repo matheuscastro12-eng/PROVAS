@@ -1,0 +1,48 @@
+{
+  "id": "enem-2011-161",
+  "gabarito": "B",
+  "assuntos": [
+    "razao-proporcao",
+    "grandezas-unidades-escalas"
+  ],
+  "habilidade": "H3",
+  "nivel_curador": 1,
+  "resumo": "Densidade demográfica: 20 milhões de habitantes divididos por 800 mil km².",
+  "resolucao": "**1. Densidade demográfica** é a razão habitantes ÷ área:\n$$\\frac{20\\,000\\,000}{800\\,000} = \\frac{20 \\times 10^6}{8 \\times 10^5} = \\frac{20}{8} \\times 10 = 25$$\n\n**2. Resposta:** cerca de **25 habitantes por km²**. Alternativa **B**.\n\nDica de conta: corte cinco zeros de cima e de baixo: $200 \\div 8 = 25$.",
+  "dicas": {
+    "dica1": "Densidade demográfica = população ÷ área, em habitantes por km².",
+    "dica2": "Escreva 20 milhões e 800 mil com todos os zeros (ou em potências de 10) e divida.",
+    "dica3": "20 000 000 ÷ 800 000 = 200 ÷ 8."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Errou uma casa decimal nos zeros (20 milhões ÷ 80 mil = 250)."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Errou a casa para o outro lado (20 milhões ÷ 8 milhões = 2,5)."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Inverteu parcialmente ou errou duas casas (0,25 = 200 mil ÷ 800 mil)."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Dividiu área por população (800 000 ÷ 20 000 000 = 0,04) e arredondou, invertendo a razão."
+    }
+  ],
+  "conceitos": [
+    "razão entre grandezas diferentes (densidade)",
+    "potências de 10 e ordens de grandeza",
+    "divisão com zeros"
+  ],
+  "verificacao": {
+    "codigo_sympy": "resultado = Rational(20 * 10**6, 800 * 10**3)",
+    "resultado_esperado": "25",
+    "alternativa_esperada": "B"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

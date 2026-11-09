@@ -1065,7 +1065,7 @@
       "matematica-financeira",
       "porcentagem"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": {
       "a": 1.77601,
       "b": 1.53793,
@@ -1088,6 +1088,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2019-150",
+      "gabarito": "B",
+      "assuntos": [
+        "matematica-financeira",
+        "porcentagem"
+      ],
+      "habilidade": "H23",
+      "nivel_curador": 2,
+      "resumo": "Valor à vista = soma dos valores presentes de duas parcelas a 1% ao mês (R$ 202,00 e R$ 204,02).",
+      "resolucao": "**1. Ideia.** O valor à vista é o que, aplicado a 1% ao mês, gera exatamente as duas parcelas. Então traga cada parcela para a data da compra, dividindo por $1{,}01$ a cada mês.\n\n**2. Primeira parcela** (1 mês depois):\n$$\\frac{202}{1{,}01} = 200$$\n\n**3. Segunda parcela** (2 meses depois):\n$$\\frac{204{,}02}{1{,}01^2} = \\frac{204{,}02}{1{,}0201} = 200$$\n\n**4. Valor à vista.**\n$$200 + 200 = 400$$\n\nAlternativa **B**: **R$ 400,00**. Repare que as parcelas foram construídas para isso: $200 \\times 1{,}01 = 202$ e $200 \\times 1{,}01^2 = 204{,}02$.",
+      "dicas": {
+        "dica1": "Em juros compostos, cada parcela futura vale menos hoje: divida por (1 + i) para cada mês de distância.",
+        "dica2": "Divida R$ 202,00 por 1,01 e R$ 204,02 por 1,01²; some os dois resultados.",
+        "dica3": "202 ÷ 1,01 = 200 e 204,02 ÷ 1,0201 = 200 → à vista = 200 + 200."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "E",
+          "por_que": "Somou as duas parcelas (202 + 204,02 = 406,02), como se não houvesse juros."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Dobrou a primeira parcela (2 × 202 = 404) ou aplicou 1% sobre 400, confundindo valor à vista com valor corrigido."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Subtraiu 1% do total (406,02 × 0,99 ≈ 401,96), aplicando o desconto de um mês ao conjunto."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Subtraiu 2% do total ou de parcelas erradas (406,02 − 8 ≈ 398), sem usar o valor presente de cada uma."
+        }
+      ],
+      "conceitos": [
+        "juros compostos",
+        "valor presente de parcelas",
+        "porcentagem (fator 1,01)"
+      ],
+      "verificacao": {
+        "codigo_sympy": "i = Rational(1, 100)\nresultado = 202 / (1 + i) + Rational(20402, 100) / (1 + i)**2",
+        "resultado_esperado": "400",
+        "alternativa_esperada": "B"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1683,10 +1731,10 @@
     "habilidade_origem": "inep",
     "competencia": "C3",
     "assuntos": [
-      "geometria-espacial",
-      "grandezas-unidades-escalas"
+      "grandezas-unidades-escalas",
+      "razao-proporcao"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": {
       "a": 3.1849,
       "b": 1.31578,
@@ -1709,6 +1757,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2019-158",
+      "gabarito": "C",
+      "assuntos": [
+        "grandezas-unidades-escalas",
+        "razao-proporcao"
+      ],
+      "habilidade": "H11",
+      "nivel_curador": 2,
+      "resumo": "Escala 1:200 aplicada a volume (fator 200³), conversão cm³ → litro e divisão pelo consumo diário.",
+      "resolucao": "**1. Escala em volume.** Na escala $1:200$ cada comprimento real é 200 vezes o da maquete; o volume, que envolve três dimensões, é $200^3 = 8\\,000\\,000$ vezes maior:\n$$V_{\\text{real}} = 45 \\times 8\\,000\\,000 = 360\\,000\\,000\\ \\text{cm}^3$$\n\n**2. Converta para litros.** $1$ L $= 1\\,000$ cm³:\n$$360\\,000\\,000\\ \\text{cm}^3 = 360\\,000\\ \\text{L}$$\n\n**3. Dias de abastecimento.**\n$$\\frac{360\\,000}{30\\,000} = 12\\ \\text{dias}$$\n\nAlternativa **C**.",
+      "dicas": {
+        "dica1": "Escala 1:200 vale para comprimentos. Para volume, o fator é 200 × 200 × 200.",
+        "dica2": "Multiplique 45 cm³ por 200³, converta cm³ em litros (÷ 1 000) e divida pelos 30 000 L diários.",
+        "dica3": "45 × 8 000 000 cm³ = 360 000 L → 360 000 ÷ 30 000."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "E",
+          "por_que": "Usou 200² (área) em vez de 200³: 45 × 40 000 cm³ = 1 800 L, nem um dia de consumo; marcou então a menor alternativa."
+        },
+        {
+          "alternativa": "D",
+          "por_que": "Errou 200³ por um fator 2 (4 × 10⁶ em vez de 8 × 10⁶): 180 000 L ÷ 30 000 = 6 dias."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Chegou a 450 000 L (45 × 10⁷ cm³, arredondando 8 × 10⁶ para 10⁷) e dividiu: 15 dias."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Errou a conversão cm³ → L por um fator 2,5 (por exemplo 1 L = 400 cm³): 900 000 L ÷ 30 000 = 30."
+        }
+      ],
+      "conceitos": [
+        "escala aplicada a volumes (fator ao cubo)",
+        "conversão cm³ ↔ litro",
+        "divisão para obter número de dias"
+      ],
+      "verificacao": {
+        "codigo_sympy": "v_real_cm3 = 45 * 200**3\nlitros = Rational(v_real_cm3, 1000)\nresultado = litros / 30000",
+        "resultado_esperado": "12",
+        "alternativa_esperada": "C"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1754,10 +1850,9 @@
     "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
-      "probabilidade",
-      "analise-combinatoria"
+      "probabilidade"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": {
       "a": 2.31939,
       "b": 1.41653,
@@ -1780,6 +1875,53 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2019-159",
+      "gabarito": "D",
+      "assuntos": [
+        "probabilidade"
+      ],
+      "habilidade": "H30",
+      "nivel_curador": 2,
+      "resumo": "Probabilidade de perceber pelo menos uma placa (complementar) acima de 99%: quantas placas novas além da existente.",
+      "resolucao": "**1. Use o complementar.** Com $n$ placas no total, cada uma percebida com probabilidade $\\tfrac12$ (independentes),\n$$P(\\text{nenhuma}) = \\left(\\tfrac12\\right)^{n}, \\qquad P(\\text{pelo menos uma}) = 1 - \\left(\\tfrac12\\right)^{n}.$$\n\n**2. Imponha a condição.**\n$$1 - \\left(\\tfrac12\\right)^{n} > \\frac{99}{100} \\;\\Rightarrow\\; \\left(\\tfrac12\\right)^{n} < \\frac{1}{100} \\;\\Rightarrow\\; 2^{n} > 100$$\n\nComo $2^6 = 64$ e $2^7 = 128$, o menor $n$ é **7 placas no total**.\n\n**3. Placas novas.** Já existe uma placa; faltam\n$$7 - 1 = 6.$$\n\nAlternativa **D**.",
+      "dicas": {
+        "dica1": "'Pelo menos uma' pede o complementar: 1 − P(não perceber nenhuma). Com placas independentes, essa probabilidade é (1/2)ⁿ.",
+        "dica2": "Resolva (1/2)ⁿ < 1/100, isto é, 2ⁿ > 100. Depois lembre que uma placa já existe.",
+        "dica3": "2⁷ = 128 > 100 → 7 placas no total → quantas são novas?"
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Achou que precisaria de 99 placas para chegar a 99%, somando probabilidades como se fossem aditivas."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Fez 1/2 × n > 99/100 → n ≥ 50 (99 ÷ 2 ≈ 50), tratando as probabilidades como soma."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Mesma ideia aditiva (50 placas) mais a placa já existente: 51."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Achou que uma única placa nova (duas no total, 1 − 1/4 = 75%) bastaria, ou parou na primeira iteração."
+        }
+      ],
+      "conceitos": [
+        "evento complementar",
+        "eventos independentes (produto de probabilidades)",
+        "potências de 1/2 e inequação exponencial"
+      ],
+      "verificacao": {
+        "codigo_sympy": "n = 1\nwhile 1 - Rational(1, 2)**n <= Rational(99, 100):\n    n += 1\nresultado = n - 1",
+        "resultado_esperado": "6",
+        "alternativa_esperada": "D"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {

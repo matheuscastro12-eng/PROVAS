@@ -1350,9 +1350,10 @@
     "habilidade_origem": "inep",
     "competencia": "C4",
     "assuntos": [
-      "grandezas-unidades-escalas"
+      "razao-proporcao",
+      "semelhanca-pitagoras"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": {
       "a": 2.9312,
       "b": 1.44841,
@@ -1377,6 +1378,54 @@
       "observacoes": [
         "parâmetros TRI do espelho tinham o decimal quebrado (ex.: a=29.312); corrigidos pela reinserção do ponto após o primeiro dígito"
       ]
+    },
+    "resolucao": {
+      "id": "enem-2009-154",
+      "gabarito": "D",
+      "assuntos": [
+        "razao-proporcao",
+        "semelhanca-pitagoras"
+      ],
+      "habilidade": "H15",
+      "nivel_curador": 2,
+      "resumo": "Em uma rampa reta, altura e distância percorrida são proporcionais: 3,2 m ↔ 0,8 m; quanto falta para 2,2 m.",
+      "resolucao": "**1. Proporcionalidade na rampa.** Ao caminhar sobre uma rampa reta (inclinação constante), a altura alcançada é proporcional à distância percorrida:\n$$\\frac{0{,}8}{3{,}2} = \\frac{1}{4} \\quad (\\text{sobe 1 m a cada 4 m caminhados})$$\n\n**2. Comprimento total da rampa** (altura 2,2 m):\n$$\\frac{2{,}2}{L} = \\frac{1}{4} \\;\\Rightarrow\\; L = 4 \\times 2{,}2 = 8{,}8\\ \\text{m}$$\n\n**3. Quanto falta.**\n$$8{,}8 - 3{,}2 = 5{,}6\\ \\text{m}$$\n\nAlternativa **D**. (Equivalente: faltam $2{,}2 - 0{,}8 = 1{,}4$ m de altura; $1{,}4 \\times 4 = 5{,}6$ m.)",
+      "dicas": {
+        "dica1": "Rampa reta: triângulos semelhantes. A razão entre a altura subida e a distância caminhada é sempre a mesma.",
+        "dica2": "Descubra a razão com os dados (0,8 m de altura para 3,2 m caminhados) e aplique-a à altura que falta (2,2 − 0,8).",
+        "dica3": "Falta subir 1,4 m; cada metro de altura exige 4 m de rampa → 1,4 × 4."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "B",
+          "por_que": "Somou as duas alturas (2,2 + 0,8 = 3,0), sem usar a proporção entre altura e distância."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Multiplicou 2,2 por 3,2 (7,04), confundindo proporção com produto."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Somou a distância caminhada com a altura final (3,2 + 2,2 = 5,4), misturando grandezas."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Montou a regra de três invertida: 3,2 × 0,8 ÷ 2,2 ≈ 1,16."
+        }
+      ],
+      "conceitos": [
+        "proporcionalidade direta",
+        "semelhança de triângulos (inclinação constante)",
+        "subtração de comprimentos"
+      ],
+      "verificacao": {
+        "codigo_sympy": "razao = Rational(32, 10) / Rational(8, 10)\ntotal = razao * Rational(22, 10)\nresultado = total - Rational(32, 10)",
+        "resultado_esperado": "Rational(28, 5)",
+        "alternativa_esperada": "D"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {

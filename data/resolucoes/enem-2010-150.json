@@ -1,0 +1,48 @@
+{
+  "id": "enem-2010-150",
+  "gabarito": "B",
+  "assuntos": [
+    "funcao-afim",
+    "geometria-plana"
+  ],
+  "habilidade": "H17",
+  "nivel_curador": 2,
+  "resumo": "Custo = 20 × área + 15 × perímetro + 10; ao dobrar os lados, a área quadruplica e o perímetro dobra.",
+  "resolucao": "**1. Primeira encomenda** (8 quadros de 25 cm × 50 cm $= 0{,}25$ m × $0{,}5$ m).\n- Área de cada quadro: $0{,}25 \\times 0{,}5 = 0{,}125$ m²; total $8 \\times 0{,}125 = 1$ m² → tela: $20 \\times 1 = 20$.\n- Perímetro de cada quadro: $2(0{,}25 + 0{,}5) = 1{,}5$ m; total $8 \\times 1{,}5 = 12$ m → moldura: $15 \\times 12 = 180$.\n- Entrega: 10.\n$$C_1 = 20 + 180 + 10 = 210$$\n\n**2. Segunda encomenda** (8 quadros de 50 cm × 100 cm: lados dobrados).\n- Área quadruplica: $4$ m² → $20 \\times 4 = 80$.\n- Perímetro dobra: $24$ m → $15 \\times 24 = 360$.\n- Entrega: 10.\n$$C_2 = 80 + 360 + 10 = 450$$\n\n**3. Compare.** $450 > 210$, mas $450 \\ne 2 \\times 210 = 420$. O segundo valor é **maior, mas não o dobro**. Alternativa **B**.",
+  "dicas": {
+    "dica1": "O preço mistura três parcelas que reagem de modo diferente ao dobrar os lados: área (×4), perímetro (×2) e taxa fixa (×1).",
+    "dica2": "Calcule tela (R$ 20 × área total), moldura (R$ 15 × perímetro total) e R$ 10 para cada encomenda, e compare.",
+    "dica3": "Primeira: 20 + 180 + 10 = 210. Segunda: 80 + 360 + 10 = ? É o dobro de 210?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Supôs que dobrar os lados dobra o custo, sem notar que a área quadruplica e a taxa de entrega não muda."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Fixou-se na taxa de entrega igual e ignorou que tela e moldura ficaram mais caras."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Inverteu a relação (achou que quadros maiores sairiam pela metade), confundindo com algum problema de 'mais quadros por metro'."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Mesma inversão da C, mas sem a proporção exata; o valor na verdade aumenta."
+    }
+  ],
+  "conceitos": [
+    "função custo com parcelas fixa e variáveis",
+    "área e perímetro do retângulo",
+    "efeito de dobrar as dimensões (área ×4, perímetro ×2)"
+  ],
+  "verificacao": {
+    "codigo_sympy": "def custo(l, c):\n    area = 8 * l * c\n    per = 8 * 2 * (l + c)\n    return 20 * area + 15 * per + 10\nc1 = custo(Rational(1, 4), Rational(1, 2))\nc2 = custo(Rational(1, 2), 1)\nassert (c1, c2) == (210, 450)\nresultado = 'maior, nao dobro' if c2 > c1 and c2 != 2 * c1 else 'outro'",
+    "resultado_esperado": "maior, nao dobro",
+    "alternativa_esperada": "B"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

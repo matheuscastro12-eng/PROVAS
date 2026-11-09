@@ -1,0 +1,48 @@
+{
+  "id": "enem-2023-171",
+  "gabarito": "C",
+  "assuntos": [
+    "razao-proporcao",
+    "regra-de-tres"
+  ],
+  "habilidade": "H3",
+  "nivel_curador": 2,
+  "resumo": "Converter 20 ciclos de 52 anos Haab (365 dias) em anos Tzolkim (260 dias).",
+  "resolucao": "**1. Total de dias do período.**\n$$20 \\times 52 \\times 365 = 1\\,040 \\times 365 = 379\\,600\\ \\text{dias}$$\n\n**2. Converta em anos Tzolkim** (260 dias cada):\n$$\\frac{379\\,600}{260} = 1\\,460$$\n\nAlternativa **C**.\n\nAtalho: $\\dfrac{365}{260} = \\dfrac{73}{52}$, então $20 \\times 52 \\times \\dfrac{73}{52} = 20 \\times 73 = 1\\,460$.",
+  "dicas": {
+    "dica1": "A ponte entre os dois calendários é o número de dias: conte os dias do período e divida pelo tamanho do ano Tzolkim.",
+    "dica2": "Dias = 20 ciclos × 52 anos Haab × 365 dias. Depois divida por 260.",
+    "dica3": "20 × 52 × 365 ÷ 260 (note que 365/260 = 73/52)."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "B",
+      "por_que": "Respondeu os anos Haab (20 × 52 = 1 040) sem converter para Tzolkim."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Converteu ao contrário (1 040 × 260/365 ≈ 741), como se o ano Tzolkim fosse o mais longo."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Não sai de nenhuma conta coerente (≈ 2 × 1 040 + 20); atrai quem imagina que o ano menor 'vale o dobro' do maior."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Multiplicou 20 × 260 = 5 200, misturando ciclos com dias do ano Tzolkim."
+    }
+  ],
+  "conceitos": [
+    "conversão entre unidades de tempo por um padrão comum (dias)",
+    "regra de três",
+    "simplificação de frações"
+  ],
+  "verificacao": {
+    "codigo_sympy": "resultado = Rational(20 * 52 * 365, 260)",
+    "resultado_esperado": "1460",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

@@ -234,12 +234,13 @@
     "ano": 2009,
     "numero": 154,
     "assuntos": [
-      "grandezas-unidades-escalas"
+      "razao-proporcao",
+      "semelhanca-pitagoras"
     ],
     "habilidade": "H15",
     "b": 1.44841,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -755,14 +756,13 @@
     "ano": 2010,
     "numero": 150,
     "assuntos": [
-      "equacao-1-grau",
       "funcao-afim",
-      "grandezas-unidades-escalas"
+      "geometria-plana"
     ],
     "habilidade": "H17",
     "b": 1.33212,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -816,7 +816,7 @@
     "habilidade": "H4",
     "b": 1.55529,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -1285,12 +1285,13 @@
     "ano": 2011,
     "numero": 145,
     "assuntos": [
-      "geometria-espacial"
+      "grandezas-unidades-escalas",
+      "porcentagem"
     ],
     "habilidade": "H17",
     "b": 1.52176,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -1421,12 +1422,13 @@
     "ano": 2011,
     "numero": 161,
     "assuntos": [
+      "razao-proporcao",
       "grandezas-unidades-escalas"
     ],
     "habilidade": "H3",
     "b": 1.47857,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -5782,7 +5784,7 @@
     "habilidade": "H23",
     "b": 1.53793,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -5889,13 +5891,13 @@
     "ano": 2019,
     "numero": 158,
     "assuntos": [
-      "geometria-espacial",
-      "grandezas-unidades-escalas"
+      "grandezas-unidades-escalas",
+      "razao-proporcao"
     ],
     "habilidade": "H11",
     "b": 1.31578,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -5903,13 +5905,12 @@
     "ano": 2019,
     "numero": 159,
     "assuntos": [
-      "probabilidade",
-      "analise-combinatoria"
+      "probabilidade"
     ],
     "habilidade": "H30",
     "b": 1.41653,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -8030,12 +8031,12 @@
     "numero": 143,
     "assuntos": [
       "porcentagem",
-      "geometria-espacial"
+      "equacao-1-grau"
     ],
     "habilidade": "H5",
     "b": 1.52611,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {
@@ -8363,12 +8364,13 @@
     "ano": 2023,
     "numero": 171,
     "assuntos": [
-      "equacao-1-grau"
+      "razao-proporcao",
+      "regra-de-tres"
     ],
     "habilidade": "H3",
     "b": 1.53865,
     "dificuldade_estimada": "facil",
-    "curada": false,
+    "curada": true,
     "depende_de_imagem": false
   },
   {

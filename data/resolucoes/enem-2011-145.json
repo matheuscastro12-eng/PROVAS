@@ -1,0 +1,49 @@
+{
+  "id": "enem-2011-145",
+  "gabarito": "E",
+  "assuntos": [
+    "grandezas-unidades-escalas",
+    "porcentagem"
+  ],
+  "habilidade": "H17",
+  "nivel_curador": 2,
+  "resumo": "331 bilhões de xícaras de 120 mL em litros, com aumento de 1/5.",
+  "resolucao": "**1. Volume consumido no ano anterior.** Cada xícara tem 120 mL $= 0{,}12$ L:\n$$331 \\times 10^9 \\times 0{,}12 \\approx 39{,}7 \\times 10^9\\ \\text{L} \\approx 40\\ \\text{bilhões de litros}$$\n\n**2. Aumento de 1/5 (20%).**\n$$40 \\times \\left(1 + \\tfrac15\\right) = 40 \\times 1{,}2 = 48\\ \\text{bilhões de litros}$$\n\n(Com o valor exato: $39{,}72 \\times 1{,}2 = 47{,}66 \\approx 48$.) Alternativa **E**.",
+  "dicas": {
+    "dica1": "Transforme xícaras em litros (120 mL = 0,12 L) e depois aplique o aumento de 1/5, que é 20%.",
+    "dica2": "331 bilhões × 0,12 L ≈ 40 bilhões de litros. Aumentar em 1/5 é multiplicar por 1,2.",
+    "dica3": "≈ 40 × 1,2."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Parou no consumo do ano anterior (≈ 40 bilhões de litros) e não aplicou o aumento de 1/5."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Calculou só o aumento (1/5 de 40 ≈ 8 bilhões) em vez do novo total."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Reduziu em 1/5 (40 × 0,8 = 32), trocando aumento por redução."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Calculou 2/5 de 40 bilhões (≈ 16), misturando 'aumento de 1/5' com uma fração do total."
+    }
+  ],
+  "conceitos": [
+    "conversão mL ↔ L",
+    "ordem de grandeza (bilhões)",
+    "aumento fracionário (1/5 = 20%)"
+  ],
+  "verificacao": {
+    "codigo_sympy": "litros = 331 * 10**9 * Rational(12, 100)\nnovo = litros * Rational(6, 5)\nresultado = novo / 10**9",
+    "resultado_esperado": "47.664",
+    "alternativa_esperada": "E",
+    "tolerancia": 0.001
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

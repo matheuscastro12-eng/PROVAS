@@ -1,0 +1,47 @@
+{
+  "id": "enem-2010-154",
+  "gabarito": "C",
+  "assuntos": [
+    "porcentagem"
+  ],
+  "habilidade": "H4",
+  "nivel_curador": 1,
+  "resumo": "Crescimento percentual do lucro de R$ 132 000 para R$ 145 000 e classificação por faixas.",
+  "resolucao": "**1. Aumento absoluto.**\n$$145\\,000 - 132\\,000 = 13\\,000$$\n\n**2. Crescimento em relação ao ano anterior** (base 2008):\n$$\\frac{13\\,000}{132\\,000} \\approx 0{,}0985 = 9{,}85\\%$$\n\n**3. Classifique.** $9{,}85\\%$ está em $[5\\%,\\ 10\\%)$: conceito **bom**. Alternativa **C**.\n\nCuidado: 10% de 132 000 seria 13 200; o aumento (13 000) ficou um pouco abaixo disso, logo o crescimento é um pouco menor que 10%.",
+  "dicas": {
+    "dica1": "Crescimento percentual = (novo − antigo) ÷ antigo. A base é o ano anterior (2008).",
+    "dica2": "Calcule 145 000 − 132 000 e divida por 132 000; depois veja em que faixa cai.",
+    "dica3": "13 000 ÷ 132 000 ≈ 0,098 → compare com 10% de 132 000 = 13 200."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Arredondou 9,85% para 10% (ou comparou 13 000 com 13 200 e achou 'quase igual'), caindo na faixa 'ótimo'."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Dividiu 13 000 por 145 000 × 2 ou errou a casa decimal e viu algo entre 1% e 5%."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Dividiu 145 000 por 132 000 e leu 1,098 como '98%' ou '109%', ignorando o 1 inicial."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Dividiu 13 000 por 1 320 000 ou leu 0,0985 como 0,98%, errando casas decimais."
+    }
+  ],
+  "conceitos": [
+    "variação percentual",
+    "base de comparação (valor inicial)",
+    "leitura de faixas (intervalos)"
+  ],
+  "verificacao": {
+    "codigo_sympy": "cresc = Rational(145000 - 132000, 132000)\nfaixas = [(Rational(20, 100), 'E'), (Rational(10, 100), 'D'), (Rational(5, 100), 'C'), (Rational(1, 100), 'B'), (0, 'A')]\nresultado = next(letra for lim, letra in faixas if cresc >= lim)",
+    "resultado_esperado": "C",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

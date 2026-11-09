@@ -542,6 +542,38 @@
     },
     {
       "ordem": 35,
+      "id": "enem-2019-158",
+      "ano": 2019,
+      "numero": 158,
+      "assuntos": [
+        "grandezas-unidades-escalas",
+        "razao-proporcao"
+      ],
+      "habilidade": "H11",
+      "b": 1.31578,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Escala 1:200 aplicada a volume (fator 200³), conversão cm³ → litro e divisão pelo consumo diário.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 36,
+      "id": "enem-2010-150",
+      "ano": 2010,
+      "numero": 150,
+      "assuntos": [
+        "funcao-afim",
+        "geometria-plana"
+      ],
+      "habilidade": "H17",
+      "b": 1.33212,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Custo = 20 × área + 15 × perímetro + 10; ao dobrar os lados, a área quadruplica e o perímetro dobra.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 37,
       "id": "enem-2021-173",
       "ano": 2021,
       "numero": 173,
@@ -557,7 +589,22 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 36,
+      "ordem": 38,
+      "id": "enem-2019-159",
+      "ano": 2019,
+      "numero": 159,
+      "assuntos": [
+        "probabilidade"
+      ],
+      "habilidade": "H30",
+      "b": 1.41653,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Probabilidade de perceber pelo menos uma placa (complementar) acima de 99%: quantas placas novas além da existente.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 39,
       "id": "enem-2017-139",
       "ano": 2017,
       "numero": 139,
@@ -573,7 +620,23 @@
       "depende_de_imagem": true
     },
     {
-      "ordem": 37,
+      "ordem": 40,
+      "id": "enem-2009-154",
+      "ano": 2009,
+      "numero": 154,
+      "assuntos": [
+        "razao-proporcao",
+        "semelhanca-pitagoras"
+      ],
+      "habilidade": "H15",
+      "b": 1.44841,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Em uma rampa reta, altura e distância percorrida são proporcionais: 3,2 m ↔ 0,8 m; quanto falta para 2,2 m.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 41,
       "id": "enem-2023-150",
       "ano": 2023,
       "numero": 150,
@@ -589,7 +652,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 38,
+      "ordem": 42,
       "id": "enem-2021-144",
       "ano": 2021,
       "numero": 144,
@@ -605,7 +668,23 @@
       "depende_de_imagem": true
     },
     {
-      "ordem": 39,
+      "ordem": 43,
+      "id": "enem-2011-161",
+      "ano": 2011,
+      "numero": 161,
+      "assuntos": [
+        "razao-proporcao",
+        "grandezas-unidades-escalas"
+      ],
+      "habilidade": "H3",
+      "b": 1.47857,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Densidade demográfica: 20 milhões de habitantes divididos por 800 mil km².",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 44,
       "id": "enem-2019-168",
       "ano": 2019,
       "numero": 168,
@@ -621,7 +700,86 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 40,
+      "ordem": 45,
+      "id": "enem-2011-145",
+      "ano": 2011,
+      "numero": 145,
+      "assuntos": [
+        "grandezas-unidades-escalas",
+        "porcentagem"
+      ],
+      "habilidade": "H17",
+      "b": 1.52176,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "331 bilhões de xícaras de 120 mL em litros, com aumento de 1/5.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 46,
+      "id": "enem-2023-143",
+      "ano": 2023,
+      "numero": 143,
+      "assuntos": [
+        "porcentagem",
+        "equacao-1-grau"
+      ],
+      "habilidade": "H5",
+      "b": 1.52611,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Lista de espera cresce 10% (400 → 440); reduzir 25% exige atender 110 crianças a mais: 11 salas de 10.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 47,
+      "id": "enem-2019-150",
+      "ano": 2019,
+      "numero": 150,
+      "assuntos": [
+        "matematica-financeira",
+        "porcentagem"
+      ],
+      "habilidade": "H23",
+      "b": 1.53793,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Valor à vista = soma dos valores presentes de duas parcelas a 1% ao mês (R$ 202,00 e R$ 204,02).",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 48,
+      "id": "enem-2023-171",
+      "ano": 2023,
+      "numero": 171,
+      "assuntos": [
+        "razao-proporcao",
+        "regra-de-tres"
+      ],
+      "habilidade": "H3",
+      "b": 1.53865,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Converter 20 ciclos de 52 anos Haab (365 dias) em anos Tzolkim (260 dias).",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 49,
+      "id": "enem-2010-154",
+      "ano": 2010,
+      "numero": 154,
+      "assuntos": [
+        "porcentagem"
+      ],
+      "habilidade": "H4",
+      "b": 1.55529,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Crescimento percentual do lucro de R$ 132 000 para R$ 145 000 e classificação por faixas.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 50,
       "id": "enem-2022-154",
       "ano": 2022,
       "numero": 154,
@@ -636,7 +794,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 41,
+      "ordem": 51,
       "id": "enem-2018-164",
       "ano": 2018,
       "numero": 164,
@@ -652,7 +810,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 42,
+      "ordem": 52,
       "id": "enem-2022-167",
       "ano": 2022,
       "numero": 167,
@@ -667,7 +825,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 43,
+      "ordem": 53,
       "id": "enem-2011-143",
       "ano": 2011,
       "numero": 143,
@@ -682,7 +840,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 44,
+      "ordem": 54,
       "id": "enem-2013-163",
       "ano": 2013,
       "numero": 163,
@@ -697,7 +855,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 45,
+      "ordem": 55,
       "id": "enem-2011-159",
       "ano": 2011,
       "numero": 159,
@@ -713,7 +871,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 46,
+      "ordem": 56,
       "id": "enem-2021-136",
       "ano": 2021,
       "numero": 136,
@@ -729,7 +887,7 @@
       "depende_de_imagem": true
     },
     {
-      "ordem": 47,
+      "ordem": 57,
       "id": "enem-2016-170",
       "ano": 2016,
       "numero": 170,
@@ -745,7 +903,7 @@
       "depende_de_imagem": true
     },
     {
-      "ordem": 48,
+      "ordem": 58,
       "id": "enem-2023-175",
       "ano": 2023,
       "numero": 175,
@@ -760,7 +918,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 49,
+      "ordem": 59,
       "id": "enem-2021-171",
       "ano": 2021,
       "numero": 171,
@@ -775,7 +933,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 50,
+      "ordem": 60,
       "id": "enem-2009-155",
       "ano": 2009,
       "numero": 155,
