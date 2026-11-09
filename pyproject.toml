@@ -1,0 +1,19 @@
+[project]
+name = "provas-enem-matematica"
+version = "0.1.0"
+description = "Banco de questões de Matemática do ENEM usado pelo Gabarita (fontes públicas do INEP, transcrição enem.dev)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.31",
+    "sympy>=1.12",
+    "jsonschema>=4.20",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
