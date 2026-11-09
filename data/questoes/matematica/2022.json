@@ -44,10 +44,10 @@
     "habilidade_origem": "inep",
     "competencia": "C6",
     "assuntos": [
-      "leitura-grafico-funcao",
-      "equacao-2-grau"
+      "graficos-tabelas",
+      "leitura-grafico-funcao"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 2.33252,
       "b": 2.40899,
@@ -70,55 +70,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": true,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2022-136",
-      "gabarito": "E",
-      "assuntos": [
-        "leitura-grafico-funcao",
-        "equacao-2-grau"
-      ],
-      "habilidade": "H20",
-      "nivel_curador": 2,
-      "resumo": "Resolver V = T² − 4 = 0 e contar quantas vezes o gráfico de T atinge 2 ou −2.",
-      "dados_da_imagem": "Gráfico de T (°C) × t (h), de 0 a 10 h: começa em T = 3, sobe até 4 (perto de t = 1), desce cruzando 2 e 0 até tocar −2; sobe até 0 e desce tocando −2; sobe até 0 e desce tocando −2 de novo; depois sobe cruzando 0 e 2, chega perto de 3,5 e termina em 3 (t = 10). Linhas tracejadas em T = 4, 2, 0 e −2.",
-      "resolucao": "**1. Quando a velocidade se anula?**\n$$V = T^2 - 4 = 0 \\;\\Rightarrow\\; T^2 = 4 \\;\\Rightarrow\\; T = 2 \\text{ ou } T = -2$$\n\n**2. Conte no gráfico as vezes em que $T = 2$ ou $T = -2$:**\n- Descendo de 4, a curva **cruza $T = 2$** → 1ª vez.\n- **Toca $T = -2$** no primeiro vale → 2ª vez.\n- **Toca $T = -2$** no segundo vale → 3ª vez.\n- **Toca $T = -2$** no terceiro vale → 4ª vez.\n- Subindo no final, **cruza $T = 2$** → 5ª vez.\n\n(A curva começa em 3 e termina em 3: não toca 2 nas pontas; e tocar o valor −2 sem cruzar também anula $V$.)\n\nTotal: **5 vezes** (alternativa **E**).",
-      "dicas": {
-        "dica1": "A velocidade não aparece no gráfico: o gráfico é da temperatura T. Primeiro descubra para quais valores de T a velocidade é zero.",
-        "dica2": "Resolva T² − 4 = 0 (duas soluções). Depois conte quantas vezes a curva passa pelas linhas T = 2 e T = −2, inclusive quando só encosta.",
-        "dica3": "T = ±2. Linha T = 2: 2 cruzamentos. Linha T = −2: 3 toques. Some."
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "B",
-          "por_que": "Considerou só T = 2 (esqueceu a raiz negativa), contando 2 cruzamentos."
-        },
-        {
-          "alternativa": "C",
-          "por_que": "Considerou só T = −2 (3 toques) ou contou os pontos em que T = 0, confundindo 'velocidade nula' com 'temperatura nula'."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Não contou os toques em −2 como vezes em que T = −2 (achou que só cruzar vale), ou perdeu um dos vales."
-        },
-        {
-          "alternativa": "A",
-          "por_que": "Contou só o número de vezes em que T atinge o máximo ou um único cruzamento."
-        }
-      ],
-      "conceitos": [
-        "equação do 2º grau incompleta (T² = 4)",
-        "leitura de gráfico: interseções com retas horizontais",
-        "raízes positivas e negativas"
-      ],
-      "verificacao": {
-        "codigo_sympy": "T = symbols('T')\nraizes = solve(Eq(T**2 - 4, 0), T)\n# toques/cruzamentos lidos no gráfico\ncruza_2 = 2; toca_menos2 = 3\nresultado = (len(raizes), cruza_2 + toca_menos2)",
-        "resultado_esperado": "(2, 5)",
-        "alternativa_esperada": "E"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -312,7 +263,7 @@
     "assuntos": [
       "grandezas-unidades-escalas"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 1.87291,
       "b": 2.86025,
@@ -335,53 +286,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2022-139",
-      "gabarito": "A",
-      "assuntos": [
-        "grandezas-unidades-escalas"
-      ],
-      "habilidade": "H11",
-      "nivel_curador": 2,
-      "resumo": "Converter medidas de planta (escala 1:50) para o real e descontar as folgas exigidas.",
-      "resolucao": "**1. Medidas reais do espaço (escala 1:50 → multiplique por 50).**\n- Altura: $3{,}8 \\times 50 = 190 \\text{ cm}$\n- Largura: $1{,}6 \\times 50 = 80 \\text{ cm}$\n\n**2. Desconte as folgas de 10 cm.**\n- Altura: folga só na parte **superior**: $190 - 10 = 180 \\text{ cm}$\n- Largura: folga nas **duas laterais**: $80 - 10 - 10 = 60 \\text{ cm}$\n\n**3. Converta para metros:** 1,80 m e 0,60 m. Alternativa **A**.",
-      "dicas": {
-        "dica1": "Na escala 1:50, a realidade é 50 vezes o desenho. Depois leia com cuidado onde é exigida a folga de 10 cm.",
-        "dica2": "Multiplique 3,8 cm e 1,6 cm por 50. Da altura tire 10 cm (só em cima); da largura tire 20 cm (10 de cada lado).",
-        "dica3": "Altura: 190 − 10. Largura: 80 − 20. Converta para metros."
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "B",
-          "por_que": "Descontou só 10 cm na largura (uma lateral), esquecendo que são duas laterais."
-        },
-        {
-          "alternativa": "C",
-          "por_que": "Não descontou folga na largura e descontou menos na altura, ou arredondou 190 para baixo errado."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Esqueceu as folgas e ainda arredondou: 190 → 2,00 m; 80 → 0,90 m."
-        },
-        {
-          "alternativa": "E",
-          "por_que": "Converteu errado a escala (ex.: 3,8 × 50 ≈ 200; 1,6 × 60) sem considerar as folgas."
-        }
-      ],
-      "conceitos": [
-        "escala 1:50",
-        "conversão cm–m",
-        "interpretação de restrições"
-      ],
-      "verificacao": {
-        "codigo_sympy": "altura = Rational(38,10)*50 - 10\nlargura = Rational(16,10)*50 - 2*10\nresultado = (altura/100, largura/100)",
-        "resultado_esperado": "(1.8, 0.6)",
-        "alternativa_esperada": "A"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -563,10 +467,8 @@
     "habilidade": "H5",
     "habilidade_origem": "inep",
     "competencia": "C1",
-    "assuntos": [
-      "analise-combinatoria"
-    ],
-    "classificacao": "revisada",
+    "assuntos": [],
+    "classificacao": "heuristica",
     "tri": {
       "a": 2.93676,
       "b": 3.33565,
@@ -589,53 +491,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2022-142",
-      "gabarito": "B",
-      "assuntos": [
-        "analise-combinatoria"
-      ],
-      "habilidade": "H2",
-      "nivel_curador": 2,
-      "resumo": "Princípio multiplicativo com subconjuntos de opcionais; achar o mínimo de cores para passar de 1 000.",
-      "resolucao": "**1. Opções de opcionais.** Cada um dos 3 opcionais pode estar presente ou não: $2^3 = 8$ combinações (inclui nenhum e todos).\n\n**2. Configurações sem contar a cor.**\n$$7 \\text{ modelos} \\times 2 \\text{ motores} \\times 8 \\text{ opcionais} = 112$$\n\n**3. Com $c$ cores,** o total é $112c$. Para ser \"mais de 1 000\":\n$$112c > 1\\,000 \\;\\Rightarrow\\; c > 8{,}93$$\n\nComo $c$ é inteiro, o mínimo é **9** cores ($112 \\times 9 = 1\\,008$). Alternativa **B**.",
-      "dicas": {
-        "dica1": "Os opcionais não são 3 escolhas: são 8, porque cada um entra ou não (nenhum, um, dois ou três).",
-        "dica2": "Multiplique modelos × motores × combinações de opcionais. Depois descubra o menor número de cores que faz o produto ultrapassar 1 000.",
-        "dica3": "7 × 2 × 8 = 112. 112 × 8 = 896 (não basta); 112 × 9 = ?"
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "A",
-          "por_que": "Arredondou 1 000/112 ≈ 8,9 para baixo; com 8 cores dá 896, que não passa de 1 000."
-        },
-        {
-          "alternativa": "E",
-          "por_que": "Usou 3 escolhas de opcionais em vez de 8: 7 × 2 × 3 = 42; 1 000/42 ≈ 24."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Usou 4 opções de opcionais (nenhum, um, dois, três) em vez de 8: 7 × 2 × 4 = 56; 1 000/56 ≈ 18."
-        },
-        {
-          "alternativa": "C",
-          "por_que": "Esqueceu a opção 'nenhum opcional' (7 opções): 7 × 2 × 7 = 98; 1 000/98 ≈ 10,2 → 11."
-        }
-      ],
-      "conceitos": [
-        "princípio multiplicativo",
-        "número de subconjuntos (2ⁿ)",
-        "menor inteiro que satisfaz uma desigualdade"
-      ],
-      "verificacao": {
-        "codigo_sympy": "base = 7*2*2**3\nresultado = floor(Rational(1000, base)) + 1",
-        "resultado_esperado": "9",
-        "alternativa_esperada": "B"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1120,9 +975,9 @@
     "competencia": "C5",
     "assuntos": [
       "funcao-quadratica",
-      "equacao-2-grau"
+      "probabilidade"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 2.13479,
       "b": 3.22198,
@@ -1145,55 +1000,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": true,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2022-150",
-      "gabarito": "D",
-      "assuntos": [
-        "funcao-quadratica",
-        "equacao-2-grau"
-      ],
-      "habilidade": "H21",
-      "nivel_curador": 3,
-      "resumo": "Altura máxima de uma parábola (vértice) comparada com a altura dos tetos.",
-      "dados_da_imagem": "A trajetória da bola é a parábola y = −x²/6 − 7x/3 + 12. O eixo x está a 1,5 m do piso; a figura mostra a bola saindo a 1,5 m de altura e a rede com 1,5 m.",
-      "resolucao": "**1. A altura máxima da bola é o vértice da parábola** $y = -\\frac{x^2}{6} - \\frac{7x}{3} + 12$, com $a = -\\frac16$, $b = -\\frac73$, $c = 12$.\n\n**2. Abscissa do vértice:**\n$$x_v = -\\frac{b}{2a} = -\\frac{-7/3}{2 \\cdot (-1/6)} = \\frac{7/3}{-1/3} = -7$$\n\n**3. Ordenada do vértice:**\n$$y_v = -\\frac{49}{6} - \\frac{7 \\cdot (-7)}{3} + 12 = -\\frac{49}{6} + \\frac{98}{6} + \\frac{72}{6} = \\frac{121}{6} \\approx 20{,}17 \\text{ m}$$\n\n**4. Altura em relação ao piso.** O eixo $x$ está a 1,5 m do chão:\n$$20{,}17 + 1{,}5 \\approx 21{,}67 \\text{ m}$$\n\n**5. Compare com os tetos:** I (17), II (18), III (19) e IV (21) são mais baixos que 21,67 m → saque invalidado. V (40 m) não.\n\nAlternativa **D**.",
-      "dicas": {
-        "dica1": "O ponto mais alto de uma parábola com a < 0 é o vértice. E cuidado: a altura em relação ao chão tem 1,5 m a mais que o y.",
-        "dica2": "Calcule x_v = −b/(2a) e substitua para achar y_v. Some 1,5 m e compare com cada teto.",
-        "dica3": "x_v = −7 e y_v = 121/6 ≈ 20,2. Então a bola chega a ≈ 21,7 m do piso."
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "C",
-          "por_que": "Esqueceu de somar 1,5 m: com 20,17 m, o teto de 21 m não seria atingido."
-        },
-        {
-          "alternativa": "B",
-          "por_que": "Erro no cálculo do vértice (ex.: usou y_v = c = 12 + 1,5 ou errou sinais), chegando a algo entre 18 e 19 m."
-        },
-        {
-          "alternativa": "A",
-          "por_que": "Usou apenas o termo independente 12 (+1,5) como altura máxima."
-        },
-        {
-          "alternativa": "E",
-          "por_que": "Erro grosseiro de sinal nas frações (ex.: y_v > 40)."
-        }
-      ],
-      "conceitos": [
-        "vértice da parábola",
-        "máximo de função quadrática",
-        "mudança de referencial (eixo deslocado)"
-      ],
-      "verificacao": {
-        "codigo_sympy": "x = symbols('x')\na, b, c = Rational(-1,6), Rational(-7,3), 12\ny = a*x**2 + b*x + c\nxv = -b/(2*a)  # = -7\naltura = y.subs(x, xv) + Rational(3,2)  # 121/6 + 1,5\ntetos = {'I':17,'II':18,'III':19,'IV':21,'V':40}\nresultado = sum(1 for t in tetos.values() if t < altura)  # quantos ginásios invalidam",
-        "resultado_esperado": "4",
-        "alternativa_esperada": "D"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -2230,7 +2036,7 @@
       "razao-proporcao",
       "grandezas-unidades-escalas"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 2.65709,
       "b": 1.6446,
@@ -2253,54 +2059,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2022-164",
-      "gabarito": "B",
-      "assuntos": [
-        "razao-proporcao",
-        "grandezas-unidades-escalas"
-      ],
-      "habilidade": "H12",
-      "nivel_curador": 2,
-      "resumo": "Volume por acionamento: converter dias em minutos e dividir pelo número de acionamentos.",
-      "resolucao": "**1. Quantos minutos há em 60 dias?**\n$$60 \\text{ dias} \\times 24 \\text{ h} \\times 60 \\text{ min} = 86\\,400 \\text{ min}$$\n\n**2. Quantos acionamentos ocorrem (um a cada 48 min)?**\n$$\\frac{86\\,400}{48} = 1\\,800 \\text{ acionamentos}$$\n\n**3. Volume por acionamento.**\n$$\\frac{360 \\text{ mL}}{1\\,800} = 0{,}2 \\text{ mL}$$\n\nAlternativa **B** (0,200 mL).",
-      "dicas": {
-        "dica1": "Se a mesma quantidade sai a cada acionamento, basta dividir o volume total pelo número de acionamentos.",
-        "dica2": "Converta 60 dias para minutos, divida por 48 para contar os acionamentos e então divida 360 mL por esse número.",
-        "dica3": "60 × 24 × 60 = 86 400 min; 86 400 ÷ 48 = 1 800. Agora 360 ÷ 1 800."
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "A",
-          "por_que": "Esqueceu de converter horas em minutos (60 × 24 = 1 440; 1 440/48 = 30 acionamentos por dia... e depois dividiu errado) ou calculou 360/(60×48)."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Dividiu 360 mL por 60 dias, achando o consumo diário (6 mL) e não o de cada acionamento."
-        },
-        {
-          "alternativa": "C",
-          "por_que": "Calculou 360/75 ou confundiu acionamentos por dia (30) com o total: 360 × 30 / ... erro de montagem."
-        },
-        {
-          "alternativa": "E",
-          "por_que": "Multiplicou em vez de dividir em alguma etapa (ex.: 0,2 × 60)."
-        }
-      ],
-      "conceitos": [
-        "conversão de unidades de tempo",
-        "divisão em partes iguais",
-        "razão"
-      ],
-      "verificacao": {
-        "codigo_sympy": "minutos = 60*24*60\nacionamentos = Rational(minutos, 48)\nresultado = Rational(360) / acionamentos",
-        "resultado_esperado": "0.2",
-        "alternativa_esperada": "B"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -3105,8 +2863,10 @@
     "habilidade": "H1",
     "habilidade_origem": "inep",
     "competencia": "C1",
-    "assuntos": [],
-    "classificacao": "heuristica",
+    "assuntos": [
+      "numeros-operacoes"
+    ],
+    "classificacao": "revisada",
     "tri": {
       "a": 1.42701,
       "b": -0.02398,
@@ -3129,6 +2889,53 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2022-175",
+      "gabarito": "E",
+      "assuntos": [
+        "numeros-operacoes"
+      ],
+      "habilidade": "H1",
+      "nivel_curador": 1,
+      "resumo": "Escrever R$ 1,35 bilhão com todos os algarismos.",
+      "resolucao": "**1. O que vale 1 bilhão.** Um bilhão é $10^9 = 1\\,000\\,000\\,000$ (o 1 seguido de nove zeros).\n\n**2. Multiplique por 1,35.**\n$$1{,}35 \\times 1\\,000\\,000\\,000 = 1\\,350\\,000\\,000$$\n\nDeslocar a vírgula nove casas para a direita transforma $1{,}35$ em $1\\,350\\,000\\,000$ (dez algarismos antes da vírgula).\n\n**3. Confira a ordem de grandeza.** O número tem de começar com a classe dos bilhões: \"1 bilhão, 350 milhões\". Só a alternativa **E** escreve isso: R$ 1 350 000 000,00.",
+      "dicas": {
+        "dica1": "Bilhão é 1 seguido de nove zeros. 'Um bilhão e pouco' tem que ter dez algarismos antes da vírgula.",
+        "dica2": "Escreva 1 000 000 000 e multiplique por 1,35: a vírgula anda nove casas para a direita.",
+        "dica3": "1,35 × 10⁹ = 1 350 000 000. Procure a alternativa com dez algarismos."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "D",
+          "por_que": "Trocou bilhão por 'cem milhões' (10⁸): 135 000 000 tem só nove algarismos, é 135 milhões."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Usou 10⁷ (dez milhões) como se fosse bilhão: 13 500 000 é 13,5 milhões."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Confundiu bilhão com milhão (10⁶): 1 350 000 é 1,35 milhão."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Multiplicou 1,35 por 100 000 (10⁵), perdendo quatro casas; 135 mil está muito longe de um bilhão."
+        }
+      ],
+      "conceitos": [
+        "classes e ordens do sistema decimal",
+        "potências de 10",
+        "multiplicação de decimal por potência de 10"
+      ],
+      "verificacao": {
+        "codigo_sympy": "resultado = Rational(135, 100) * 10**9",
+        "resultado_esperado": "1350000000",
+        "alternativa_esperada": "E"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {

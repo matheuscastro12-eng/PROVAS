@@ -1,0 +1,48 @@
+{
+  "id": "enem-2019-148",
+  "gabarito": "C",
+  "assuntos": [
+    "grandezas-unidades-escalas",
+    "porcentagem"
+  ],
+  "habilidade": "H12",
+  "nivel_curador": 2,
+  "resumo": "Converter 0,3 m³ em litros, tomar 80% e dividir por 2,7 L por embalagem (arredondando para cima).",
+  "resolucao": "**1. Capacidade da banheira em litros.** $1\\ \\text{m}^3 = 1\\,000$ L, então\n$$0{,}3\\ \\text{m}^3 = 300\\ \\text{L}.$$\n\n**2. Volume que será usado (80%).**\n$$0{,}8 \\times 300 = 240\\ \\text{L}$$\n\n**3. Quantas embalagens.** Cada embalagem rende 2,7 L:\n$$\\frac{240}{2{,}7} \\approx 88{,}9$$\n\nCom 88 embalagens faltaria produto ($88 \\times 2{,}7 = 237{,}6$ L); o **mínimo** inteiro que basta é **89**. Alternativa **C**.",
+  "dicas": {
+    "dica1": "Primeiro deixe tudo na mesma unidade: metro cúbico vira litro (1 m³ = 1 000 L). Depois aplique a porcentagem.",
+    "dica2": "0,3 m³ → litros; 80% disso é o volume necessário; divida pelo rendimento de uma embalagem e arredonde para cima.",
+    "dica3": "240 ÷ 2,7 ≈ 88,9 → como não dá para comprar fração, são 89 embalagens."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Usou 100% da banheira: 300 ÷ 2,7 ≈ 111,1 → 112, ignorando que só 80% será preenchida."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Errou a conversão (0,3 m³ como 30 L): 0,8 × 30 ÷ 2,7 ≈ 8,9 → 9."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Mesma conversão errada (30 L) e sem os 80%: 30 ÷ 2,7 ≈ 11,1 → 12."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Somou 20% em vez de tirar (1,2 × 300 = 360 L): 360 ÷ 2,7 ≈ 133,3 → 134."
+    }
+  ],
+  "conceitos": [
+    "conversão m³ ↔ litro",
+    "porcentagem de uma quantidade",
+    "arredondamento para cima em problemas de 'mínimo'"
+  ],
+  "verificacao": {
+    "codigo_sympy": "litros = Rational(3, 10) * 1000\nusado = Rational(80, 100) * litros\nresultado = ceiling(usado / Rational(27, 10))",
+    "resultado_esperado": "89",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

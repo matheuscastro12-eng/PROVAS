@@ -325,11 +325,9 @@
     "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
-      "numeros-operacoes",
-      "geometria-plana",
-      "geometria-espacial"
+      "numeros-operacoes"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": {
       "a": 1.86876,
       "b": 0.4293,
@@ -352,6 +350,53 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2019-140",
+      "gabarito": "D",
+      "assuntos": [
+        "numeros-operacoes"
+      ],
+      "habilidade": "H1",
+      "nivel_curador": 1,
+      "resumo": "Escrever 0,00011 mm em notação científica.",
+      "resolucao": "**1. Forma da notação científica.** Um número fica $m \\times 10^{n}$ com $1 \\le m < 10$. Em $0{,}00011$ o primeiro algarismo diferente de zero é o 1 da quarta casa decimal, então $m = 1{,}1$.\n\n**2. Conte as casas.** Para ir de $0{,}00011$ até $1{,}1$ a vírgula anda **4 casas para a direita**; como o número original é menor que 1, o expoente é negativo:\n$$0{,}00011 = 1{,}1 \\times 10^{-4}$$\n\n**3. Confira.** $1{,}1 \\times 10^{-4} = 1{,}1 \\div 10\\,000 = 0{,}00011$. Alternativa **D**.",
+      "dicas": {
+        "dica1": "Notação científica: um número entre 1 e 10 vezes uma potência de 10. Para números menores que 1, o expoente é negativo.",
+        "dica2": "Mova a vírgula até ficar 1,1 e conte quantas casas ela andou: esse é o módulo do expoente.",
+        "dica3": "0,00011 → 1,1 exige 4 saltos para a direita, logo 1,1 × 10⁻⁴."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "E",
+          "por_que": "Contou os cinco algarismos depois da vírgula (0,00011 tem cinco casas decimais) em vez das quatro casas que a vírgula anda até chegar em 1,1."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Contou só os três zeros depois da vírgula e esqueceu que a vírgula ainda precisa passar pelo primeiro 1."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Contou os dois zeros 'do meio' (0,00011) ou parou de contar cedo demais."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Usou o número de casas que separa 0,00011 de 0,0011, ou confundiu com 0,11."
+        }
+      ],
+      "conceitos": [
+        "notação científica",
+        "potências de 10 com expoente negativo",
+        "deslocamento da vírgula"
+      ],
+      "verificacao": {
+        "codigo_sympy": "x = Rational(11, 100000)\nn = floor(log(x, 10))\nm = x / 10**n\nassert 1 <= m < 10\nresultado = [m, n]",
+        "resultado_esperado": "[Rational(11,10), -4]",
+        "alternativa_esperada": "D"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -399,7 +444,7 @@
     "assuntos": [
       "geometria-plana"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 2.89605,
       "b": 1.98685,
@@ -422,53 +467,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2019-142",
-      "gabarito": "E",
-      "assuntos": [
-        "geometria-plana"
-      ],
-      "habilidade": "H12",
-      "nivel_curador": 2,
-      "resumo": "Área da coroa circular ao aumentar o diâmetro de 6 m para 14 m (π = 3).",
-      "resolucao": "**1. Raios.** Diâmetro atual 6 m → raio 3 m. Novo diâmetro $6 + 8 = 14$ m → raio 7 m.\n\n**2. Área a pavimentar** = área nova − área já existente (coroa circular):\n$$A = \\pi(7^2 - 3^2) = 3 \\times (49 - 9) = 3 \\times 40 = 120 \\text{ m}^2$$\n\n**3. Compare com o estoque:** 100 m² < 120 m². O material **não será suficiente**, pois a nova região mede **120 m²**. Alternativa **E**.",
-      "dicas": {
-        "dica1": "Só a parte nova precisa de pavimento: é a área do círculo grande menos a do círculo que já existe. E cuidado: o enunciado aumenta o DIÂMETRO em 8 m.",
-        "dica2": "Converta diâmetros em raios (3 m e 7 m). Calcule π·(7² − 3²) com π = 3.",
-        "dica3": "3 × (49 − 9) = ?"
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "D",
-          "por_que": "Somou 8 ao raio em vez de ao diâmetro: raio 11 → 3(121 − 9) = 336… ou usou o círculo novo com raio 6: 3 × 36 = 108."
-        },
-        {
-          "alternativa": "C",
-          "por_que": "Calculou a área do círculo de raio 4 (3 × 16 = 48), tratando o acréscimo de 8 m de diâmetro como um círculo à parte."
-        },
-        {
-          "alternativa": "B",
-          "por_que": "Usou a diferença dos raios ao quadrado: 3 × (7 − 3)² = 48… ou 3 × 8 = 24 confundindo área com comprimento."
-        },
-        {
-          "alternativa": "A",
-          "por_que": "Calculou o perímetro ou a diferença de diâmetros (3 × 7 = 21), não uma área."
-        }
-      ],
-      "conceitos": [
-        "área do círculo",
-        "coroa circular",
-        "diâmetro × raio"
-      ],
-      "verificacao": {
-        "codigo_sympy": "pi_aprox = 3\nresultado = pi_aprox*(7**2 - 3**2)",
-        "resultado_esperado": "120",
-        "alternativa_esperada": "E"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -872,9 +870,10 @@
     "habilidade_origem": "inep",
     "competencia": "C3",
     "assuntos": [
-      "geometria-espacial"
+      "grandezas-unidades-escalas",
+      "porcentagem"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": {
       "a": 1.64692,
       "b": 0.47926,
@@ -897,6 +896,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2019-148",
+      "gabarito": "C",
+      "assuntos": [
+        "grandezas-unidades-escalas",
+        "porcentagem"
+      ],
+      "habilidade": "H12",
+      "nivel_curador": 2,
+      "resumo": "Converter 0,3 m³ em litros, tomar 80% e dividir por 2,7 L por embalagem (arredondando para cima).",
+      "resolucao": "**1. Capacidade da banheira em litros.** $1\\ \\text{m}^3 = 1\\,000$ L, então\n$$0{,}3\\ \\text{m}^3 = 300\\ \\text{L}.$$\n\n**2. Volume que será usado (80%).**\n$$0{,}8 \\times 300 = 240\\ \\text{L}$$\n\n**3. Quantas embalagens.** Cada embalagem rende 2,7 L:\n$$\\frac{240}{2{,}7} \\approx 88{,}9$$\n\nCom 88 embalagens faltaria produto ($88 \\times 2{,}7 = 237{,}6$ L); o **mínimo** inteiro que basta é **89**. Alternativa **C**.",
+      "dicas": {
+        "dica1": "Primeiro deixe tudo na mesma unidade: metro cúbico vira litro (1 m³ = 1 000 L). Depois aplique a porcentagem.",
+        "dica2": "0,3 m³ → litros; 80% disso é o volume necessário; divida pelo rendimento de uma embalagem e arredonde para cima.",
+        "dica3": "240 ÷ 2,7 ≈ 88,9 → como não dá para comprar fração, são 89 embalagens."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "D",
+          "por_que": "Usou 100% da banheira: 300 ÷ 2,7 ≈ 111,1 → 112, ignorando que só 80% será preenchida."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Errou a conversão (0,3 m³ como 30 L): 0,8 × 30 ÷ 2,7 ≈ 8,9 → 9."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Mesma conversão errada (30 L) e sem os 80%: 30 ÷ 2,7 ≈ 11,1 → 12."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Somou 20% em vez de tirar (1,2 × 300 = 360 L): 360 ÷ 2,7 ≈ 133,3 → 134."
+        }
+      ],
+      "conceitos": [
+        "conversão m³ ↔ litro",
+        "porcentagem de uma quantidade",
+        "arredondamento para cima em problemas de 'mínimo'"
+      ],
+      "verificacao": {
+        "codigo_sympy": "litros = Rational(3, 10) * 1000\nusado = Rational(80, 100) * litros\nresultado = ceiling(usado / Rational(27, 10))",
+        "resultado_esperado": "89",
+        "alternativa_esperada": "C"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1276,9 +1323,11 @@
     "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
-      "porcentagem"
+      "matematica-financeira",
+      "porcentagem",
+      "regra-de-tres"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 3.17618,
       "b": 2.35696,
@@ -1301,53 +1350,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2019-153",
-      "gabarito": "E",
-      "assuntos": [
-        "porcentagem"
-      ],
-      "habilidade": "H3",
-      "nivel_curador": 1,
-      "resumo": "Dois aumentos percentuais sucessivos (7,2% e depois 10%) sobre um rendimento.",
-      "resolucao": "**1. Primeiro aumento (2000 → 2010): 7,2%.** Aumentar 7,2% é multiplicar por $1{,}072$:\n$$1\\,250 \\times 1{,}072 = 1\\,340$$\n\n**2. Segundo aumento (2010 → 2020): 10%.** Multiplicar por $1{,}10$:\n$$1\\,340 \\times 1{,}10 = 1\\,474$$\n\nEm 2020 o rendimento médio projetado é **R$ 1 474,00** (alternativa **E**).\n\n> Atenção: aumentos sucessivos **não se somam**. $7{,}2\\% + 10\\% = 17{,}2\\%$ daria $1\\,465$, que é o distrator D.",
-      "dicas": {
-        "dica1": "Aumentar p% é multiplicar por (1 + p/100). Dois aumentos seguidos são duas multiplicações, uma após a outra.",
-        "dica2": "Aplique 7,2% sobre 1 250 para achar o valor de 2010. Depois aplique 10% sobre esse novo valor (e não sobre 1 250).",
-        "dica3": "1 250 × 1,072 = 1 340. Agora calcule 1 340 × 1,1."
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "D",
-          "por_que": "Somou as porcentagens (7,2% + 10% = 17,2%) e aplicou de uma vez sobre 1 250: 1 250 × 1,172 = 1 465."
-        },
-        {
-          "alternativa": "A",
-          "por_que": "Calculou só o primeiro aumento (1 340) e esqueceu o de 10%."
-        },
-        {
-          "alternativa": "C",
-          "por_que": "Aplicou só o aumento de 10% sobre 1 250, ignorando os 7,2%."
-        },
-        {
-          "alternativa": "B",
-          "por_que": "Erro aritmético ao multiplicar por 1,072 (por exemplo, 1 250 × 0,072 ≈ 90 somado errado)."
-        }
-      ],
-      "conceitos": [
-        "fator de aumento (1 + i)",
-        "aumentos sucessivos",
-        "porcentagem"
-      ],
-      "verificacao": {
-        "codigo_sympy": "r2010 = 1250 * Rational(1072, 1000)\nresultado = r2010 * Rational(110, 100)",
-        "resultado_esperado": "1474",
-        "alternativa_esperada": "E"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1467,10 +1469,9 @@
     "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
-      "sequencias-pa",
-      "numeros-operacoes"
+      "sequencias-pa"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 3.93635,
       "b": 3.78057,
@@ -1493,54 +1494,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2019-155",
-      "gabarito": "E",
-      "assuntos": [
-        "sequencias-pa",
-        "numeros-operacoes"
-      ],
-      "habilidade": "H2",
-      "nivel_curador": 2,
-      "resumo": "Sequência periódica: identificar o bloco que se repete e usar o resto da divisão.",
-      "resolucao": "**1. Identifique o bloco que se repete.**\n$$5, 4, 3, 2, 1, 2, 3, 4, \\;|\\; 5, 4, 3, 2, 1, 2, 3, 4, \\;|\\; \\dots$$\nO bloco tem **8** termos (o 5 só aparece uma vez por bloco).\n\n**2. Posição 2 015 dentro do bloco.** Divida 2 015 por 8:\n$$2\\,015 = 8 \\times 251 + 7$$\nResto 7 → o 2 015º item é o **7º termo do bloco**.\n\n**3. 7º termo do bloco** $5, 4, 3, 2, 1, 2, \\mathbf{3}, 4$ é **3** = **caixa de direção**.\n\nAlternativa **E**.",
-      "dicas": {
-        "dica1": "Em sequência que repete um bloco, a posição que interessa é o resto da divisão pelo tamanho do bloco.",
-        "dica2": "Conte o bloco com cuidado (5,4,3,2,1,2,3,4 → 8 termos). Calcule o resto de 2 015 ÷ 8 e olhe esse termo do bloco.",
-        "dica3": "2 015 = 8 × 251 + 7 → 7º termo do bloco = 3 → código 3 = ?"
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "C",
-          "por_que": "Usou bloco de 9 termos (5,4,3,2,1,2,3,4,5): 2 015 = 9 × 223 + 8 → 8º termo = 4… ou achou o 5 como início de bloco."
-        },
-        {
-          "alternativa": "B",
-          "por_que": "Usou bloco de 9 e pegou o 8º termo (4 = catalisador) ou confundiu resto 7 com o termo 4."
-        },
-        {
-          "alternativa": "A",
-          "por_que": "Associou o resto 7 diretamente a '1' por contar o bloco a partir do 1."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Pegou o 6º termo do bloco (2) por começar a contar do zero."
-        }
-      ],
-      "conceitos": [
-        "sequência periódica",
-        "divisão com resto (aritmética modular)",
-        "codificação"
-      ],
-      "verificacao": {
-        "codigo_sympy": "bloco = [5,4,3,2,1,2,3,4]\nnomes = {1:'Rolamento',2:'Pastilha de freio',3:'Caixa de direcao',4:'Catalisador',5:'Amortecedor'}\nresultado = nomes[bloco[(2015 - 1) % 8]]",
-        "resultado_esperado": "Caixa de direcao",
-        "alternativa_esperada": "E"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1586,9 +1539,10 @@
     "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
-      "analise-combinatoria"
+      "analise-combinatoria",
+      "equacao-1-grau"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 2.45518,
       "b": 2.61221,
@@ -1611,53 +1565,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2019-156",
-      "gabarito": "C",
-      "assuntos": [
-        "analise-combinatoria"
-      ],
-      "habilidade": "H2",
-      "nivel_curador": 3,
-      "resumo": "Formar 4 duplas com 8 pessoas, sem juntar os dois canhotos (contagem pelo complementar).",
-      "resolucao": "**1. Total de maneiras de formar 4 duplas com 8 amigos.** Fixe uma pessoa: ela tem 7 parceiros possíveis; fixe outra das restantes: 5; depois 3; depois 1:\n$$7 \\times 5 \\times 3 \\times 1 = 105$$\n\n**2. Maneiras em que os dois canhotos ficam juntos.** Junte-os numa dupla; os outros 6 formam 3 duplas:\n$$5 \\times 3 \\times 1 = 15$$\n\n**3. Subtraia.**\n$$105 - 15 = 90$$\n\nAlternativa **C**.",
-      "dicas": {
-        "dica1": "Quando há uma proibição ('nenhuma dupla com dois canhotos'), conte tudo e tire os casos proibidos.",
-        "dica2": "Para contar pares de 8 pessoas sem ordem, fixe alguém e escolha seu par (7), depois repita (5, 3, 1). Faça o mesmo com 6 pessoas para o caso dos canhotos juntos.",
-        "dica3": "Total 7·5·3·1 = 105; canhotos juntos 5·3·1 = 15. Subtraia."
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "E",
-          "por_que": "Respondeu o total 105, esquecendo de excluir as formações com os dois canhotos juntos."
-        },
-        {
-          "alternativa": "B",
-          "por_que": "Calculou C(8,4) = 70, confundindo 'formar 4 duplas' com 'escolher 4 pessoas'."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Subtraiu apenas 1 do total (105 − 1), achando que há uma única formação proibida."
-        },
-        {
-          "alternativa": "A",
-          "por_que": "Fez 70 − 1 = 69, misturando os dois erros anteriores."
-        }
-      ],
-      "conceitos": [
-        "partição em pares (duplas)",
-        "contagem pelo complementar",
-        "combinações"
-      ],
-      "verificacao": {
-        "codigo_sympy": "total = factorial(8) // (2**4 * factorial(4))\njuntos = factorial(6) // (2**3 * factorial(3))\nresultado = total - juntos",
-        "resultado_esperado": "90",
-        "alternativa_esperada": "C"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1920,7 +1827,7 @@
     "assuntos": [
       "estatistica-basica"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 2.17954,
       "b": 1.95289,
@@ -1943,53 +1850,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2019-160",
-      "gabarito": "C",
-      "assuntos": [
-        "estatistica-basica"
-      ],
-      "habilidade": "H27",
-      "nivel_curador": 2,
-      "resumo": "Efeito na média de trocar um elemento do grupo por outro 0,20 m mais baixo.",
-      "resolucao": "**1. Soma das alturas do grupo original.** Média 1,80 m com 20 jogadores:\n$$S = 20 \\times 1{,}80 = 36 \\text{ m}$$\n\n**2. Troca de jogador.** Sai um e entra outro **0,20 m mais baixo**: a soma cai exatamente 0,20 m (não importa a altura de quem saiu):\n$$S' = 36 - 0{,}20 = 35{,}80 \\text{ m}$$\n\n**3. Nova média** (continuam 20 jogadores):\n$$\\frac{35{,}80}{20} = 1{,}79 \\text{ m}$$\n\nAlternativa **C**.\n\nAtalho: a soma cai 0,20; dividido por 20 jogadores, a média cai $0{,}20/20 = 0{,}01$.",
-      "dicas": {
-        "dica1": "Média = soma ÷ quantidade. Pense no que acontece com a SOMA quando se troca um jogador.",
-        "dica2": "Calcule a soma original (20 × 1,80). A troca reduz essa soma em 0,20 m. Divida de novo por 20.",
-        "dica3": "(36 − 0,2)/20 = ?"
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "A",
-          "por_que": "Subtraiu 0,20 diretamente da média (1,80 − 0,20 = 1,60), como se a média caísse tanto quanto um único jogador."
-        },
-        {
-          "alternativa": "B",
-          "por_que": "Dividiu a queda de 0,20 por 10 (ou errou a casa decimal): média cai 0,02."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Somou em vez de subtrair a diferença (novo jogador é mais BAIXO)."
-        },
-        {
-          "alternativa": "E",
-          "por_que": "Somou e ainda errou a casa decimal."
-        }
-      ],
-      "conceitos": [
-        "média aritmética",
-        "soma total a partir da média",
-        "variação da média ao trocar um elemento"
-      ],
-      "verificacao": {
-        "codigo_sympy": "soma = 20 * Rational(180, 100)\nresultado = (soma - Rational(20, 100)) / 20",
-        "resultado_esperado": "1.79",
-        "alternativa_esperada": "C"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -2734,10 +2594,10 @@
     "habilidade_origem": "inep",
     "competencia": "C3",
     "assuntos": [
-      "grandezas-unidades-escalas",
-      "razao-proporcao"
+      "geometria-espacial",
+      "grandezas-unidades-escalas"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 1.96646,
       "b": 2.01615,
@@ -2760,54 +2620,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2019-170",
-      "gabarito": "B",
-      "assuntos": [
-        "grandezas-unidades-escalas",
-        "razao-proporcao"
-      ],
-      "habilidade": "H12",
-      "nivel_curador": 2,
-      "resumo": "Dose por quilograma, por dia, convertida em volume (1 g ↔ 1 cm³ ↔ 1 mL).",
-      "resolucao": "**1. Dose diária máxima.** 500 mg por kg × 20 kg:\n$$500 \\times 20 = 10\\,000 \\text{ mg} = 10 \\text{ g por dia}$$\n\n**2. Tratamento de 5 dias.**\n$$10 \\text{ g} \\times 5 = 50 \\text{ g}$$\n\n**3. Converta massa em volume.** Como 1 g ocupa 1 cm³ e $1 \\text{ cm}^3 = 1 \\text{ mL}$:\n$$50 \\text{ g} \\to 50 \\text{ cm}^3 = 50 \\text{ mL}$$\n\nO frasco exato é o de **50 mL** (alternativa **B**).",
-      "dicas": {
-        "dica1": "A dose é 'por kg' e 'por dia': multiplique pela massa da criança e pelo número de dias. Depois lembre que 1 cm³ = 1 mL.",
-        "dica2": "500 mg × 20 kg dá a dose diária em mg. Converta para gramas, multiplique por 5 dias e use 1 g = 1 cm³ = 1 mL.",
-        "dica3": "500 × 20 = 10 000 mg = 10 g/dia; × 5 dias = 50 g = 50 mL."
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "A",
-          "por_que": "Esqueceu de multiplicar pelos 5 dias: 10 g = 10 mL."
-        },
-        {
-          "alternativa": "C",
-          "por_que": "Erro na conversão mg → g (dividiu por 100 em vez de 1 000) e depois ajustou para o frasco mais próximo."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Multiplicou 500 mg × 5 dias = 2,5 g e confundiu unidades, chegando a 250."
-        },
-        {
-          "alternativa": "E",
-          "por_que": "Esqueceu de converter mg para g: tomou 500 (mg) como 500 mL."
-        }
-      ],
-      "conceitos": [
-        "dosagem proporcional à massa",
-        "conversão mg–g",
-        "1 cm³ = 1 mL"
-      ],
-      "verificacao": {
-        "codigo_sympy": "mg_total = 500 * 20 * 5\ngramas = Rational(mg_total, 1000)\nresultado = gramas  # 1 g -> 1 mL",
-        "resultado_esperado": "50",
-        "alternativa_esperada": "B"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -2999,10 +2811,10 @@
     "habilidade_origem": "inep",
     "competencia": "C7",
     "assuntos": [
-      "probabilidade",
-      "porcentagem"
+      "porcentagem",
+      "probabilidade"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 2.5937,
       "b": 1.91179,
@@ -3025,54 +2837,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2019-173",
-      "gabarito": "E",
-      "assuntos": [
-        "probabilidade",
-        "porcentagem"
-      ],
-      "habilidade": "H28",
-      "nivel_curador": 3,
-      "resumo": "Probabilidade condicional 'invertida' (Bayes) com porcentagens de declarações inconsistentes e fraudulentas.",
-      "resolucao": "Imagine **10 000** declarações.\n\n**1. Inconsistentes:** $20\\%$ → 2 000. Dessas, $25\\%$ são fraudulentas → **500**.\n\n**2. Consistentes:** 8 000. Dessas, $6{,}25\\%$ são fraudulentas → $0{,}0625 \\times 8\\,000 = $ **500**.\n\n**3. Total de fraudulentas:** $500 + 500 = 1\\,000$.\n\n**4. Pergunta:** dado que é fraudulenta, qual a chance de ser inconsistente?\n$$P(\\text{inconsistente} \\mid \\text{fraudulenta}) = \\frac{500}{1\\,000} = 0{,}5$$\n\nAlternativa **E** (0,5000).",
-      "dicas": {
-        "dica1": "A condição é 'dado que era fraudulenta': o denominador é o total de declarações fraudulentas (vindas dos dois grupos).",
-        "dica2": "Escolha um total (ex.: 10 000), calcule quantas fraudulentas há entre as inconsistentes e entre as consistentes, e divida a primeira pela soma.",
-        "dica3": "Fraudulentas: 0,2 × 0,25 = 0,05 (inconsistentes) e 0,8 × 0,0625 = 0,05 (consistentes). P = 0,05/(0,05 + 0,05)."
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "A",
-          "por_que": "Respondeu P(inconsistente E fraudulenta) = 0,2 × 0,25 = 0,05, sem condicionar."
-        },
-        {
-          "alternativa": "B",
-          "por_que": "Respondeu P(fraudulenta) = 0,10, o total de fraudulentas, e não a condicional pedida."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Somou as taxas 0,25 + 0,0625 = 0,3125 como se fossem probabilidades do mesmo grupo."
-        },
-        {
-          "alternativa": "C",
-          "por_que": "Somou 0,05 + 0,0625 = 0,1125, misturando uma probabilidade conjunta com uma condicional."
-        }
-      ],
-      "conceitos": [
-        "probabilidade condicional",
-        "teorema de Bayes (forma intuitiva)",
-        "probabilidade total"
-      ],
-      "verificacao": {
-        "codigo_sympy": "p_inc = Rational(20,100); p_fr_inc = Rational(25,100); p_fr_cons = Rational(625,10000)\nfraud_inc = p_inc*p_fr_inc\nfraud_cons = (1-p_inc)*p_fr_cons\nresultado = fraud_inc/(fraud_inc + fraud_cons)",
-        "resultado_esperado": "0.5",
-        "alternativa_esperada": "E"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {

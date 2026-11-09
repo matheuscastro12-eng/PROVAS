@@ -1,0 +1,48 @@
+{
+  "id": "enem-2012-173",
+  "gabarito": "B",
+  "assuntos": [
+    "razao-proporcao",
+    "regra-de-tres"
+  ],
+  "habilidade": "H16",
+  "nivel_curador": 1,
+  "resumo": "Número de descargas por dia (60 L ÷ 15 L) e economia ao trocar por 6 L por descarga.",
+  "resolucao": "**1. Quantas descargas por dia?** A bacia comum gasta 15 L por descarga e 60 L por dia:\n$$\\frac{60}{15} = 4\\ \\text{descargas por dia}$$\n\n**2. Gasto diário da bacia ecológica** (6 L por descarga, mesmo número de descargas):\n$$4 \\times 6 = 24\\ \\text{L}$$\n\n**3. Economia.**\n$$60 - 24 = 36\\ \\text{litros por dia}$$\n\nAlternativa **B**. Atalho: cada descarga economiza $15 - 6 = 9$ L; $4 \\times 9 = 36$.",
+  "dicas": {
+    "dica1": "O que não muda é o número de descargas por dia. Descubra-o antes de comparar os gastos.",
+    "dica2": "Divida 60 L por 15 L para achar as descargas diárias; multiplique pelo gasto da ecológica; subtraia de 60.",
+    "dica3": "4 descargas × (15 − 6) litros economizados em cada uma."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Respondeu o gasto diário da bacia ecológica (4 × 6 = 24 L), não a economia."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Aproximou 6 L para 'um terço de 15 L' e fez 60 − 60/3 = 40, em vez de calcular as 4 descargas."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Fez 60 − 3 × 6 = 42: usou 3 descargas por dia (60 ÷ 20) em vez de 4 (60 ÷ 15)."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Subtraiu de 60 uma única diferença 'arredondada' (15 − 6 ≈ 10), sem multiplicar pelo número de descargas."
+    }
+  ],
+  "conceitos": [
+    "razão entre grandezas",
+    "proporcionalidade direta",
+    "diferença entre consumo e economia"
+  ],
+  "verificacao": {
+    "codigo_sympy": "descargas = Rational(60, 15)\nresultado = 60 - descargas * 6",
+    "resultado_esperado": "36",
+    "alternativa_esperada": "B"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

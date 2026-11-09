@@ -1,0 +1,47 @@
+{
+  "id": "enem-2019-140",
+  "gabarito": "D",
+  "assuntos": [
+    "numeros-operacoes"
+  ],
+  "habilidade": "H1",
+  "nivel_curador": 1,
+  "resumo": "Escrever 0,00011 mm em notação científica.",
+  "resolucao": "**1. Forma da notação científica.** Um número fica $m \\times 10^{n}$ com $1 \\le m < 10$. Em $0{,}00011$ o primeiro algarismo diferente de zero é o 1 da quarta casa decimal, então $m = 1{,}1$.\n\n**2. Conte as casas.** Para ir de $0{,}00011$ até $1{,}1$ a vírgula anda **4 casas para a direita**; como o número original é menor que 1, o expoente é negativo:\n$$0{,}00011 = 1{,}1 \\times 10^{-4}$$\n\n**3. Confira.** $1{,}1 \\times 10^{-4} = 1{,}1 \\div 10\\,000 = 0{,}00011$. Alternativa **D**.",
+  "dicas": {
+    "dica1": "Notação científica: um número entre 1 e 10 vezes uma potência de 10. Para números menores que 1, o expoente é negativo.",
+    "dica2": "Mova a vírgula até ficar 1,1 e conte quantas casas ela andou: esse é o módulo do expoente.",
+    "dica3": "0,00011 → 1,1 exige 4 saltos para a direita, logo 1,1 × 10⁻⁴."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "E",
+      "por_que": "Contou os cinco algarismos depois da vírgula (0,00011 tem cinco casas decimais) em vez das quatro casas que a vírgula anda até chegar em 1,1."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Contou só os três zeros depois da vírgula e esqueceu que a vírgula ainda precisa passar pelo primeiro 1."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Contou os dois zeros 'do meio' (0,00011) ou parou de contar cedo demais."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Usou o número de casas que separa 0,00011 de 0,0011, ou confundiu com 0,11."
+    }
+  ],
+  "conceitos": [
+    "notação científica",
+    "potências de 10 com expoente negativo",
+    "deslocamento da vírgula"
+  ],
+  "verificacao": {
+    "codigo_sympy": "x = Rational(11, 100000)\nn = floor(log(x, 10))\nm = x / 10**n\nassert 1 <= m < 10\nresultado = [m, n]",
+    "resultado_esperado": "[Rational(11,10), -4]",
+    "alternativa_esperada": "D"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

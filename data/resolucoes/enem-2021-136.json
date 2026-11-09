@@ -1,0 +1,49 @@
+{
+  "id": "enem-2021-136",
+  "gabarito": "E",
+  "assuntos": [
+    "equacao-2-grau",
+    "sequencias-pa"
+  ],
+  "habilidade": "H2",
+  "nivel_curador": 3,
+  "resumo": "Usar ρ² = ρ + 1 para reduzir potências de ρ à forma aρ + b e obter ρ⁷ (padrão do quadro).",
+  "dados_da_imagem": "Quadro com as potências de φ (ρ) na forma aφ + b: φ² = φ + 1; φ³ = 2φ + 1; φ⁴ = 3φ + 2; φ⁵ = 5φ + 3; φ⁶ = 8φ + 5; φ⁷ = … (a completar).",
+  "resolucao": "**1. A regra de redução.** A equação do 2º grau $\\rho^2 = \\rho + 1$ permite trocar todo $\\rho^2$ por $\\rho + 1$. Multiplicando uma potência já reduzida por $\\rho$:\n$$\\rho \\cdot (a\\rho + b) = a\\rho^2 + b\\rho = a(\\rho + 1) + b\\rho = (a + b)\\rho + a$$\n\nOu seja, de $a\\rho + b$ passa-se para $(a+b)\\rho + a$.\n\n**2. Aplique a partir do quadro.** $\\rho^6 = 8\\rho + 5$, então\n$$\\rho^7 = \\rho \\cdot (8\\rho + 5) = 8\\rho^2 + 5\\rho = 8(\\rho + 1) + 5\\rho = 13\\rho + 8$$\n\n**3. Confira o padrão.** Os coeficientes do quadro são $1, 1, 2, 3, 5, 8$ e $1, 0, 1, 1, 2, 3, 5$: cada um é a soma dos dois anteriores (sequência de Fibonacci). O próximo par é $(13, 8)$. Alternativa **E**.",
+  "dicas": {
+    "dica1": "Toda vez que aparecer ρ², troque por ρ + 1: é isso que mantém as potências na forma aρ + b.",
+    "dica2": "Multiplique a última linha do quadro (8ρ + 5) por ρ e substitua ρ² por ρ + 1.",
+    "dica3": "8ρ² + 5ρ = 8(ρ + 1) + 5ρ = ?ρ + ?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Somou 3 ao coeficiente e 2 à constante (padrão de PA 'parecido'): 8 + 3 = 11, 5 + 2 = 7, sem usar a regra ρ² = ρ + 1."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Somou 1 a cada coeficiente da linha anterior ou errou a substituição (8ρ² → 8ρ + 1): 9ρ + 6."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Copiou ρ⁵ = 5ρ + 3 do quadro, confundindo a potência pedida."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Tomou o expoente 7 como coeficiente de ρ, sem aplicar a regra ρ² = ρ + 1."
+    }
+  ],
+  "conceitos": [
+    "equação do 2º grau como relação de redução (ρ² = ρ + 1)",
+    "potências e distributiva",
+    "sequência de Fibonacci (padrão recursivo)"
+  ],
+  "verificacao": {
+    "codigo_sympy": "r = symbols('rho')\nexpr = r**7\nreduzida = rem(expr, r**2 - r - 1, r)\nreduzida = expand(reduzida)\nassert reduzida == 13*r + 8\nresultado = [reduzida.coeff(r, 1), reduzida.coeff(r, 0)]",
+    "resultado_esperado": "[13, 8]",
+    "alternativa_esperada": "E"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

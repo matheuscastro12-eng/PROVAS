@@ -343,10 +343,10 @@
     "habilidade_origem": "inep",
     "competencia": "C5",
     "assuntos": [
-      "geometria-espacial",
+      "regra-de-tres",
       "porcentagem"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": {
       "a": 1.76793,
       "b": 0.79745,
@@ -371,6 +371,54 @@
       "observacoes": [
         "parâmetros TRI do espelho tinham o decimal quebrado (ex.: a=176.793); corrigidos pela reinserção do ponto após o primeiro dígito"
       ]
+    },
+    "resolucao": {
+      "id": "enem-2009-141",
+      "gabarito": "D",
+      "assuntos": [
+        "regra-de-tres",
+        "porcentagem"
+      ],
+      "habilidade": "H23",
+      "nivel_curador": 2,
+      "resumo": "Mesmo volume de mistura: se 4% equivalem a 925 milhões de litros, quanto são 3%?",
+      "resolucao": "**1. Entenda o que é fixo.** O volume total da mistura é o mesmo nos dois cenários; só muda a fração de biodiesel: 4% → 925 milhões de litros; 3% → ?\n\n**2. Regra de três direta** (mais porcentagem, mais biodiesel):\n$$\\frac{4\\%}{925} = \\frac{3\\%}{x} \\;\\Rightarrow\\; x = \\frac{3 \\times 925}{4} = \\frac{2\\,775}{4} = 693{,}75$$\n\n**3. Conclusão.** Seriam consumidos **693,75 milhões de litros**. Alternativa **D**.\n\nCaminho equivalente: 1% da mistura ↔ $925/4 = 231{,}25$ milhões de litros; 3% ↔ $3 \\times 231{,}25 = 693{,}75$.",
+      "dicas": {
+        "dica1": "O volume da mistura não muda; biodiesel é proporcional à porcentagem (4% ↔ 925 milhões de litros).",
+        "dica2": "Descubra quanto vale 1% (divida 925 por 4) e multiplique por 3.",
+        "dica3": "x = 925 × 3 ÷ 4."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "C",
+          "por_que": "Parou em 925 ÷ 4 = 231,25, que é o consumo para 1%, e não para 3%."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Calculou 3% de 925 (0,03 × 925 = 27,75), tratando 925 como se fosse o volume total da mistura."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Calculou 4% de 925 (37,00), outra porcentagem aplicada sobre o número errado."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Reduziu 925 em 4% (0,96 × 925 = 888), confundindo 'de 4% para 3%' com 'desconto de 4%'."
+        }
+      ],
+      "conceitos": [
+        "grandezas diretamente proporcionais",
+        "regra de três simples",
+        "porcentagem como fração de um todo fixo"
+      ],
+      "verificacao": {
+        "codigo_sympy": "resultado = Rational(3, 4) * 925",
+        "resultado_esperado": "Rational(2775, 4)",
+        "alternativa_esperada": "D"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1862,11 +1910,8 @@
     "habilidade": "H16",
     "habilidade_origem": "inep",
     "competencia": "C4",
-    "assuntos": [
-      "regra-de-tres",
-      "razao-proporcao"
-    ],
-    "classificacao": "revisada",
+    "assuntos": [],
+    "classificacao": "heuristica",
     "tri": {
       "a": 2.32988,
       "b": 2.23435,
@@ -1891,54 +1936,6 @@
       "observacoes": [
         "parâmetros TRI do espelho tinham o decimal quebrado (ex.: a=232.988); corrigidos pela reinserção do ponto após o primeiro dígito"
       ]
-    },
-    "resolucao": {
-      "id": "enem-2009-162",
-      "gabarito": "A",
-      "assuntos": [
-        "regra-de-tres",
-        "razao-proporcao"
-      ],
-      "habilidade": "H16",
-      "nivel_curador": 3,
-      "resumo": "Regra de três composta: alunos, horas por dia e dias determinam a quantidade arrecadada.",
-      "resolucao": "**1. Primeira fase (10 dias).** 20 alunos, 3 h/dia, 12 kg/dia:\n$$10 \\times 12 = 120 \\text{ kg}$$\n\n**2. Ritmo de coleta por aluno e por hora.** Em um dia, 20 alunos × 3 h = 60 \"aluno-horas\" rendem 12 kg:\n$$\\frac{12}{60} = 0{,}2 \\text{ kg por aluno-hora}$$\n\n**3. Segunda fase (20 dias restantes).** Agora são $20 + 30 = 50$ alunos, 4 h/dia:\n$$50 \\times 4 \\times 0{,}2 = 40 \\text{ kg/dia} \\;\\Rightarrow\\; 20 \\times 40 = 800 \\text{ kg}$$\n\n**4. Total:** $120 + 800 = 920$ kg. Alternativa **A**.\n\nEm forma de regra de três composta: $\\dfrac{12}{x} = \\dfrac{20}{50} \\cdot \\dfrac{3}{4} \\Rightarrow x = 12 \\cdot \\dfrac{50}{20} \\cdot \\dfrac{4}{3} = 40$ kg/dia.",
-      "dicas": {
-        "dica1": "A arrecadação é diretamente proporcional ao número de alunos, às horas por dia e aos dias. Separe a campanha em duas fases.",
-        "dica2": "Calcule o que foi arrecadado nos 10 primeiros dias. Depois ache a nova arrecadação diária (mais alunos, mais horas) e multiplique pelos 20 dias restantes.",
-        "dica3": "Nova arrecadação diária = 12 × (50/20) × (4/3) = 40 kg. Total = 10 × 12 + 20 × 40."
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "B",
-          "por_que": "Considerou só a segunda fase (20 × 40 = 800 kg) e esqueceu os 120 kg dos primeiros 10 dias."
-        },
-        {
-          "alternativa": "C",
-          "por_que": "Usou 30 alunos (os novos) em vez de 50 na segunda fase: 12 × 30/20 × 4/3 = 24 kg/dia... ou outro erro de montagem (ex.: 600 + 120)."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Esqueceu o aumento de horas (3 → 4): 12 × 50/20 = 30 kg/dia; 20 × 30 = 600."
-        },
-        {
-          "alternativa": "E",
-          "por_que": "Somou 120 com um valor da segunda fase calculado com proporção errada (ex.: só 30 alunos e 4 h: 24 × 20 = 480; 480 + 90...)."
-        }
-      ],
-      "conceitos": [
-        "regra de três composta",
-        "grandezas diretamente proporcionais",
-        "taxa por unidade (aluno-hora)"
-      ],
-      "verificacao": {
-        "codigo_sympy": "taxa = Rational(12, 20*3)  # kg por aluno-hora\nfase1 = 10*12\nfase2 = 20 * (50*4*taxa)\nresultado = fase1 + fase2",
-        "resultado_esperado": "920",
-        "alternativa_esperada": "A"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {

@@ -44,11 +44,10 @@
     "habilidade_origem": "inep",
     "competencia": "C1",
     "assuntos": [
-      "razao-proporcao",
-      "probabilidade",
-      "graficos-tabelas"
+      "equacao-2-grau",
+      "sequencias-pa"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": {
       "a": 1.38496,
       "b": 1.73939,
@@ -71,6 +70,55 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": true,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2021-136",
+      "gabarito": "E",
+      "assuntos": [
+        "equacao-2-grau",
+        "sequencias-pa"
+      ],
+      "habilidade": "H2",
+      "nivel_curador": 3,
+      "resumo": "Usar ρ² = ρ + 1 para reduzir potências de ρ à forma aρ + b e obter ρ⁷ (padrão do quadro).",
+      "dados_da_imagem": "Quadro com as potências de φ (ρ) na forma aφ + b: φ² = φ + 1; φ³ = 2φ + 1; φ⁴ = 3φ + 2; φ⁵ = 5φ + 3; φ⁶ = 8φ + 5; φ⁷ = … (a completar).",
+      "resolucao": "**1. A regra de redução.** A equação do 2º grau $\\rho^2 = \\rho + 1$ permite trocar todo $\\rho^2$ por $\\rho + 1$. Multiplicando uma potência já reduzida por $\\rho$:\n$$\\rho \\cdot (a\\rho + b) = a\\rho^2 + b\\rho = a(\\rho + 1) + b\\rho = (a + b)\\rho + a$$\n\nOu seja, de $a\\rho + b$ passa-se para $(a+b)\\rho + a$.\n\n**2. Aplique a partir do quadro.** $\\rho^6 = 8\\rho + 5$, então\n$$\\rho^7 = \\rho \\cdot (8\\rho + 5) = 8\\rho^2 + 5\\rho = 8(\\rho + 1) + 5\\rho = 13\\rho + 8$$\n\n**3. Confira o padrão.** Os coeficientes do quadro são $1, 1, 2, 3, 5, 8$ e $1, 0, 1, 1, 2, 3, 5$: cada um é a soma dos dois anteriores (sequência de Fibonacci). O próximo par é $(13, 8)$. Alternativa **E**.",
+      "dicas": {
+        "dica1": "Toda vez que aparecer ρ², troque por ρ + 1: é isso que mantém as potências na forma aρ + b.",
+        "dica2": "Multiplique a última linha do quadro (8ρ + 5) por ρ e substitua ρ² por ρ + 1.",
+        "dica3": "8ρ² + 5ρ = 8(ρ + 1) + 5ρ = ?ρ + ?"
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "D",
+          "por_que": "Somou 3 ao coeficiente e 2 à constante (padrão de PA 'parecido'): 8 + 3 = 11, 5 + 2 = 7, sem usar a regra ρ² = ρ + 1."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Somou 1 a cada coeficiente da linha anterior ou errou a substituição (8ρ² → 8ρ + 1): 9ρ + 6."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Copiou ρ⁵ = 5ρ + 3 do quadro, confundindo a potência pedida."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Tomou o expoente 7 como coeficiente de ρ, sem aplicar a regra ρ² = ρ + 1."
+        }
+      ],
+      "conceitos": [
+        "equação do 2º grau como relação de redução (ρ² = ρ + 1)",
+        "potências e distributiva",
+        "sequência de Fibonacci (padrão recursivo)"
+      ],
+      "verificacao": {
+        "codigo_sympy": "r = symbols('rho')\nexpr = r**7\nreduzida = rem(expr, r**2 - r - 1, r)\nreduzida = expand(reduzida)\nassert reduzida == 13*r + 8\nresultado = [reduzida.coeff(r, 1), reduzida.coeff(r, 0)]",
+        "resultado_esperado": "[13, 8]",
+        "alternativa_esperada": "E"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -335,7 +383,7 @@
     "assuntos": [
       "probabilidade"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 3.77336,
       "b": 2.88467,
@@ -358,53 +406,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2021-142",
-      "gabarito": "B",
-      "assuntos": [
-        "probabilidade"
-      ],
-      "habilidade": "H28",
-      "nivel_curador": 2,
-      "resumo": "Probabilidade de 'pelo menos um acerto' pelo complementar, com n lançamentos independentes.",
-      "resolucao": "**1. Use o evento complementar.** Pontuar = acertar pelo menos um dardo. O complementar é errar **todos**:\n$$P(\\text{pontuar}) = 1 - P(\\text{errar todos}) = 1 - \\left(\\tfrac{1}{2}\\right)^n$$\n\n**2. Imponha a meta de 9/10.**\n$$1 - \\left(\\tfrac{1}{2}\\right)^n \\ge \\tfrac{9}{10} \\;\\Rightarrow\\; \\left(\\tfrac{1}{2}\\right)^n \\le \\tfrac{1}{10}$$\n\n**3. Teste valores de $n$.**\n- $n = 3$: $1/8 = 0{,}125 > 0{,}1$ ✗ (regra atual)\n- $n = 4$: $1/16 = 0{,}0625 \\le 0{,}1$ ✓\n\nO mínimo é **4 dardos** (alternativa **B**).",
-      "dicas": {
-        "dica1": "'Pelo menos um' pede o complementar: calcule a chance de errar todos e subtraia de 1.",
-        "dica2": "Com n dardos, errar todos tem probabilidade (1/2)ⁿ. Encontre o menor n com (1/2)ⁿ ≤ 1/10.",
-        "dica3": "1/8 = 0,125 ainda é maior que 0,1; 1/16 = 0,0625 já serve."
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "A",
-          "por_que": "Respondeu a quantidade de dardos a MAIS (de 3 para... ) ou confundiu 1 − 1/4 = 0,75 com algo suficiente."
-        },
-        {
-          "alternativa": "C",
-          "por_que": "Somou probabilidades (6 × 1/2 ≥ ...) ou pensou que precisava dobrar os 3 dardos."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Associou 9/10 a 9 dardos, sem calcular."
-        },
-        {
-          "alternativa": "E",
-          "por_que": "Associou o denominador 10 da meta ao número de dardos."
-        }
-      ],
-      "conceitos": [
-        "evento complementar",
-        "eventos independentes",
-        "potências de 1/2"
-      ],
-      "verificacao": {
-        "codigo_sympy": "n = 1\nwhile 1 - Rational(1,2)**n < Rational(9,10):\n    n += 1\nresultado = n",
-        "resultado_esperado": "4",
-        "alternativa_esperada": "B"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1608,10 +1609,9 @@
     "habilidade_origem": "inep",
     "competencia": "C4",
     "assuntos": [
-      "regra-de-tres",
-      "razao-proporcao"
+      "regra-de-tres"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 2.34295,
       "b": 2.34886,
@@ -1634,54 +1634,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2021-159",
-      "gabarito": "A",
-      "assuntos": [
-        "regra-de-tres",
-        "razao-proporcao"
-      ],
-      "habilidade": "H16",
-      "nivel_curador": 2,
-      "resumo": "Tempo de troca de pneu inversamente proporcional ao número de pessoas no grupo.",
-      "resolucao": "**1. Situação normal.** Cada grupo tem 3 pessoas e troca seu pneu em 4 s. Os quatro grupos trabalham ao mesmo tempo, então a troca completa leva 4 s.\n\n**2. Grupo reduzido.** Um grupo ficou com 2 pessoas. Como o tempo é **inversamente proporcional** ao número de pessoas:\n$$3 \\times 4 = 2 \\times t \\;\\Rightarrow\\; t = \\frac{12}{2} = 6 \\text{ s}$$\n\n**3. Tempo total da parada.** Os outros três grupos ainda terminam em 4 s, mas o carro só sai quando o **último** pneu estiver trocado: **6 s**.\n\nAlternativa **A**.",
-      "dicas": {
-        "dica1": "Menos pessoas, mais tempo: é uma proporção inversa. E o tempo da parada é o do grupo mais lento, pois todos trabalham em paralelo.",
-        "dica2": "Monte a regra de três inversa: 3 pessoas → 4 s; 2 pessoas → t. Multiplique em cruz 'ao contrário' (3 × 4 = 2 × t).",
-        "dica3": "t = 3 × 4 / 2."
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "E",
-          "por_que": "Calculou uma média ponderada entre os grupos (ex.: (3×4 + 6)/4 ≈ 4,4), como se os tempos se somassem/diluíssem; mas o carro espera o grupo mais lento."
-        },
-        {
-          "alternativa": "C",
-          "por_que": "Usou 11 pessoas no total em vez de 12 numa regra de três global (4 × 12/11 ≈ 4,4) ou arredondou errado para 5."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Somou meio segundo 'por falta de uma pessoa', sem usar a proporção inversa."
-        },
-        {
-          "alternativa": "B",
-          "por_que": "Erro aritmético na proporção (ex.: 4 × 3/2 feito como 4 × 1,43)."
-        }
-      ],
-      "conceitos": [
-        "grandezas inversamente proporcionais",
-        "regra de três inversa",
-        "trabalho em paralelo (gargalo)"
-      ],
-      "verificacao": {
-        "codigo_sympy": "t = symbols('t')\nresultado = solve(Eq(3*4, 2*t), t)[0]",
-        "resultado_esperado": "6",
-        "alternativa_esperada": "A"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -1726,8 +1678,11 @@
     "habilidade": "H17",
     "habilidade_origem": "inep",
     "competencia": "C4",
-    "assuntos": [],
-    "classificacao": "heuristica",
+    "assuntos": [
+      "razao-proporcao",
+      "numeros-operacoes"
+    ],
+    "classificacao": "revisada",
     "tri": {
       "a": 2.8311,
       "b": 1.0422,
@@ -1750,6 +1705,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2021-160",
+      "gabarito": "D",
+      "assuntos": [
+        "razao-proporcao",
+        "numeros-operacoes"
+      ],
+      "habilidade": "H17",
+      "nivel_curador": 2,
+      "resumo": "Para cada suplemento, o menor número de sachês que cobre os três minerais e o custo total; escolher o mais barato.",
+      "resolucao": "**1. Para cada suplemento, quantos sachês são necessários?** É preciso cobrir **os três** minerais (A: 800 mg, B: 1 000 mg, C: 1 200 mg); o número de sachês é o maior dos três quocientes, arredondado para cima.\n\n| Supl. | A (÷ 800) | B (÷ 1 000) | C (÷ 1 200) | Sachês | Custo |\n|---|---|---|---|---|---|\n| I | $800/50 = 16$ | $1\\,000/100 = 10$ | $1\\,200/200 = 6$ | 16 | $16 \\times 2 = 32$ |\n| II | $800/800 = 1$ | $1\\,000/250 = 4$ | $1\\,200/200 = 6$ | 6 | $6 \\times 3 = 18$ |\n| III | $800/250 = 3{,}2 \\to 4$ | $1\\,000/1\\,000 = 1$ | $1\\,200/300 = 4$ | 4 | $4 \\times 5 = 20$ |\n| IV | $800/600 \\to 2$ | $1\\,000/500 = 2$ | $1\\,200/1\\,000 \\to 2$ | 2 | $2 \\times 6 = 12$ |\n| V | $800/400 = 2$ | $1\\,000/800 \\to 2$ | $1\\,200/1\\,200 = 1$ | 2 | $2 \\times 8 = 16$ |\n\n**2. Escolha o menor custo.** R$ 12,00, com o suplemento **IV**. Alternativa **D**.",
+      "dicas": {
+        "dica1": "Não compare o preço do sachê: compare o gasto total para cobrir os três minerais com um só suplemento.",
+        "dica2": "Para cada suplemento, divida a necessidade de cada mineral pela quantidade no sachê; o número de sachês é o maior resultado (arredondado para cima). Multiplique pelo preço.",
+        "dica3": "I: 16 sachês × R$ 2; II: 6 × R$ 3; III: 4 × R$ 5; IV: 2 × R$ 6; V: 2 × R$ 8."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "A",
+          "por_que": "Escolheu o sachê mais barato (R$ 2,00) sem perceber que seriam necessários 16 deles (R$ 32,00)."
+        },
+        {
+          "alternativa": "B",
+          "por_que": "Olhou só o mineral A (1 sachê do II já cobre 800 mg) e esqueceu de cobrir B e C, que exigem 6 sachês."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Fixou-se no mineral B (1 sachê do III cobre 1 000 mg), mas A e C pedem 4 sachês (R$ 20,00)."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Tomou o suplemento 'mais completo' (maiores quantidades) como o melhor; custa R$ 16,00, mais que o IV."
+        }
+      ],
+      "conceitos": [
+        "razão e quociente com arredondamento para cima",
+        "otimização por comparação de casos",
+        "leitura de dados em lista"
+      ],
+      "verificacao": {
+        "codigo_sympy": "necess = (800, 1000, 1200)\nsupl = {'A': ((50, 100, 200), 2), 'B': ((800, 250, 200), 3), 'C': ((250, 1000, 300), 5), 'D': ((600, 500, 1000), 6), 'E': ((400, 800, 1200), 8)}\ncusto = {k: max(ceiling(Rational(n, q)) for n, q in zip(necess, qs)) * p for k, (qs, p) in supl.items()}\nresultado = min(custo, key=custo.get)",
+        "resultado_esperado": "D",
+        "alternativa_esperada": "D"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {

@@ -1,0 +1,47 @@
+{
+  "id": "enem-2012-161",
+  "gabarito": "C",
+  "assuntos": [
+    "numeros-operacoes"
+  ],
+  "habilidade": "H1",
+  "nivel_curador": 1,
+  "resumo": "Identificar a ordem (posição) de um algarismo em um número de oito algarismos.",
+  "resolucao": "**1. Conte os algarismos.** O protocolo é $1\\ 3\\ \\_\\ 9\\ 8\\ 2\\ 0\\ 7$: oito posições, com o espaço vazio na **terceira** contando da esquerda.\n\n**2. Nomeie as ordens da direita para a esquerda.**\n\n| Algarismo | 7 | 0 | 2 | 8 | 9 | \\_ | 3 | 1 |\n|---|---|---|---|---|---|---|---|---|\n| Ordem | unidade | dezena | centena | unidade de milhar | dezena de milhar | **centena de milhar** | unidade de milhão | dezena de milhão |\n\n**3. Leia a posição do espaço.** Ele é o 6º algarismo da direita para a esquerda: **centena de milhar**. Alternativa **C**.\n\nEm grupos de três (classes): $13\\,\\_98\\,207$ → classe dos milhões (13), classe dos milhares ($\\_98$), classe das unidades (207); o espaço é a centena da classe dos milhares.",
+  "dicas": {
+    "dica1": "As ordens contam da direita para a esquerda: unidade, dezena, centena, unidade de milhar, dezena de milhar, centena de milhar, milhão…",
+    "dica2": "Separe o número em classes de três algarismos a partir da direita e veja em que classe e em que posição o espaço cai.",
+    "dica3": "O espaço é o 6º algarismo da direita: 1ª unidade, 2ª dezena, 3ª centena, 4ª milhar, 5ª dezena de milhar, 6ª …"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Contou da esquerda para a direita e tomou a terceira posição como 'centena'."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Errou a contagem em uma casa (pegou a 5ª posição da direita, dezena de milhar)."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Errou a contagem em uma casa para o outro lado (7ª posição, unidade de milhão)."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Achou que o número tinha nove algarismos e que o espaço estava na classe dos milhões."
+    }
+  ],
+  "conceitos": [
+    "sistema de numeração decimal",
+    "ordens e classes",
+    "valor posicional"
+  ],
+  "verificacao": {
+    "codigo_sympy": "numero = '13_98207'\nordens = ['unidade', 'dezena', 'centena', 'unidade de milhar', 'dezena de milhar', 'centena de milhar', 'unidade de milhao', 'dezena de milhao']\nposicao_da_direita = len(numero) - numero.index('_')\nresultado = ordens[posicao_da_direita - 1]",
+    "resultado_esperado": "centena de milhar",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

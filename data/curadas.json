@@ -25,6 +25,21 @@
     },
     {
       "ordem": 2,
+      "id": "enem-2022-175",
+      "ano": 2022,
+      "numero": 175,
+      "assuntos": [
+        "numeros-operacoes"
+      ],
+      "habilidade": "H1",
+      "b": -0.02398,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Escrever R$ 1,35 bilhão com todos os algarismos.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 3,
       "id": "enem-2023-156",
       "ano": 2023,
       "numero": 156,
@@ -40,7 +55,38 @@
       "depende_de_imagem": true
     },
     {
-      "ordem": 3,
+      "ordem": 4,
+      "id": "enem-2019-140",
+      "ano": 2019,
+      "numero": 140,
+      "assuntos": [
+        "numeros-operacoes"
+      ],
+      "habilidade": "H1",
+      "b": 0.4293,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Escrever 0,00011 mm em notação científica.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 5,
+      "id": "enem-2019-148",
+      "ano": 2019,
+      "numero": 148,
+      "assuntos": [
+        "grandezas-unidades-escalas",
+        "porcentagem"
+      ],
+      "habilidade": "H12",
+      "b": 0.47926,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Converter 0,3 m³ em litros, tomar 80% e dividir por 2,7 L por embalagem (arredondando para cima).",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 6,
       "id": "enem-2011-162",
       "ano": 2011,
       "numero": 162,
@@ -55,7 +101,38 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 4,
+      "ordem": 7,
+      "id": "enem-2010-176",
+      "ano": 2010,
+      "numero": 176,
+      "assuntos": [
+        "razao-proporcao",
+        "numeros-operacoes"
+      ],
+      "habilidade": "H16",
+      "b": 0.58872,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Encadear razões de volume: 1 Júpiter = 23 Netunos e 1 Netuno = 58 Terras.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 8,
+      "id": "enem-2012-161",
+      "ano": 2012,
+      "numero": 161,
+      "assuntos": [
+        "numeros-operacoes"
+      ],
+      "habilidade": "H1",
+      "b": 0.603,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Identificar a ordem (posição) de um algarismo em um número de oito algarismos.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 9,
       "id": "enem-2023-180",
       "ano": 2023,
       "numero": 180,
@@ -71,7 +148,39 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 5,
+      "ordem": 10,
+      "id": "enem-2009-141",
+      "ano": 2009,
+      "numero": 141,
+      "assuntos": [
+        "regra-de-tres",
+        "porcentagem"
+      ],
+      "habilidade": "H23",
+      "b": 0.79745,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Mesmo volume de mistura: se 4% equivalem a 925 milhões de litros, quanto são 3%?",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 11,
+      "id": "enem-2011-141",
+      "ano": 2011,
+      "numero": 141,
+      "assuntos": [
+        "regra-de-tres",
+        "grandezas-unidades-escalas"
+      ],
+      "habilidade": "H12",
+      "b": 0.80144,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Ajustar o tempo de cada atividade para gastar 200 calorias e somar o tempo extra.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 12,
       "id": "enem-2016-154",
       "ano": 2016,
       "numero": 154,
@@ -86,7 +195,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 6,
+      "ordem": 13,
       "id": "enem-2023-162",
       "ano": 2023,
       "numero": 162,
@@ -101,7 +210,39 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 7,
+      "ordem": 14,
+      "id": "enem-2012-173",
+      "ano": 2012,
+      "numero": 173,
+      "assuntos": [
+        "razao-proporcao",
+        "regra-de-tres"
+      ],
+      "habilidade": "H16",
+      "b": 0.875,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Número de descargas por dia (60 L ÷ 15 L) e economia ao trocar por 6 L por descarga.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 15,
+      "id": "enem-2012-167",
+      "ano": 2012,
+      "numero": 167,
+      "assuntos": [
+        "razao-proporcao",
+        "equacao-1-grau"
+      ],
+      "habilidade": "H4",
+      "b": 0.956,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 1,
+      "resumo": "Períodos necessários para juntar 9 200 tíquetes (20 por período) e custo a R$ 3,00 cada.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 16,
       "id": "enem-2013-158",
       "ano": 2013,
       "numero": 158,
@@ -116,7 +257,23 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 8,
+      "ordem": 17,
+      "id": "enem-2021-160",
+      "ano": 2021,
+      "numero": 160,
+      "assuntos": [
+        "razao-proporcao",
+        "numeros-operacoes"
+      ],
+      "habilidade": "H17",
+      "b": 1.0422,
+      "dificuldade_estimada": "facil",
+      "nivel_curador": 2,
+      "resumo": "Para cada suplemento, o menor número de sachês que cobre os três minerais e o custo total; escolher o mais barato.",
+      "depende_de_imagem": false
+    },
+    {
+      "ordem": 18,
       "id": "enem-2012-144",
       "ano": 2012,
       "numero": 144,
@@ -131,7 +288,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 9,
+      "ordem": 19,
       "id": "enem-2023-137",
       "ano": 2023,
       "numero": 137,
@@ -147,7 +304,7 @@
       "depende_de_imagem": true
     },
     {
-      "ordem": 10,
+      "ordem": 20,
       "id": "enem-2011-166",
       "ano": 2011,
       "numero": 166,
@@ -163,7 +320,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 11,
+      "ordem": 21,
       "id": "enem-2020-167",
       "ano": 2020,
       "numero": 167,
@@ -179,7 +336,7 @@
       "depende_de_imagem": true
     },
     {
-      "ordem": 12,
+      "ordem": 22,
       "id": "enem-2016-177",
       "ano": 2016,
       "numero": 177,
@@ -195,7 +352,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 13,
+      "ordem": 23,
       "id": "enem-2019-152",
       "ano": 2019,
       "numero": 152,
@@ -211,7 +368,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 14,
+      "ordem": 24,
       "id": "enem-2013-148",
       "ano": 2013,
       "numero": 148,
@@ -227,7 +384,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 15,
+      "ordem": 25,
       "id": "enem-2021-173",
       "ano": 2021,
       "numero": 173,
@@ -243,7 +400,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 16,
+      "ordem": 26,
       "id": "enem-2017-139",
       "ano": 2017,
       "numero": 139,
@@ -259,7 +416,7 @@
       "depende_de_imagem": true
     },
     {
-      "ordem": 17,
+      "ordem": 27,
       "id": "enem-2023-150",
       "ano": 2023,
       "numero": 150,
@@ -275,7 +432,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 18,
+      "ordem": 28,
       "id": "enem-2021-144",
       "ano": 2021,
       "numero": 144,
@@ -291,7 +448,7 @@
       "depende_de_imagem": true
     },
     {
-      "ordem": 19,
+      "ordem": 29,
       "id": "enem-2019-168",
       "ano": 2019,
       "numero": 168,
@@ -307,7 +464,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 20,
+      "ordem": 30,
       "id": "enem-2022-154",
       "ano": 2022,
       "numero": 154,
@@ -322,7 +479,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 21,
+      "ordem": 31,
       "id": "enem-2018-164",
       "ano": 2018,
       "numero": 164,
@@ -338,7 +495,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 22,
+      "ordem": 32,
       "id": "enem-2022-167",
       "ano": 2022,
       "numero": 167,
@@ -353,7 +510,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 23,
+      "ordem": 33,
       "id": "enem-2011-143",
       "ano": 2011,
       "numero": 143,
@@ -368,7 +525,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 24,
+      "ordem": 34,
       "id": "enem-2013-163",
       "ano": 2013,
       "numero": 163,
@@ -383,23 +540,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 25,
-      "id": "enem-2022-164",
-      "ano": 2022,
-      "numero": 164,
-      "assuntos": [
-        "razao-proporcao",
-        "grandezas-unidades-escalas"
-      ],
-      "habilidade": "H12",
-      "b": 1.6446,
-      "dificuldade_estimada": "media",
-      "nivel_curador": 2,
-      "resumo": "Volume por acionamento: converter dias em minutos e dividir pelo número de acionamentos.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 26,
+      "ordem": 35,
       "id": "enem-2011-159",
       "ano": 2011,
       "numero": 159,
@@ -415,7 +556,23 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 27,
+      "ordem": 36,
+      "id": "enem-2021-136",
+      "ano": 2021,
+      "numero": 136,
+      "assuntos": [
+        "equacao-2-grau",
+        "sequencias-pa"
+      ],
+      "habilidade": "H2",
+      "b": 1.73939,
+      "dificuldade_estimada": "media",
+      "nivel_curador": 3,
+      "resumo": "Usar ρ² = ρ + 1 para reduzir potências de ρ à forma aρ + b e obter ρ⁷ (padrão do quadro).",
+      "depende_de_imagem": true
+    },
+    {
+      "ordem": 37,
       "id": "enem-2016-170",
       "ano": 2016,
       "numero": 170,
@@ -431,7 +588,7 @@
       "depende_de_imagem": true
     },
     {
-      "ordem": 28,
+      "ordem": 38,
       "id": "enem-2023-175",
       "ano": 2023,
       "numero": 175,
@@ -446,55 +603,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 29,
-      "id": "enem-2018-166",
-      "ano": 2018,
-      "numero": 166,
-      "assuntos": [
-        "estatistica-basica",
-        "porcentagem"
-      ],
-      "habilidade": "H28",
-      "b": 1.86549,
-      "dificuldade_estimada": "media",
-      "nivel_curador": 2,
-      "resumo": "Média ponderada: nota mínima na quarta avaliação para atingir 60 pontos.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 30,
-      "id": "enem-2018-143",
-      "ano": 2018,
-      "numero": 143,
-      "assuntos": [
-        "equacao-1-grau",
-        "razao-proporcao"
-      ],
-      "habilidade": "H16",
-      "b": 1.86899,
-      "dificuldade_estimada": "media",
-      "nivel_curador": 3,
-      "resumo": "Mistura: quanto de prata pura e de cobre adicionar a 10 g de prata 925 para obter 40 g de prata 950.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 31,
-      "id": "enem-2018-167",
-      "ano": 2018,
-      "numero": 167,
-      "assuntos": [
-        "probabilidade",
-        "equacao-1-grau"
-      ],
-      "habilidade": "H28",
-      "b": 1.87774,
-      "dificuldade_estimada": "media",
-      "nivel_curador": 2,
-      "resumo": "Quantas perguntas fáceis acrescentar para a probabilidade passar de 25% a 75%.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 32,
+      "ordem": 39,
       "id": "enem-2021-171",
       "ano": 2021,
       "numero": 171,
@@ -509,99 +618,7 @@
       "depende_de_imagem": false
     },
     {
-      "ordem": 33,
-      "id": "enem-2019-173",
-      "ano": 2019,
-      "numero": 173,
-      "assuntos": [
-        "probabilidade",
-        "porcentagem"
-      ],
-      "habilidade": "H28",
-      "b": 1.91179,
-      "dificuldade_estimada": "media",
-      "nivel_curador": 3,
-      "resumo": "Probabilidade condicional 'invertida' (Bayes) com porcentagens de declarações inconsistentes e fraudulentas.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 34,
-      "id": "enem-2013-170",
-      "ano": 2013,
-      "numero": 170,
-      "assuntos": [
-        "grandezas-unidades-escalas"
-      ],
-      "habilidade": "H12",
-      "b": 1.92982,
-      "dificuldade_estimada": "media",
-      "nivel_curador": 1,
-      "resumo": "Converter 355 mL para onças fluidas usando 1 fl oz ≈ 2,95 cL.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 35,
-      "id": "enem-2019-160",
-      "ano": 2019,
-      "numero": 160,
-      "assuntos": [
-        "estatistica-basica"
-      ],
-      "habilidade": "H28",
-      "b": 1.95289,
-      "dificuldade_estimada": "media",
-      "nivel_curador": 2,
-      "resumo": "Efeito na média de trocar um elemento do grupo por outro 0,20 m mais baixo.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 36,
-      "id": "enem-2019-142",
-      "ano": 2019,
-      "numero": 142,
-      "assuntos": [
-        "geometria-plana"
-      ],
-      "habilidade": "H9",
-      "b": 1.98685,
-      "dificuldade_estimada": "media",
-      "nivel_curador": 2,
-      "resumo": "Área da coroa circular ao aumentar o diâmetro de 6 m para 14 m (π = 3).",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 37,
-      "id": "enem-2019-170",
-      "ano": 2019,
-      "numero": 170,
-      "assuntos": [
-        "grandezas-unidades-escalas",
-        "razao-proporcao"
-      ],
-      "habilidade": "H14",
-      "b": 2.01615,
-      "dificuldade_estimada": "media",
-      "nivel_curador": 2,
-      "resumo": "Dose por quilograma, por dia, convertida em volume (1 g ↔ 1 cm³ ↔ 1 mL).",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 38,
-      "id": "enem-2011-146",
-      "ano": 2011,
-      "numero": 146,
-      "assuntos": [
-        "grandezas-unidades-escalas"
-      ],
-      "habilidade": "H11",
-      "b": 2.08631,
-      "dificuldade_estimada": "media",
-      "nivel_curador": 1,
-      "resumo": "Determinar a escala de um mapa: 8 cm no mapa correspondem a 2 000 km reais.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 39,
+      "ordem": 40,
       "id": "enem-2009-155",
       "ano": 2009,
       "numero": 155,
@@ -614,318 +631,6 @@
       "dificuldade_estimada": "media",
       "nivel_curador": 3,
       "resumo": "Modelar a arrecadação V (R$) em função do desconto x (centavos): produto de duas expressões afins.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 40,
-      "id": "enem-2009-162",
-      "ano": 2009,
-      "numero": 162,
-      "assuntos": [
-        "regra-de-tres",
-        "razao-proporcao"
-      ],
-      "habilidade": "H16",
-      "b": 2.23435,
-      "dificuldade_estimada": "media",
-      "nivel_curador": 3,
-      "resumo": "Regra de três composta: alunos, horas por dia e dias determinam a quantidade arrecadada.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 41,
-      "id": "enem-2021-159",
-      "ano": 2021,
-      "numero": 159,
-      "assuntos": [
-        "regra-de-tres",
-        "razao-proporcao"
-      ],
-      "habilidade": "H16",
-      "b": 2.34886,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 2,
-      "resumo": "Tempo de troca de pneu inversamente proporcional ao número de pessoas no grupo.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 42,
-      "id": "enem-2019-153",
-      "ano": 2019,
-      "numero": 153,
-      "assuntos": [
-        "porcentagem"
-      ],
-      "habilidade": "H3",
-      "b": 2.35696,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 1,
-      "resumo": "Dois aumentos percentuais sucessivos (7,2% e depois 10%) sobre um rendimento.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 43,
-      "id": "enem-2022-136",
-      "ano": 2022,
-      "numero": 136,
-      "assuntos": [
-        "leitura-grafico-funcao",
-        "equacao-2-grau"
-      ],
-      "habilidade": "H25",
-      "b": 2.40899,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 2,
-      "resumo": "Resolver V = T² − 4 = 0 e contar quantas vezes o gráfico de T atinge 2 ou −2.",
-      "depende_de_imagem": true
-    },
-    {
-      "ordem": 44,
-      "id": "enem-2020-159",
-      "ano": 2020,
-      "numero": 159,
-      "assuntos": [
-        "graficos-tabelas",
-        "equacao-1-grau"
-      ],
-      "habilidade": "H4",
-      "b": 2.50648,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 2,
-      "resumo": "Comparar o custo total (cimento + frete por km) de cinco depósitos usando um quadro.",
-      "depende_de_imagem": true
-    },
-    {
-      "ordem": 45,
-      "id": "enem-2013-167",
-      "ano": 2013,
-      "numero": 167,
-      "assuntos": [
-        "geometria-plana",
-        "porcentagem"
-      ],
-      "habilidade": "H13",
-      "b": 2.52253,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 2,
-      "resumo": "Redução percentual da área quando os dois lados do retângulo diminuem 20%.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 46,
-      "id": "enem-2010-171",
-      "ano": 2010,
-      "numero": 171,
-      "assuntos": [
-        "porcentagem"
-      ],
-      "habilidade": "H5",
-      "b": 2.55485,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 2,
-      "resumo": "Porcentagem de porcentagem: curas em dois subgrupos iguais de pacientes não curados.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 47,
-      "id": "enem-2019-156",
-      "ano": 2019,
-      "numero": 156,
-      "assuntos": [
-        "analise-combinatoria"
-      ],
-      "habilidade": "H3",
-      "b": 2.61221,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 3,
-      "resumo": "Formar 4 duplas com 8 pessoas, sem juntar os dois canhotos (contagem pelo complementar).",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 48,
-      "id": "enem-2018-141",
-      "ano": 2018,
-      "numero": 141,
-      "assuntos": [
-        "sequencias-pa"
-      ],
-      "habilidade": "H3",
-      "b": 2.6677,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 2,
-      "resumo": "Contar os termos de uma PA (postes de 80 m a 1 380 m, de 20 em 20) e multiplicar pelo custo.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 49,
-      "id": "enem-2013-150",
-      "ano": 2013,
-      "numero": 150,
-      "assuntos": [
-        "probabilidade"
-      ],
-      "habilidade": "H28",
-      "b": 2.693,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 2,
-      "resumo": "Probabilidade condicional com conjuntos: falar espanhol dado que não fala inglês.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 50,
-      "id": "enem-2022-139",
-      "ano": 2022,
-      "numero": 139,
-      "assuntos": [
-        "grandezas-unidades-escalas"
-      ],
-      "habilidade": "H11",
-      "b": 2.86025,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 2,
-      "resumo": "Converter medidas de planta (escala 1:50) para o real e descontar as folgas exigidas.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 51,
-      "id": "enem-2021-142",
-      "ano": 2021,
-      "numero": 142,
-      "assuntos": [
-        "probabilidade"
-      ],
-      "habilidade": "H30",
-      "b": 2.88467,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 2,
-      "resumo": "Probabilidade de 'pelo menos um acerto' pelo complementar, com n lançamentos independentes.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 52,
-      "id": "enem-2023-138",
-      "ano": 2023,
-      "numero": 138,
-      "assuntos": [
-        "probabilidade",
-        "equacao-1-grau"
-      ],
-      "habilidade": "H30",
-      "b": 2.91942,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 3,
-      "resumo": "Eventos independentes (duas urnas) e ajuste do número de bolas para a probabilidade cair a 1%.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 53,
-      "id": "enem-2018-175",
-      "ano": 2018,
-      "numero": 175,
-      "assuntos": [
-        "equacao-2-grau",
-        "equacao-1-grau",
-        "matematica-financeira"
-      ],
-      "habilidade": "H21",
-      "b": 3.02371,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 3,
-      "resumo": "Sistema com produtos (N parcelas × valor) que se reduz a equações do 1º grau.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 54,
-      "id": "enem-2011-156",
-      "ano": 2011,
-      "numero": 156,
-      "assuntos": [
-        "funcao-afim",
-        "sequencias-pa"
-      ],
-      "habilidade": "H19",
-      "b": 3.137,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 2,
-      "resumo": "Achar a expressão afim y = a + 4 300x sabendo o valor em fevereiro (x = 2).",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 55,
-      "id": "enem-2022-150",
-      "ano": 2022,
-      "numero": 150,
-      "assuntos": [
-        "funcao-quadratica",
-        "equacao-2-grau"
-      ],
-      "habilidade": "H22",
-      "b": 3.22198,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 3,
-      "resumo": "Altura máxima de uma parábola (vértice) comparada com a altura dos tetos.",
-      "depende_de_imagem": true
-    },
-    {
-      "ordem": 56,
-      "id": "enem-2012-178",
-      "ano": 2012,
-      "numero": 178,
-      "assuntos": [
-        "probabilidade",
-        "analise-combinatoria"
-      ],
-      "habilidade": "H29",
-      "b": 3.242,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 2,
-      "resumo": "Contar de quantas maneiras cada soma (7, 4 e 8) aparece em dois dados.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 57,
-      "id": "enem-2012-177",
-      "ano": 2012,
-      "numero": 177,
-      "assuntos": [
-        "analise-combinatoria"
-      ],
-      "habilidade": "H3",
-      "b": 3.255,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 2,
-      "resumo": "Contar cores representáveis: primárias, secundárias, versões clara/escura e preto/branco.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 58,
-      "id": "enem-2022-142",
-      "ano": 2022,
-      "numero": 142,
-      "assuntos": [
-        "analise-combinatoria"
-      ],
-      "habilidade": "H5",
-      "b": 3.33565,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 2,
-      "resumo": "Princípio multiplicativo com subconjuntos de opcionais; achar o mínimo de cores para passar de 1 000.",
-      "depende_de_imagem": false
-    },
-    {
-      "ordem": 59,
-      "id": "enem-2019-155",
-      "ano": 2019,
-      "numero": 155,
-      "assuntos": [
-        "sequencias-pa",
-        "numeros-operacoes"
-      ],
-      "habilidade": "H2",
-      "b": 3.78057,
-      "dificuldade_estimada": "dificil",
-      "nivel_curador": 2,
-      "resumo": "Sequência periódica: identificar o bloco que se repete e usar o resto da divisão.",
       "depende_de_imagem": false
     }
   ]

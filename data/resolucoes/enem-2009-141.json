@@ -1,0 +1,48 @@
+{
+  "id": "enem-2009-141",
+  "gabarito": "D",
+  "assuntos": [
+    "regra-de-tres",
+    "porcentagem"
+  ],
+  "habilidade": "H23",
+  "nivel_curador": 2,
+  "resumo": "Mesmo volume de mistura: se 4% equivalem a 925 milhões de litros, quanto são 3%?",
+  "resolucao": "**1. Entenda o que é fixo.** O volume total da mistura é o mesmo nos dois cenários; só muda a fração de biodiesel: 4% → 925 milhões de litros; 3% → ?\n\n**2. Regra de três direta** (mais porcentagem, mais biodiesel):\n$$\\frac{4\\%}{925} = \\frac{3\\%}{x} \\;\\Rightarrow\\; x = \\frac{3 \\times 925}{4} = \\frac{2\\,775}{4} = 693{,}75$$\n\n**3. Conclusão.** Seriam consumidos **693,75 milhões de litros**. Alternativa **D**.\n\nCaminho equivalente: 1% da mistura ↔ $925/4 = 231{,}25$ milhões de litros; 3% ↔ $3 \\times 231{,}25 = 693{,}75$.",
+  "dicas": {
+    "dica1": "O volume da mistura não muda; biodiesel é proporcional à porcentagem (4% ↔ 925 milhões de litros).",
+    "dica2": "Descubra quanto vale 1% (divida 925 por 4) e multiplique por 3.",
+    "dica3": "x = 925 × 3 ÷ 4."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "C",
+      "por_que": "Parou em 925 ÷ 4 = 231,25, que é o consumo para 1%, e não para 3%."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Calculou 3% de 925 (0,03 × 925 = 27,75), tratando 925 como se fosse o volume total da mistura."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Calculou 4% de 925 (37,00), outra porcentagem aplicada sobre o número errado."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Reduziu 925 em 4% (0,96 × 925 = 888), confundindo 'de 4% para 3%' com 'desconto de 4%'."
+    }
+  ],
+  "conceitos": [
+    "grandezas diretamente proporcionais",
+    "regra de três simples",
+    "porcentagem como fração de um todo fixo"
+  ],
+  "verificacao": {
+    "codigo_sympy": "resultado = Rational(3, 4) * 925",
+    "resultado_esperado": "Rational(2775, 4)",
+    "alternativa_esperada": "D"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

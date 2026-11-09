@@ -1089,7 +1089,7 @@
     "assuntos": [
       "probabilidade"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 3.166,
       "b": 2.693,
@@ -1112,53 +1112,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2013-150",
-      "gabarito": "A",
-      "assuntos": [
-        "probabilidade"
-      ],
-      "habilidade": "H28",
-      "nivel_curador": 2,
-      "resumo": "Probabilidade condicional com conjuntos: falar espanhol dado que não fala inglês.",
-      "resolucao": "**1. Organize os dados (1 200 alunos).**\n- Falam pelo menos uma língua: $1\\,200 - 300 = 900$.\n- Inglês: 600; Espanhol: 500. Como $600 + 500 = 1\\,100 > 900$, há quem fale as duas:\n$$\\text{ambas} = 600 + 500 - 900 = 200$$\n- Só espanhol: $500 - 200 = 300$.\n\n**2. Restrinja ao grupo \"não fala inglês\".** São $1\\,200 - 600 = 600$ alunos: os 300 que falam só espanhol e os 300 que não falam nenhuma.\n\n**3. Probabilidade condicional.**\n$$P(\\text{espanhol} \\mid \\text{não inglês}) = \\frac{300}{600} = \\frac{1}{2}$$\n\nAlternativa **A**.",
-      "dicas": {
-        "dica1": "'Sabendo que ele não fala inglês' muda o espaço amostral: só interessam os alunos que não falam inglês.",
-        "dica2": "Use um diagrama de Venn: descubra quantos falam as duas línguas (600 + 500 − 900) e quantos falam só espanhol. Divida pelos 600 que não falam inglês.",
-        "dica3": "Só espanhol = 300; não falam inglês = 600. P = 300/600."
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "E",
-          "por_que": "Usou 500/1 400 ou outra razão com totais errados (somou 600 + 500 + 300 = 1 400 como se fossem grupos disjuntos)."
-        },
-        {
-          "alternativa": "B",
-          "por_que": "Dividiu 500 (todos que falam espanhol) por 800 ou 600 que falam só… sem descontar os que também falam inglês."
-        },
-        {
-          "alternativa": "C",
-          "por_que": "Dividiu os 300 que falam só espanhol pelo total de 1 200, ignorando a condição 'não fala inglês'."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Usou 500/600, dividindo todos os falantes de espanhol pelo grupo condicionado, sem tirar os 200 que falam as duas."
-        }
-      ],
-      "conceitos": [
-        "probabilidade condicional",
-        "diagrama de Venn / união de conjuntos",
-        "espaço amostral reduzido"
-      ],
-      "verificacao": {
-        "codigo_sympy": "ambas = 600 + 500 - (1200 - 300)\nso_espanhol = 500 - ambas\nnao_ingles = 1200 - 600\nresultado = Rational(so_espanhol, nao_ingles)",
-        "resultado_esperado": "Rational(1, 2)",
-        "alternativa_esperada": "A"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -2293,7 +2246,7 @@
       "geometria-plana",
       "porcentagem"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 1.10104,
       "b": 2.52253,
@@ -2316,54 +2269,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2013-167",
-      "gabarito": "C",
-      "assuntos": [
-        "geometria-plana",
-        "porcentagem"
-      ],
-      "habilidade": "H12",
-      "nivel_curador": 2,
-      "resumo": "Redução percentual da área quando os dois lados do retângulo diminuem 20%.",
-      "resolucao": "**1. Área original:** $30 \\times 15 = 450$ cm².\n\n**2. Novos lados** (20% menores → 80% do original):\n$$30 \\times 0{,}8 = 24 \\qquad 15 \\times 0{,}8 = 12$$\n\n**3. Nova área:** $24 \\times 12 = 288$ cm².\n\n**4. Redução:**\n$$\\frac{450 - 288}{450} = \\frac{162}{450} = 0{,}36 = 36\\%$$\n\nAlternativa **C**.\n\nAtalho: a área é multiplicada por $0{,}8 \\times 0{,}8 = 0{,}64$, ou seja, cai $1 - 0{,}64 = 36\\%$.",
-      "dicas": {
-        "dica1": "Se cada lado vira 80% do original, a área vira 80% de 80%, e não 80% (nem 60%).",
-        "dica2": "Calcule a área antes e depois (lados × 0,8) e compare: (antiga − nova)/antiga.",
-        "dica3": "0,8 × 0,8 = 0,64. A área ficou com 64%; reduziu quanto?"
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "B",
-          "por_que": "Achou que a área reduz os mesmos 20% dos lados."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Respondeu 64%, que é quanto a área FICOU, não quanto foi reduzida."
-        },
-        {
-          "alternativa": "A",
-          "por_que": "Calculou 20% de 20% = 4%, confundindo com a variação total."
-        },
-        {
-          "alternativa": "E",
-          "por_que": "Somou 20% + 20% e usou algum cálculo com 0,96 ou interpretou mal a redução."
-        }
-      ],
-      "conceitos": [
-        "área do retângulo",
-        "efeito de variação linear sobre a área",
-        "variação percentual"
-      ],
-      "verificacao": {
-        "codigo_sympy": "antiga = 30*15\nnova = (30*Rational(8,10))*(15*Rational(8,10))\nresultado = (antiga - nova)/antiga*100",
-        "resultado_esperado": "36",
-        "alternativa_esperada": "C"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -2549,9 +2454,10 @@
     "habilidade_origem": "inep",
     "competencia": "C3",
     "assuntos": [
+      "geometria-espacial",
       "grandezas-unidades-escalas"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 1.89761,
       "b": 1.92982,
@@ -2574,54 +2480,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2013-170",
-      "gabarito": "C",
-      "assuntos": [
-        "grandezas-unidades-escalas"
-      ],
-      "habilidade": "H10",
-      "nivel_curador": 1,
-      "resumo": "Converter 355 mL para onças fluidas usando 1 fl oz ≈ 2,95 cL.",
-      "resolucao": "**1. Coloque 355 mL em centilitros.** $1 \\text{ cL} = 10 \\text{ mL}$, então:\n$$355 \\text{ mL} = 35{,}5 \\text{ cL}$$\n\n**2. Divida pelo valor de 1 onça fluida (2,95 cL).**\n$$\\frac{35{,}5}{2{,}95} \\approx 12{,}03$$\n\nA lata tem aproximadamente **12,03 fl oz** (alternativa **C**).\n\nEstimativa rápida: $2{,}95 \\approx 3$ e $35{,}5 / 3 \\approx 12$.",
-      "dicas": {
-        "dica1": "Para converter, as duas quantidades precisam estar na mesma unidade. O enunciado dá a onça em centilitros; passe os mililitros para centilitros.",
-        "dica2": "355 mL = 35,5 cL (1 cL = 10 mL). Depois divida por 2,95.",
-        "dica3": "35,5 ÷ 2,95 ≈ ? (perto de 35,5 ÷ 3)."
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "E",
-          "por_que": "Não converteu mL para cL: 355 ÷ 2,95 = 120,34."
-        },
-        {
-          "alternativa": "D",
-          "por_que": "Multiplicou em vez de dividir: 35,5 × 2,95 = 104,7."
-        },
-        {
-          "alternativa": "B",
-          "por_que": "Converteu errado (355 mL = 3,55 cL, como se cL fosse 100 mL): 3,55 ÷ 2,95 ≈ 1,2."
-        },
-        {
-          "alternativa": "A",
-          "por_que": "Inverteu a razão: 2,95 ÷ 3,55 ≈ 0,83."
-        }
-      ],
-      "conceitos": [
-        "conversão mL–cL",
-        "razão entre unidades",
-        "estimativa"
-      ],
-      "verificacao": {
-        "codigo_sympy": "cl = Rational(355, 10)\nresultado = cl / Rational(295, 100)",
-        "resultado_esperado": "12.03",
-        "tolerancia": 0.01,
-        "alternativa_esperada": "C"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {

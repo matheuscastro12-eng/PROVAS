@@ -1,0 +1,48 @@
+{
+  "id": "enem-2012-167",
+  "gabarito": "D",
+  "assuntos": [
+    "razao-proporcao",
+    "equacao-1-grau"
+  ],
+  "habilidade": "H4",
+  "nivel_curador": 1,
+  "resumo": "Períodos necessários para juntar 9 200 tíquetes (20 por período) e custo a R$ 3,00 cada.",
+  "resolucao": "**1. Quantos períodos de jogo?** A criança ganha 20 tíquetes por período e precisa de 9 200:\n$$\\frac{9\\,200}{20} = 460\\ \\text{períodos}$$\n\n**2. Quanto custam esses períodos?** Cada período custa R$ 3,00:\n$$460 \\times 3 = 1\\,380$$\n\nAlternativa **D**: **R$ 1 380,00**.\n\nEm uma única razão: $9\\,200 \\times \\dfrac{3}{20} = 1\\,380$ (cada 20 tíquetes custam R$ 3,00).",
+  "dicas": {
+    "dica1": "A cada período a criança paga R$ 3,00 e recebe 20 tíquetes. Descubra quantos períodos ela precisa jogar.",
+    "dica2": "Divida 9 200 por 20 para obter os períodos; multiplique pelo preço do período.",
+    "dica3": "9 200 ÷ 20 = 460; 460 × 3 = ?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "B",
+      "por_que": "Parou no número de períodos (460) e esqueceu de multiplicar pelo preço."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Dividiu 9 200 por 60 (3 × 20) em vez de multiplicar por 3/20: 9 200 ÷ 60 ≈ 153."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Dividiu 9 200 por 3 (≈ 3 066), tratando R$ 3,00 como quantidade de tíquetes."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Errou a divisão 9 200 ÷ 20 (obteve 406 em vez de 460) e multiplicou por 3: 406 × 3 = 1 218."
+    }
+  ],
+  "conceitos": [
+    "razão entre tíquetes e custo",
+    "proporcionalidade direta",
+    "divisão e multiplicação com números grandes"
+  ],
+  "verificacao": {
+    "codigo_sympy": "periodos = Rational(9200, 20)\nresultado = periodos * 3",
+    "resultado_esperado": "1380",
+    "alternativa_esperada": "D"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

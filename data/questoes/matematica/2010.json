@@ -2550,7 +2550,7 @@
     "assuntos": [
       "porcentagem"
     ],
-    "classificacao": "revisada",
+    "classificacao": "heuristica",
     "tri": {
       "a": 1.81075,
       "b": 2.55485,
@@ -2573,53 +2573,6 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
-    },
-    "resolucao": {
-      "id": "enem-2010-171",
-      "gabarito": "B",
-      "assuntos": [
-        "porcentagem"
-      ],
-      "habilidade": "H3",
-      "nivel_curador": 2,
-      "resumo": "Porcentagem de porcentagem: curas em dois subgrupos iguais de pacientes não curados.",
-      "resolucao": "Pense em 100 pacientes para facilitar.\n\n**1. Tratamento tradicional:** 40 curados, **60 não curados**.\n\n**2. Os 60 são divididos em dois grupos iguais:** 30 e 30.\n\n**3. Curas nos tratamentos inovadores:**\n- 1º tratamento: $35\\%$ de 30 $= 10{,}5$ pacientes\n- 2º tratamento: $45\\%$ de 30 $= 13{,}5$ pacientes\n\n**4. Total curado pelos inovadores:** $10{,}5 + 13{,}5 = 24$ em 100 pacientes iniciais, ou seja, **24%** (alternativa **B**).\n\nAtalho: a média das taxas (40%) aplicada aos 60% restantes: $0{,}40 \\times 0{,}60 = 0{,}24$.",
-      "dicas": {
-        "dica1": "Quando a pergunta diz 'em relação aos pacientes submetidos inicialmente', a base é o total original. Trabalhe com 100 pacientes.",
-        "dica2": "Separe os 60% não curados em dois grupos de 30%. Aplique 35% a um e 45% ao outro e some.",
-        "dica3": "0,35 × 30 + 0,45 × 30 = ?"
-      },
-      "erros_comuns": [
-        {
-          "alternativa": "D",
-          "por_que": "Aplicou 35% + 45% = 80% sobre 60 pacientes (esqueceu que cada taxa vale só para metade dos 60)."
-        },
-        {
-          "alternativa": "C",
-          "por_que": "Usou 40% (média das taxas) sobre 80 ou outro valor errado para o grupo não curado."
-        },
-        {
-          "alternativa": "E",
-          "por_que": "Somou a cura do tratamento tradicional (40%) com os 24% dos inovadores."
-        },
-        {
-          "alternativa": "A",
-          "por_que": "Aplicou a média das taxas (40%) sobre apenas 40 pacientes, confundindo curados com não curados."
-        }
-      ],
-      "conceitos": [
-        "porcentagem de porcentagem",
-        "base do percentual",
-        "divisão de um grupo em partes iguais"
-      ],
-      "verificacao": {
-        "codigo_sympy": "nao_curados = 100 - 40\ngrupo = Rational(nao_curados, 2)\nresultado = Rational(35, 100) * grupo + Rational(45, 100) * grupo",
-        "resultado_esperado": "24",
-        "alternativa_esperada": "B"
-      },
-      "classificacao": "revisada",
-      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
-      "revisado_em": "2026-11-09"
     }
   },
   {
@@ -2952,11 +2905,10 @@
     "habilidade_origem": "inep",
     "competencia": "C4",
     "assuntos": [
-      "grandezas-unidades-escalas",
-      "equacao-1-grau",
-      "geometria-espacial"
+      "razao-proporcao",
+      "numeros-operacoes"
     ],
-    "classificacao": "heuristica",
+    "classificacao": "revisada",
     "tri": {
       "a": 1.82152,
       "b": 0.58872,
@@ -2979,6 +2931,54 @@
       "alternativas_incompletas": false,
       "depende_de_imagem": false,
       "observacoes": []
+    },
+    "resolucao": {
+      "id": "enem-2010-176",
+      "gabarito": "B",
+      "assuntos": [
+        "razao-proporcao",
+        "numeros-operacoes"
+      ],
+      "habilidade": "H16",
+      "nivel_curador": 1,
+      "resumo": "Encadear razões de volume: 1 Júpiter = 23 Netunos e 1 Netuno = 58 Terras.",
+      "resolucao": "**1. Separe só o que liga Terra a Júpiter.** O texto dá uma cadeia: Mercúrio → Marte (3) → Terra (7) → Netuno (58) → Júpiter (23). A pergunta é \"quantas Terras cabem em Júpiter\", então só interessam os dois últimos elos.\n\n**2. Multiplique os elos da cadeia.**\n$$1\\ \\text{Júpiter} = 23\\ \\text{Netunos} = 23 \\times 58\\ \\text{Terras} = 1\\,334\\ \\text{Terras}$$\n\n**3. Confira a conta.** $23 \\times 58 = 23 \\times 60 - 23 \\times 2 = 1\\,380 - 46 = 1\\,334$. Alternativa **B**.\n\nOs fatores 3 e 7 (Mercúrio e Marte) estão *abaixo* da Terra na cadeia e não entram.",
+      "dicas": {
+        "dica1": "Quando uma quantidade é expressa em termos de outra, que é expressa em termos de uma terceira, basta multiplicar os fatores.",
+        "dica2": "Monte a cadeia Terra → Netuno → Júpiter. Quantos fatores ficam entre Terra e Júpiter?",
+        "dica3": "Júpiter = 23 Netunos e Netuno = 58 Terras, logo Júpiter = 23 × 58 Terras."
+      },
+      "erros_comuns": [
+        {
+          "alternativa": "D",
+          "por_que": "Incluiu o fator 7 (Martes por Terra) na cadeia: 7 × 58 × 23 = 9 338. Isso conta Martes em Júpiter, não Terras."
+        },
+        {
+          "alternativa": "E",
+          "por_que": "Multiplicou todos os fatores (3 × 7 × 58 × 23 = 28 014): quantos Mercúrios cabem em Júpiter."
+        },
+        {
+          "alternativa": "C",
+          "por_que": "Usou 3 × 58 × 23 = 4 002, misturando o fator de Mercúrio → Marte na cadeia errada."
+        },
+        {
+          "alternativa": "A",
+          "por_que": "Fez 7 × 58 = 406, a quantidade de Martes em Netuno, parando antes de chegar a Júpiter."
+        }
+      ],
+      "conceitos": [
+        "razão e proporção",
+        "composição de razões (cadeia de fatores)",
+        "leitura de texto com dados encadeados"
+      ],
+      "verificacao": {
+        "codigo_sympy": "resultado = 23 * 58",
+        "resultado_esperado": "1334",
+        "alternativa_esperada": "B"
+      },
+      "classificacao": "revisada",
+      "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+      "revisado_em": "2026-11-09"
     }
   },
   {
