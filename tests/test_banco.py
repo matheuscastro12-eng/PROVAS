@@ -8,6 +8,7 @@ import pytest
 from jsonschema import Draft202012Validator
 from referencing import Registry, Resource
 
+from fetch_inep_itens import FAIXAS, normalizar_cor, normalizar_parametro
 from verificar_sympy import executar_verificacao
 
 RAIZ = Path(__file__).resolve().parent.parent
@@ -43,6 +44,11 @@ def questoes() -> dict[str, dict]:
 @pytest.fixture(scope="session")
 def resolucoes() -> dict[str, dict]:
     return {p.stem: _ler(p) for p in sorted(DIR_R.glob("*.json"))}
+
+
+@pytest.fixture(scope="session")
+def stats():
+    return _ler(RAIZ / "data" / "stats.json")
 
 
 @pytest.fixture(scope="session")
@@ -101,8 +107,10 @@ def test_gabarito_pertence_as_alternativas(questoes):
         assert q["gabarito"] in letras, q["id"]
 
 
-def test_assuntos_habilidade_competencia_coerentes(questoes, taxonomia, matriz):
+def test_assuntos_habilidade_competencia_coerentes(questoes, taxonomia, matriz, stats):
     comp_de = {h["id"]: h["competencia"] for h in matriz["habilidades"]}
+    lim = stats["limiares_dificuldade"]
+    assert lim["facil_max"] < lim["media_max"]
     for q in questoes.values():
         assert set(q["assuntos"]) <= set(taxonomia), q["id"]
         if q["habilidade"]:
@@ -112,8 +120,112 @@ def test_assuntos_habilidade_competencia_coerentes(questoes, taxonomia, matriz):
         assert (q["tri"] is None) == (q["dificuldade_estimada"] is None), q["id"]
         if q["tri"]:
             b = q["tri"]["b"]
-            esperado = "facil" if b < 0.5 else "media" if b < 1.5 else "dificil"
+            esperado = "facil" if b < lim["facil_max"] else "media" if b < lim["media_max"] else "dificil"
             assert q["dificuldade_estimada"] == esperado, q["id"]
+
+
+# ------------------------------------------------------------------ microdados do INEP (TRI, gabarito, casamento)
+def test_parametros_tri_dentro_das_faixas_plausiveis(questoes):
+    for q in questoes.values():
+        if not q["tri"]:
+            continue
+        a, b, c = q["tri"]["a"], q["tri"]["b"], q["tri"]["c"]
+        assert 0 < a <= 6, f"{q['id']}: a={a}"
+        assert -6 <= b <= 6, f"{q['id']}: b={b}"
+        assert 0 <= c < 1, f"{q['id']}: c={c}"
+        assert q["tri"]["fonte"].startswith(f"INEP, microdados do ENEM {q['ano']} (ITENS_PROVA)"), q["id"]
+        assert isinstance(q["tri"]["corrigido"], bool)
+
+
+def test_decimal_corrigido_so_onde_o_espelho_estava_quebrado(questoes, stats):
+    """A correção de decimal (141.931 → 1.41931) só ocorreu em 2009; nos outros anos nenhum valor foi alterado."""
+    corrigidos = {q["ano"] for q in questoes.values() if q["tri"] and q["tri"]["corrigido"]}
+    assert corrigidos <= {2009}, corrigidos
+    for q in questoes.values():
+        if q["tri"] and q["tri"]["corrigido"]:
+            assert any("decimal quebrado" in o for o in q["qualidade"]["observacoes"]), q["id"]
+    assert stats["totais"]["n_tri_corrigidos"] == sum(1 for q in questoes.values() if q["tri"] and q["tri"]["corrigido"])
+
+
+@pytest.mark.parametrize(
+    "nome, bruto, esperado",
+    [
+        ("a", "141.931", (1.41931, True)),    # decimal quebrado do espelho → corrigido
+        ("b", "250.064", (2.50064, True)),
+        ("a", "24.516", (2.4516, True)),      # trailing zero perdido: 2.4516(0)
+        ("b", "-0.35276", (-0.35276, False)), # negativo na faixa → intacto
+        ("a", "0.70844", (0.70844, False)),
+        ("b", "17.62443", (None, False)),     # legítimo do INEP, mas implausível e sem padrão de milhar → descartado
+        ("a", "8.33058", (None, False)),
+        ("a", "6.20439", (None, False)),
+        ("c", "1.2", (None, False)),
+        ("b", "", (None, False)),             # ausente
+        ("b", None, (None, False)),
+    ],
+)
+def test_normalizar_parametro(nome, bruto, esperado):
+    valor, corrigido, problema = normalizar_parametro(nome, bruto)
+    assert (valor, corrigido) == esperado
+    if valor is None and bruto:
+        assert problema and "fora da faixa" in problema
+    else:
+        assert problema is None
+
+
+def test_normalizar_cor():
+    assert normalizar_cor("Azul") == normalizar_cor("AZUL") == "AZUL"
+    assert normalizar_cor("Amarela") == "AMARELA"
+    assert normalizar_cor("LARANJA - BRAILE") == "LARANJA - BRAILE"
+    assert FAIXAS == {"a": (0.0, 6.0), "b": (-6.0, 6.0), "c": (0.0, 1.0)}
+
+
+def test_casamento_inep_por_ano(stats, questoes):
+    for ano, s in stats["anos"].items():
+        i = s["inep"]
+        assert i["disponivel"], ano
+        assert i["casado"], f"{ano}: {i['observacao']}"
+        assert i["cor"] == "AZUL", ano
+        assert i["taxa_gabarito"] >= 0.90, ano
+        assert i["n_divergentes"] == len(i["divergencias"]), ano
+        assert i["deslocamento_posicao"] == (135 if ano == "2017" else 0), ano
+        assert i["n_com_tri"] == sum(1 for q in questoes.values() if q["ano"] == int(ano) and q["tri"]), ano
+        assert "Zenodo record 18801899" in i["fonte"], ano
+
+
+def test_gabarito_oficial_prevalece(questoes, stats):
+    divergentes = {d["id"]: d for s in stats["anos"].values() for d in s["inep"]["divergencias"]}
+    assert divergentes, "esperava ao menos uma divergência enem.dev × INEP registrada"
+    for q in questoes.values():
+        assert q["gabarito_fonte"] in {"inep", "transcricao"}
+        if q["tri"]:
+            assert q["gabarito_fonte"] == "inep", q["id"]
+        if q["gabarito_fonte"] == "transcricao":
+            # só quando o INEP não tem gabarito comparável (item anulado) ou a posição não casou
+            assert q["anulada"] or any("posição não encontrada" in o for o in q["qualidade"]["observacoes"]), q["id"]
+        if q["id"] in divergentes:
+            assert q["gabarito"] == divergentes[q["id"]]["inep"], q["id"]
+            assert any("prevalece o INEP" in o for o in q["qualidade"]["observacoes"]), q["id"]
+    for q in questoes.values():
+        if q["anulada"]:
+            assert q["gabarito_fonte"] == "transcricao", q["id"]
+            assert q["tri"] is None, q["id"]
+
+
+def test_gabaritos_antes_suspeitos_resolvidos_pelo_inep(questoes):
+    q = questoes["enem-2020-140"]
+    assert (q["gabarito"], q["gabarito_fonte"]) == ("C", "inep")
+    # a transcrição trazia "1 caixa do tipo B" na alternativa C; a prova oficial tem 2 (18 peças, R$ 159,00)
+    assert next(a for a in q["alternativas"] if a["letra"] == "C")["texto"] == "3 caixas do tipo A e 2 caixas do tipo B."
+    assert any("transcrição corrigida" in o for o in q["qualidade"]["observacoes"])
+    q = questoes["enem-2022-145"]
+    assert (q["gabarito"], q["gabarito_fonte"]) == ("E", "inep")
+
+
+def test_habilidade_oficial_do_inep(questoes, stats):
+    for q in questoes.values():
+        if q["habilidade_origem"] == "inep":
+            assert q["habilidade"] and q["fonte"]["microdados_url"] and q["fonte"]["microdados_espelho_url"], q["id"]
+    assert stats["totais"]["habilidade_origem"].get("inep", 0) >= 0.95 * len(questoes)
 
 
 # ------------------------------------------------------------------ curadas
@@ -164,6 +276,10 @@ def test_index_curadas_e_stats_coerentes(questoes, resolucoes):
     curadas = _ler(RAIZ / "data" / "curadas.json")["questoes"]
     assert {c["id"] for c in curadas} == set(resolucoes)
     assert [c["ordem"] for c in curadas] == list(range(1, len(curadas) + 1))
+    # trilha fáceis-primeiro: quem tem b vem antes de quem não tem, e b é não decrescente
+    com_b = [c["b"] for c in curadas if c["b"] is not None]
+    assert com_b == sorted(com_b)
+    assert all(c["b"] is None for c in curadas[len(com_b):])
     stats = _ler(RAIZ / "data" / "stats.json")
     assert stats["totais"]["n_questoes"] == len(questoes)
     assert stats["totais"]["n_curadas"] == len(resolucoes)
