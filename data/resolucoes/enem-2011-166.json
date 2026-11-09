@@ -1,0 +1,48 @@
+{
+  "id": "enem-2011-166",
+  "gabarito": "D",
+  "assuntos": [
+    "razao-proporcao",
+    "porcentagem"
+  ],
+  "habilidade": "H16",
+  "nivel_curador": 1,
+  "resumo": "Aplicar a mesma proporção de acréscimo (mulheres) ao grupo dos homens.",
+  "resolucao": "**1. Qual foi a proporção do acréscimo entre as mulheres?**\n$$\\frac{8\\,000}{32\\,000} = \\frac{1}{4} = 25\\%$$\n\n**2. Aplique a mesma proporção aos homens.** Acréscimo de 25% sobre 28 mil:\n$$28\\,000 \\times 0{,}25 = 7\\,000$$\n\n**3. Total de internações de homens nos próximos cinco anos:**\n$$28\\,000 + 7\\,000 = 35\\,000$$\n\nAlternativa **D** (35 mil).",
+  "dicas": {
+    "dica1": "'Na mesma proporção' significa mesma razão acréscimo/valor inicial, e não o mesmo número de internações a mais.",
+    "dica2": "Descubra que fração 8 mil é de 32 mil. Aplique essa fração a 28 mil e some ao valor original.",
+    "dica3": "8/32 = 1/4. Um quarto de 28 mil é 7 mil. Some com 28 mil."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "E",
+      "por_que": "Somou as mesmas 8 mil internações aos homens (28 + 8 = 36... e arredondou/errou para 39) ou usou 11 mil."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Subtraiu o acréscimo em vez de somar: 28 − 7 = 21 mil."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Calculou só uma razão intermediária (28 × 8/25 ≈ 9) sem somar ao valor original."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Tomou a diferença entre mulheres e homens (32 − 28 = 4 mil), que não é pedida."
+    }
+  ],
+  "conceitos": [
+    "razão",
+    "proporção",
+    "acréscimo percentual"
+  ],
+  "verificacao": {
+    "codigo_sympy": "fator = Rational(8000, 32000)\nresultado = 28000 * (1 + fator)",
+    "resultado_esperado": "35000",
+    "alternativa_esperada": "D"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

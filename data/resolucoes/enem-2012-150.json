@@ -1,0 +1,46 @@
+{
+  "id": "enem-2012-150",
+  "gabarito": "B",
+  "assuntos": [
+    "sequencias-pa"
+  ],
+  "habilidade": "H2",
+  "nivel_curador": 1,
+  "resumo": "Soma dos termos de uma PA (1 + 2 + … + 7) e subtração do total de cartas.",
+  "resolucao": "**1. Cartas nas colunas:** $1 + 2 + 3 + 4 + 5 + 6 + 7$. É a soma de uma PA com 7 termos:\n$$S = \\frac{(1 + 7) \\times 7}{2} = 28$$\n\n**2. Cartas no monte:**\n$$52 - 28 = 24$$\n\nAlternativa **B**.",
+  "dicas": {
+    "dica1": "As colunas usam 1 + 2 + … + 7 cartas. O monte é o que sobra do baralho de 52.",
+    "dica2": "Some 1 a 7 (fórmula da PA: (primeiro + último) × quantidade ÷ 2) e subtraia de 52.",
+    "dica3": "(1 + 7) × 7 / 2 = 28. 52 − 28 = ?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Somou 1 a 7 como 31 ou subtraiu 52 − 31 = 21 por erro de conta."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Respondeu 26 (metade do baralho), sem calcular a soma das colunas."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Respondeu 28, o número de cartas NAS COLUNAS, não no monte."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Somou 1 a 6 (21) e fez 52 − 21 = 31, esquecendo a sétima coluna."
+    }
+  ],
+  "conceitos": [
+    "soma de PA",
+    "complementar de um total"
+  ],
+  "verificacao": {
+    "codigo_sympy": "resultado = 52 - sum(range(1, 8))",
+    "resultado_esperado": "24",
+    "alternativa_esperada": "B"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

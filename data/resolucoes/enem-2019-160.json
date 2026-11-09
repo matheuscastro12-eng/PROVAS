@@ -1,0 +1,47 @@
+{
+  "id": "enem-2019-160",
+  "gabarito": "C",
+  "assuntos": [
+    "estatistica-basica"
+  ],
+  "habilidade": "H27",
+  "nivel_curador": 2,
+  "resumo": "Efeito na média de trocar um elemento do grupo por outro 0,20 m mais baixo.",
+  "resolucao": "**1. Soma das alturas do grupo original.** Média 1,80 m com 20 jogadores:\n$$S = 20 \\times 1{,}80 = 36 \\text{ m}$$\n\n**2. Troca de jogador.** Sai um e entra outro **0,20 m mais baixo**: a soma cai exatamente 0,20 m (não importa a altura de quem saiu):\n$$S' = 36 - 0{,}20 = 35{,}80 \\text{ m}$$\n\n**3. Nova média** (continuam 20 jogadores):\n$$\\frac{35{,}80}{20} = 1{,}79 \\text{ m}$$\n\nAlternativa **C**.\n\nAtalho: a soma cai 0,20; dividido por 20 jogadores, a média cai $0{,}20/20 = 0{,}01$.",
+  "dicas": {
+    "dica1": "Média = soma ÷ quantidade. Pense no que acontece com a SOMA quando se troca um jogador.",
+    "dica2": "Calcule a soma original (20 × 1,80). A troca reduz essa soma em 0,20 m. Divida de novo por 20.",
+    "dica3": "(36 − 0,2)/20 = ?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Subtraiu 0,20 diretamente da média (1,80 − 0,20 = 1,60), como se a média caísse tanto quanto um único jogador."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Dividiu a queda de 0,20 por 10 (ou errou a casa decimal): média cai 0,02."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Somou em vez de subtrair a diferença (novo jogador é mais BAIXO)."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Somou e ainda errou a casa decimal."
+    }
+  ],
+  "conceitos": [
+    "média aritmética",
+    "soma total a partir da média",
+    "variação da média ao trocar um elemento"
+  ],
+  "verificacao": {
+    "codigo_sympy": "soma = 20 * Rational(180, 100)\nresultado = (soma - Rational(20, 100)) / 20",
+    "resultado_esperado": "1.79",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

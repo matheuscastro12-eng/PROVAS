@@ -1,0 +1,48 @@
+{
+  "id": "enem-2013-148",
+  "gabarito": "D",
+  "assuntos": [
+    "equacao-1-grau",
+    "razao-proporcao"
+  ],
+  "habilidade": "H16",
+  "nivel_curador": 2,
+  "resumo": "Fração da capacidade ocupada por telhas e quantos tijolos cabem no restante.",
+  "resolucao": "**1. Que fração da capacidade as 900 telhas ocupam?** A capacidade é 1 500 telhas:\n$$\\frac{900}{1\\,500} = 0{,}6 = 60\\%$$\n\n**2. Fração que sobra:** $1 - 0{,}6 = 0{,}4$ (40%).\n\n**3. Tijolos que cabem em 40% da capacidade** (que é de 1 200 tijolos):\n$$0{,}4 \\times 1\\,200 = 480$$\n\nAlternativa **D**.",
+  "dicas": {
+    "dica1": "Pense na capacidade do caminhão como um 'todo' (100%). Telhas e tijolos ocupam frações desse todo.",
+    "dica2": "900 telhas são que fração de 1 500? O que sobra dessa fração, aplique a 1 200 tijolos.",
+    "dica3": "900/1 500 = 0,6; sobra 0,4; 0,4 × 1 200 = ?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Fez 1 200 − 900 = 300, subtraindo telhas de tijolos como se fossem a mesma coisa."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Calculou 1 500 − 900 = 600 (telhas que ainda caberiam) e chamou de tijolos."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Erro de proporção: usou 1/3 em vez de 0,4 (400 tijolos)."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Usou 0,3 em vez de 0,4 (360 tijolos) ou converteu com razão 1 200/1 500 aplicada errado."
+    }
+  ],
+  "conceitos": [
+    "fração de uma capacidade",
+    "proporcionalidade",
+    "complementar"
+  ],
+  "verificacao": {
+    "codigo_sympy": "fracao_livre = 1 - Rational(900, 1500)\nresultado = fracao_livre * 1200",
+    "resultado_esperado": "480",
+    "alternativa_esperada": "D"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "enem-2020-159",
+  "gabarito": "C",
+  "assuntos": [
+    "graficos-tabelas",
+    "equacao-1-grau"
+  ],
+  "habilidade": "H25",
+  "nivel_curador": 2,
+  "resumo": "Comparar o custo total (cimento + frete por km) de cinco depósitos usando um quadro.",
+  "dados_da_imagem": "Quadro: depósito A → saco R$ 23,00, frete R$ 1,00/km, 10 km; B → R$ 21,50, R$ 3,00/km, 12 km; C → R$ 22,00, R$ 1,50/km, 14 km; D → R$ 21,00, R$ 3,50/km, 18 km; E → R$ 24,00, R$ 2,50/km, 2 km.",
+  "resolucao": "Custo total = $15 \\times (\\text{preço do saco}) + (\\text{frete por km}) \\times (\\text{distância})$.\n\n| Depósito | Cimento (15 sacos) | Frete | Total |\n|---|---|---|---|\n| A | $15 \\times 23 = 345$ | $1 \\times 10 = 10$ | 355 |\n| B | $15 \\times 21{,}5 = 322{,}5$ | $3 \\times 12 = 36$ | 358,5 |\n| **C** | $15 \\times 22 = 330$ | $1{,}5 \\times 14 = 21$ | **351** |\n| D | $15 \\times 21 = 315$ | $3{,}5 \\times 18 = 63$ | 378 |\n| E | $15 \\times 24 = 360$ | $2{,}5 \\times 2 = 5$ | 365 |\n\nO menor custo total é o do depósito **C** (R$ 351,00). Alternativa **C**.",
+  "dicas": {
+    "dica1": "Nem o saco mais barato nem o frete mais barato decidem sozinhos: compare o custo TOTAL de cada opção.",
+    "dica2": "Para cada depósito: 15 × preço do saco + frete por km × distância. Escolha o menor.",
+    "dica3": "Totais: A 355; B 358,5; C 351; D 378; E 365."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Escolheu o saco mais barato (R$ 21,00), ignorando que o frete de D é o mais caro (R$ 63,00)."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Escolheu o menor frete total (R$ 5,00), ignorando que o saco é o mais caro."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Escolheu o menor frete por km (R$ 1,00/km), sem calcular o total."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Erro de conta no frete de B (3 × 12 = 36) ou esqueceu de multiplicar o preço por 15 sacos."
+    }
+  ],
+  "conceitos": [
+    "leitura de tabela",
+    "custo total = fixo + variável",
+    "comparação de valores"
+  ],
+  "verificacao": {
+    "codigo_sympy": "dados = {'A': (23, 1, 10), 'B': (21.5, 3, 12), 'C': (22, 1.5, 14), 'D': (21, 3.5, 18), 'E': (24, 2.5, 2)}\ntotal = {k: 15*p + f*d for k, (p, f, d) in dados.items()}\nresultado = min(total, key=total.get)",
+    "resultado_esperado": "C",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

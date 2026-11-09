@@ -1,0 +1,48 @@
+{
+  "id": "enem-2019-152",
+  "gabarito": "B",
+  "assuntos": [
+    "regra-de-tres",
+    "razao-proporcao"
+  ],
+  "habilidade": "H16",
+  "nivel_curador": 2,
+  "resumo": "Dividir R$ 31 000 em partes inversamente proporcionais a 2, 3 e 5 anos.",
+  "resolucao": "**1. Traduza 'inversamente proporcional'.** O pagamento a cada empresa é proporcional ao **inverso** da idade da máquina:\n$$P_2 = \\frac{k}{2}, \\quad P_3 = \\frac{k}{3}, \\quad P_5 = \\frac{k}{5}$$\n\n**2. A soma deve dar R$ 31 000.**\n$$\\frac{k}{2} + \\frac{k}{3} + \\frac{k}{5} = k \\cdot \\frac{15 + 10 + 6}{30} = \\frac{31k}{30} = 31\\,000 \\;\\Rightarrow\\; k = 30\\,000$$\n\n**3. A máquina mais velha (5 anos) recebe:**\n$$P_5 = \\frac{30\\,000}{5} = 6\\,000$$\n\nAlternativa **B** (R$ 6 000,00).\n\nConfira: $15\\,000 + 10\\,000 + 6\\,000 = 31\\,000$ ✓.",
+  "dicas": {
+    "dica1": "Inversamente proporcional: quanto maior a idade, menor o pagamento. As partes são proporcionais a 1/2, 1/3 e 1/5.",
+    "dica2": "Escreva as partes como k/2, k/3 e k/5, some e iguale a 31 000. Ache k e depois k/5.",
+    "dica3": "k(1/2 + 1/3 + 1/5) = 31k/30 = 31 000 → k = 30 000. A parte da máquina de 5 anos é k/5."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "E",
+      "por_que": "Dividiu de forma DIRETAMENTE proporcional (partes 2, 3 e 5 de 10): 31 000 × 5/10 = 15 500."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Pegou a maior parte (k/2 = 15 000), que é da máquina mais nova, não da mais velha."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Erro aritmético: 31 000 × 1/5 = 6 200, esquecendo de normalizar pela soma dos inversos."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Dividiu 31 000 por 10 (soma 2+3+5), sem relação com a proporção inversa."
+    }
+  ],
+  "conceitos": [
+    "grandezas inversamente proporcionais",
+    "divisão em partes proporcionais",
+    "constante de proporcionalidade"
+  ],
+  "verificacao": {
+    "codigo_sympy": "k = symbols('k')\nkv = solve(Eq(k/2 + k/3 + k/5, 31000), k)[0]\nresultado = kv/5",
+    "resultado_esperado": "6000",
+    "alternativa_esperada": "B"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

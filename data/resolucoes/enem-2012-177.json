@@ -1,0 +1,47 @@
+{
+  "id": "enem-2012-177",
+  "gabarito": "C",
+  "assuntos": [
+    "analise-combinatoria"
+  ],
+  "habilidade": "H2",
+  "nivel_curador": 2,
+  "resumo": "Contar cores representáveis: primárias, secundárias, versões clara/escura e preto/branco.",
+  "resolucao": "**1. Cores básicas do sistema.**\n- Primárias: azul, amarelo, vermelho → **3**.\n- Secundárias: cada par de primárias (azul+amarelo, azul+vermelho, amarelo+vermelho) → $C_{3,2} = $ **3**.\n- Total: 6 cores.\n\n**2. Variações de tonalidade.** Cada uma das 6 cores pode aparecer **normal**, **clara** (com o símbolo do branco) ou **escura** (com o símbolo do preto):\n$$6 \\times 3 = 18$$\n\n**3. Preto e branco** também são cores representadas (quadrado cheio e vazio): $+2$.\n\n$$18 + 2 = 20 \\text{ cores}$$\nAlternativa **C**.",
+  "dicas": {
+    "dica1": "Leia o texto como uma lista de regras de formação: cores simples, combinações de duas, modificadores de claro/escuro, e preto/branco à parte.",
+    "dica2": "Conte 3 primárias + 3 secundárias = 6. Cada uma tem 3 versões (normal, clara, escura). Some preto e branco no fim.",
+    "dica3": "6 × 3 + 2 = ?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "B",
+      "por_que": "Esqueceu de contar o preto e o branco como cores (6 × 3 = 18)."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Contou só clara e escura (sem a versão normal): 6 × 2 + 2 = 14."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Contou 3 versões para primárias e secundárias e acrescentou 3 (preto, branco e cinza?) ou duplicou uma secundária: 18 + 3."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Contou as 6 cores como se tivessem 3 variações E repetiu as 3 primárias (6 × 3 + 3 + 2)."
+    }
+  ],
+  "conceitos": [
+    "princípio multiplicativo",
+    "combinações simples",
+    "contagem por casos"
+  ],
+  "verificacao": {
+    "codigo_sympy": "primarias = 3\nsecundarias = binomial(3, 2)\nresultado = (primarias + secundarias) * 3 + 2",
+    "resultado_esperado": "20",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

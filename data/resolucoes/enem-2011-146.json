@@ -1,0 +1,47 @@
+{
+  "id": "enem-2011-146",
+  "gabarito": "E",
+  "assuntos": [
+    "grandezas-unidades-escalas"
+  ],
+  "habilidade": "H11",
+  "nivel_curador": 1,
+  "resumo": "Determinar a escala de um mapa: 8 cm no mapa correspondem a 2 000 km reais.",
+  "resolucao": "**1. Coloque as duas medidas na mesma unidade (cm).**\n$$2\\,000 \\text{ km} = 2\\,000 \\times 1\\,000 \\text{ m} = 2\\,000\\,000 \\text{ m} = 200\\,000\\,000 \\text{ cm} = 2 \\times 10^8 \\text{ cm}$$\n\n**2. Escala = medida no mapa : medida real.**\n$$\\frac{8}{2 \\times 10^8} = \\frac{1}{2{,}5 \\times 10^7} = \\frac{1}{25\\,000\\,000}$$\n\nEscala **1 : 25 000 000** (alternativa **E**).",
+  "dicas": {
+    "dica1": "Escala é uma razão entre medidas na MESMA unidade: desenho : real. Converta tudo para centímetros antes.",
+    "dica2": "1 km = 100 000 cm. Transforme 2 000 km em cm, depois divida pelo 8 cm do mapa.",
+    "dica3": "2 000 km = 2 × 10⁸ cm. Faça (2 × 10⁸) ÷ 8."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Converteu km para m (não para cm): 2 × 10⁶ / 8 = 250 000."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Dividiu 2 000 km por 8 e tratou o resultado (250) em metros, errando duas conversões."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Esqueceu completamente a conversão de unidades e fez 2 000/8 × 10."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Fez só 2 000 ÷ 8 = 250, sem converter unidades."
+    }
+  ],
+  "conceitos": [
+    "escala",
+    "conversão km–cm",
+    "notação científica"
+  ],
+  "verificacao": {
+    "codigo_sympy": "real_cm = 2000 * 1000 * 100\nresultado = Rational(real_cm, 8)  # denominador da escala 1:X",
+    "resultado_esperado": "25000000",
+    "alternativa_esperada": "E"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "enem-2021-144",
+  "gabarito": "D",
+  "assuntos": [
+    "estatistica-basica",
+    "graficos-tabelas"
+  ],
+  "habilidade": "H27",
+  "nivel_curador": 1,
+  "resumo": "Média de idades a partir de um gráfico de frequências (média ponderada).",
+  "dados_da_imagem": "Gráfico de barras (idade × frequência): 9 anos → 6 alunos; 18 anos → 12 alunos; 27 anos → 9 alunos.",
+  "resolucao": "**1. Leia o gráfico:** 6 alunos de 9 anos, 12 de 18 anos e 9 de 27 anos. Total: $6 + 12 + 9 = 27$ alunos.\n\n**2. Some todas as idades** (idade × frequência):\n$$9 \\cdot 6 + 18 \\cdot 12 + 27 \\cdot 9 = 54 + 216 + 243 = 513$$\n\n**3. Divida pelo total de alunos.**\n$$\\frac{513}{27} = 19$$\n\nA média das idades é **19 anos** (alternativa **D**).",
+  "dicas": {
+    "dica1": "A altura de cada barra diz quantos alunos têm aquela idade. A média deve levar em conta essas quantidades (é uma média ponderada).",
+    "dica2": "Multiplique cada idade pela sua frequência, some tudo e divida pelo número total de alunos (soma das frequências).",
+    "dica3": "(9×6 + 18×12 + 27×9) ÷ 27 = ?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "C",
+      "por_que": "Fez a média simples das três idades, (9 + 18 + 27)/3 = 18, ignorando as frequências."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Fez a média das frequências (6 + 12 + 9)/3 = 9, confundindo os eixos."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Erro aritmético na soma ponderada ou divisão por 27 feita de cabeça errada."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Respondeu o total de alunos (27) ou a maior idade."
+    }
+  ],
+  "conceitos": [
+    "média ponderada por frequências",
+    "leitura de gráfico de barras"
+  ],
+  "verificacao": {
+    "codigo_sympy": "resultado = Rational(9*6 + 18*12 + 27*9, 6 + 12 + 9)",
+    "resultado_esperado": "19",
+    "alternativa_esperada": "D"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

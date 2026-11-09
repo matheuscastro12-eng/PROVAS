@@ -1,0 +1,48 @@
+{
+  "id": "enem-2021-173",
+  "gabarito": "C",
+  "assuntos": [
+    "equacao-1-grau",
+    "numeros-operacoes"
+  ],
+  "habilidade": "H3",
+  "nivel_curador": 1,
+  "resumo": "Menor número de lavagens para faturar pelo menos R$ 300 com dois preços (R$ 20 e R$ 35).",
+  "resolucao": "**1. Para fazer menos lavagens, priorize as mais caras (R$ 35).**\n$$\\frac{300}{35} \\approx 8{,}57$$\nCom 8 lavagens completas: $8 \\times 35 = 280 < 300$ — não basta.\n\n**2. É preciso uma 9ª lavagem.** Qualquer uma serve: 8 completas + 1 simples $= 280 + 20 = 300$ ✓ (exatamente a meta).\n\n**3. Com 8 lavagens é impossível** (o máximo é 280). Logo o menor número é **9** (alternativa **C**).",
+  "dicas": {
+    "dica1": "Para atingir a receita com o MENOR número de serviços, use o mais caro o máximo possível.",
+    "dica2": "Veja quantas lavagens de R$ 35 cabem em R$ 300. Se o máximo com 8 não chega a 300, você precisa de 9; confirme com 8 completas e 1 simples.",
+    "dica3": "8 × 35 = 280 < 300; 8 × 35 + 20 = 300."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "B",
+      "por_que": "Arredondou 300/35 ≈ 8,57 para baixo, mas 8 lavagens rendem no máximo R$ 280."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Calculou 300/20 = 15, usando só lavagens simples (o que dá o MAIOR número, não o menor)."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Dividiu 300 por 55 (soma dos preços) ≈ 5,5 → 6, como se cada 'par' valesse 55."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Confundiu os papéis dos preços (300/15 = 20) ou somou 15 + 5."
+    }
+  ],
+  "conceitos": [
+    "otimização simples com inteiros",
+    "divisão com arredondamento para cima",
+    "desigualdade"
+  ],
+  "verificacao": {
+    "codigo_sympy": "n = 1\nwhile n*35 < 300:\n    n += 1\nresultado = n",
+    "resultado_esperado": "9",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

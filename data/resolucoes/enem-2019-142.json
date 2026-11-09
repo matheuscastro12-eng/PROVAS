@@ -1,0 +1,47 @@
+{
+  "id": "enem-2019-142",
+  "gabarito": "E",
+  "assuntos": [
+    "geometria-plana"
+  ],
+  "habilidade": "H12",
+  "nivel_curador": 2,
+  "resumo": "Área da coroa circular ao aumentar o diâmetro de 6 m para 14 m (π = 3).",
+  "resolucao": "**1. Raios.** Diâmetro atual 6 m → raio 3 m. Novo diâmetro $6 + 8 = 14$ m → raio 7 m.\n\n**2. Área a pavimentar** = área nova − área já existente (coroa circular):\n$$A = \\pi(7^2 - 3^2) = 3 \\times (49 - 9) = 3 \\times 40 = 120 \\text{ m}^2$$\n\n**3. Compare com o estoque:** 100 m² < 120 m². O material **não será suficiente**, pois a nova região mede **120 m²**. Alternativa **E**.",
+  "dicas": {
+    "dica1": "Só a parte nova precisa de pavimento: é a área do círculo grande menos a do círculo que já existe. E cuidado: o enunciado aumenta o DIÂMETRO em 8 m.",
+    "dica2": "Converta diâmetros em raios (3 m e 7 m). Calcule π·(7² − 3²) com π = 3.",
+    "dica3": "3 × (49 − 9) = ?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Somou 8 ao raio em vez de ao diâmetro: raio 11 → 3(121 − 9) = 336… ou usou o círculo novo com raio 6: 3 × 36 = 108."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Calculou a área do círculo de raio 4 (3 × 16 = 48), tratando o acréscimo de 8 m de diâmetro como um círculo à parte."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Usou a diferença dos raios ao quadrado: 3 × (7 − 3)² = 48… ou 3 × 8 = 24 confundindo área com comprimento."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Calculou o perímetro ou a diferença de diâmetros (3 × 7 = 21), não uma área."
+    }
+  ],
+  "conceitos": [
+    "área do círculo",
+    "coroa circular",
+    "diâmetro × raio"
+  ],
+  "verificacao": {
+    "codigo_sympy": "pi_aprox = 3\nresultado = pi_aprox*(7**2 - 3**2)",
+    "resultado_esperado": "120",
+    "alternativa_esperada": "E"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

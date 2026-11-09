@@ -1,0 +1,47 @@
+{
+  "id": "enem-2019-153",
+  "gabarito": "E",
+  "assuntos": [
+    "porcentagem"
+  ],
+  "habilidade": "H3",
+  "nivel_curador": 1,
+  "resumo": "Dois aumentos percentuais sucessivos (7,2% e depois 10%) sobre um rendimento.",
+  "resolucao": "**1. Primeiro aumento (2000 → 2010): 7,2%.** Aumentar 7,2% é multiplicar por $1{,}072$:\n$$1\\,250 \\times 1{,}072 = 1\\,340$$\n\n**2. Segundo aumento (2010 → 2020): 10%.** Multiplicar por $1{,}10$:\n$$1\\,340 \\times 1{,}10 = 1\\,474$$\n\nEm 2020 o rendimento médio projetado é **R$ 1 474,00** (alternativa **E**).\n\n> Atenção: aumentos sucessivos **não se somam**. $7{,}2\\% + 10\\% = 17{,}2\\%$ daria $1\\,465$, que é o distrator D.",
+  "dicas": {
+    "dica1": "Aumentar p% é multiplicar por (1 + p/100). Dois aumentos seguidos são duas multiplicações, uma após a outra.",
+    "dica2": "Aplique 7,2% sobre 1 250 para achar o valor de 2010. Depois aplique 10% sobre esse novo valor (e não sobre 1 250).",
+    "dica3": "1 250 × 1,072 = 1 340. Agora calcule 1 340 × 1,1."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Somou as porcentagens (7,2% + 10% = 17,2%) e aplicou de uma vez sobre 1 250: 1 250 × 1,172 = 1 465."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Calculou só o primeiro aumento (1 340) e esqueceu o de 10%."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Aplicou só o aumento de 10% sobre 1 250, ignorando os 7,2%."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Erro aritmético ao multiplicar por 1,072 (por exemplo, 1 250 × 0,072 ≈ 90 somado errado)."
+    }
+  ],
+  "conceitos": [
+    "fator de aumento (1 + i)",
+    "aumentos sucessivos",
+    "porcentagem"
+  ],
+  "verificacao": {
+    "codigo_sympy": "r2010 = 1250 * Rational(1072, 1000)\nresultado = r2010 * Rational(110, 100)",
+    "resultado_esperado": "1474",
+    "alternativa_esperada": "E"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

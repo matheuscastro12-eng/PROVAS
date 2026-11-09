@@ -1,0 +1,48 @@
+{
+  "id": "enem-2019-173",
+  "gabarito": "E",
+  "assuntos": [
+    "probabilidade",
+    "porcentagem"
+  ],
+  "habilidade": "H28",
+  "nivel_curador": 3,
+  "resumo": "Probabilidade condicional 'invertida' (Bayes) com porcentagens de declarações inconsistentes e fraudulentas.",
+  "resolucao": "Imagine **10 000** declarações.\n\n**1. Inconsistentes:** $20\\%$ → 2 000. Dessas, $25\\%$ são fraudulentas → **500**.\n\n**2. Consistentes:** 8 000. Dessas, $6{,}25\\%$ são fraudulentas → $0{,}0625 \\times 8\\,000 = $ **500**.\n\n**3. Total de fraudulentas:** $500 + 500 = 1\\,000$.\n\n**4. Pergunta:** dado que é fraudulenta, qual a chance de ser inconsistente?\n$$P(\\text{inconsistente} \\mid \\text{fraudulenta}) = \\frac{500}{1\\,000} = 0{,}5$$\n\nAlternativa **E** (0,5000).",
+  "dicas": {
+    "dica1": "A condição é 'dado que era fraudulenta': o denominador é o total de declarações fraudulentas (vindas dos dois grupos).",
+    "dica2": "Escolha um total (ex.: 10 000), calcule quantas fraudulentas há entre as inconsistentes e entre as consistentes, e divida a primeira pela soma.",
+    "dica3": "Fraudulentas: 0,2 × 0,25 = 0,05 (inconsistentes) e 0,8 × 0,0625 = 0,05 (consistentes). P = 0,05/(0,05 + 0,05)."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Respondeu P(inconsistente E fraudulenta) = 0,2 × 0,25 = 0,05, sem condicionar."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Respondeu P(fraudulenta) = 0,10, o total de fraudulentas, e não a condicional pedida."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Somou as taxas 0,25 + 0,0625 = 0,3125 como se fossem probabilidades do mesmo grupo."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Somou 0,05 + 0,0625 = 0,1125, misturando uma probabilidade conjunta com uma condicional."
+    }
+  ],
+  "conceitos": [
+    "probabilidade condicional",
+    "teorema de Bayes (forma intuitiva)",
+    "probabilidade total"
+  ],
+  "verificacao": {
+    "codigo_sympy": "p_inc = Rational(20,100); p_fr_inc = Rational(25,100); p_fr_cons = Rational(625,10000)\nfraud_inc = p_inc*p_fr_inc\nfraud_cons = (1-p_inc)*p_fr_cons\nresultado = fraud_inc/(fraud_inc + fraud_cons)",
+    "resultado_esperado": "0.5",
+    "alternativa_esperada": "E"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

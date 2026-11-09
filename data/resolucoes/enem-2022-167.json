@@ -1,0 +1,47 @@
+{
+  "id": "enem-2022-167",
+  "gabarito": "A",
+  "assuntos": [
+    "porcentagem"
+  ],
+  "habilidade": "H4",
+  "nivel_curador": 2,
+  "resumo": "Comparar aumento de 10% seguido de desconto de 2% com um aumento único de 8%.",
+  "resolucao": "**1. Preço normal (10% acima do promocional).**\n$$1\\,000 \\times 1{,}10 = 1\\,100$$\n\n**2. Valor cobrado pela loja (desconto de 2% sobre o preço normal).**\n$$1\\,100 \\times 0{,}98 = 1\\,078$$\n\n**3. Valor calculado pela cliente (preço promocional + 8%).**\n$$1\\,000 \\times 1{,}08 = 1\\,080$$\n\n**4. Compare.** $1\\,078 - 1\\,080 = -2$. O valor da loja foi **R$ 2,00 menor** (alternativa **A**).\n\nA diferença existe porque $+10\\%$ seguido de $-2\\%$ equivale a $1{,}10 \\times 0{,}98 = 1{,}078$, ou seja, $+7{,}8\\%$, e não $+8\\%$.",
+  "dicas": {
+    "dica1": "Aumentos e descontos sucessivos não se somam: +10% e depois −2% não é +8%. Use fatores multiplicativos.",
+    "dica2": "Calcule o preço normal (1 000 × 1,10), aplique 2% de desconto sobre ele e compare com 1 000 × 1,08.",
+    "dica3": "Loja: 1 100 × 0,98. Cliente: 1 080. Faça a diferença."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Comparou o valor da loja com o preço promocional de 1 000, ou errou o sinal da diferença e usou outro fator."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Comparou o cálculo da cliente (1 080) com o preço promocional (1 000), achando 80 'a mais'."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Tomou a diferença entre preço normal (1 100) e promocional (1 000)."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Somou erros de base: 10% + 2% aplicados sobre valores diferentes, chegando a 200."
+    }
+  ],
+  "conceitos": [
+    "fatores de aumento e desconto",
+    "composição de porcentagens",
+    "comparação de valores"
+  ],
+  "verificacao": {
+    "codigo_sympy": "loja = 1000 * Rational(110, 100) * Rational(98, 100)\ncliente = 1000 * Rational(108, 100)\nresultado = cliente - loja  # quanto a loja ficou abaixo",
+    "resultado_esperado": "2",
+    "alternativa_esperada": "A"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

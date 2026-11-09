@@ -1,0 +1,48 @@
+{
+  "id": "enem-2016-177",
+  "gabarito": "A",
+  "assuntos": [
+    "razao-proporcao",
+    "porcentagem"
+  ],
+  "habilidade": "H3",
+  "nivel_curador": 2,
+  "resumo": "Calcular o índice (porcentagem) de cinco bairros e identificar o maior.",
+  "resolucao": "O LIRAa é o percentual $\\dfrac{\\text{imóveis com foco}}{\\text{imóveis analisados}} \\times 100$.\n\n| Bairro | Razão | LIRAa |\n|---|---|---|\n| I | $14/400$ | $3{,}5\\%$ |\n| II | $6/500$ | $1{,}2\\%$ |\n| III | $13/520$ | $2{,}5\\%$ |\n| IV | $9/360$ | $2{,}5\\%$ |\n| V | $15/500$ | $3{,}0\\%$ |\n\nO maior índice é o do bairro **I** (3,5%), por onde as ações de controle devem começar. Alternativa **A**.",
+  "dicas": {
+    "dica1": "Um índice percentual compara a parte com o todo. Não basta olhar quem tem mais imóveis com foco.",
+    "dica2": "Divida focos por imóveis em cada bairro e multiplique por 100. O maior percentual indica o primeiro bairro a ser atendido.",
+    "dica3": "14/400 = 0,035; 15/500 = 0,03; 13/520 = 0,025; 9/360 = 0,025; 6/500 = 0,012."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "E",
+      "por_que": "Escolheu o bairro com mais imóveis com foco em números absolutos (15), sem dividir pelo total."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Erro de divisão em 13/520 ou comparação apenas pela quantidade de imóveis analisados."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Escolheu o menor índice, invertendo o critério (ações começam pelo MAIOR índice)."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Escolheu o bairro com menos imóveis analisados, achando que isso indica maior infestação."
+    }
+  ],
+  "conceitos": [
+    "razão parte/todo",
+    "porcentagem",
+    "comparação de índices"
+  ],
+  "verificacao": {
+    "codigo_sympy": "idx = {'A': Rational(14,400), 'B': Rational(6,500), 'C': Rational(13,520), 'D': Rational(9,360), 'E': Rational(15,500)}\nresultado = max(idx, key=idx.get)",
+    "resultado_esperado": "A",
+    "alternativa_esperada": "A"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

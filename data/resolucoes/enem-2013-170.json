@@ -1,0 +1,48 @@
+{
+  "id": "enem-2013-170",
+  "gabarito": "C",
+  "assuntos": [
+    "grandezas-unidades-escalas"
+  ],
+  "habilidade": "H10",
+  "nivel_curador": 1,
+  "resumo": "Converter 355 mL para onças fluidas usando 1 fl oz ≈ 2,95 cL.",
+  "resolucao": "**1. Coloque 355 mL em centilitros.** $1 \\text{ cL} = 10 \\text{ mL}$, então:\n$$355 \\text{ mL} = 35{,}5 \\text{ cL}$$\n\n**2. Divida pelo valor de 1 onça fluida (2,95 cL).**\n$$\\frac{35{,}5}{2{,}95} \\approx 12{,}03$$\n\nA lata tem aproximadamente **12,03 fl oz** (alternativa **C**).\n\nEstimativa rápida: $2{,}95 \\approx 3$ e $35{,}5 / 3 \\approx 12$.",
+  "dicas": {
+    "dica1": "Para converter, as duas quantidades precisam estar na mesma unidade. O enunciado dá a onça em centilitros; passe os mililitros para centilitros.",
+    "dica2": "355 mL = 35,5 cL (1 cL = 10 mL). Depois divida por 2,95.",
+    "dica3": "35,5 ÷ 2,95 ≈ ? (perto de 35,5 ÷ 3)."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "E",
+      "por_que": "Não converteu mL para cL: 355 ÷ 2,95 = 120,34."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Multiplicou em vez de dividir: 35,5 × 2,95 = 104,7."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Converteu errado (355 mL = 3,55 cL, como se cL fosse 100 mL): 3,55 ÷ 2,95 ≈ 1,2."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Inverteu a razão: 2,95 ÷ 3,55 ≈ 0,83."
+    }
+  ],
+  "conceitos": [
+    "conversão mL–cL",
+    "razão entre unidades",
+    "estimativa"
+  ],
+  "verificacao": {
+    "codigo_sympy": "cl = Rational(355, 10)\nresultado = cl / Rational(295, 100)",
+    "resultado_esperado": "12.03",
+    "tolerancia": 0.01,
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

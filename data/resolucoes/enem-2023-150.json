@@ -1,0 +1,47 @@
+{
+  "id": "enem-2023-150",
+  "gabarito": "A",
+  "assuntos": [
+    "funcao-afim",
+    "porcentagem"
+  ],
+  "habilidade": "H19",
+  "nivel_curador": 1,
+  "resumo": "Traduzir '90% da quantidade q' em expressão algébrica.",
+  "resolucao": "**1. Leia a frase-chave:** \"a concentração de álcool (C) no sangue corresponde a aproximadamente 90% da quantidade (q) de álcool ingerida\".\n\n**2. Traduza 90% de q:**\n$$C = \\frac{90}{100} \\cdot q = 0{,}9q$$\n\nAlternativa **A**.\n\nAs demais alternativas misturam \"perder 10%\" com subtrair 0,1q de 1 (que não faz sentido dimensional) ou subtrair 10 unidades.",
+  "dicas": {
+    "dica1": "'90% de q' é uma multiplicação: 0,9 vezes q.",
+    "dica2": "Escreva 90% como 0,9 e multiplique por q. Não há nada sendo subtraído de 1.",
+    "dica3": "C = 0,9 · q."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "B",
+      "por_que": "Usou os 10% eliminados em vez dos 90% que permanecem."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Tentou escrever 'tira 10%' como 1 − 0,1q, mas 1 não é a quantidade ingerida; o correto seria q − 0,1q = 0,9q."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Mesma confusão de C, com 0,9."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Tratou 10% como 10 unidades e subtraiu de q."
+    }
+  ],
+  "conceitos": [
+    "porcentagem como fator multiplicativo",
+    "função linear C = kq"
+  ],
+  "verificacao": {
+    "codigo_sympy": "q = symbols('q')\nresultado = Rational(90, 100) * q",
+    "resultado_esperado": "0.9*q",
+    "alternativa_esperada": "A"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

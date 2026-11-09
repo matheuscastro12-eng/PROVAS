@@ -1,0 +1,48 @@
+{
+  "id": "enem-2023-137",
+  "gabarito": "C",
+  "assuntos": [
+    "estatistica-basica",
+    "graficos-tabelas"
+  ],
+  "habilidade": "H27",
+  "nivel_curador": 1,
+  "resumo": "Média salarial de 100 funcionários a partir de um quadro com dois setores.",
+  "dados_da_imagem": "Quadro: Produção → 75 funcionários, salário R$ 2 000,00; Administração → 25 funcionários, salário R$ 7 000,00.",
+  "resolucao": "**1. Folha total de salários.**\n$$75 \\times 2\\,000 + 25 \\times 7\\,000 = 150\\,000 + 175\\,000 = 325\\,000$$\n\n**2. Divida pelos 100 funcionários.**\n$$\\frac{325\\,000}{100} = 3\\,250$$\n\nA média é **R$ 3 250,00** (alternativa **C**).",
+  "dicas": {
+    "dica1": "A média de todos os salários não é a média dos dois salários, porque os setores têm tamanhos diferentes.",
+    "dica2": "Multiplique cada salário pela quantidade de funcionários do setor, some e divida por 100.",
+    "dica3": "(75 × 2 000 + 25 × 7 000) ÷ 100."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Fez a média simples dos dois salários: (2 000 + 7 000)/2 = 4 500."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Fez (7 000 − 2 000)/2 ou outro cálculo com a diferença dos salários."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Respondeu o salário mais comum (moda), e não a média."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Somou os dois salários (9 000) sem ponderar nem dividir."
+    }
+  ],
+  "conceitos": [
+    "média ponderada",
+    "leitura de quadro/tabela"
+  ],
+  "verificacao": {
+    "codigo_sympy": "resultado = Rational(75*2000 + 25*7000, 100)",
+    "resultado_esperado": "3250",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "enem-2020-167",
+  "gabarito": "B",
+  "assuntos": [
+    "porcentagem",
+    "graficos-tabelas"
+  ],
+  "habilidade": "H25",
+  "nivel_curador": 2,
+  "resumo": "Manter a despesa total depois de aumentos em dois itens, reduzindo o terceiro (dados em quadro).",
+  "dados_da_imagem": "Quadro de gastos mensais (R$): Internet = 120; Mensalidade escolar = 700; Mesada do filho = 400.",
+  "resolucao": "**1. Despesa total atual.**\n$$120 + 700 + 400 = 1\\,220$$\n\n**2. Novos valores dos itens que aumentaram.**\n- Internet: $120 \\times 1{,}20 = 144$\n- Mensalidade: $700 \\times 1{,}10 = 770$\n\n**3. Quanto sobra para a mesada** (o total deve continuar 1 220):\n$$1\\,220 - 144 - 770 = 306$$\n\n**4. Redução da mesada**, em relação aos R$ 400 originais:\n$$\\frac{400 - 306}{400} = \\frac{94}{400} = 0{,}235 = 23{,}5\\%$$\n\nAlternativa **B**.",
+  "dicas": {
+    "dica1": "Se o total deve ficar igual, o que os outros itens aumentaram em reais é exatamente o que a mesada precisa diminuir em reais.",
+    "dica2": "Calcule o aumento em reais da internet (20% de 120) e da mensalidade (10% de 700). Some. Esse valor sai da mesada; depois transforme em porcentagem de 400.",
+    "dica3": "Aumentos: 24 + 70 = 94 reais. Redução percentual = 94/400."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "C",
+      "por_que": "Somou as porcentagens dos aumentos (20% + 10%) como se fosse a redução da mesada."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Fez a média dos aumentos (15%) ou dividiu 94 por um total errado."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Calculou 306/400 = 76,5%, que é o quanto a mesada FICOU, não quanto ela foi reduzida."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Confundiu a razão 94/400 com seu complemento aproximado ou usou base errada (ex.: 94/134)."
+    }
+  ],
+  "conceitos": [
+    "leitura de quadro",
+    "aumento percentual em reais",
+    "variação percentual = variação/valor inicial"
+  ],
+  "verificacao": {
+    "codigo_sympy": "total = 120 + 700 + 400\nnova_mesada = total - 120*Rational(120,100) - 700*Rational(110,100)\nresultado = (400 - nova_mesada) / 400 * 100  # em %",
+    "resultado_esperado": "23.5",
+    "alternativa_esperada": "B"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "enem-2010-171",
+  "gabarito": "B",
+  "assuntos": [
+    "porcentagem"
+  ],
+  "habilidade": "H3",
+  "nivel_curador": 2,
+  "resumo": "Porcentagem de porcentagem: curas em dois subgrupos iguais de pacientes não curados.",
+  "resolucao": "Pense em 100 pacientes para facilitar.\n\n**1. Tratamento tradicional:** 40 curados, **60 não curados**.\n\n**2. Os 60 são divididos em dois grupos iguais:** 30 e 30.\n\n**3. Curas nos tratamentos inovadores:**\n- 1º tratamento: $35\\%$ de 30 $= 10{,}5$ pacientes\n- 2º tratamento: $45\\%$ de 30 $= 13{,}5$ pacientes\n\n**4. Total curado pelos inovadores:** $10{,}5 + 13{,}5 = 24$ em 100 pacientes iniciais, ou seja, **24%** (alternativa **B**).\n\nAtalho: a média das taxas (40%) aplicada aos 60% restantes: $0{,}40 \\times 0{,}60 = 0{,}24$.",
+  "dicas": {
+    "dica1": "Quando a pergunta diz 'em relação aos pacientes submetidos inicialmente', a base é o total original. Trabalhe com 100 pacientes.",
+    "dica2": "Separe os 60% não curados em dois grupos de 30%. Aplique 35% a um e 45% ao outro e some.",
+    "dica3": "0,35 × 30 + 0,45 × 30 = ?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "D",
+      "por_que": "Aplicou 35% + 45% = 80% sobre 60 pacientes (esqueceu que cada taxa vale só para metade dos 60)."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Usou 40% (média das taxas) sobre 80 ou outro valor errado para o grupo não curado."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Somou a cura do tratamento tradicional (40%) com os 24% dos inovadores."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Aplicou a média das taxas (40%) sobre apenas 40 pacientes, confundindo curados com não curados."
+    }
+  ],
+  "conceitos": [
+    "porcentagem de porcentagem",
+    "base do percentual",
+    "divisão de um grupo em partes iguais"
+  ],
+  "verificacao": {
+    "codigo_sympy": "nao_curados = 100 - 40\ngrupo = Rational(nao_curados, 2)\nresultado = Rational(35, 100) * grupo + Rational(45, 100) * grupo",
+    "resultado_esperado": "24",
+    "alternativa_esperada": "B"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

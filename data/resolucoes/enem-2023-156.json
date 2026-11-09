@@ -1,0 +1,49 @@
+{
+  "id": "enem-2023-156",
+  "gabarito": "A",
+  "assuntos": [
+    "leitura-grafico-funcao",
+    "graficos-tabelas"
+  ],
+  "habilidade": "H20",
+  "nivel_curador": 1,
+  "resumo": "Ler em um gráfico de linha os intervalos em que a intensidade do sinal é zero.",
+  "dados_da_imagem": "Gráfico intensidade do sinal × tempo (min), de 0 a 30, com marcas a cada 2 min. A linha fica sobre o eixo (intensidade zero) de 10 a 12 min e de 16 a 20 min; nos demais trechos está acima de zero (pico isolado em 14 min).",
+  "resolucao": "**1. \"Sem sinal\" = intensidade igual a zero**, ou seja, a linha do gráfico encostada no eixo do tempo.\n\n**2. Localize esses trechos:**\n- de **10 a 12 min** → 2 minutos\n- de **16 a 20 min** → 4 minutos\n\n(Em 14 min há um pico: o sinal voltou por um instante entre os dois trechos sem sinal.)\n\n**3. Some:** $2 + 4 = 6$ minutos. Alternativa **A**.",
+  "dicas": {
+    "dica1": "No gráfico, 'sem sinal' é onde a linha toca o eixo horizontal (valor zero), não onde ela está baixa.",
+    "dica2": "Leia os instantes em que a linha encosta no eixo e some os comprimentos desses intervalos.",
+    "dica3": "Trechos no zero: 10–12 e 16–20. Some as durações."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "C",
+      "por_que": "Contou de 10 a 20 min como um único intervalo (10 min), ignorando o pico em 14 min."
+    },
+    {
+      "alternativa": "B",
+      "por_que": "Contou de 10 a 20 descontando só 2 min do pico (8) ou incluiu o intervalo de queda 8–10."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Somou os intervalos de sinal fraco (2–10 e 20–28), não os de sinal zero."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Contou o tempo com sinal (30 − 6 = 24) em vez do tempo sem sinal."
+    }
+  ],
+  "conceitos": [
+    "leitura de gráfico de linha",
+    "zeros de uma função em intervalos",
+    "soma de durações"
+  ],
+  "verificacao": {
+    "codigo_sympy": "intervalos_zero = [(10, 12), (16, 20)]\nresultado = sum(b - a for a, b in intervalos_zero)",
+    "resultado_esperado": "6",
+    "alternativa_esperada": "A"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

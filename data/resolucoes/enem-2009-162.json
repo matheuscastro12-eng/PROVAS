@@ -1,0 +1,48 @@
+{
+  "id": "enem-2009-162",
+  "gabarito": "A",
+  "assuntos": [
+    "regra-de-tres",
+    "razao-proporcao"
+  ],
+  "habilidade": "H16",
+  "nivel_curador": 3,
+  "resumo": "Regra de três composta: alunos, horas por dia e dias determinam a quantidade arrecadada.",
+  "resolucao": "**1. Primeira fase (10 dias).** 20 alunos, 3 h/dia, 12 kg/dia:\n$$10 \\times 12 = 120 \\text{ kg}$$\n\n**2. Ritmo de coleta por aluno e por hora.** Em um dia, 20 alunos × 3 h = 60 \"aluno-horas\" rendem 12 kg:\n$$\\frac{12}{60} = 0{,}2 \\text{ kg por aluno-hora}$$\n\n**3. Segunda fase (20 dias restantes).** Agora são $20 + 30 = 50$ alunos, 4 h/dia:\n$$50 \\times 4 \\times 0{,}2 = 40 \\text{ kg/dia} \\;\\Rightarrow\\; 20 \\times 40 = 800 \\text{ kg}$$\n\n**4. Total:** $120 + 800 = 920$ kg. Alternativa **A**.\n\nEm forma de regra de três composta: $\\dfrac{12}{x} = \\dfrac{20}{50} \\cdot \\dfrac{3}{4} \\Rightarrow x = 12 \\cdot \\dfrac{50}{20} \\cdot \\dfrac{4}{3} = 40$ kg/dia.",
+  "dicas": {
+    "dica1": "A arrecadação é diretamente proporcional ao número de alunos, às horas por dia e aos dias. Separe a campanha em duas fases.",
+    "dica2": "Calcule o que foi arrecadado nos 10 primeiros dias. Depois ache a nova arrecadação diária (mais alunos, mais horas) e multiplique pelos 20 dias restantes.",
+    "dica3": "Nova arrecadação diária = 12 × (50/20) × (4/3) = 40 kg. Total = 10 × 12 + 20 × 40."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "B",
+      "por_que": "Considerou só a segunda fase (20 × 40 = 800 kg) e esqueceu os 120 kg dos primeiros 10 dias."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Usou 30 alunos (os novos) em vez de 50 na segunda fase: 12 × 30/20 × 4/3 = 24 kg/dia... ou outro erro de montagem (ex.: 600 + 120)."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Esqueceu o aumento de horas (3 → 4): 12 × 50/20 = 30 kg/dia; 20 × 30 = 600."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Somou 120 com um valor da segunda fase calculado com proporção errada (ex.: só 30 alunos e 4 h: 24 × 20 = 480; 480 + 90...)."
+    }
+  ],
+  "conceitos": [
+    "regra de três composta",
+    "grandezas diretamente proporcionais",
+    "taxa por unidade (aluno-hora)"
+  ],
+  "verificacao": {
+    "codigo_sympy": "taxa = Rational(12, 20*3)  # kg por aluno-hora\nfase1 = 10*12\nfase2 = 20 * (50*4*taxa)\nresultado = fase1 + fase2",
+    "resultado_esperado": "920",
+    "alternativa_esperada": "A"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

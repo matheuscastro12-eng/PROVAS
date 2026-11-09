@@ -1,0 +1,47 @@
+{
+  "id": "enem-2022-139",
+  "gabarito": "A",
+  "assuntos": [
+    "grandezas-unidades-escalas"
+  ],
+  "habilidade": "H11",
+  "nivel_curador": 2,
+  "resumo": "Converter medidas de planta (escala 1:50) para o real e descontar as folgas exigidas.",
+  "resolucao": "**1. Medidas reais do espaço (escala 1:50 → multiplique por 50).**\n- Altura: $3{,}8 \\times 50 = 190 \\text{ cm}$\n- Largura: $1{,}6 \\times 50 = 80 \\text{ cm}$\n\n**2. Desconte as folgas de 10 cm.**\n- Altura: folga só na parte **superior**: $190 - 10 = 180 \\text{ cm}$\n- Largura: folga nas **duas laterais**: $80 - 10 - 10 = 60 \\text{ cm}$\n\n**3. Converta para metros:** 1,80 m e 0,60 m. Alternativa **A**.",
+  "dicas": {
+    "dica1": "Na escala 1:50, a realidade é 50 vezes o desenho. Depois leia com cuidado onde é exigida a folga de 10 cm.",
+    "dica2": "Multiplique 3,8 cm e 1,6 cm por 50. Da altura tire 10 cm (só em cima); da largura tire 20 cm (10 de cada lado).",
+    "dica3": "Altura: 190 − 10. Largura: 80 − 20. Converta para metros."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "B",
+      "por_que": "Descontou só 10 cm na largura (uma lateral), esquecendo que são duas laterais."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Não descontou folga na largura e descontou menos na altura, ou arredondou 190 para baixo errado."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Esqueceu as folgas e ainda arredondou: 190 → 2,00 m; 80 → 0,90 m."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Converteu errado a escala (ex.: 3,8 × 50 ≈ 200; 1,6 × 60) sem considerar as folgas."
+    }
+  ],
+  "conceitos": [
+    "escala 1:50",
+    "conversão cm–m",
+    "interpretação de restrições"
+  ],
+  "verificacao": {
+    "codigo_sympy": "altura = Rational(38,10)*50 - 10\nlargura = Rational(16,10)*50 - 2*10\nresultado = (altura/100, largura/100)",
+    "resultado_esperado": "(1.8, 0.6)",
+    "alternativa_esperada": "A"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "enem-2011-162",
+  "gabarito": "D",
+  "assuntos": [
+    "sequencias-pa"
+  ],
+  "habilidade": "H2",
+  "nivel_curador": 1,
+  "resumo": "Progressão aritmética: termo de julho a partir de janeiro, fevereiro e março.",
+  "resolucao": "**1. Reconheça a PA.** $33\\,000, 34\\,500, 36\\,000, \\dots$: a diferença é constante:\n$$r = 34\\,500 - 33\\,000 = 1\\,500$$\n\n**2. Julho é o 7º mês** ($a_1$ = janeiro). Termo geral:\n$$a_7 = a_1 + 6r = 33\\,000 + 6 \\times 1\\,500 = 33\\,000 + 9\\,000 = 42\\,000$$\n\nAlternativa **D**.",
+  "dicas": {
+    "dica1": "Crescimento 'no mesmo padrão' com diferença constante é uma progressão aritmética.",
+    "dica2": "Ache a razão (diferença entre meses seguidos). De janeiro a julho são 6 saltos: some 6 razões a janeiro.",
+    "dica3": "33 000 + 6 × 1 500 = ?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "B",
+      "por_que": "Contou 5 saltos (julho como 6º mês): 33 000 + 5 × 1 500 = 40 500."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Usou razão 1 000 ou contou poucos meses (33 000 + 5 000)."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Contou 10 saltos ou usou razão 2 500: 33 000 + 15 000 = 48 000."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Erro aritmético (41 000) ao somar 9 000 a 33 000 ou ao calcular a razão."
+    }
+  ],
+  "conceitos": [
+    "progressão aritmética",
+    "termo geral aₙ = a₁ + (n − 1)r"
+  ],
+  "verificacao": {
+    "codigo_sympy": "a1, r = 33000, 34500 - 33000\nresultado = a1 + (7 - 1)*r",
+    "resultado_esperado": "42000",
+    "alternativa_esperada": "D"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

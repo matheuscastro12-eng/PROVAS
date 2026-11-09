@@ -1,0 +1,47 @@
+{
+  "id": "enem-2013-158",
+  "gabarito": "B",
+  "assuntos": [
+    "porcentagem"
+  ],
+  "habilidade": "H3",
+  "nivel_curador": 1,
+  "resumo": "Imposto de 15% sobre o lucro da venda de ações.",
+  "resolucao": "**1. Identifique sobre o que incide o imposto.** O enunciado diz que o pagamento é de 15% **do lucro**, não do valor da venda.\n\n**2. Calcule o lucro.**\n$$\\text{lucro} = 34\\,000 - 26\\,000 = 8\\,000$$\n\n**3. Aplique a porcentagem.**\n$$15\\% \\text{ de } 8\\,000 = 0{,}15 \\times 8\\,000 = 1\\,200$$\n\nO contribuinte pagará **R$ 1 200,00** (alternativa **B**).",
+  "dicas": {
+    "dica1": "Porcentagem sempre é 'de alguma coisa'. Antes de calcular, descubra qual é a base: o imposto incide sobre o lucro, não sobre o preço de venda.",
+    "dica2": "Primeiro ache o lucro (venda menos custo). Depois calcule 15% desse lucro: multiplique por 0,15.",
+    "dica3": "Lucro = 34 000 − 26 000 = 8 000. Agora faça 8 000 × 0,15."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Resultado de 15% de 6 000 (erro de subtração ou de leitura dos valores)."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Aplicou 15% sobre o custo das ações (R$ 26 mil) em vez de sobre o lucro."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Aplicou 15% sobre o valor total da venda (R$ 34 mil), ignorando que o imposto é só sobre o lucro."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Confusão de base: tomou 15% da soma ou de um valor intermediário (14 mil) em vez do lucro."
+    }
+  ],
+  "conceitos": [
+    "porcentagem de um valor",
+    "lucro = receita − custo",
+    "identificar a base da porcentagem"
+  ],
+  "verificacao": {
+    "codigo_sympy": "lucro = 34000 - 26000\nresultado = Rational(15, 100) * lucro",
+    "resultado_esperado": "1200",
+    "alternativa_esperada": "B"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

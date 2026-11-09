@@ -1,0 +1,49 @@
+{
+  "id": "enem-2018-175",
+  "gabarito": "B",
+  "assuntos": [
+    "equacao-2-grau",
+    "equacao-1-grau",
+    "matematica-financeira"
+  ],
+  "habilidade": "H21",
+  "nivel_curador": 3,
+  "resumo": "Sistema com produtos (N parcelas × valor) que se reduz a equações do 1º grau.",
+  "resolucao": "Seja $p$ o valor de cada parcela e $N$ o número de parcelas. O preço do carro é $N \\cdot p$ nas três situações.\n\n**1. Mais 5 parcelas, cada uma R$ 200 menor:**\n$$(N + 5)(p - 200) = Np \\;\\Rightarrow\\; Np - 200N + 5p - 1\\,000 = Np \\;\\Rightarrow\\; 5p = 200N + 1\\,000 \\;\\Rightarrow\\; p = 40N + 200$$\n\n**2. Menos 4 parcelas, cada uma R$ 232 maior:**\n$$(N - 4)(p + 232) = Np \\;\\Rightarrow\\; 232N - 4p - 928 = 0 \\;\\Rightarrow\\; p = 58N - 232$$\n\n**3. Iguale as duas expressões de $p$:**\n$$40N + 200 = 58N - 232 \\;\\Rightarrow\\; 432 = 18N \\;\\Rightarrow\\; N = 24$$\n\nAlternativa **B**. (Cada parcela vale $p = 1\\,160$; o carro custa R$ 27 840.)",
+  "dicas": {
+    "dica1": "O valor do carro é sempre (número de parcelas) × (valor da parcela). Escreva essa igualdade para as duas alterações de prazo.",
+    "dica2": "Expanda (N + 5)(p − 200) = Np e (N − 4)(p + 232) = Np. Os termos Np cancelam e sobram duas equações lineares em N e p.",
+    "dica3": "p = 40N + 200 e p = 58N − 232. Iguale e isole N."
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "A",
+      "por_que": "Erro de sinal ao expandir um dos produtos (ex.: 5p = 200N − 1 000), levando a N = 20."
+    },
+    {
+      "alternativa": "C",
+      "por_que": "Erro aritmético na divisão final (432/18 ≈ 29?) ou somou 5 a 24."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Respondeu 40, o coeficiente de N em p = 40N + 200, confundindo com a resposta."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Respondeu 58, o coeficiente da segunda expressão de p."
+    }
+  ],
+  "conceitos": [
+    "produto de binômios",
+    "sistema não linear que se reduz a linear",
+    "modelagem de parcelamento"
+  ],
+  "verificacao": {
+    "codigo_sympy": "N, p = symbols('N p')\nsol = solve([Eq((N + 5)*(p - 200), N*p), Eq((N - 4)*(p + 232), N*p)], [N, p], dict=True)\nresultado = [s[N] for s in sol if s[N] > 0][0]",
+    "resultado_esperado": "24",
+    "alternativa_esperada": "B"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "enem-2013-167",
+  "gabarito": "C",
+  "assuntos": [
+    "geometria-plana",
+    "porcentagem"
+  ],
+  "habilidade": "H12",
+  "nivel_curador": 2,
+  "resumo": "Redução percentual da área quando os dois lados do retângulo diminuem 20%.",
+  "resolucao": "**1. Área original:** $30 \\times 15 = 450$ cm².\n\n**2. Novos lados** (20% menores → 80% do original):\n$$30 \\times 0{,}8 = 24 \\qquad 15 \\times 0{,}8 = 12$$\n\n**3. Nova área:** $24 \\times 12 = 288$ cm².\n\n**4. Redução:**\n$$\\frac{450 - 288}{450} = \\frac{162}{450} = 0{,}36 = 36\\%$$\n\nAlternativa **C**.\n\nAtalho: a área é multiplicada por $0{,}8 \\times 0{,}8 = 0{,}64$, ou seja, cai $1 - 0{,}64 = 36\\%$.",
+  "dicas": {
+    "dica1": "Se cada lado vira 80% do original, a área vira 80% de 80%, e não 80% (nem 60%).",
+    "dica2": "Calcule a área antes e depois (lados × 0,8) e compare: (antiga − nova)/antiga.",
+    "dica3": "0,8 × 0,8 = 0,64. A área ficou com 64%; reduziu quanto?"
+  },
+  "erros_comuns": [
+    {
+      "alternativa": "B",
+      "por_que": "Achou que a área reduz os mesmos 20% dos lados."
+    },
+    {
+      "alternativa": "D",
+      "por_que": "Respondeu 64%, que é quanto a área FICOU, não quanto foi reduzida."
+    },
+    {
+      "alternativa": "A",
+      "por_que": "Calculou 20% de 20% = 4%, confundindo com a variação total."
+    },
+    {
+      "alternativa": "E",
+      "por_que": "Somou 20% + 20% e usou algum cálculo com 0,96 ou interpretou mal a redução."
+    }
+  ],
+  "conceitos": [
+    "área do retângulo",
+    "efeito de variação linear sobre a área",
+    "variação percentual"
+  ],
+  "verificacao": {
+    "codigo_sympy": "antiga = 30*15\nnova = (30*Rational(8,10))*(15*Rational(8,10))\nresultado = (antiga - nova)/antiga*100",
+    "resultado_esperado": "36",
+    "alternativa_esperada": "C"
+  },
+  "classificacao": "revisada",
+  "revisado_por": "Curadoria Gabarita (assistida por IA; contas conferidas com SymPy)",
+  "revisado_em": "2026-11-09"
+}
